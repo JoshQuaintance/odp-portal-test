@@ -1,0 +1,5 @@
+[Go to the subject of this reference](../../Ontology/COMM_-_Core_ontology_for_Multimedia_Annotation.md "Ontology:COMM - Core ontology for Multimedia Annotation") | [All references](../../Community/References.1.md "Community:References") | [Add another reference to Ontology:COMM - Core ontology for Multimedia Annotation](http://ontologydesignpatterns.org/wiki/Special:AddData/Reference?Reference[Subject]=Ontology:COMM - Core ontology for Multimedia Annotation&subject=Ontology:COMM - Core ontology for Multimedia Annotation)
+
+
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Community:References/COMM\_General\_information](../../Community/References/COMM_General_information.md)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Reference](../../Category/Reference.md "Category:Reference")

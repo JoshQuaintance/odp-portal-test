@@ -1,0 +1,5 @@
+[Go to the subject of this reference](../../Submissions/Normalization.md "Submissions:Normalization") | [All references](../../Community/References.1.md "Community:References") | [Add another reference to Submissions:Normalization](http://ontologydesignpatterns.org/wiki/Special:AddData/Reference?Reference[Subject]=Submissions:Normalization&subject=Submissions:Normalization)
+
+
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Community:References/Modularisation\_of\_domain\_ontologies\_implemented\_in\_description\_logics\_and\_related\_formalisms\_including\_owl\_3](../../Community/References/Modularisation_of_domain_ontologies_implemented_in_description_logics_and_related_formalisms_including_owl_3.md)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Reference](../../Category/Reference.md "Category:Reference")

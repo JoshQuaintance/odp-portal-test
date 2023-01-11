@@ -1,0 +1,131 @@
+* [Image](../Image/ArrowRight.gif.md#file)
+* [File history](../Image/ArrowRight.gif.md#filehistory)
+* [Links](../Image/ArrowRight.gif.md#filelinks)
+
+[![Image:ArrowRight.gif](../../../images/8/87/ArrowRight.gif)](../../../images/8/87/ArrowRight.gif)  
+No higher resolution available.  
+[ArrowRight.gif](../../../images/8/87/ArrowRight.gif)‎ (243 × 256 pixel, file size: 31 KB, MIME type: image/gif)
+
+## File history
+
+Click on a date/time to view the file as it appeared at that time.
+
+
+
+  
+* [Search for duplicate files](http://ontologydesignpatterns.org/wiki/Special:FileDuplicateSearch/ArrowRight.gif "Special:FileDuplicateSearch/ArrowRight.gif")
+* [Edit this file using an external application](http://ontologydesignpatterns.org/wiki/index.php?title=Image:ArrowRight.gif&action=edit&externaledit=true&mode=file "Image:ArrowRight.gif")See the [setup instructions](http://www.mediawiki.org/wiki/Manual:External_editors "http://www.mediawiki.org/wiki/Manual:External_editors") for more information.
+
+## Links
+
+
+
+The following 101 pages link to this file:
+
+
+* [Submissions:Classification](../Submissions/Classification.md "Submissions:Classification")
+* [Submissions:Situation](../Submissions/Situation.md "Submissions:Situation")
+* [Community:Images](../Community/Images.md "Community:Images")
+* [Submissions:Description](../Submissions/Description.md "Submissions:Description")
+* [Submissions:Types of entities](../Submissions/Types_of_entities.md "Submissions:Types of entities")
+* [Submissions:Objectrole](../Submissions/Objectrole.md "Submissions:Objectrole")
+* [Submissions:AgentRole](../Submissions/AgentRole.md "Submissions:AgentRole")
+* [Submissions:CollectionEntity](../Submissions/CollectionEntity.md "Submissions:CollectionEntity")
+* [Submissions:PartOf](../Submissions/PartOf.md "Submissions:PartOf")
+* [Submissions:Componency](../Submissions/Componency.md "Submissions:Componency")
+* [Submissions:Constituency](../Submissions/Constituency.md "Submissions:Constituency")
+* [Submissions:TimeIndexedPartOf](../Submissions/TimeIndexedPartOf.md "Submissions:TimeIndexedPartOf")
+* [Submissions:TimeInterval](../Submissions/TimeInterval.md "Submissions:TimeInterval")
+* [Submissions:GO Top](../Submissions/GO_Top.md "Submissions:GO Top")
+* [Submissions:Biological Entities](../Submissions/Biological_Entities.md "Submissions:Biological Entities")
+* [Submissions:Invoice](../Submissions/Invoice.md "Submissions:Invoice")
+* [Submissions:Participation](../Submissions/Participation.md "Submissions:Participation")
+* [Submissions:Co-participation](../Submissions/Co-participation.md "Submissions:Co-participation")
+* [Submissions:Nary Participation](../Submissions/Nary_Participation.md "Submissions:Nary Participation")
+* [Submissions:Role task](../Submissions/Role_task.md "Submissions:Role task")
+* [Submissions:Sequence](../Submissions/Sequence.md "Submissions:Sequence")
+* [Submissions:TaskExecution](../Submissions/TaskExecution.md "Submissions:TaskExecution")
+* [Submissions:AquaticResources](../Submissions/AquaticResources.md "Submissions:AquaticResources")
+* [Submissions:GearSpecies](../Submissions/GearSpecies.md "Submissions:GearSpecies")
+* [Submissions:GearVessel](../Submissions/GearVessel.md "Submissions:GearVessel")
+* [Submissions:GearWaterArea](../Submissions/GearWaterArea.md "Submissions:GearWaterArea")
+* [Submissions:Observation](../Submissions/Observation.md "Submissions:Observation")
+* [Submissions:RTMSmapping](../Submissions/RTMSmapping.md "Submissions:RTMSmapping")
+* [Submissions:SpeciesBathymetry](../Submissions/SpeciesBathymetry.md "Submissions:SpeciesBathymetry")
+* [Submissions:SpeciesConditions](../Submissions/SpeciesConditions.md "Submissions:SpeciesConditions")
+* [Submissions:SpeciesConservation](../Submissions/SpeciesConservation.md "Submissions:SpeciesConservation")
+* [Submissions:SpeciesEat](../Submissions/SpeciesEat.md "Submissions:SpeciesEat")
+* [Submissions:SpeciesHabitat](../Submissions/SpeciesHabitat.md "Submissions:SpeciesHabitat")
+* [Submissions:SpeciesNames](../Submissions/SpeciesNames.md "Submissions:SpeciesNames")
+* [Submissions:VesselSpecies](../Submissions/VesselSpecies.md "Submissions:VesselSpecies")
+* [Submissions:VesselWaterArea](../Submissions/VesselWaterArea.md "Submissions:VesselWaterArea")
+* [Submissions:PharmaInnova](../Submissions/PharmaInnova.md "Submissions:PharmaInnova")
+* [Submissions:Time indexed person role](../Submissions/Time_indexed_person_role.md "Submissions:Time indexed person role")
+* [Submissions:Time indexed participation](../Submissions/Time_indexed_participation.md "Submissions:Time indexed participation")
+* [Submissions:TimeIndexedClassification](../Submissions/TimeIndexedClassification.md "Submissions:TimeIndexedClassification")
+* [Submissions:Transition](../Submissions/Transition.md "Submissions:Transition")
+* [Submissions:ResourceAbundanceObservation](../Submissions/ResourceAbundanceObservation.md "Submissions:ResourceAbundanceObservation")
+* [Submissions:ResourceExploitationObservation](../Submissions/ResourceExploitationObservation.md "Submissions:ResourceExploitationObservation")
+* [Submissions:VerticalDistribution](../Submissions/VerticalDistribution.md "Submissions:VerticalDistribution")
+* [Submissions:ClimaticZone](../Submissions/ClimaticZone.md "Submissions:ClimaticZone")
+* [Submissions:Place](../Submissions/Place.md "Submissions:Place")
+* [Submissions:Collection](../Submissions/Collection.md "Submissions:Collection")
+* [Submissions:AOS AGROVOC Concept Server fundation ontology model](../Submissions/AOS_AGROVOC_Concept_Server_fundation_ontology_model.md "Submissions:AOS AGROVOC Concept Server fundation ontology model")
+* [Submissions:AquaticResourceObservation](../Submissions/AquaticResourceObservation.md "Submissions:AquaticResourceObservation")
+* [Submissions:CatchRecord](../Submissions/CatchRecord.md "Submissions:CatchRecord")
+* [Submissions:Topic](../Submissions/Topic.md "Submissions:Topic")
+* [Submissions:Tagging](../Submissions/Tagging.md "Submissions:Tagging")
+* [Submissions:IntensionExtension](../Submissions/IntensionExtension.md "Submissions:IntensionExtension")
+* [Submissions:TimeIndexedSituation](../Submissions/TimeIndexedSituation.md "Submissions:TimeIndexedSituation")
+* [Submissions:Region](../Submissions/Region.md "Submissions:Region")
+* [Submissions:Parameter](../Submissions/Parameter.md "Submissions:Parameter")
+* [Submissions:ActingFor](../Submissions/ActingFor.md "Submissions:ActingFor")
+* [Submissions:BasicPlan](../Submissions/BasicPlan.md "Submissions:BasicPlan")
+* [Submissions:BasicPlanExecution](../Submissions/BasicPlanExecution.md "Submissions:BasicPlanExecution")
+* [Submissions:Communities](../Submissions/Communities.md "Submissions:Communities")
+* [Submissions:Controlflow](../Submissions/Controlflow.md "Submissions:Controlflow")
+* [Submissions:CountingAs](../Submissions/CountingAs.md "Submissions:CountingAs")
+* [Submissions:DescriptionAndSituation](../Submissions/DescriptionAndSituation.md "Submissions:DescriptionAndSituation")
+* [Submissions:InformationObjectsAndRepresentationLanguages](../Submissions/InformationObjectsAndRepresentationLanguages.md "Submissions:InformationObjectsAndRepresentationLanguages")
+* [Submissions:LinnaeanTaxonomy](../Submissions/LinnaeanTaxonomy.md "Submissions:LinnaeanTaxonomy")
+* [Submissions:Move](../Submissions/Move.md "Submissions:Move")
+* [Submissions:Persons](../Submissions/Persons.md "Submissions:Persons")
+* [Submissions:PlanConditions](../Submissions/PlanConditions.md "Submissions:PlanConditions")
+* [Submissions:Price](../Submissions/Price.md "Submissions:Price")
+* [Submissions:Lexico Syntactic ODP corresponding to SubclassOf relation ODP](../Submissions/Lexico_Syntactic_ODP_corresponding_to_SubclassOf_relation_ODP.md "Submissions:Lexico Syntactic ODP corresponding to SubclassOf relation ODP")
+* [Submissions:Lexico Syntactic ODP corresponding to Equivalence relation between Classes ODP](../Submissions/Lexico_Syntactic_ODP_corresponding_to_Equivalence_relation_between_Classes_ODP.md "Submissions:Lexico Syntactic ODP corresponding to Equivalence relation between Classes ODP")
+* [Submissions:Lexico Syntactic ODP corresponding to Object Property ODP](../Submissions/Lexico_Syntactic_ODP_corresponding_to_Object_Property_ODP.md "Submissions:Lexico Syntactic ODP corresponding to Object Property ODP")
+* [Submissions:Lexico Syntactic ODP corresponding to Datatype Property ODP](../Submissions/Lexico_Syntactic_ODP_corresponding_to_Datatype_Property_ODP.md "Submissions:Lexico Syntactic ODP corresponding to Datatype Property ODP")
+* [Submissions:Lexico Syntactic ODP corresponding to Disjoint Classes ODP](../Submissions/Lexico_Syntactic_ODP_corresponding_to_Disjoint_Classes_ODP.md "Submissions:Lexico Syntactic ODP corresponding to Disjoint Classes ODP")
+* [Submissions:Lexico Syntactic ODP corresponding to Participation ODP](../Submissions/Lexico_Syntactic_ODP_corresponding_to_Participation_ODP.md "Submissions:Lexico Syntactic ODP corresponding to Participation ODP")
+* [Submissions:Lexico Syntactic ODPs corresponding to Co-participation ODP](../Submissions/Lexico_Syntactic_ODPs_corresponding_to_Co-participation_ODP.md "Submissions:Lexico Syntactic ODPs corresponding to Co-participation ODP")
+* [Submissions:Lexico Syntactic ODPs corresponding to Specified Values ODP](../Submissions/Lexico_Syntactic_ODPs_corresponding_to_Specified_Values_ODP.md "Submissions:Lexico Syntactic ODPs corresponding to Specified Values ODP")
+* [Submissions:Lexico Syntactic ODPs corresponding to Multiple Inheritance ODP](../Submissions/Lexico_Syntactic_ODPs_corresponding_to_Multiple_Inheritance_ODP.md "Submissions:Lexico Syntactic ODPs corresponding to Multiple Inheritance ODP")
+* [Submissions:Lexico Syntactic ODPs corresponding to LocationODP](../Submissions/Lexico_Syntactic_ODPs_corresponding_to_LocationODP.md "Submissions:Lexico Syntactic ODPs corresponding to LocationODP")
+* [Submissions:Lexico Syntactic ODPs corresponding to Object-Role ODP](../Submissions/Lexico_Syntactic_ODPs_corresponding_to_Object-Role_ODP.md "Submissions:Lexico Syntactic ODPs corresponding to Object-Role ODP")
+* [Submissions:Lexico Syntactic ODPs corresponding to Object Property and Universal Restriction ODPs](../Submissions/Lexico_Syntactic_ODPs_corresponding_to_Object_Property_and_Universal_Restriction_ODPs.md "Submissions:Lexico Syntactic ODPs corresponding to Object Property and Universal Restriction ODPs")
+* [Submissions:Lexico Syntactic ODPs corresponding to Defined Classes and SubclassOf relation ODPs](../Submissions/Lexico_Syntactic_ODPs_corresponding_to_Defined_Classes_and_SubclassOf_relation_ODPs.md "Submissions:Lexico Syntactic ODPs corresponding to Defined Classes and SubclassOf relation ODPs")
+* [Submissions:Lexico Syntactic ODPs corresponding to SubclassOf relation, Disjoint Classes, and Exhaustive Classes ODPs](../Submissions/Lexico_Syntactic_ODPs_corresponding_to_SubclassOf_relation,_Disjoint_Classes,_and_Exhaustive_Classes_ODPs.md "Submissions:Lexico Syntactic ODPs corresponding to SubclassOf relation, Disjoint Classes, and Exhaustive Classes ODPs")
+* [Submissions:Lexico Syntactic ODPs corresponding to SubclassOf "or" Simple Part-Whole relation ODPs](Submissions%253ALexico_Syntactic_ODPs_corresponding_to_SubclassOf_%2522or%2522_Simple_Part-Whole_relation_ODPs.html "Submissions:Lexico Syntactic ODPs corresponding to SubclassOf \"or\" Simple Part-Whole relation ODPs")
+* [Submissions:Lexico Syntactic ODPs corresponding to Object Property or Datatype Property or Simple Part-Whole relation ODPs](../Submissions/Lexico_Syntactic_ODPs_corresponding_to_Object_Property_or_Datatype_Property_or_Simple_Part-Whole_relation_ODPs.md "Submissions:Lexico Syntactic ODPs corresponding to Object Property or Datatype Property or Simple Part-Whole relation ODPs")
+* [Submissions:Lexico Syntactic ODPs corresponding to Simple Part-Whole relation "or" Constituency "or" Componency "or" Collection-Entity ODPs](Submissions%253ALexico_Syntactic_ODPs_corresponding_to_Simple_Part-Whole_relation_%2522or%2522_Constituency_%2522or%2522_Componency_%2522or%2522_Collection-Entity_ODPs.html "Submissions:Lexico Syntactic ODPs corresponding to Simple Part-Whole relation \"or\" Constituency \"or\" Componency \"or\" Collection-Entity ODPs")
+* [Submissions:Reaction](http://ontologydesignpatterns.org/wiki/Submissions:Reaction "Submissions:Reaction")
+* [Submissions:Action](../Submissions/Action.md "Submissions:Action")
+* [Submissions:ParticipantRole](../Submissions/ParticipantRole.md "Submissions:ParticipantRole")
+* [Submissions:CommunicationEvent](../Submissions/CommunicationEvent.md "Submissions:CommunicationEvent")
+* [Submissions:Literal Reification](../Submissions/Literal_Reification.md "Submissions:Literal Reification")
+* [Submissions:SimpleOrAggregated](../Submissions/SimpleOrAggregated.md "Submissions:SimpleOrAggregated")
+* [Submissions:List](../Submissions/List.md "Submissions:List")
+* [Submissions:Bag](../Submissions/Bag.md "Submissions:Bag")
+* [Submissions:Set](../Submissions/Set.md "Submissions:Set")
+* [Submissions:Airline.owl](../Submissions/Airline.owl.md "Submissions:Airline.owl")
+* [Submissions:Airline](../Submissions/Airline.md "Submissions:Airline")
+* [Submissions:EthnicGroup](../Submissions/EthnicGroup.md "Submissions:EthnicGroup")
+* [Submissions:PeriodicInterval](../Submissions/PeriodicInterval.md "Submissions:PeriodicInterval")
+* [Submissions:OOPMetrics](../Submissions/OOPMetrics.md "Submissions:OOPMetrics")
+
+View [more links](http://ontologydesignpatterns.org/wiki/Special:WhatLinksHere/Image:ArrowRight.gif "Special:WhatLinksHere/Image:ArrowRight.gif") to this file.
+
+
+
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:ArrowRight.gif](../Image/ArrowRight.gif.md)"

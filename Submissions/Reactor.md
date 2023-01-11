@@ -1,0 +1,8 @@
+There is currently no text in this page, you can [search for this page title](http://ontologydesignpatterns.org/wiki/Special:Search/Reactor "Special:Search/Reactor") in other pages or [edit this page](http://ontologydesignpatterns.org/wiki/index.php?title=Submissions:Reactor&action=edit "http://ontologydesignpatterns.org/wiki/index.php?title=Submissions:Reactor&action=edit").
+
+
+
+
+
+
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Reactor](../Submissions/Reactor.md)"

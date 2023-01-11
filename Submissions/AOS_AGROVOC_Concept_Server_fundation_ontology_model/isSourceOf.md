@@ -1,0 +1,23 @@
+___isSourceOf__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [AOS AGROVOC Concept Server fundation ontology model](../../Submissions/AOS_AGROVOC_Concept_Server_fundation_ontology_model.md "Submissions:AOS AGROVOC Concept Server fundation ontology model")_
+
+
+  
+
+
+
+
+[![ObjectProperty](../../images/thumb/c/c3/ObjectProperty.gif/45px-ObjectProperty.gif)](../../Image/ObjectProperty.gif.md "ObjectProperty")
+__Name__: isSourceOf 
+
+
+__Type:__ owl:ObjectProperty 
+
+
+__Description__: Y <is source of> X. A source Y from which a substance or product X can be exclusively obtained, without any additional substance or product. E.g. "cow" <is source of> "cow milk"; "plant" <is source of> "plant oil"; "olive tree" <is source of> "olive wood"; "chicken" <is source of> "chicken meat"; but NOT "hops" <is source of> "beer" (see <used\_to\_make>); 
+
+
+
+
+
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:AOS\_AGROVOC\_Concept\_Server\_fundation\_ontology\_model/isSourceOf](../../Submissions/AOS_AGROVOC_Concept_Server_fundation_ontology_model/isSourceOf.md)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")

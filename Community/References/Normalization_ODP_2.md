@@ -1,0 +1,5 @@
+[Go to the subject of this reference](../../Submissions/Normalization.md "Submissions:Normalization") | [All references](../../Community/References.1.md "Community:References") | [Add another reference to Submissions:Normalization](http://ontologydesignpatterns.org/wiki/Special:AddData/Reference?Reference[Subject]=Submissions:Normalization&subject=Submissions:Normalization)
+
+
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Community:References/Normalization\_ODP\_2](../../Community/References/Normalization_ODP_2.md)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Reference](../../Category/Reference.md "Category:Reference")

@@ -1,0 +1,15 @@
+markdown: GFM
+
+title: ODPA Portal
+tagline: 'ODPA Portal'
+description: 'A Portal for ODPA'
+baseurl: /
+
+author:
+    name: 'Joshua Quaintance'
+
+collections:
+    Catalogue:
+        path: 'Catalogue'
+        output: true
+        permalink: /catalogue/:name

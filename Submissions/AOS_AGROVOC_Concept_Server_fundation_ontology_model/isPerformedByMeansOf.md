@@ -1,0 +1,23 @@
+___isPerformedByMeansOf__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [AOS AGROVOC Concept Server fundation ontology model](../../Submissions/AOS_AGROVOC_Concept_Server_fundation_ontology_model.md "Submissions:AOS AGROVOC Concept Server fundation ontology model")_
+
+
+  
+
+
+
+
+[![ObjectProperty](../../images/thumb/c/c3/ObjectProperty.gif/45px-ObjectProperty.gif)](../../Image/ObjectProperty.gif.md "ObjectProperty")
+__Name__: isPerformedByMeansOf 
+
+
+__Type:__ owl:ObjectProperty 
+
+
+__Description__: Y <is performed by means of> X. An object or process X mainly used to perform a process Y. See also <used\_as>. E.g. "curry paste grinding" <is performed by means of> "curry paste grinding machine"; "killing" <is performed by means of> "weapon"; "fishing" <is performed by means of> "fishing pole"; "cleaning" <is performed by means of> "alcohol"; but NOT "knives" <means\_for> "felling" (because knives are not primarily used for cutting down trees); 
+
+
+
+
+
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:AOS\_AGROVOC\_Concept\_Server\_fundation\_ontology\_model/isPerformedByMeansOf](../../Submissions/AOS_AGROVOC_Concept_Server_fundation_ontology_model/isPerformedByMeansOf.md)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")

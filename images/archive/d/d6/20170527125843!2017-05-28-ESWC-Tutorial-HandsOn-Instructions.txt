@@ -1,0 +1,39 @@
+# ESWC 2017 ODP Tutorial Afternoon Hands-on Session
+
+In this session, participants will create an ontology to represent the crime and policing domain. The scenario description is as follows:
+
+”The Midsomer Police Department has multiple relational databases that contain data that support different workflows for officers and detectives. However, for investigative analysis purposes the department analysts would benefit from having these  previously separate data silos merged into one jointly queryable system. The commissioner has decided to employ Linked Data principles and Semantic Web ontologies to reach this goal. You have been tasked with developing the initial ontology supporting the first four datasets to be integrated. You have been advised to use Content Ontology Design Patterns to maximise reuse of existing known good practices (particularly important given that you are relatively new to the entire area of Ontology Engineering).”
+
+## Requirements
+
+The resulting ontology should support the answering of questions such as the ones given below (given of course that the data in question has been loaded into the A-box or triple store of the system).
+
+### Competency Questions
+
+1. Which burglaries were performed from 2016-03-01 through 2016-03-10 in the town of Ipswitch?
+2. Which persons were involved in the above burglaries in any role (as victims, suspects, or known offenders)?
+3. Which persons are known to have been responsible for any burglaries?
+4. Which of the above known burglars were observed in the town of Ipswitch during February or May of 2016?
+5. Which dates of birth have been attributed to the person who calls himself ”Johnny Burglar” and lives on ”Burglarroad 1”?
+6. Which other addresses have been attributed to the person who goes by that name?
+7. Which persons are known to have committed burglaries jointly with Johnny Burglar?
+8. Bernard Madoff is the known offender in a case of fraud. Which other people were involved in that same crime?
+9. In 2010 Johnny Burglar was on vacation in Torquay. Did any burglaries take place in Torquay during the time he stayed there?
+
+## Recommended CODPs
+
+* Place
+* ParticipantRole
+* Time Interval
+* Object Record
+
+## Tutorial Datasets
+
+See attached dataset description and example data.
+
+## Tooling
+
+* XDP Instance: http://to.be.determined
+* ODP Portal: http://to.be.determined
+* WebVOWL Instance: http://to.be.determined
+* Google Refine / OpenRefine + RDF plugin

@@ -1,0 +1,24 @@
+___hasIntervalDate__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [TimeInterval](../../Submissions/TimeInterval.md "Submissions:TimeInterval")_
+
+
+  
+
+
+
+
+[![DatatypeProperty](../../images/thumb/a/a5/DatatypeProperty.gif/45px-DatatypeProperty.gif)](../../Image/DatatypeProperty.gif.md "DatatypeProperty")
+__Name__: has interval date 
+
+
+__Type:__ owl:DatatypeProperty 
+
+
+__Description__: A datatype property that encodes values from xsd:date for a time interval; a 
+same time interval can have more than one xsd:date value: begin date, end date, date at which the interval holds, as well as dates expressed in different formats: xsd:gYear, xsd:dateTime, etc. 
+
+
+
+
+
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:TimeInterval/hasIntervalDate](../../Submissions/TimeInterval/hasIntervalDate.md)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")

@@ -1,0 +1,2 @@
+Retrieved from "[http://ontologydesignpatterns.org/wiki/User:JohnDomingue](../User/JohnDomingue.md)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ODPUser](../Category/ODPUser.md "Category:ODPUser")

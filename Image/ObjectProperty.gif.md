@@ -1,0 +1,131 @@
+* [Image](../Image/ObjectProperty.gif.md#file)
+* [File history](../Image/ObjectProperty.gif.md#filehistory)
+* [Links](../Image/ObjectProperty.gif.md#filelinks)
+
+[![Image:ObjectProperty.gif](../../../images/c/c3/ObjectProperty.gif)](../../../images/c/c3/ObjectProperty.gif)  
+No higher resolution available.  
+[ObjectProperty.gif](../../../images/c/c3/ObjectProperty.gif)‎ (64 × 64 pixel, file size: 3 KB, MIME type: image/gif)
+
+## File history
+
+Click on a date/time to view the file as it appeared at that time.
+
+
+
+  
+* [Search for duplicate files](http://ontologydesignpatterns.org/wiki/Special:FileDuplicateSearch/ObjectProperty.gif "Special:FileDuplicateSearch/ObjectProperty.gif")
+* [Edit this file using an external application](http://ontologydesignpatterns.org/wiki/index.php?title=Image:ObjectProperty.gif&action=edit&externaledit=true&mode=file "Image:ObjectProperty.gif")See the [setup instructions](http://www.mediawiki.org/wiki/Manual:External_editors "http://www.mediawiki.org/wiki/Manual:External_editors") for more information.
+
+## Links
+
+
+
+The following 101 pages link to this file:
+
+
+* [Submissions:Classification](../Submissions/Classification.md "Submissions:Classification")
+* [Submissions:Situation](../Submissions/Situation.md "Submissions:Situation")
+* [Submissions:Situation/hasSetting](../Submissions/Situation/hasSetting.md "Submissions:Situation/hasSetting")
+* [Community:Images](../Community/Images.md "Community:Images")
+* [Submissions:Classification/classifies](../Submissions/Classification/classifies.md "Submissions:Classification/classifies")
+* [Submissions:Description](../Submissions/Description.md "Submissions:Description")
+* [Submissions:Description/isDefinedIn](../Submissions/Description/isDefinedIn.md "Submissions:Description/isDefinedIn")
+* [Submissions:Description/isConceptUsedIn](../Submissions/Description/isConceptUsedIn.md "Submissions:Description/isConceptUsedIn")
+* [Submissions:Situation/isSettingFor](../Submissions/Situation/isSettingFor.md "Submissions:Situation/isSettingFor")
+* [Submissions:Description/defines](../Submissions/Description/defines.md "Submissions:Description/defines")
+* [Submissions:Description/usesConcept](../Submissions/Description/usesConcept.md "Submissions:Description/usesConcept")
+* [Submissions:Classification/isClassifiedBy](../Submissions/Classification/isClassifiedBy.md "Submissions:Classification/isClassifiedBy")
+* [Submissions:Objectrole](../Submissions/Objectrole.md "Submissions:Objectrole")
+* [Submissions:Objectrole/isRoleOf](../Submissions/Objectrole/isRoleOf.md "Submissions:Objectrole/isRoleOf")
+* [Submissions:Objectrole/hasRole](../Submissions/Objectrole/hasRole.md "Submissions:Objectrole/hasRole")
+* [Submissions:CollectionEntity](../Submissions/CollectionEntity.md "Submissions:CollectionEntity")
+* [Submissions:CollectionEntity/hasMember](../Submissions/CollectionEntity/hasMember.md "Submissions:CollectionEntity/hasMember")
+* [Submissions:CollectionEntity/isMemberOf](../Submissions/CollectionEntity/isMemberOf.md "Submissions:CollectionEntity/isMemberOf")
+* [Submissions:PartOf](../Submissions/PartOf.md "Submissions:PartOf")
+* [Submissions:PartOf/hasPart](../Submissions/PartOf/hasPart.md "Submissions:PartOf/hasPart")
+* [Submissions:PartOf/isPartOf](../Submissions/PartOf/isPartOf.md "Submissions:PartOf/isPartOf")
+* [Submissions:Componency](../Submissions/Componency.md "Submissions:Componency")
+* [Submissions:Componency/hasComponent](../Submissions/Componency/hasComponent.md "Submissions:Componency/hasComponent")
+* [Submissions:Componency/isComponentOf](../Submissions/Componency/isComponentOf.md "Submissions:Componency/isComponentOf")
+* [Submissions:Constituency](../Submissions/Constituency.md "Submissions:Constituency")
+* [Submissions:Constituency/hasConstituent](../Submissions/Constituency/hasConstituent.md "Submissions:Constituency/hasConstituent")
+* [Submissions:Constituency/isConstituentOf](../Submissions/Constituency/isConstituentOf.md "Submissions:Constituency/isConstituentOf")
+* [Submissions:TimeIndexedPartOf](../Submissions/TimeIndexedPartOf.md "Submissions:TimeIndexedPartOf")
+* [Submissions:GO Top](../Submissions/GO_Top.md "Submissions:GO Top")
+* [Submissions:GO Top/partOf](../Submissions/GO_Top/partOf.md "Submissions:GO Top/partOf")
+* [Submissions:Biological Entities](../Submissions/Biological_Entities.md "Submissions:Biological Entities")
+* [Submissions:Biological Entities/includesOrder](../Submissions/Biological_Entities/includesOrder.md "Submissions:Biological Entities/includesOrder")
+* [Submissions:Biological Entities/includesFamily](../Submissions/Biological_Entities/includesFamily.md "Submissions:Biological Entities/includesFamily")
+* [Submissions:Biological Entities/includesSpecies](../Submissions/Biological_Entities/includesSpecies.md "Submissions:Biological Entities/includesSpecies")
+* [Submissions:Invoice](../Submissions/Invoice.md "Submissions:Invoice")
+* [Submissions:Invoice/buyerTransaction](http://ontologydesignpatterns.org/wiki/Submissions:Invoice/buyerTransaction "Submissions:Invoice/buyerTransaction")
+* [Submissions:Invoice/grounding](Submissions%253AInvoice/grounding.html "Submissions:Invoice/grounding")
+* [Submissions:Invoice/lineItem](../Submissions/Invoice/lineItem.md "Submissions:Invoice/lineItem")
+* [Submissions:Invoice/issuedate](../Submissions/Invoice/issuedate.md "Submissions:Invoice/issuedate")
+* [Submissions:TimeIndexedPartOf/atTime](../Submissions/TimeIndexedPartOf/atTime.md "Submissions:TimeIndexedPartOf/atTime")
+* [Submissions:TimeIndexedPartOf/isTimeOf](../Submissions/TimeIndexedPartOf/isTimeOf.md "Submissions:TimeIndexedPartOf/isTimeOf")
+* [Submissions:TimeIndexedPartOf/includesWholeObject](../Submissions/TimeIndexedPartOf/includesWholeObject.md "Submissions:TimeIndexedPartOf/includesWholeObject")
+* [Submissions:TimeIndexedPartOf/isWholeObjectOf](../Submissions/TimeIndexedPartOf/isWholeObjectOf.md "Submissions:TimeIndexedPartOf/isWholeObjectOf")
+* [Submissions:TimeIndexedPartOf/includesPartObject](../Submissions/TimeIndexedPartOf/includesPartObject.md "Submissions:TimeIndexedPartOf/includesPartObject")
+* [Submissions:TimeIndexedPartOf/isPartObjectOf](../Submissions/TimeIndexedPartOf/isPartObjectOf.md "Submissions:TimeIndexedPartOf/isPartObjectOf")
+* [Submissions:Participation](../Submissions/Participation.md "Submissions:Participation")
+* [Submissions:Participation/hasParticipant](../Submissions/Participation/hasParticipant.md "Submissions:Participation/hasParticipant")
+* [Submissions:Participation/isParticipantIn](../Submissions/Participation/isParticipantIn.md "Submissions:Participation/isParticipantIn")
+* [Submissions:Co-participation](../Submissions/Co-participation.md "Submissions:Co-participation")
+* [Submissions:Co-participation/coparticipatesWith](../Submissions/Co-participation/coparticipatesWith.md "Submissions:Co-participation/coparticipatesWith")
+* [Submissions:Nary Participation](../Submissions/Nary_Participation.md "Submissions:Nary Participation")
+* [Submissions:Nary Participation/participationIncludes](../Submissions/Nary_Participation/participationIncludes.md "Submissions:Nary Participation/participationIncludes")
+* [Submissions:Nary Participation/isIncludedInParticipation](../Submissions/Nary_Participation/isIncludedInParticipation.md "Submissions:Nary Participation/isIncludedInParticipation")
+* [Submissions:Role task](../Submissions/Role_task.md "Submissions:Role task")
+* [Submissions:Role task/hasTask](../Submissions/Role_task/hasTask.md "Submissions:Role task/hasTask")
+* [Submissions:Role task/isTaskOf](../Submissions/Role_task/isTaskOf.md "Submissions:Role task/isTaskOf")
+* [Submissions:Sequence](../Submissions/Sequence.md "Submissions:Sequence")
+* [Submissions:Sequence/directlyFollows](../Submissions/Sequence/directlyFollows.md "Submissions:Sequence/directlyFollows")
+* [Submissions:Sequence/follows](../Submissions/Sequence/follows.md "Submissions:Sequence/follows")
+* [Submissions:Sequence/directlyPrecedes](../Submissions/Sequence/directlyPrecedes.md "Submissions:Sequence/directlyPrecedes")
+* [Submissions:Sequence/precedes](../Submissions/Sequence/precedes.md "Submissions:Sequence/precedes")
+* [Submissions:TaskExecution](../Submissions/TaskExecution.md "Submissions:TaskExecution")
+* [Submissions:TaskExecution/executesTask](../Submissions/TaskExecution/executesTask.md "Submissions:TaskExecution/executesTask")
+* [Submissions:TaskExecution/isExecutedIn](../Submissions/TaskExecution/isExecutedIn.md "Submissions:TaskExecution/isExecutedIn")
+* [Submissions:AquaticResources](../Submissions/AquaticResources.md "Submissions:AquaticResources")
+* [Submissions:AquaticResources/hasSpecies](../Submissions/AquaticResources/hasSpecies.md "Submissions:AquaticResources/hasSpecies")
+* [Submissions:AquaticResources/hasWaterArea](../Submissions/AquaticResources/hasWaterArea.md "Submissions:AquaticResources/hasWaterArea")
+* [Submissions:AquaticResources/isSpeciesPresentIn](../Submissions/AquaticResources/isSpeciesPresentIn.md "Submissions:AquaticResources/isSpeciesPresentIn")
+* [Submissions:AquaticResources/isWaterAreaOf](../Submissions/AquaticResources/isWaterAreaOf.md "Submissions:AquaticResources/isWaterAreaOf")
+* [Submissions:AquaticResourceObservation/hasClimaticZone](../Submissions/AquaticResourceObservation/hasClimaticZone.md "Submissions:AquaticResourceObservation/hasClimaticZone")
+* [Submissions:AquaticResourceObservation/hasVerticalDistribution](../Submissions/AquaticResourceObservation/hasVerticalDistribution.md "Submissions:AquaticResourceObservation/hasVerticalDistribution")
+* [Submissions:AquaticResourceObservation/hasExploitationState](../Submissions/AquaticResourceObservation/hasExploitationState.md "Submissions:AquaticResourceObservation/hasExploitationState")
+* [Submissions:AquaticResourceObservation/hasResource](../Submissions/AquaticResourceObservation/hasResource.md "Submissions:AquaticResourceObservation/hasResource")
+* [Submissions:AquaticResourceObservation/hasAbundanceLevel](../Submissions/AquaticResourceObservation/hasAbundanceLevel.md "Submissions:AquaticResourceObservation/hasAbundanceLevel")
+* [Submissions:AquaticResourceObservation/hasExploitationRate](../Submissions/AquaticResourceObservation/hasExploitationRate.md "Submissions:AquaticResourceObservation/hasExploitationRate")
+* [Submissions:AquaticResourceObservation/hasJurisdictionalDistribution](../Submissions/AquaticResourceObservation/hasJurisdictionalDistribution.md "Submissions:AquaticResourceObservation/hasJurisdictionalDistribution")
+* [Submissions:AquaticResourceObservation/isAbundanceLevelOf](../Submissions/AquaticResourceObservation/isAbundanceLevelOf.md "Submissions:AquaticResourceObservation/isAbundanceLevelOf")
+* [Submissions:AquaticResourceObservation/isClimaticZoneOf](../Submissions/AquaticResourceObservation/isClimaticZoneOf.md "Submissions:AquaticResourceObservation/isClimaticZoneOf")
+* [Submissions:AquaticResourceObservation/isJurisdictionalDistributionOf](../Submissions/AquaticResourceObservation/isJurisdictionalDistributionOf.md "Submissions:AquaticResourceObservation/isJurisdictionalDistributionOf")
+* [Submissions:AquaticResourceObservation/isExploitationRateOf](../Submissions/AquaticResourceObservation/isExploitationRateOf.md "Submissions:AquaticResourceObservation/isExploitationRateOf")
+* [Submissions:AquaticResourceObservation/isVerticalDistributionOf](../Submissions/AquaticResourceObservation/isVerticalDistributionOf.md "Submissions:AquaticResourceObservation/isVerticalDistributionOf")
+* [Submissions:AquaticResourceObservation/isResourceOf](../Submissions/AquaticResourceObservation/isResourceOf.md "Submissions:AquaticResourceObservation/isResourceOf")
+* [Submissions:AquaticResourceObservation/isExploitationStateOf](../Submissions/AquaticResourceObservation/isExploitationStateOf.md "Submissions:AquaticResourceObservation/isExploitationStateOf")
+* [Submissions:GearSpecies](../Submissions/GearSpecies.md "Submissions:GearSpecies")
+* [Submissions:GearSpecies/incidentallyCatchesSpecies](../Submissions/GearSpecies/incidentallyCatchesSpecies.md "Submissions:GearSpecies/incidentallyCatchesSpecies")
+* [Submissions:GearSpecies/targetsSpecies](../Submissions/GearSpecies/targetsSpecies.md "Submissions:GearSpecies/targetsSpecies")
+* [Submissions:GearSpecies/isCaughtByGearType](../Submissions/GearSpecies/isCaughtByGearType.md "Submissions:GearSpecies/isCaughtByGearType")
+* [Submissions:GearSpecies/isCaughtBy](../Submissions/GearSpecies/isCaughtBy.md "Submissions:GearSpecies/isCaughtBy")
+* [Submissions:GearSpecies/catchesSpecies](../Submissions/GearSpecies/catchesSpecies.md "Submissions:GearSpecies/catchesSpecies")
+* [Submissions:GearVessel](../Submissions/GearVessel.md "Submissions:GearVessel")
+* [Submissions:GearVessel/usedByVesselType](../Submissions/GearVessel/usedByVesselType.md "Submissions:GearVessel/usedByVesselType")
+* [Submissions:GearVessel/usesGearType](../Submissions/GearVessel/usesGearType.md "Submissions:GearVessel/usesGearType")
+* [Submissions:GearWaterArea](../Submissions/GearWaterArea.md "Submissions:GearWaterArea")
+* [Submissions:GearWaterArea/isUsedInWaterArea](../Submissions/GearWaterArea/isUsedInWaterArea.md "Submissions:GearWaterArea/isUsedInWaterArea")
+* [Submissions:GearWaterArea/isSuitableForGearType](../Submissions/GearWaterArea/isSuitableForGearType.md "Submissions:GearWaterArea/isSuitableForGearType")
+* [Submissions:Observation](../Submissions/Observation.md "Submissions:Observation")
+* [Submissions:Observation/hasParameter](../Submissions/Observation/hasParameter.md "Submissions:Observation/hasParameter")
+* [Submissions:Observation/isParameterOf](../Submissions/Observation/isParameterOf.md "Submissions:Observation/isParameterOf")
+* [Submissions:Observation/hasObservation](../Submissions/Observation/hasObservation.md "Submissions:Observation/hasObservation")
+* [Submissions:Observation/isObservationOf](../Submissions/Observation/isObservationOf.md "Submissions:Observation/isObservationOf")
+
+View [more links](http://ontologydesignpatterns.org/wiki/Special:WhatLinksHere/Image:ObjectProperty.gif "Special:WhatLinksHere/Image:ObjectProperty.gif") to this file.
+
+
+
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:ObjectProperty.gif](../Image/ObjectProperty.gif.md)"

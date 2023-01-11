@@ -1,0 +1,5 @@
+[Go to the subject of this reference](../../Community/View_Inheritance.md "Community:View Inheritance") | [All references](../../Community/References.1.md "Community:References") | [Add another reference to Community:View Inheritance](http://ontologydesignpatterns.org/wiki/Special:AddData/Reference?Reference[Subject]=Community:View Inheritance&subject=Community:View Inheritance)
+
+
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Community:References/A\_Practical\_Guide\_To\_Building\_OWL\_Ontologies\_Using\_Protege\_4\_and\_CO-ODE\_Tools\_Edition\_1\_2](../../Community/References/A_Practical_Guide_To_Building_OWL_Ontologies_Using_Protege_4_and_CO-ODE_Tools_Edition_1_2.md)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Reference](../../Category/Reference.md "Category:Reference")

@@ -1,0 +1,5 @@
+[Go to the subject of this reference](../../Submissions/Lexico_Syntactic_ODP_corresponding_to_Disjoint_Classes_ODP.md "Submissions:Lexico Syntactic ODP corresponding to Disjoint Classes ODP") | [All references](../../Community/References.1.md "Community:References") | [Add another reference to Submissions:Lexico Syntactic ODP corresponding to Disjoint Classes ODP](http://ontologydesignpatterns.org/wiki/Special:AddData/Reference?Reference[Subject]=Submissions:Lexico Syntactic ODP corresponding to Disjoint Classes ODP&subject=Submissions:Lexico Syntactic ODP corresponding to Disjoint Classes ODP)
+
+
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Community:References/NeOn\_Deliverable\_D5\_1\_1\_2](../../Community/References/NeOn_Deliverable_D5_1_1_2.md)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Reference](../../Category/Reference.md "Category:Reference")
