@@ -8,6 +8,8 @@ baseurl: /
 author:
     name: 'Joshua Quaintance'
 
+include: ['_Catalogue']
+
 collections:
     Catalogue:
         output: true
