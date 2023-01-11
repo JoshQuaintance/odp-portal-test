@@ -11,4 +11,4 @@ author:
 collections:
     catalogue:
         output: true
-        permalink: /:collection/:name
+        permalink: /catalogue/:name
