@@ -11,6 +11,6 @@ author:
 include: ['_Catalogue']
 
 collections:
-    Catalogue:
+    catalogue:
         output: true
-        permalink: /catalogue/:name
+        permalink: /:collection/:name
