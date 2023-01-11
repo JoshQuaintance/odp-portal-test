@@ -1,1 +1,0 @@
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Community:Scenarios](../Community/Scenarios.md)"

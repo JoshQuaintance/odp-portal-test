@@ -1,5 +1,0 @@
-[Go to the subject of this reference](../../Community/Faceted_Classification_Scheme.md "Community:Faceted Classification Scheme") | [All references](../../Community/References.1.md "Community:References") | [Add another reference to Community:Faceted Classification Scheme](http://ontologydesignpatterns.org/wiki/Special:AddData/Reference?Reference[Subject]=Community:Faceted Classification Scheme&subject=Community:Faceted Classification Scheme)
-
-
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Community:References/A\_Practical\_Guide\_To\_Building\_OWL\_Ontologies\_Using\_Protege\_4\_and\_CO-ODE\_Tools\_Edition\_1\_2\_2](../../Community/References/A_Practical_Guide_To_Building_OWL_Ontologies_Using_Protege_4_and_CO-ODE_Tools_Edition_1_2_2.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Reference](../../Category/Reference.md "Category:Reference")

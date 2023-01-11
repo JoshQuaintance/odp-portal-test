@@ -1,8 +1,0 @@
-@CHARSET "UTF-8";
-	
-	div.generated-sidebar,div#p-search,div#p-tb {
-		display: none !important;
-	}
-	div#p-WOP{
-		display: block !important;
-	}

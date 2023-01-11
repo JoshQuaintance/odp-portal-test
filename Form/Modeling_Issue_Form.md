@@ -1,9 +1,0 @@
-You must [log in](http://ontologydesignpatterns.org/wiki/index.php?title=Special:UserLogin&returnto=Form:Modeling_Issue_Form "Special:UserLogin") to view other pages.
-
-
-
-Return to [Main Page](../Main_Page.md "Main Page").
-
-
-
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Form:Modeling\_Issue\_Form](../Form/Modeling_Issue_Form.md)"

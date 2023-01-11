@@ -1,1 +1,0 @@
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Odp\_talk:Tasks/Make\_Legacy\_Reference\_fields\_read-only](../../Odp/Tasks/Make_Legacy_Reference_fields_read-only.md)"
