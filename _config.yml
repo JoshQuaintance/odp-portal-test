@@ -9,5 +9,5 @@ author:
     name: 'Joshua Quaintance'
 
 collections:
-    catalogue:
+    Catalogue:
         output: true
