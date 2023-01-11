@@ -11,4 +11,3 @@ author:
 collections:
     catalogue:
         output: true
-        permalink: /catalogue/:name
