@@ -1,4 +1,4 @@
-[![](../images/thumb/6/6f/Definition.gif/70px-Definition.gif)](../Image/Definition.gif.md "Definition.gif")
+[![](../images/thumb/6/6f/Definition.gif/70px-Definition.gif)](../Image/Definition.gif "Definition.gif")
 __Annotation Ontology Design Patterns (Annotation OPs)__
 
 Annotation ODPs provide annotation properties or annotation property schemas that are meant to improve the understandability of ontologies and their elements.
@@ -29,5 +29,5 @@ _This category currently contains no pages or media._
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Category:AnnotationOP](../Category/AnnotationOP.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [PresentationOP](../Category/PresentationOP.md "Category:PresentationOP")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Category:AnnotationOP](../Category/AnnotationOP)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [PresentationOP](../Category/PresentationOP "Category:PresentationOP")

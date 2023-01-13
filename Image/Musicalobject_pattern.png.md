@@ -1,6 +1,6 @@
-* [Image](../Image/Musicalobject_pattern.png.md#file)
-* [File history](../Image/Musicalobject_pattern.png.md#filehistory)
-* [Links](../Image/Musicalobject_pattern.png.md#filelinks)
+* [Image](../Image/Musicalobject_pattern.png#file)
+* [File history](../Image/Musicalobject_pattern.png#filehistory)
+* [Links](../Image/Musicalobject_pattern.png#filelinks)
 
 [![Image:Musicalobject pattern.png](../images/thumb/b/ba/Musicalobject_pattern.png/800px-Musicalobject_pattern.png)](../images/b/ba/Musicalobject_pattern.png)  
 Size of this preview: 800 × 600 pixels  
@@ -23,13 +23,13 @@ Click on a date/time to view the file as it appeared at that time.
 The following file is a duplicate of this file:
 
 
-* [Image:Musicalobject.png](../Image/Musicalobject.png.md "Image:Musicalobject.png")
+* [Image:Musicalobject.png](../Image/Musicalobject.png "Image:Musicalobject.png")
 
 
 The following page links to this file:
 
 
-* [Submissions:Musicalobject](../Submissions/Musicalobject.md "Submissions:Musicalobject")
+* [Submissions:Musicalobject](../Submissions/Musicalobject "Submissions:Musicalobject")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Musicalobject\_pattern.png](../Image/Musicalobject_pattern.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Musicalobject\_pattern.png](../Image/Musicalobject_pattern.png)"

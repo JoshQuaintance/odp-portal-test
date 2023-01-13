@@ -1,6 +1,6 @@
-* [Image](../Image/Wfcspesoexamplecheck.png.md#file)
-* [File history](../Image/Wfcspesoexamplecheck.png.md#filehistory)
-* [Links](../Image/Wfcspesoexamplecheck.png.md#filelinks)
+* [Image](../Image/Wfcspesoexamplecheck.png#file)
+* [File history](../Image/Wfcspesoexamplecheck.png#filehistory)
+* [Links](../Image/Wfcspesoexamplecheck.png#filelinks)
 
 [![Image:Wfcspesoexamplecheck.png](../images/thumb/b/b3/Wfcspesoexamplecheck.png/150px-Wfcspesoexamplecheck.png)](../images/b/b3/Wfcspesoexamplecheck.png)  
 Size of this preview: 150 × 596 pixels  
@@ -23,7 +23,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Submissions:Classification scheme - path enumeration model - to Taxonomy](../Submissions/Classification_scheme_-_path_enumeration_model_-_to_Taxonomy.md "Submissions:Classification scheme - path enumeration model - to Taxonomy")
+* [Submissions:Classification scheme - path enumeration model - to Taxonomy](../Submissions/Classification_scheme_-_path_enumeration_model_-_to_Taxonomy "Submissions:Classification scheme - path enumeration model - to Taxonomy")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Wfcspesoexamplecheck.png](../Image/Wfcspesoexamplecheck.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Wfcspesoexamplecheck.png](../Image/Wfcspesoexamplecheck.png)"

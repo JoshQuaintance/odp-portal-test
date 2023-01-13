@@ -9,7 +9,7 @@ __Solutions__:
 
 
 * Solutions should be of the form: _CQ no. x, y can be solved by specializing the Content ODP named z._ Plus a motivation why this is the case and some ideas on how to use/specialize the ODP.
-* _After the exercise is done_ you can check  [this page](../../Training/Advanced_Ontology_Engineering_at_FOI_-_2011/Ontology_Design_Patterns/Solution_Ideas.md "Training:Advanced Ontology Engineering at FOI - 2011/Ontology Design Patterns/Solution Ideas") for solution suggestions.
+* _After the exercise is done_ you can check  [this page](../../Training/Advanced_Ontology_Engineering_at_FOI_-_2011/Ontology_Design_Patterns/Solution_Ideas "Training:Advanced Ontology Engineering at FOI - 2011/Ontology Design Patterns/Solution Ideas") for solution suggestions.
 
 
 ###  Task
@@ -66,5 +66,5 @@ Contextual statement:
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Training:Advanced\_Ontology\_Engineering\_at\_FOI\_-\_2011/Ontology\_Design\_Patterns](../../Ontology_Design_Patterns_._org_(ODP).md).md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Exercise](../../Category/Exercise.md "Category:Exercise")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Training:Advanced\_Ontology\_Engineering\_at\_FOI\_-\_2011/Ontology\_Design\_Patterns](../../Ontology_Design_Patterns_._org_(ODP)).md).md)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Exercise](../../Category/Exercise "Category:Exercise")

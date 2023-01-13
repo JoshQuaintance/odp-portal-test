@@ -1,5 +1,5 @@
-[![](../images/thumb/a/a6/ODPUser.png/48px-ODPUser.png)](../Image/ODPUser.png.md "ODPUser.png")
-__[RinkeHoekstra](../User/RinkeHoekstra.md "User:RinkeHoekstra") about [Partition](../Submissions/Partition.md "Submissions:Partition") (Revision ID: [5901](../Submissions/Partition@oldid=5901.md "http://ontologydesignpatterns.org/wiki/Submissions:Partition?oldid=5901"))__
+[![](../images/thumb/a/a6/ODPUser.png/48px-ODPUser.png)](../Image/ODPUser.png "ODPUser.png")
+__[RinkeHoekstra](../User/RinkeHoekstra "User:RinkeHoekstra") about [Partition](../Submissions/Partition "Submissions:Partition") (Revision ID: [5901](../Submissions/Partition@oldid=5901 "http://ontologydesignpatterns.org/wiki/Submissions:Partition?oldid=5901"))__
 Overall suggestion (score): 0 - needs major revision
 
 
@@ -22,8 +22,8 @@ _Posted:_ 2009-10-25 _Last modified:_ 2009/10/25
 
 
 
-[All reviews](../Reviews/Main.md "Reviews:Main") | [Add a comment at the bottom of this page](index.php@title=Odp%253AAdd_comment&target=../Community/RinkeHoekstra_about_Partition.md#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Community:RinkeHoekstra_about_Partition#New_comment")
+[All reviews](../Reviews/Main "Reviews:Main") | [Add a comment at the bottom of this page](index.php@title=Odp%253AAdd_comment&target=../Community/RinkeHoekstra_about_Partition#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Community:RinkeHoekstra_about_Partition#New_comment")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Community:RinkeHoekstra\_about\_Partition](../Community/RinkeHoekstra_about_Partition.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OpenReview](../Category/OpenReview.md "Category:OpenReview")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Community:RinkeHoekstra\_about\_Partition](../Community/RinkeHoekstra_about_Partition)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OpenReview](../Category/OpenReview "Category:OpenReview")

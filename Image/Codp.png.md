@@ -1,6 +1,6 @@
-* [Image](../Image/Codp.png.md#file)
-* [File history](../Image/Codp.png.md#filehistory)
-* [Links](../Image/Codp.png.md#filelinks)
+* [Image](../Image/Codp.png#file)
+* [File history](../Image/Codp.png#filehistory)
+* [Links](../Image/Codp.png#filelinks)
 
 [![Image:Codp.png](../images/thumb/2/2a/Codp.png/800px-Codp.png)](../images/2/2a/Codp.png)  
 Size of this preview: 800 × 269 pixels  
@@ -28,4 +28,4 @@ There are no pages that link to this file.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Codp.png](../Image/Codp.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Codp.png](../Image/Codp.png)"

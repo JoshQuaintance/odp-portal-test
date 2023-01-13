@@ -1,4 +1,4 @@
-___Body__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [PharmaInnova](../../Submissions/PharmaInnova.md "Submissions:PharmaInnova")_
+___Body__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [PharmaInnova](../../Submissions/PharmaInnova "Submissions:PharmaInnova")_
 
 
   
@@ -6,7 +6,7 @@ ___Body__ has [Category:OntologyElement](../../Category/OntologyElement.md "Cate
 
 
 
-[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif.md "Class")
+[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif "Class")
 __Name__: Body 
 
 
@@ -19,5 +19,5 @@ __Description__: The body contains all relevant invoice information like the amo
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:PharmaInnova/Body](../../Submissions/EventProcessing/EventObjectBody.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:PharmaInnova/Body](../../Submissions/EventProcessing/EventObjectBody)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

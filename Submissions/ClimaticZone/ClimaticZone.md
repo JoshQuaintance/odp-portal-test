@@ -1,4 +1,4 @@
-___ClimaticZone__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [ClimaticZone](../../Submissions/ClimaticZone.md "Submissions:ClimaticZone")_
+___ClimaticZone__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [ClimaticZone](../../Submissions/ClimaticZone "Submissions:ClimaticZone")_
 
 
   
@@ -6,7 +6,7 @@ ___ClimaticZone__ has [Category:OntologyElement](../../Category/OntologyElement.
 
 
 
-[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif.md "Class")
+[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif "Class")
 __Name__: ClimaticZone 
 
 
@@ -19,5 +19,5 @@ __Description__:
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:ClimaticZone/ClimaticZone](../../Submissions/ClimaticZone.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:ClimaticZone/ClimaticZone](../../Submissions/ClimaticZone)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

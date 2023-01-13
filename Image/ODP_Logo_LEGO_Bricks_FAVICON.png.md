@@ -1,6 +1,6 @@
-* [Image](../Image/ODP_Logo_LEGO_Bricks_FAVICON.png.md#file)
-* [File history](../Image/ODP_Logo_LEGO_Bricks_FAVICON.png.md#filehistory)
-* [Links](../Image/ODP_Logo_LEGO_Bricks_FAVICON.png.md#filelinks)
+* [Image](../Image/ODP_Logo_LEGO_Bricks_FAVICON.png#file)
+* [File history](../Image/ODP_Logo_LEGO_Bricks_FAVICON.png#filehistory)
+* [Links](../Image/ODP_Logo_LEGO_Bricks_FAVICON.png#filelinks)
 
 [![Image:ODP Logo LEGO Bricks FAVICON.png](../images/4/4e/ODP_Logo_LEGO_Bricks_FAVICON.png)](../images/4/4e/ODP_Logo_LEGO_Bricks_FAVICON.png)  
 No higher resolution available.  
@@ -28,4 +28,4 @@ There are no pages that link to this file.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:ODP\_Logo\_LEGO\_Bricks\_FAVICON.png](../Image/ODP_Logo_LEGO_Bricks_FAVICON.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:ODP\_Logo\_LEGO\_Bricks\_FAVICON.png](../Image/ODP_Logo_LEGO_Bricks_FAVICON.png)"

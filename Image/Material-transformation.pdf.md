@@ -1,8 +1,8 @@
-* [Image](../Image/Material-transformation.pdf.md#file)
-* [File history](../Image/Material-transformation.pdf.md#filehistory)
-* [Links](../Image/Material-transformation.pdf.md#filelinks)
+* [Image](../Image/Material-transformation.pdf#file)
+* [File history](../Image/Material-transformation.pdf#filehistory)
+* [Links](../Image/Material-transformation.pdf#filelinks)
 
-[![](../skins/common/images/icons/fileicon-pdf.png)](../Image/Material-transformation.pdf.md "Material-transformation.pdf")
+[![](../skins/common/images/icons/fileicon-pdf.png)](../Image/Material-transformation.pdf "Material-transformation.pdf")
 [Material-transformation.pdf](../images/5/53/Material-transformation.pdf "Material-transformation.pdf")‎  (file size: 103 KB, MIME type: application/pdf)
 
 
@@ -32,4 +32,4 @@ There are no pages that link to this file.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Material-transformation.pdf](../Image/Material-transformation.pdf.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Material-transformation.pdf](../Image/Material-transformation.pdf)"

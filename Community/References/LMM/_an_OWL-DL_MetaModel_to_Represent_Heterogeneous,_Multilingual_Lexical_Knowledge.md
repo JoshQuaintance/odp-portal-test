@@ -1,4 +1,4 @@
-[Go to the subject of this reference](../../../Ontology/LMM.md "Ontology:LMM") | [All references](../../../Community/References.1.md "Community:References") | [Add another reference to Ontology:LMM](http://ontologydesignpatterns.org/wiki/Special:AddData/Reference?Reference[Subject]=Ontology:LMM&subject=Ontology:LMM)
+[Go to the subject of this reference](../../../Ontology/LMM "Ontology:LMM") | [All references](../../../Community/References.1 "Community:References") | [Add another reference to Ontology:LMM](http://ontologydesignpatterns.org/wiki/Special:AddData/Reference?Reference[Subject]=Ontology:LMM&subject=Ontology:LMM)
 ##  Abstract
 
 
@@ -12,11 +12,11 @@ an open domain perspective.
 ##  Authors
 
 
-Davide Picca, Alfio Massimiliano Gliozzo, [Aldo Gangemi](../../../User/AldoGangemi.md "User:AldoGangemi")
+Davide Picca, Alfio Massimiliano Gliozzo, [Aldo Gangemi](../../../User/AldoGangemi "User:AldoGangemi")
 
 
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Community:References/LMM:\_an\_OWL-DL\_MetaModel\_to\_Represent\_Heterogeneous%2C\_Multilingual\_Lexical\_Knowledge](../../../Community/References/LMM/_an_OWL-DL_MetaModel_to_Represent_Heterogeneous,_Multilingual_Lexical_Knowledge.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Reference](../../../Category/Reference.md "Category:Reference")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Community:References/LMM:\_an\_OWL-DL\_MetaModel\_to\_Represent\_Heterogeneous%2C\_Multilingual\_Lexical\_Knowledge](../../../Community/References/LMM/_an_OWL-DL_MetaModel_to_Represent_Heterogeneous,_Multilingual_Lexical_Knowledge)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Reference](../../../Category/Reference "Category:Reference")

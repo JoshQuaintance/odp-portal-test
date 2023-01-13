@@ -1,4 +1,4 @@
-___referenceFrame__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [TransportPattern](../../Submissions/TransportPattern.md "Submissions:TransportPattern")_
+___referenceFrame__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [TransportPattern](../../Submissions/TransportPattern "Submissions:TransportPattern")_
 
 
   
@@ -6,7 +6,7 @@ ___referenceFrame__ has [Category:OntologyElement](../../Category/OntologyElemen
 
 
 
-[![ObjectProperty](../../images/thumb/c/c3/ObjectProperty.gif/45px-ObjectProperty.gif)](../../Image/ObjectProperty.gif.md "ObjectProperty")
+[![ObjectProperty](../../images/thumb/c/c3/ObjectProperty.gif/45px-ObjectProperty.gif)](../../Image/ObjectProperty.gif "ObjectProperty")
 __Name__: referenceFrame 
 
 
@@ -19,5 +19,5 @@ __Description__: This property is significant in that it serves to restrict and 
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:TransportPattern/referenceFrame](../../Submissions/TransportPattern/referenceFrame.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:TransportPattern/referenceFrame](../../Submissions/TransportPattern/referenceFrame)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

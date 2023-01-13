@@ -5,4 +5,4 @@ You will probably want to read the [help pages](http://ontologydesignpatterns.or
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/User\_talk:LucaAbeti](../User_talk/LucaAbeti.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/User\_talk:LucaAbeti](../User_talk/LucaAbeti)"

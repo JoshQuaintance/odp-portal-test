@@ -1,6 +1,6 @@
-* [Image](../Image/Normalisation_abstract.png.md#file)
-* [File history](../Image/Normalisation_abstract.png.md#filehistory)
-* [Links](../Image/Normalisation_abstract.png.md#filelinks)
+* [Image](../Image/Normalisation_abstract.png#file)
+* [File history](../Image/Normalisation_abstract.png#filehistory)
+* [Links](../Image/Normalisation_abstract.png#filelinks)
 
 [![Image:Normalisation abstract.png](../images/thumb/5/55/Normalisation_abstract.png/800px-Normalisation_abstract.png)](../images/5/55/Normalisation_abstract.png)  
 Size of this preview: 800 × 318 pixels  
@@ -26,7 +26,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Submissions:Normalization](../Submissions/Normalization.md "Submissions:Normalization")
+* [Submissions:Normalization](../Submissions/Normalization "Submissions:Normalization")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Normalisation\_abstract.png](../Image/Normalisation_abstract.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Normalisation\_abstract.png](../Image/Normalisation_abstract.png)"

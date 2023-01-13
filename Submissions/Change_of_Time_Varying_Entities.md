@@ -1,4 +1,4 @@
-[![](../images/thumb/b/b5/Certified.png/70px-Certified.png)](../Image/Certified.png.md "Certified.png") __This pattern has been certified.__
+[![](../images/thumb/b/b5/Certified.png/70px-Certified.png)](../Image/Certified.png "Certified.png") __This pattern has been certified.__
 Related submission, with evaluation history, can be found __here__
 
 
@@ -13,7 +13,7 @@ __Diagram__
 
 
 
-[![Image:Before-after.png](../images/9/97/Before-after.png)](../Image/Before-after.png.md "Image:Before-after.png")
+[![Image:Before-after.png](../images/9/97/Before-after.png)](../Image/Before-after.png "Image:Before-after.png")
 
 
 
@@ -105,5 +105,5 @@ There is no Modeling issue related to this proposal.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Change\_of\_Time\_Varying\_Entities](../Submissions/Change_of_Time_Varying_Entities.md)"
- [Categories](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [LogicalOP](../Category/LogicalOP.md "Category:LogicalOP") | [ProposedLogicalOP](../Category/ProposedLogicalOP.md "Category:ProposedLogicalOP")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Change\_of\_Time\_Varying\_Entities](../Submissions/Change_of_Time_Varying_Entities)"
+ [Categories](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [LogicalOP](../Category/LogicalOP "Category:LogicalOP") | [ProposedLogicalOP](../Category/ProposedLogicalOP "Category:ProposedLogicalOP")

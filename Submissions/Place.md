@@ -1,4 +1,4 @@
-[![](../images/thumb/b/b5/Certified.png/70px-Certified.png)](../Image/Certified.png.md "Certified.png") __This pattern has been certified.__
+[![](../images/thumb/b/b5/Certified.png/70px-Certified.png)](../Image/Certified.png "Certified.png") __This pattern has been certified.__
 Related submission, with evaluation history, can be found __here__
 
 
@@ -13,7 +13,7 @@ __Diagram__
 
 
 
-[![Image:Place.png](../images/f/f7/Place.png)](../Image/Place.png.md "Image:Place.png")
+[![Image:Place.png](../images/f/f7/Place.png)](../Image/Place.png "Image:Place.png")
 
 
 
@@ -33,14 +33,14 @@ _The __Place__ Content OP locally defines the following ontology elements:_
 
 
 
-[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __hasLocation__ (owl:ObjectProperty) A generic, relative localization, holding between any entities. E.g. 'the cat is on the mat', 'Omar is in Samarcanda', 'the wound is close to the femural artery'.
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif "ObjectProperty") __hasLocation__ (owl:ObjectProperty) A generic, relative localization, holding between any entities. E.g. 'the cat is on the mat', 'Omar is in Samarcanda', 'the wound is close to the femural artery'.
 For 'absolute' locations, see SpaceRegion 
 
 
 
- [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[hasLocation](../Submissions/Place/hasLocation.md "Submissions:Place/hasLocation") page_
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif "ArrowRight.gif") _[hasLocation](../Submissions/Place/hasLocation "Submissions:Place/hasLocation") page_
 
-[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __isLocationOf__ (owl:ObjectProperty) A generic, relative localization, holding between any entities. E.g. 'Rome is the seat of the Pope', 'the liver is the location of the tumor'.
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif "ObjectProperty") __isLocationOf__ (owl:ObjectProperty) A generic, relative localization, holding between any entities. E.g. 'Rome is the seat of the Pope', 'the liver is the location of the tumor'.
 
 
 As a very general notion of localization, it is assumed as transitive.
@@ -50,9 +50,9 @@ For 'absolute' locations, see SpaceRegion
 
 
 
- [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[isLocationOf](../Submissions/Place/isLocationOf.md "Submissions:Place/isLocationOf") page_
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif "ArrowRight.gif") _[isLocationOf](../Submissions/Place/isLocationOf "Submissions:Place/isLocationOf") page_
 
-[![Class](../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __Place__ (owl:Class) A location, in a very generic sense: a political geographic entity (Roma, Lesotho), a location determined by the presence of other entities ('the area close to Roma'), pivot events or signs ("the area where the helicopter fell"), complements of other entities ('the area under the table'), as well as physical objects conceptualized as locations as their main identity criterion ('the territory of Italy').
+[![Class](../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif "Class") __Place__ (owl:Class) A location, in a very generic sense: a political geographic entity (Roma, Lesotho), a location determined by the presence of other entities ('the area close to Roma'), pivot events or signs ("the area where the helicopter fell"), complements of other entities ('the area under the table'), as well as physical objects conceptualized as locations as their main identity criterion ('the territory of Italy').
 
 
 In this generic sense, a Place is an 'approximate', relative location. For an 'absolute', abstract location, cf. the pattern spaceregion.owl.
@@ -62,7 +62,7 @@ Formally, a Place is defined by the fact of having something located in it; a Pl
 
 
 
- [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[Place](../Submissions/Place/Place.md "Submissions:Place/Place") page_
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif "ArrowRight.gif") _[Place](../Submissions/Place/Place "Submissions:Place/Place") page_
 #  Additional information
 
 
@@ -120,7 +120,7 @@ There is no Modeling issue related to this proposal.
 #  References
 
 
-[Add a reference](index.php@title=Odp%253AAdd_reference&subject=../Submissions/Place.md "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_reference&subject=Submissions%3APlace")
+[Add a reference](index.php@title=Odp%253AAdd_reference&subject=../Submissions/Place "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_reference&subject=Submissions%3APlace")
 
 
   
@@ -130,5 +130,5 @@ There is no Modeling issue related to this proposal.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Place](../Submissions/Place.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ProposedContentOP](../Category/ProposedContentOP.md "Category:ProposedContentOP")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Place](../Submissions/Place)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ProposedContentOP](../Category/ProposedContentOP "Category:ProposedContentOP")

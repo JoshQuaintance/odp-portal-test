@@ -1,4 +1,4 @@
-___Collection__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [Collection](../../Submissions/Collection.md "Submissions:Collection")_
+___Collection__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [Collection](../../Submissions/Collection "Submissions:Collection")_
 
 
   
@@ -6,7 +6,7 @@ ___Collection__ has [Category:OntologyElement](../../Category/OntologyElement.md
 
 
 
-[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif.md "Class")
+[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif "Class")
 __Name__: Collection 
 
 
@@ -19,5 +19,5 @@ __Description__: Any container for entities that share one or more common proper
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Collection/Collection](../../Community/Parts_and_Collections.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Collection/Collection](../../Community/Parts_and_Collections)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

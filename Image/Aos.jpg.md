@@ -1,6 +1,6 @@
-* [Image](../Image/Aos.jpg.md#file)
-* [File history](../Image/Aos.jpg.md#filehistory)
-* [Links](../Image/Aos.jpg.md#filelinks)
+* [Image](../Image/Aos.jpg#file)
+* [File history](../Image/Aos.jpg#filehistory)
+* [Links](../Image/Aos.jpg#filelinks)
 
 [![Image:Aos.jpg](../images/b/bf/Aos.jpg)](../images/b/bf/Aos.jpg)  
 No higher resolution available.  
@@ -26,7 +26,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Community:Images](../Community/Images.md "Community:Images")
+* [Community:Images](../Community/Images "Community:Images")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Aos.jpg](../Image/Aos.jpg.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Aos.jpg](../Image/Aos.jpg)"

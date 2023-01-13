@@ -1,8 +1,8 @@
-* [Image](../Image/LoSe_ODP_Vis.pdf.md#file)
-* [File history](../Image/LoSe_ODP_Vis.pdf.md#filehistory)
-* [Links](../Image/LoSe_ODP_Vis.pdf.md#filelinks)
+* [Image](../Image/LoSe_ODP_Vis.pdf#file)
+* [File history](../Image/LoSe_ODP_Vis.pdf#filehistory)
+* [Links](../Image/LoSe_ODP_Vis.pdf#filelinks)
 
-[![](../skins/common/images/icons/fileicon-pdf.png)](../Image/LoSe_ODP_Vis.pdf.md "LoSe ODP Vis.pdf")
+[![](../skins/common/images/icons/fileicon-pdf.png)](../Image/LoSe_ODP_Vis.pdf "LoSe ODP Vis.pdf")
 [LoSe\_ODP\_Vis.pdf](../images/6/6e/LoSe_ODP_Vis.pdf "LoSe ODP Vis.pdf")‎  (file size: 51 KB, MIME type: application/pdf)
 
 
@@ -32,4 +32,4 @@ There are no pages that link to this file.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:LoSe\_ODP\_Vis.pdf](../Image/LoSe_ODP_Vis.pdf.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:LoSe\_ODP\_Vis.pdf](../Image/LoSe_ODP_Vis.pdf)"

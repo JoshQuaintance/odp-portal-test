@@ -79,5 +79,5 @@ __Solutions__:
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Training:Legal\_Ontology\_Design/LegalPersonExercise](../../Training/Legal_Ontology_Design/LegalPersonExercise.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Exercise](../../Category/Exercise.md "Category:Exercise")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Training:Legal\_Ontology\_Design/LegalPersonExercise](../../Training/Legal_Ontology_Design/LegalPersonExercise)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Exercise](../../Category/Exercise "Category:Exercise")

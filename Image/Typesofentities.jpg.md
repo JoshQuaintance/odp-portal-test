@@ -1,6 +1,6 @@
-* [Image](../Image/Typesofentities.jpg.md#file)
-* [File history](../Image/Typesofentities.jpg.md#filehistory)
-* [Links](../Image/Typesofentities.jpg.md#filelinks)
+* [Image](../Image/Typesofentities.jpg#file)
+* [File history](../Image/Typesofentities.jpg#filehistory)
+* [Links](../Image/Typesofentities.jpg#filelinks)
 
 [![Image:Typesofentities.jpg](../images/9/9c/Typesofentities.jpg)](../images/9/9c/Typesofentities.jpg)  
 No higher resolution available.  
@@ -23,8 +23,8 @@ Click on a date/time to view the file as it appeared at that time.
 The following 2 pages link to this file:
 
 
-* [Community:Images](../Community/Images.md "Community:Images")
-* [Submissions:Types of entities](../Submissions/Types_of_entities.md "Submissions:Types of entities")
+* [Community:Images](../Community/Images "Community:Images")
+* [Submissions:Types of entities](../Submissions/Types_of_entities "Submissions:Types of entities")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Typesofentities.jpg](../Image/Typesofentities.jpg.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Typesofentities.jpg](../Image/Typesofentities.jpg)"

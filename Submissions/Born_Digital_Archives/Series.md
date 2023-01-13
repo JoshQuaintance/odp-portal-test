@@ -1,4 +1,4 @@
-___Series__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [Born Digital Archives](../../Submissions/Born_Digital_Archives.md "Submissions:Born Digital Archives")_
+___Series__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [Born Digital Archives](../../Submissions/Born_Digital_Archives "Submissions:Born Digital Archives")_
 
 
   
@@ -6,7 +6,7 @@ ___Series__ has [Category:OntologyElement](../../Category/OntologyElement.md "Ca
 
 
 
-[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif.md "Class")
+[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif "Class")
 __Name__: Series 
 
 
@@ -19,5 +19,5 @@ __Description__: Documents arranged in accordance with a filing system or mainta
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Born\_Digital\_Archives/Series](../../Submissions/RecurrentEventSeries.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Born\_Digital\_Archives/Series](../../Submissions/RecurrentEventSeries)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

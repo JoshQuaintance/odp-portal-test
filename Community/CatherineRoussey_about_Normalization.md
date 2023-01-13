@@ -1,5 +1,5 @@
-[![](../images/thumb/a/a6/ODPUser.png/48px-ODPUser.png)](../Image/ODPUser.png.md "ODPUser.png")
-__[CatherineRoussey](../User/CatherineRoussey.md "User:CatherineRoussey") about [Normalization](../Submissions/Normalization.md "Submissions:Normalization") (Revision ID: [10071](../Submissions/Normalization@oldid=10071.md "http://ontologydesignpatterns.org/wiki/Submissions:Normalization?oldid=10071"))__
+[![](../images/thumb/a/a6/ODPUser.png/48px-ODPUser.png)](../Image/ODPUser.png "ODPUser.png")
+__[CatherineRoussey](../User/CatherineRoussey "User:CatherineRoussey") about [Normalization](../Submissions/Normalization "Submissions:Normalization") (Revision ID: [10071](../Submissions/Normalization@oldid=10071 "http://ontologydesignpatterns.org/wiki/Submissions:Normalization?oldid=10071"))__
 Overall suggestion (score): 1 - needs minor revision
 
 
@@ -27,8 +27,8 @@ _Posted:_ 2010-09-10 _Last modified:_ 2010/9/10
 
 
 
-[All reviews](../Reviews/Main.md "Reviews:Main") | [Add a comment at the bottom of this page](index.php@title=Odp%253AAdd_comment&target=../Community/CatherineRoussey_about_Normalization.md#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Community:CatherineRoussey_about_Normalization#New_comment")
+[All reviews](../Reviews/Main "Reviews:Main") | [Add a comment at the bottom of this page](index.php@title=Odp%253AAdd_comment&target=../Community/CatherineRoussey_about_Normalization#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Community:CatherineRoussey_about_Normalization#New_comment")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Community:CatherineRoussey\_about\_Normalization](../Community/CatherineRoussey_about_Normalization.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OpenReview](../Category/OpenReview.md "Category:OpenReview")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Community:CatherineRoussey\_about\_Normalization](../Community/CatherineRoussey_about_Normalization)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OpenReview](../Category/OpenReview "Category:OpenReview")

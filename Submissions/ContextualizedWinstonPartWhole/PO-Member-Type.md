@@ -1,4 +1,4 @@
-___PO-Member-Type__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [ContextualizedWinstonPartWhole](../../Submissions/ContextualizedWinstonPartWhole.md "Submissions:ContextualizedWinstonPartWhole")_
+___PO-Member-Type__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [ContextualizedWinstonPartWhole](../../Submissions/ContextualizedWinstonPartWhole "Submissions:ContextualizedWinstonPartWhole")_
 
 
   
@@ -6,7 +6,7 @@ ___PO-Member-Type__ has [Category:OntologyElement](../../Category/OntologyElemen
 
 
 
-[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif.md "Class")
+[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif "Class")
 __Name__: PO-Member-Type 
 
 
@@ -19,5 +19,5 @@ __Description__:
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:ContextualizedWinstonPartWhole/PO-Member-Type](../../Submissions/ContextualizedWinstonPartWhole/PO-Member-Type.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:ContextualizedWinstonPartWhole/PO-Member-Type](../../Submissions/ContextualizedWinstonPartWhole/PO-Member-Type)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

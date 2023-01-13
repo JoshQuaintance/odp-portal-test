@@ -1,4 +1,4 @@
-Return to [Catalogue of Exemplary Ontologies](../Ontology/Main.md "Ontology:Main")
+Return to [Catalogue of Exemplary Ontologies](../Ontology/Main "Ontology:Main")
 
 
 
@@ -56,10 +56,10 @@ To enable voting, rating and reviewing of a reusable association statements in a
 
 
 
-* A blog post about the Association Ontology with examples and graphics. [Weblog post](http://smiy.org/2010/07/26/the-association-ontology/ "http://smiy.org/2010/07/26/the-association-ontology/") | [reference page](../Community/References/Association_Ontology_announcement.md "Community:References/Association Ontology announcement")
+* A blog post about the Association Ontology with examples and graphics. [Weblog post](http://smiy.org/2010/07/26/the-association-ontology/ "http://smiy.org/2010/07/26/the-association-ontology/") | [reference page](../Community/References/Association_Ontology_announcement "Community:References/Association Ontology announcement")
 
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Ontology:Association\_Ontology](../Ontology/Association_Ontology.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Ontology](../Category/Ontology.md "Category:Ontology")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Ontology:Association\_Ontology](../Ontology/Association_Ontology)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Ontology](../Category/Ontology "Category:Ontology")

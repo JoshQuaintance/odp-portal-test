@@ -1,6 +1,6 @@
-* [Image](../Image/Diagram.png.md#file)
-* [File history](../Image/Diagram.png.md#filehistory)
-* [Links](../Image/Diagram.png.md#filelinks)
+* [Image](../Image/Diagram.png#file)
+* [File history](../Image/Diagram.png#filehistory)
+* [Links](../Image/Diagram.png#filelinks)
 
 [![Image:Diagram.png](../images/thumb/e/ee/Diagram.png/800px-Diagram.png)](../images/e/ee/Diagram.png)  
 Size of this preview: 800 × 314 pixels  
@@ -23,7 +23,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following file is a duplicate of this file:
 
 
-* [Image:OOPMetrics.png](../Image/OOPMetrics.png.md "Image:OOPMetrics.png")
+* [Image:OOPMetrics.png](../Image/OOPMetrics.png "Image:OOPMetrics.png")
 
 
 There are no pages that link to this file.
@@ -31,4 +31,4 @@ There are no pages that link to this file.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Diagram.png](../Image/Diagram.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Diagram.png](../Image/Diagram.png)"

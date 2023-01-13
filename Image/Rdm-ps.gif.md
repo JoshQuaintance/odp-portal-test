@@ -1,6 +1,6 @@
-* [Image](../Image/Rdm-ps.gif.md#file)
-* [File history](../Image/Rdm-ps.gif.md#filehistory)
-* [Links](../Image/Rdm-ps.gif.md#filelinks)
+* [Image](../Image/Rdm-ps.gif#file)
+* [File history](../Image/Rdm-ps.gif#filehistory)
+* [Links](../Image/Rdm-ps.gif#filelinks)
 
 [![Image:Rdm-ps.gif](../images/1/1a/Rdm-ps.gif)](../images/1/1a/Rdm-ps.gif)  
 No higher resolution available.  
@@ -23,7 +23,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [User:RichMorin](../User/RichMorin.md "User:RichMorin")
+* [User:RichMorin](../User/RichMorin "User:RichMorin")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Rdm-ps.gif](../Image/Rdm-ps.gif.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Rdm-ps.gif](../Image/Rdm-ps.gif)"

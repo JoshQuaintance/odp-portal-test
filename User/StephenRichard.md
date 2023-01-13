@@ -1,4 +1,4 @@
-[![Image:ODPUser.png](../images/a/a6/ODPUser.png)](../Image/ODPUser.png.md "Image:ODPUser.png")
+[![Image:ODPUser.png](../images/a/a6/ODPUser.png)](../Image/ODPUser.png "Image:ODPUser.png")
 
 
 
@@ -19,7 +19,7 @@ __Domains of interest:__
 
 
 
-* [geology](../Community/Geology.md "Community:Geology")
+* [geology](../Community/Geology "Community:Geology")
 * [geophysics](http://ontologydesignpatterns.org/wiki/Special:AddData/Domain Form/Community:Geophysics "Community:Geophysics (not yet written)")
 * [geochemistry](http://ontologydesignpatterns.org/wiki/Special:AddData/Domain Form/Community:Geochemistry "Community:Geochemistry (not yet written)")
 * [hydrogeology](http://ontologydesignpatterns.org/wiki/Special:AddData/Domain Form/Community:Hydrogeology "Community:Hydrogeology (not yet written)")
@@ -37,5 +37,5 @@ __How did I know about ODP:__ surfing the web
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/User:StephenRichard](../User/StephenRichard.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ODPUser](../Category/ODPUser.md "Category:ODPUser")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/User:StephenRichard](../User/StephenRichard)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ODPUser](../Category/ODPUser "Category:ODPUser")

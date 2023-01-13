@@ -14,4 +14,4 @@ The following 200 pages are in this category, out of 1,480 total.
 
 
 (previous 200) ([next 200](http://ontologydesignpatterns.org/wiki/index.php?title=Category:OntologyElement&from=Submissions%3AAction%2Fis+direct+consequence+of "Category:OntologyElement"))
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Category:OntologyElement](../Category/OntologyElement.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Category:OntologyElement](../Category/OntologyElement)"

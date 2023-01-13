@@ -1,6 +1,6 @@
-* [Image](../Image/DescriptionDiagram.jpg.md#file)
-* [File history](../Image/DescriptionDiagram.jpg.md#filehistory)
-* [Links](../Image/DescriptionDiagram.jpg.md#filelinks)
+* [Image](../Image/DescriptionDiagram.jpg#file)
+* [File history](../Image/DescriptionDiagram.jpg#filehistory)
+* [Links](../Image/DescriptionDiagram.jpg#filelinks)
 
 [![Image:DescriptionDiagram.jpg](../images/7/7b/DescriptionDiagram.jpg)](../images/7/7b/DescriptionDiagram.jpg)  
 No higher resolution available.  
@@ -23,7 +23,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Community:Images](../Community/Images.md "Community:Images")
+* [Community:Images](../Community/Images "Community:Images")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:DescriptionDiagram.jpg](../Image/DescriptionDiagram.jpg.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:DescriptionDiagram.jpg](../Image/DescriptionDiagram.jpg)"

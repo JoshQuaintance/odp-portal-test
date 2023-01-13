@@ -1,4 +1,4 @@
-A complete task list can be found [here](../Odp/Tasks.md "Odp:Tasks").
+A complete task list can be found [here](../Odp/Tasks "Odp:Tasks").
 
 
 [Create new task](http://ontologydesignpatterns.org/wiki/Special:AddData/Task_Form?Task Template[SubmittedBy]=93.34.113.67). This is only for users in _EditorialBoard_ group.
@@ -7,4 +7,4 @@ A complete task list can be found [here](../Odp/Tasks.md "Odp:Tasks").
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Odp:Development](../Odp/Development.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Odp:Development](../Odp/Development)"

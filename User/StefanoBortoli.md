@@ -1,4 +1,4 @@
-[![Image:ODPUser.png](../images/a/a6/ODPUser.png)](../Image/ODPUser.png.md "Image:ODPUser.png")
+[![Image:ODPUser.png](../images/a/a6/ODPUser.png)](../Image/ODPUser.png "Image:ODPUser.png")
 
 
 
@@ -19,7 +19,7 @@ __Domains of interest:__
 
 
 
-* [Identity](../Community/Identity.md "Community:Identity")
+* [Identity](../Community/Identity "Community:Identity")
 * [Reference and Identification](http://ontologydesignpatterns.org/wiki/Special:AddData/Domain Form/Community:Reference_and_Identification "Community:Reference and Identification (not yet written)")
 
 
@@ -35,5 +35,5 @@ __How did I know about ODP:__ colleagues
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/User:StefanoBortoli](../User/StefanoBortoli.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ODPUser](../Category/ODPUser.md "Category:ODPUser")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/User:StefanoBortoli](../User/StefanoBortoli)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ODPUser](../Category/ODPUser "Category:ODPUser")

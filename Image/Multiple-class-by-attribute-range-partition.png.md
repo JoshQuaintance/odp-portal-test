@@ -1,6 +1,6 @@
-* [Image](../Image/Multiple-class-by-attribute-range-partition.png.md#file)
-* [File history](../Image/Multiple-class-by-attribute-range-partition.png.md#filehistory)
-* [Links](../Image/Multiple-class-by-attribute-range-partition.png.md#filelinks)
+* [Image](../Image/Multiple-class-by-attribute-range-partition.png#file)
+* [File history](../Image/Multiple-class-by-attribute-range-partition.png#filehistory)
+* [Links](../Image/Multiple-class-by-attribute-range-partition.png#filelinks)
 
 [![Image:Multiple-class-by-attribute-range-partition.png](../images/thumb/9/9e/Multiple-class-by-attribute-range-partition.png/744px-Multiple-class-by-attribute-range-partition.png)](../images/9/9e/Multiple-class-by-attribute-range-partition.png)  
 Size of this preview: 744 × 600 pixels  
@@ -25,4 +25,4 @@ There are no pages that link to this file.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Multiple-class-by-attribute-range-partition.png](../Image/Multiple-class-by-attribute-range-partition.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Multiple-class-by-attribute-range-partition.png](../Image/Multiple-class-by-attribute-range-partition.png)"

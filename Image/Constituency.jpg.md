@@ -1,6 +1,6 @@
-* [Image](../Image/Constituency.jpg.md#file)
-* [File history](../Image/Constituency.jpg.md#filehistory)
-* [Links](../Image/Constituency.jpg.md#filelinks)
+* [Image](../Image/Constituency.jpg#file)
+* [File history](../Image/Constituency.jpg#filehistory)
+* [Links](../Image/Constituency.jpg#filelinks)
 
 [![Image:Constituency.jpg](../images/2/24/Constituency.jpg)](../images/2/24/Constituency.jpg)  
 No higher resolution available.  
@@ -23,8 +23,8 @@ Click on a date/time to view the file as it appeared at that time.
 The following 2 pages link to this file:
 
 
-* [Community:Images](../Community/Images.md "Community:Images")
-* [Submissions:Constituency](../Submissions/Constituency.md "Submissions:Constituency")
+* [Community:Images](../Community/Images "Community:Images")
+* [Submissions:Constituency](../Submissions/Constituency "Submissions:Constituency")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Constituency.jpg](../Image/Constituency.jpg.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Constituency.jpg](../Image/Constituency.jpg)"

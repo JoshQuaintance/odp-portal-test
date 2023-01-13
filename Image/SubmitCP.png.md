@@ -1,6 +1,6 @@
-* [Image](../Image/SubmitCP.png.md#file)
-* [File history](../Image/SubmitCP.png.md#filehistory)
-* [Links](../Image/SubmitCP.png.md#filelinks)
+* [Image](../Image/SubmitCP.png#file)
+* [File history](../Image/SubmitCP.png#filehistory)
+* [Links](../Image/SubmitCP.png#filelinks)
 
 [![Image:SubmitCP.png](../images/5/5d/SubmitCP.png)](../images/5/5d/SubmitCP.png)  
 No higher resolution available.  
@@ -23,7 +23,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Community:Images](../Community/Images.md "Community:Images")
+* [Community:Images](../Community/Images "Community:Images")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:SubmitCP.png](../Image/SubmitCP.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:SubmitCP.png](../Image/SubmitCP.png)"

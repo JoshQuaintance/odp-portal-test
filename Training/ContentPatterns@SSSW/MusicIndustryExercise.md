@@ -102,5 +102,5 @@ __Solutions__:
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Training:ContentPatterns%40SSSW/MusicIndustryExercise](../../Training/ContentPatterns@SSSW/MusicIndustryExercise.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Exercise](../../Category/Exercise.md "Category:Exercise")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Training:ContentPatterns%40SSSW/MusicIndustryExercise](../../Training/ContentPatterns@SSSW/MusicIndustryExercise)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Exercise](../../Category/Exercise "Category:Exercise")

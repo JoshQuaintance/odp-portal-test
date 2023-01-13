@@ -1,2 +1,2 @@
-Retrieved from "[http://ontologydesignpatterns.org/wiki/User:JohnBateman](../User/JohnBateman.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ODPUser](../Category/ODPUser.md "Category:ODPUser")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/User:JohnBateman](../User/JohnBateman)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ODPUser](../Category/ODPUser "Category:ODPUser")

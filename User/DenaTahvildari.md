@@ -1,4 +1,4 @@
-[![Image:ODPUser.png](../images/a/a6/ODPUser.png)](../Image/ODPUser.png.md "Image:ODPUser.png")
+[![Image:ODPUser.png](../images/a/a6/ODPUser.png)](../Image/ODPUser.png "Image:ODPUser.png")
 
 
 
@@ -24,7 +24,7 @@ __Domains of interest:__
 
 
 
-* [Chemistry](../Community/Chemistry.md "Community:Chemistry")
+* [Chemistry](../Community/Chemistry "Community:Chemistry")
 * [Food Informatics](http://ontologydesignpatterns.org/wiki/Special:AddData/Domain Form/Community:Food_Informatics "Community:Food Informatics (not yet written)")
 * [laboratory informatics](http://ontologydesignpatterns.org/wiki/Special:AddData/Domain Form/Community:Laboratory_informatics "Community:Laboratory informatics (not yet written)")
 
@@ -41,5 +41,5 @@ __How did I know about ODP:__ surfing the web
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/User:DenaTahvildari](../User/DenaTahvildari.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ODPUser](../Category/ODPUser.md "Category:ODPUser")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/User:DenaTahvildari](../User/DenaTahvildari)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ODPUser](../Category/ODPUser "Category:ODPUser")

@@ -1,4 +1,4 @@
-___isMeasuredTimePeriodOf__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [RecurrentSituationSeries](../../Submissions/RecurrentSituationSeries.md "Submissions:RecurrentSituationSeries")_
+___isMeasuredTimePeriodOf__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [RecurrentSituationSeries](../../Submissions/RecurrentSituationSeries "Submissions:RecurrentSituationSeries")_
 
 
   
@@ -6,7 +6,7 @@ ___isMeasuredTimePeriodOf__ has [Category:OntologyElement](../../Category/Ontolo
 
 
 
-[![ObjectProperty](../../images/thumb/c/c3/ObjectProperty.gif/45px-ObjectProperty.gif)](../../Image/ObjectProperty.gif.md "ObjectProperty")
+[![ObjectProperty](../../images/thumb/c/c3/ObjectProperty.gif/45px-ObjectProperty.gif)](../../Image/ObjectProperty.gif "ObjectProperty")
 __Name__: isMeasuredTimePeriodOf 
 
 
@@ -19,5 +19,5 @@ __Description__: This property relates a measured time period to a recurrent sit
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:RecurrentSituationSeries/isMeasuredTimePeriodOf](../../Submissions/RecurrentSituationSeries/isMeasuredTimePeriodOf.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:RecurrentSituationSeries/isMeasuredTimePeriodOf](../../Submissions/RecurrentSituationSeries/isMeasuredTimePeriodOf)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

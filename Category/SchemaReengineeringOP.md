@@ -1,4 +1,4 @@
-[![](../images/thumb/6/6f/Definition.gif/70px-Definition.gif)](../Image/Definition.gif.md "Definition.gif")
+[![](../images/thumb/6/6f/Definition.gif/70px-Definition.gif)](../Image/Definition.gif "Definition.gif")
 __Schema Re-engineering Ontology Design Patterns (Schema Re-engineering OPs)__
 
 Schema reengineering patterns are rules for transforming from a model in one formalism to another.
@@ -36,5 +36,5 @@ _This category currently contains no pages or media._
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Category:SchemaReengineeringOP](../Category/SchemaReengineeringOP.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ReengineeringOP](../Category/ReengineeringOP.md "Category:ReengineeringOP")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Category:SchemaReengineeringOP](../Category/SchemaReengineeringOP)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ReengineeringOP](../Category/ReengineeringOP "Category:ReengineeringOP")

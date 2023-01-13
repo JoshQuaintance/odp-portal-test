@@ -1,4 +1,4 @@
-Return to [Catalogue of Exemplary Ontologies](../Ontology/Main.md "Ontology:Main")
+Return to [Catalogue of Exemplary Ontologies](../Ontology/Main "Ontology:Main")
 
 
 
@@ -35,14 +35,14 @@ This collection of OWL ontologies makes possible the classification of compounds
 * Paper: "Describing chemical functional groups in OWL-DL for the classification of chemical compounds."
 
 
-by Natalia Villanueva-Rosales1, Michel Dumontier [Documentation](http://dumontierlab.com/pdf/2007_OWLED_CFG.pdf "http://dumontierlab.com/pdf/2007_OWLED_CFG.pdf") | [reference page](../Community/References/OWLED_2007_Paper.md "Community:References/OWLED 2007 Paper")
+by Natalia Villanueva-Rosales1, Michel Dumontier [Documentation](http://dumontierlab.com/pdf/2007_OWLED_CFG.pdf "http://dumontierlab.com/pdf/2007_OWLED_CFG.pdf") | [reference page](../Community/References/OWLED_2007_Paper "Community:References/OWLED 2007 Paper")
 
 
 
-* Related ontologies in personalized medicine [Ontologies](http://dumontierlab.com/index.php?page=ontologies "http://dumontierlab.com/index.php?page=ontologies") | [reference page](../Community/References/Related_ontologies.md "Community:References/Related ontologies")
+* Related ontologies in personalized medicine [Ontologies](http://dumontierlab.com/index.php?page=ontologies "http://dumontierlab.com/index.php?page=ontologies") | [reference page](../Community/References/Related_ontologies "Community:References/Related ontologies")
 
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Ontology:Chemical\_Compound\_and\_Chemical\_Functional\_Group\_Ontology](../Ontology/Chemical_Compound_and_Chemical_Functional_Group_Ontology.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Ontology](../Category/Ontology.md "Category:Ontology")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Ontology:Chemical\_Compound\_and\_Chemical\_Functional\_Group\_Ontology](../Ontology/Chemical_Compound_and_Chemical_Functional_Group_Ontology)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Ontology](../Category/Ontology "Category:Ontology")

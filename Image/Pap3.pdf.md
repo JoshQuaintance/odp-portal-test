@@ -1,8 +1,8 @@
-* [Image](../Image/Pap3.pdf.md#file)
-* [File history](../Image/Pap3.pdf.md#filehistory)
-* [Links](../Image/Pap3.pdf.md#filelinks)
+* [Image](../Image/Pap3.pdf#file)
+* [File history](../Image/Pap3.pdf#filehistory)
+* [Links](../Image/Pap3.pdf#filelinks)
 
-[![](../skins/common/images/icons/fileicon-pdf.png)](../Image/Pap3.pdf.md "Pap3.pdf")
+[![](../skins/common/images/icons/fileicon-pdf.png)](../Image/Pap3.pdf "Pap3.pdf")
 [Pap3.pdf](../images/0/0f/Pap3.pdf "Pap3.pdf")‎  (file size: 183 KB, MIME type: application/pdf)
 
 
@@ -26,7 +26,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [WOP:2010](../WOP/2010.md "WOP:2010")
+* [WOP:2010](../WOP/2010 "WOP:2010")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Pap3.pdf](../Image/Pap3.pdf.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Pap3.pdf](../Image/Pap3.pdf)"

@@ -1,6 +1,6 @@
-* [Image](../Image/Region.jpg.md#file)
-* [File history](../Image/Region.jpg.md#filehistory)
-* [Links](../Image/Region.jpg.md#filelinks)
+* [Image](../Image/Region.jpg#file)
+* [File history](../Image/Region.jpg#filehistory)
+* [Links](../Image/Region.jpg#filelinks)
 
 [![Image:Region.jpg](../images/7/73/Region.jpg)](../images/7/73/Region.jpg)  
 No higher resolution available.  
@@ -23,8 +23,8 @@ Click on a date/time to view the file as it appeared at that time.
 The following 2 pages link to this file:
 
 
-* [Community:Images](../Community/Images.md "Community:Images")
-* [Submissions:Region](../Submissions/Region.md "Submissions:Region")
+* [Community:Images](../Community/Images "Community:Images")
+* [Submissions:Region](../Submissions/Region "Submissions:Region")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Region.jpg](../Image/Region.jpg.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Region.jpg](../Image/Region.jpg)"

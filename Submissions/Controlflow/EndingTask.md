@@ -1,4 +1,4 @@
-___EndingTask__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [Controlflow](../../Submissions/Controlflow.md "Submissions:Controlflow")_
+___EndingTask__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [Controlflow](../../Submissions/Controlflow "Submissions:Controlflow")_
 
 
   
@@ -6,7 +6,7 @@ ___EndingTask__ has [Category:OntologyElement](../../Category/OntologyElement.md
 
 
 
-[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif.md "Class")
+[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif "Class")
 __Name__: EndingTask 
 
 
@@ -19,5 +19,5 @@ __Description__: An ending task is a control task that has no successor tasks de
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Controlflow/EndingTask](../../Submissions/Controlflow/EndingTask.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Controlflow/EndingTask](../../Submissions/Controlflow/EndingTask)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

@@ -1,7 +1,7 @@
-* [Image](../Image/ConceptGroupPattern.jpg.md#file)
-* [File history](../Image/ConceptGroupPattern.jpg.md#filehistory)
-* [Links](../Image/ConceptGroupPattern.jpg.md#filelinks)
-* [Metadata](../Image/ConceptGroupPattern.jpg.md#metadata)
+* [Image](../Image/ConceptGroupPattern.jpg#file)
+* [File history](../Image/ConceptGroupPattern.jpg#filehistory)
+* [Links](../Image/ConceptGroupPattern.jpg#filelinks)
+* [Metadata](../Image/ConceptGroupPattern.jpg#metadata)
 
 [![Image:ConceptGroupPattern.jpg](../images/e/e8/ConceptGroupPattern.jpg)](../images/e/e8/ConceptGroupPattern.jpg)  
 No higher resolution available.  
@@ -27,7 +27,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Submissions:ConceptGroup](../Submissions/ConceptGroup.md "Submissions:ConceptGroup")
+* [Submissions:ConceptGroup](../Submissions/ConceptGroup "Submissions:ConceptGroup")
 
 ## Metadata
 
@@ -38,4 +38,4 @@ If the file has been modified from its original state, some details may not full
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:ConceptGroupPattern.jpg](../Image/ConceptGroupPattern.jpg.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:ConceptGroupPattern.jpg](../Image/ConceptGroupPattern.jpg)"

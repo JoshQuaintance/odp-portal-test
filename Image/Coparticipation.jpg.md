@@ -1,6 +1,6 @@
-* [Image](../Image/Coparticipation.jpg.md#file)
-* [File history](../Image/Coparticipation.jpg.md#filehistory)
-* [Links](../Image/Coparticipation.jpg.md#filelinks)
+* [Image](../Image/Coparticipation.jpg#file)
+* [File history](../Image/Coparticipation.jpg#filehistory)
+* [Links](../Image/Coparticipation.jpg#filelinks)
 
 [![Image:Coparticipation.jpg](../images/e/e3/Coparticipation.jpg)](../images/e/e3/Coparticipation.jpg)  
 No higher resolution available.  
@@ -23,8 +23,8 @@ Click on a date/time to view the file as it appeared at that time.
 The following 2 pages link to this file:
 
 
-* [Community:Images](../Community/Images.md "Community:Images")
-* [Submissions:Co-participation](../Submissions/Co-participation.md "Submissions:Co-participation")
+* [Community:Images](../Community/Images "Community:Images")
+* [Submissions:Co-participation](../Submissions/Co-participation "Submissions:Co-participation")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Coparticipation.jpg](../Image/Coparticipation.jpg.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Coparticipation.jpg](../Image/Coparticipation.jpg)"

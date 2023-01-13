@@ -13,7 +13,7 @@ A profile can be used to store the description of the characteristics of person.
 Profiling is the process that refers to construction of a profile via the extraction from a set of data.
 
 
-User profiles can be found on operating systems, computer programs, [recommender systems](../Community/Recommendation.md "http://ontologydesignpatterns.org/wiki/Community:Recommendation"), or dynamic websites (such as online social networking sites or bulletin boards)." (see [User Profile @ Wikipedia](http://en.wikipedia.org/wiki/User_profile "http://en.wikipedia.org/wiki/User_profile"))
+User profiles can be found on operating systems, computer programs, [recommender systems](../Community/Recommendation "http://ontologydesignpatterns.org/wiki/Community:Recommendation"), or dynamic websites (such as online social networking sites or bulletin boards)." (see [User Profile @ Wikipedia](http://en.wikipedia.org/wiki/User_profile "http://en.wikipedia.org/wiki/User_profile"))
 
 
 See also [Personalization @ Wikipedia](http://en.wikipedia.org/wiki/Personalization "http://en.wikipedia.org/wiki/Personalization")
@@ -23,7 +23,7 @@ See also [Personalization @ Wikipedia](http://en.wikipedia.org/wiki/Personalizat
 #  References
 
 
-[Add a reference](index.php@title=Odp%253AAdd_reference&subject=../Community/Personalization.md "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_reference&subject=Community%3APersonalization")
+[Add a reference](index.php@title=Odp%253AAdd_reference&subject=../Community/Personalization "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_reference&subject=Community%3APersonalization")
 
 
   
@@ -31,8 +31,8 @@ See also [Personalization @ Wikipedia](http://en.wikipedia.org/wiki/Personalizat
 
 
 
-[Domain list](../Community/Domain.md "Community:Domain") | [Modeling issues](../Community/Main.md "Community:Main")
+[Domain list](../Community/Domain "Community:Domain") | [Modeling issues](../Community/Main "Community:Main")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Community:Personalization](../Community/Personalization.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Domain](../Category/Domain.md "Category:Domain")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Community:Personalization](../Community/Personalization)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Domain](../Category/Domain "Category:Domain")

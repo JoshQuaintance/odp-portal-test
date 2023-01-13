@@ -1,6 +1,6 @@
-* [Image](../Image/Vesselspecies2.jpg.md#file)
-* [File history](../Image/Vesselspecies2.jpg.md#filehistory)
-* [Links](../Image/Vesselspecies2.jpg.md#filelinks)
+* [Image](../Image/Vesselspecies2.jpg#file)
+* [File history](../Image/Vesselspecies2.jpg#filehistory)
+* [Links](../Image/Vesselspecies2.jpg#filelinks)
 
 [![Image:Vesselspecies2.jpg](../images/6/67/Vesselspecies2.jpg)](../images/6/67/Vesselspecies2.jpg)  
 No higher resolution available.  
@@ -23,8 +23,8 @@ Click on a date/time to view the file as it appeared at that time.
 The following 2 pages link to this file:
 
 
-* [Community:Images](../Community/Images.md "Community:Images")
-* [Submissions:VesselSpecies](../Submissions/VesselSpecies.md "Submissions:VesselSpecies")
+* [Community:Images](../Community/Images "Community:Images")
+* [Submissions:VesselSpecies](../Submissions/VesselSpecies "Submissions:VesselSpecies")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Vesselspecies2.jpg](../Image/Vesselspecies2.jpg.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Vesselspecies2.jpg](../Image/Vesselspecies2.jpg)"

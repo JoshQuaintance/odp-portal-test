@@ -11,4 +11,4 @@ Please report this to an [administrator](http://ontologydesignpatterns.org/wiki/
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:AquaticResourceObservation](../Submissions/AquaticResourceObservation.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:AquaticResourceObservation](../Submissions/AquaticResourceObservation)"

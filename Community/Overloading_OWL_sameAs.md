@@ -59,8 +59,8 @@ _Related Modeling Issues_:
 
 
 
-* [Versioning and URIs](../Community/Versioning_and_URIs.md "Community:Versioning and URIs")
-* [Proliferation of URIs, Managing Coreference](../Community/Proliferation_of_URIs,_Managing_Coreference.md "Community:Proliferation of URIs, Managing Coreference")
+* [Versioning and URIs](../Community/Versioning_and_URIs "Community:Versioning and URIs")
+* [Proliferation of URIs, Managing Coreference](../Community/Proliferation_of_URIs,_Managing_Coreference "Community:Proliferation of URIs, Managing Coreference")
 
 
 _Examples:_
@@ -112,10 +112,10 @@ From all this, Uschold teased out three distinct but closely related modeling is
 
 
 1. __Overloading OWL sameAs__: sameAs is being used in the linked data community in a way that is inconsistent with its semantics
-2. [Proliferation of URIs, Managing Coreference](../Community/Proliferation_of_URIs,_Managing_Coreference.md "Community:Proliferation of URIs, Managing Coreference"): How to avoid or manage two negative consequences to the current proliferation of new URIs being minted for the same things. Specifically:
+2. [Proliferation of URIs, Managing Coreference](../Community/Proliferation_of_URIs,_Managing_Coreference "Community:Proliferation of URIs, Managing Coreference"): How to avoid or manage two negative consequences to the current proliferation of new URIs being minted for the same things. Specifically:
 	1. it is hard to find when two things should be the same
 	2. even if you can find the links, prolific use of owl:sameAs will create computational problems.
-3. [Versioning and URIs](../Community/Versioning_and_URIs.md "Community:Versioning and URIs"): When and whether to make new URIs for different versions of things.
+3. [Versioning and URIs](../Community/Versioning_and_URIs "Community:Versioning and URIs"): When and whether to make new URIs for different versions of things.
 
 
   
@@ -281,11 +281,11 @@ __Good points raised:__
 
 
 
-* Suggested best practice [Blog](http://blog.hubjects.com/2007/07/using-owlsameas-in-linked-data.html "http://blog.hubjects.com/2007/07/using-owlsameas-in-linked-data.html") | [reference page](../Community/References/Vatant_Blog.md "Community:References/Vatant Blog")
+* Suggested best practice [Blog](http://blog.hubjects.com/2007/07/using-owlsameas-in-linked-data.html "http://blog.hubjects.com/2007/07/using-owlsameas-in-linked-data.html") | [reference page](../Community/References/Vatant_Blog "Community:References/Vatant Blog")
 
 
- [List of Modeling Issues](../Community/Main.md "Community:Main") | [Post a new modeling issue](../Community/PostModelingIssue.md "Community:PostModelingIssue") | [Add a comment in the discussion page](index.php@title=Odp%253AAdd_comment&target=Community_talk%253AOverloading_OWL_sameAs.html#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Community_talk:Overloading_OWL_sameAs#New_comment")
+ [List of Modeling Issues](../Community/Main "Community:Main") | [Post a new modeling issue](../Community/PostModelingIssue "Community:PostModelingIssue") | [Add a comment in the discussion page](index.php@title=Odp%253AAdd_comment&target=Community_talk%253AOverloading_OWL_sameAs.html#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Community_talk:Overloading_OWL_sameAs#New_comment")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Community:Overloading\_OWL\_sameAs](../Community/Overloading_OWL_sameAs.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ModelingIssue](../Category/ModelingIssue.md "Category:ModelingIssue")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Community:Overloading\_OWL\_sameAs](../Community/Overloading_OWL_sameAs)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ModelingIssue](../Category/ModelingIssue "Category:ModelingIssue")

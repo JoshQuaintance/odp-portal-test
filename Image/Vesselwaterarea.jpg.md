@@ -1,6 +1,6 @@
-* [Image](../Image/Vesselwaterarea.jpg.md#file)
-* [File history](../Image/Vesselwaterarea.jpg.md#filehistory)
-* [Links](../Image/Vesselwaterarea.jpg.md#filelinks)
+* [Image](../Image/Vesselwaterarea.jpg#file)
+* [File history](../Image/Vesselwaterarea.jpg#filehistory)
+* [Links](../Image/Vesselwaterarea.jpg#filelinks)
 
 [![Image:Vesselwaterarea.jpg](../images/d/db/Vesselwaterarea.jpg)](../images/d/db/Vesselwaterarea.jpg)  
 No higher resolution available.  
@@ -23,8 +23,8 @@ Click on a date/time to view the file as it appeared at that time.
 The following 2 pages link to this file:
 
 
-* [Community:Images](../Community/Images.md "Community:Images")
-* [Submissions:VesselWaterArea](../Submissions/VesselWaterArea.md "Submissions:VesselWaterArea")
+* [Community:Images](../Community/Images "Community:Images")
+* [Submissions:VesselWaterArea](../Submissions/VesselWaterArea "Submissions:VesselWaterArea")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Vesselwaterarea.jpg](../Image/Vesselwaterarea.jpg.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Vesselwaterarea.jpg](../Image/Vesselwaterarea.jpg)"

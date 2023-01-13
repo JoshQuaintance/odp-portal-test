@@ -1,6 +1,6 @@
-* [Image](../Image/Wfcssfso.png.md#file)
-* [File history](../Image/Wfcssfso.png.md#filehistory)
-* [Links](../Image/Wfcssfso.png.md#filelinks)
+* [Image](../Image/Wfcssfso.png#file)
+* [File history](../Image/Wfcssfso.png#filehistory)
+* [Links](../Image/Wfcssfso.png#filelinks)
 
 [![Image:Wfcssfso.png](../images/thumb/3/39/Wfcssfso.png/411px-Wfcssfso.png)](../images/3/39/Wfcssfso.png)  
 Size of this preview: 411 × 600 pixels  
@@ -23,7 +23,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Submissions:Pattern for re-engineering a classification scheme, which follows the snowflake data model, into an ontology schema](../Submissions/Pattern_for_re-engineering_a_classification_scheme,_which_follows_the_snowflake_data_model,_into_an_ontology_schema.md "Submissions:Pattern for re-engineering a classification scheme, which follows the snowflake data model, into an ontology schema")
+* [Submissions:Pattern for re-engineering a classification scheme, which follows the snowflake data model, into an ontology schema](../Submissions/Pattern_for_re-engineering_a_classification_scheme,_which_follows_the_snowflake_data_model,_into_an_ontology_schema "Submissions:Pattern for re-engineering a classification scheme, which follows the snowflake data model, into an ontology schema")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Wfcssfso.png](../Image/Wfcssfso.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Wfcssfso.png](../Image/Wfcssfso.png)"

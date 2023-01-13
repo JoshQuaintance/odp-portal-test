@@ -1,4 +1,4 @@
-[![Image:ODPUser.png](../images/a/a6/ODPUser.png)](../Image/ODPUser.png.md "Image:ODPUser.png")
+[![Image:ODPUser.png](../images/a/a6/ODPUser.png)](../Image/ODPUser.png "Image:ODPUser.png")
 
 
 
@@ -19,7 +19,7 @@ __Domains of interest:__
 
 
 
-* [workflow](../Community/Workflow.md "Community:Workflow")
+* [workflow](../Community/Workflow "Community:Workflow")
 * [CSCW](http://ontologydesignpatterns.org/wiki/Special:AddData/Domain Form/Community:CSCW "Community:CSCW (not yet written)")
 * [organizations](http://ontologydesignpatterns.org/wiki/Special:AddData/Domain Form/Community:Organizations "Community:Organizations (not yet written)")
 * [service modelling using ontologies](http://ontologydesignpatterns.org/wiki/Special:AddData/Domain Form/Community:Service_modelling_using_ontologies "Community:Service modelling using ontologies (not yet written)")
@@ -37,5 +37,5 @@ __How did I know about ODP:__ conference/public events, surfing the web
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/User:ManuelNoguera](../User/ManuelNoguera.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ODPUser](../Category/ODPUser.md "Category:ODPUser")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/User:ManuelNoguera](../User/ManuelNoguera)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ODPUser](../Category/ODPUser "Category:ODPUser")

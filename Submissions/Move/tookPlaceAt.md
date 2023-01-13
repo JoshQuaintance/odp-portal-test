@@ -1,4 +1,4 @@
-___tookPlaceAt__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [Move](../../Submissions/Move.md "Submissions:Move")_
+___tookPlaceAt__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [Move](../../Submissions/Move "Submissions:Move")_
 
 
   
@@ -6,7 +6,7 @@ ___tookPlaceAt__ has [Category:OntologyElement](../../Category/OntologyElement.m
 
 
 
-[![ObjectProperty](../../images/thumb/c/c3/ObjectProperty.gif/45px-ObjectProperty.gif)](../../Image/ObjectProperty.gif.md "ObjectProperty")
+[![ObjectProperty](../../images/thumb/c/c3/ObjectProperty.gif/45px-ObjectProperty.gif)](../../Image/ObjectProperty.gif "ObjectProperty")
 __Name__: tookPlaceAt 
 
 
@@ -26,5 +26,5 @@ The related Place should be seen as an approximation of the geographical area wi
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Move/tookPlaceAt](../../Submissions/Move/tookPlaceAt.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Move/tookPlaceAt](../../Submissions/Move/tookPlaceAt)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

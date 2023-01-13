@@ -1,6 +1,6 @@
-* [Image](../Image/News.png.md#file)
-* [File history](../Image/News.png.md#filehistory)
-* [Links](../Image/News.png.md#filelinks)
+* [Image](../Image/News.png#file)
+* [File history](../Image/News.png#filehistory)
+* [Links](../Image/News.png#filelinks)
 
 [![Image:News.png](../images/0/07/News.png)](../images/0/07/News.png)  
 No higher resolution available.  
@@ -23,10 +23,10 @@ Click on a date/time to view the file as it appeared at that time.
 The following 4 pages link to this file:
 
 
-* [Ontology Design Patterns . org (ODP)](../Ontology_Design_Patterns_._org_(ODP).md).md).html "Ontology Design Patterns . org (ODP)")
-* [Odp:News](../Odp/News.1.md "Odp:News")
-* [Template:Latest news box](../Template/Latest_news_box.md "Template:Latest news box")
-* [Template:MainPageMap](../Template/MainPageMap.md "Template:MainPageMap")
+* [Ontology Design Patterns . org (ODP)](../Ontology_Design_Patterns_._org_(ODP)).md).md).html "Ontology Design Patterns . org (ODP)")
+* [Odp:News](../Odp/News.1 "Odp:News")
+* [Template:Latest news box](../Template/Latest_news_box "Template:Latest news box")
+* [Template:MainPageMap](../Template/MainPageMap "Template:MainPageMap")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:News.png](../Image/News.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:News.png](../Image/News.png)"

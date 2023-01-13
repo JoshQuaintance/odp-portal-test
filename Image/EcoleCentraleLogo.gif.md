@@ -1,6 +1,6 @@
-* [Image](../Image/EcoleCentraleLogo.gif.md#file)
-* [File history](../Image/EcoleCentraleLogo.gif.md#filehistory)
-* [Links](../Image/EcoleCentraleLogo.gif.md#filelinks)
+* [Image](../Image/EcoleCentraleLogo.gif#file)
+* [File history](../Image/EcoleCentraleLogo.gif#filehistory)
+* [Links](../Image/EcoleCentraleLogo.gif#filelinks)
 
 [![Image:EcoleCentraleLogo.gif](../images/1/14/EcoleCentraleLogo.gif)](../images/1/14/EcoleCentraleLogo.gif)  
 No higher resolution available.  
@@ -23,7 +23,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Community:Images](../Community/Images.md "Community:Images")
+* [Community:Images](../Community/Images "Community:Images")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:EcoleCentraleLogo.gif](../Image/EcoleCentraleLogo.gif.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:EcoleCentraleLogo.gif](../Image/EcoleCentraleLogo.gif)"

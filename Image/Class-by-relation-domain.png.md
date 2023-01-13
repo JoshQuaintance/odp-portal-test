@@ -1,6 +1,6 @@
-* [Image](../Image/Class-by-relation-domain.png.md#file)
-* [File history](../Image/Class-by-relation-domain.png.md#filehistory)
-* [Links](../Image/Class-by-relation-domain.png.md#filelinks)
+* [Image](../Image/Class-by-relation-domain.png#file)
+* [File history](../Image/Class-by-relation-domain.png#filehistory)
+* [Links](../Image/Class-by-relation-domain.png#filelinks)
 
 [![Image:Class-by-relation-domain.png](../images/b/b4/Class-by-relation-domain.png)](../images/b/b4/Class-by-relation-domain.png)  
 No higher resolution available.  
@@ -23,7 +23,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Submissions:Class correspondence defined by relation domain](../Submissions/Class_correspondence_defined_by_relation_domain.md "Submissions:Class correspondence defined by relation domain")
+* [Submissions:Class correspondence defined by relation domain](../Submissions/Class_correspondence_defined_by_relation_domain "Submissions:Class correspondence defined by relation domain")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Class-by-relation-domain.png](../Image/Class-by-relation-domain.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Class-by-relation-domain.png](../Image/Class-by-relation-domain.png)"

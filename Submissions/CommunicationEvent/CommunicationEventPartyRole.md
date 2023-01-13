@@ -1,4 +1,4 @@
-___CommunicationEventPartyRole__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [CommunicationEvent](../../Submissions/CommunicationEvent.md "Submissions:CommunicationEvent")_
+___CommunicationEventPartyRole__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [CommunicationEvent](../../Submissions/CommunicationEvent "Submissions:CommunicationEvent")_
 
 
   
@@ -6,7 +6,7 @@ ___CommunicationEventPartyRole__ has [Category:OntologyElement](../../Category/O
 
 
 
-[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif.md "Class")
+[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif "Class")
 __Name__: CommunicationEventPartyRole 
 
 
@@ -19,5 +19,5 @@ __Description__: The role of a specific party for a specific communciation event
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:CommunicationEvent/CommunicationEventPartyRole](../../Submissions/CommunicationEvent/CommunicationEventPartyRole.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:CommunicationEvent/CommunicationEventPartyRole](../../Submissions/CommunicationEvent/CommunicationEventPartyRole)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

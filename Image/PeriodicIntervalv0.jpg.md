@@ -1,6 +1,6 @@
-* [Image](../Image/PeriodicIntervalv0.jpg.md#file)
-* [File history](../Image/PeriodicIntervalv0.jpg.md#filehistory)
-* [Links](../Image/PeriodicIntervalv0.jpg.md#filelinks)
+* [Image](../Image/PeriodicIntervalv0.jpg#file)
+* [File history](../Image/PeriodicIntervalv0.jpg#filehistory)
+* [Links](../Image/PeriodicIntervalv0.jpg#filelinks)
 
 [![Image:PeriodicIntervalv0.jpg](../images/6/60/PeriodicIntervalv0.jpg)](../images/6/60/PeriodicIntervalv0.jpg)  
 No higher resolution available.  
@@ -23,7 +23,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Submissions:PeriodicInterval](../Submissions/PeriodicInterval.md "Submissions:PeriodicInterval")
+* [Submissions:PeriodicInterval](../Submissions/PeriodicInterval "Submissions:PeriodicInterval")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:PeriodicIntervalv0.jpg](../Image/PeriodicIntervalv0.jpg.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:PeriodicIntervalv0.jpg](../Image/PeriodicIntervalv0.jpg)"

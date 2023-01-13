@@ -1,6 +1,6 @@
-* [Image](../Image/Relation-subsumption.png.md#file)
-* [File history](../Image/Relation-subsumption.png.md#filehistory)
-* [Links](../Image/Relation-subsumption.png.md#filelinks)
+* [Image](../Image/Relation-subsumption.png#file)
+* [File history](../Image/Relation-subsumption.png#filehistory)
+* [Links](../Image/Relation-subsumption.png#filelinks)
 
 [![Image:Relation-subsumption.png](../images/3/3a/Relation-subsumption.png)](../images/3/3a/Relation-subsumption.png)  
 No higher resolution available.  
@@ -25,4 +25,4 @@ There are no pages that link to this file.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Relation-subsumption.png](../Image/Relation-subsumption.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Relation-subsumption.png](../Image/Relation-subsumption.png)"

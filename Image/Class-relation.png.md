@@ -1,6 +1,6 @@
-* [Image](../Image/Class-relation.png.md#file)
-* [File history](../Image/Class-relation.png.md#filehistory)
-* [Links](../Image/Class-relation.png.md#filelinks)
+* [Image](../Image/Class-relation.png#file)
+* [File history](../Image/Class-relation.png#filehistory)
+* [Links](../Image/Class-relation.png#filelinks)
 
 [![Image:Class-relation.png](../images/6/6b/Class-relation.png)](../images/6/6b/Class-relation.png)  
 No higher resolution available.  
@@ -25,4 +25,4 @@ There are no pages that link to this file.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Class-relation.png](../Image/Class-relation.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Class-relation.png](../Image/Class-relation.png)"

@@ -1,6 +1,6 @@
-* [Image](../Image/Odp_pattern_test.gif.md#file)
-* [File history](../Image/Odp_pattern_test.gif.md#filehistory)
-* [Links](../Image/Odp_pattern_test.gif.md#filelinks)
+* [Image](../Image/Odp_pattern_test.gif#file)
+* [File history](../Image/Odp_pattern_test.gif#filehistory)
+* [Links](../Image/Odp_pattern_test.gif#filelinks)
 
 [![Image:Odp pattern test.gif](../images/c/cd/Odp_pattern_test.gif)](../images/c/cd/Odp_pattern_test.gif)  
 No higher resolution available.  
@@ -25,4 +25,4 @@ There are no pages that link to this file.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Odp\_pattern\_test.gif](../Image/Odp_pattern_test.gif.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Odp\_pattern\_test.gif](../Image/Odp_pattern_test.gif)"

@@ -1,6 +1,6 @@
-* [Image](../Image/SC_Di_EC_4.jape.md#file)
-* [File history](../Image/SC_Di_EC_4.jape.md#filehistory)
-* [Links](../Image/SC_Di_EC_4.jape.md#filelinks)
+* [Image](../Image/SC_Di_EC_4.jape#file)
+* [File history](../Image/SC_Di_EC_4.jape#filehistory)
+* [Links](../Image/SC_Di_EC_4.jape#filelinks)
 
 
 [SC\_Di\_EC\_4.jape](../images/4/4f/SC_Di_EC_4.jape "SC Di EC 4.jape")‎
@@ -34,4 +34,4 @@ There are no pages that link to this file.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:SC\_Di\_EC\_4.jape](../Image/SC_Di_EC_4.jape.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:SC\_Di\_EC\_4.jape](../Image/SC_Di_EC_4.jape)"

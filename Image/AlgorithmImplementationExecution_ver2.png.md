@@ -1,6 +1,6 @@
-* [Image](../Image/AlgorithmImplementationExecution_ver2.png.md#file)
-* [File history](../Image/AlgorithmImplementationExecution_ver2.png.md#filehistory)
-* [Links](../Image/AlgorithmImplementationExecution_ver2.png.md#filelinks)
+* [Image](../Image/AlgorithmImplementationExecution_ver2.png#file)
+* [File history](../Image/AlgorithmImplementationExecution_ver2.png#filehistory)
+* [Links](../Image/AlgorithmImplementationExecution_ver2.png#filelinks)
 
 [![Image:AlgorithmImplementationExecution ver2.png](../images/thumb/2/2b/AlgorithmImplementationExecution_ver2.png/800px-AlgorithmImplementationExecution_ver2.png)](../images/2/2b/AlgorithmImplementationExecution_ver2.png)  
 Size of this preview: 800 × 578 pixels  
@@ -23,7 +23,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Submissions:AlgorithmImplementationExecution](../Submissions/AlgorithmImplementationExecution.md "Submissions:AlgorithmImplementationExecution")
+* [Submissions:AlgorithmImplementationExecution](../Submissions/AlgorithmImplementationExecution "Submissions:AlgorithmImplementationExecution")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:AlgorithmImplementationExecution\_ver2.png](../Image/AlgorithmImplementationExecution_ver2.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:AlgorithmImplementationExecution\_ver2.png](../Image/AlgorithmImplementationExecution_ver2.png)"

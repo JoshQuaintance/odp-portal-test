@@ -1,6 +1,6 @@
-* [Image](../Image/USOcore3.jpg.md#file)
-* [File history](../Image/USOcore3.jpg.md#filehistory)
-* [Links](../Image/USOcore3.jpg.md#filelinks)
+* [Image](../Image/USOcore3.jpg#file)
+* [File history](../Image/USOcore3.jpg#filehistory)
+* [Links](../Image/USOcore3.jpg#filelinks)
 
 [![Image:USOcore3.jpg](../images/thumb/e/eb/USOcore3.jpg/800px-USOcore3.jpg)](../images/e/eb/USOcore3.jpg)  
 Size of this preview: 800 × 301 pixels  
@@ -26,7 +26,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Submissions:Spatial Graph Adapter (SGA)](../Submissions/Spatial_Graph_Adapter_(SGA).md).md).html "Submissions:Spatial Graph Adapter (SGA)")
+* [Submissions:Spatial Graph Adapter (SGA)](../Submissions/Spatial_Graph_Adapter_(SGA)).md).md).html "Submissions:Spatial Graph Adapter (SGA)")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:USOcore3.jpg](../Image/USOcore3.jpg.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:USOcore3.jpg](../Image/USOcore3.jpg)"

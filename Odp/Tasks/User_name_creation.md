@@ -30,8 +30,8 @@ This task has no sub-tasks
 
 
 
-[Development](../../Odp/Development.md "Odp:Development") | [Create new task](http://ontologydesignpatterns.org/wiki/Special:AddData/Task_Form?Task Template[SubmittedBy]=93.34.113.67).| [Add sub-task](http://ontologydesignpatterns.org/wiki/Special:AddData/Task_Form?parenttask=Tasks/User_name_creation&Task Template[ParentTask]=Tasks/User_name_creation&Task Template[SubmittedBy]=93.34.113.67) | [Add a comment at the bottom of this page](http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Odp:Tasks/User_name_creation#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Odp:Tasks/User_name_creation#New_comment")
+[Development](../../Odp/Development "Odp:Development") | [Create new task](http://ontologydesignpatterns.org/wiki/Special:AddData/Task_Form?Task Template[SubmittedBy]=93.34.113.67).| [Add sub-task](http://ontologydesignpatterns.org/wiki/Special:AddData/Task_Form?parenttask=Tasks/User_name_creation&Task Template[ParentTask]=Tasks/User_name_creation&Task Template[SubmittedBy]=93.34.113.67) | [Add a comment at the bottom of this page](http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Odp:Tasks/User_name_creation#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Odp:Tasks/User_name_creation#New_comment")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Odp:Tasks/User\_name\_creation](../../Odp/Tasks/User_name_creation.md)"
- [Categories](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [RootTask](../../Category/RootTask.md "Category:RootTask") | [DevelopmentTask](../../Category/DevelopmentTask.md "Category:DevelopmentTask")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Odp:Tasks/User\_name\_creation](../../Odp/Tasks/User_name_creation)"
+ [Categories](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [RootTask](../../Category/RootTask "Category:RootTask") | [DevelopmentTask](../../Category/DevelopmentTask "Category:DevelopmentTask")

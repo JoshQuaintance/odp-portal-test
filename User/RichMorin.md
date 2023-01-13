@@ -1,4 +1,4 @@
-[![Image:Rdm-ps.gif](../images/1/1a/Rdm-ps.gif)](../Image/Rdm-ps.gif.md "Image:Rdm-ps.gif")
+[![Image:Rdm-ps.gif](../images/1/1a/Rdm-ps.gif)](../Image/Rdm-ps.gif "Image:Rdm-ps.gif")
 
 
 
@@ -36,5 +36,5 @@ __How did I know about ODP:__ conference/public events
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/User:RichMorin](../User/RichMorin.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ODPUser](../Category/ODPUser.md "Category:ODPUser")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/User:RichMorin](../User/RichMorin)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ODPUser](../Category/ODPUser "Category:ODPUser")

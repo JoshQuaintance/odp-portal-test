@@ -1,4 +1,4 @@
-[![Image:ODPUser.png](../images/a/a6/ODPUser.png)](../Image/ODPUser.png.md "Image:ODPUser.png")
+[![Image:ODPUser.png](../images/a/a6/ODPUser.png)](../Image/ODPUser.png "Image:ODPUser.png")
 
 
 
@@ -34,5 +34,5 @@ __How did I know about ODP:__ conference/public events, colleagues, surfing the 
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/User:RalphSch%C3%A4fermeier](../User/RalphSchäfermeier.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ODPUser](../Category/ODPUser.md "Category:ODPUser")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/User:RalphSch%C3%A4fermeier](../User/RalphSchäfermeier)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ODPUser](../Category/ODPUser "Category:ODPUser")

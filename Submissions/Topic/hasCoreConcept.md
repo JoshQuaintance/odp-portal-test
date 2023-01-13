@@ -1,4 +1,4 @@
-___hasCoreConcept__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [Topic](../../Submissions/Topic.md "Submissions:Topic")_
+___hasCoreConcept__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [Topic](../../Submissions/Topic "Submissions:Topic")_
 
 
   
@@ -6,7 +6,7 @@ ___hasCoreConcept__ has [Category:OntologyElement](../../Category/OntologyElemen
 
 
 
-[![ObjectProperty](../../images/thumb/c/c3/ObjectProperty.gif/45px-ObjectProperty.gif)](../../Image/ObjectProperty.gif.md "ObjectProperty")
+[![ObjectProperty](../../images/thumb/c/c3/ObjectProperty.gif/45px-ObjectProperty.gif)](../../Image/ObjectProperty.gif "ObjectProperty")
 __Name__: hasCoreConcept 
 
 
@@ -22,5 +22,5 @@ For example, Saxophone (as a Concept) isCoreConceptFor Saxophones (as a Topic).
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Topic/hasCoreConcept](../../Submissions/Topic/hasCoreConcept.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Topic/hasCoreConcept](../../Submissions/Topic/hasCoreConcept)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

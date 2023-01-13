@@ -1,4 +1,4 @@
-___receivesDataFrom__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [SmartHome Network](../../Submissions/SmartHome_Network.md "Submissions:SmartHome Network")_
+___receivesDataFrom__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [SmartHome Network](../../Submissions/SmartHome_Network "Submissions:SmartHome Network")_
 
 
   
@@ -6,7 +6,7 @@ ___receivesDataFrom__ has [Category:OntologyElement](../../Category/OntologyElem
 
 
 
-[![ObjectProperty](../../images/thumb/c/c3/ObjectProperty.gif/45px-ObjectProperty.gif)](../../Image/ObjectProperty.gif.md "ObjectProperty")
+[![ObjectProperty](../../images/thumb/c/c3/ObjectProperty.gif/45px-ObjectProperty.gif)](../../Image/ObjectProperty.gif "ObjectProperty")
 __Name__: receivesDataFrom 
 
 
@@ -19,5 +19,5 @@ __Description__:
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:SmartHome\_Network/receivesDataFrom](../../Submissions/SmartHome_Network/receivesDataFrom.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:SmartHome\_Network/receivesDataFrom](../../Submissions/SmartHome_Network/receivesDataFrom)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

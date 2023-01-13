@@ -1,4 +1,4 @@
-This property is of type [Text](../Type/Text.md "Type:Text").
+This property is of type [Text](../Type/Text "Type:Text").
 
 
 
@@ -13,4 +13,4 @@ Showing 0 pages using this property.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Property:PatternOrigin](../Property/PatternOrigin.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Property:PatternOrigin](../Property/PatternOrigin)"

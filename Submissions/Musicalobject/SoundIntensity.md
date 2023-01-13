@@ -1,4 +1,4 @@
-___SoundIntensity__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [Musicalobject](../../Submissions/Musicalobject.md "Submissions:Musicalobject")_
+___SoundIntensity__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [Musicalobject](../../Submissions/Musicalobject "Submissions:Musicalobject")_
 
 
   
@@ -6,7 +6,7 @@ ___SoundIntensity__ has [Category:OntologyElement](../../Category/OntologyElemen
 
 
 
-[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif.md "Class")
+[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif "Class")
 __Name__: SoundIntensity 
 
 
@@ -19,5 +19,5 @@ __Description__: The intensity of the sound produced by a musical object.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Musicalobject/SoundIntensity](../../Submissions/Musicalobject/hasSoundIntensity.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Musicalobject/SoundIntensity](../../Submissions/Musicalobject/hasSoundIntensity)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

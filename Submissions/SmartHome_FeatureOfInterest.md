@@ -1,4 +1,4 @@
-[![](../images/thumb/b/b5/Certified.png/70px-Certified.png)](../Image/Certified.png.md "Certified.png") __This pattern has been certified.__
+[![](../images/thumb/b/b5/Certified.png/70px-Certified.png)](../Image/Certified.png "Certified.png") __This pattern has been certified.__
 Related submission, with evaluation history, can be found __here__
 
 
@@ -13,7 +13,7 @@ __Diagram__
 
 
 
-[![Image:FOI.png](../images/3/32/FOI.png)](../Image/FOI.png.md "Image:FOI.png")
+[![Image:FOI.png](../images/3/32/FOI.png)](../Image/FOI.png "Image:FOI.png")
 
 
 
@@ -33,8 +33,8 @@ _The __SmartHome FeatureOfInterest__ Content OP locally defines the following on
 
 
 
-[![Class](../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __SmartHomeFeatureOfInterest__ (owl:Class) 
- [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[SmartHomeFeatureOfInterest](../Submissions/SmartHome_FeatureOfInterest/SmartHomeFeatureOfInterest.md "Submissions:SmartHome FeatureOfInterest/SmartHomeFeatureOfInterest") page_
+[![Class](../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif "Class") __SmartHomeFeatureOfInterest__ (owl:Class) 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif "ArrowRight.gif") _[SmartHomeFeatureOfInterest](../Submissions/SmartHome_FeatureOfInterest/SmartHomeFeatureOfInterest "Submissions:SmartHome FeatureOfInterest/SmartHomeFeatureOfInterest") page_
 #  Additional information
 
 
@@ -95,5 +95,5 @@ There is no Modeling issue related to this proposal.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:SmartHome\_FeatureOfInterest](../Submissions/SmartHome_FeatureOfInterest.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ProposedContentOP](../Category/ProposedContentOP.md "Category:ProposedContentOP")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:SmartHome\_FeatureOfInterest](../Submissions/SmartHome_FeatureOfInterest)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ProposedContentOP](../Category/ProposedContentOP "Category:ProposedContentOP")

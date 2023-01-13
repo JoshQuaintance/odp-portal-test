@@ -12,8 +12,8 @@
 
 
 
-[Domain list](../Community/Domain.md "Community:Domain") | [Modeling issues](../Community/Main.md "Community:Main")
+[Domain list](../Community/Domain "Community:Domain") | [Modeling issues](../Community/Main "Community:Main")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Community:Materials\_Science](../Community/Materials_Science.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Domain](../Category/Domain.md "Category:Domain")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Community:Materials\_Science](../Community/Materials_Science)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Domain](../Category/Domain "Category:Domain")

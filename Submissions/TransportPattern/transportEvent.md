@@ -1,4 +1,4 @@
-___transportEvent__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [TransportPattern](../../Submissions/TransportPattern.md "Submissions:TransportPattern")_
+___transportEvent__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [TransportPattern](../../Submissions/TransportPattern "Submissions:TransportPattern")_
 
 
   
@@ -6,7 +6,7 @@ ___transportEvent__ has [Category:OntologyElement](../../Category/OntologyElemen
 
 
 
-[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif.md "Class")
+[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif "Class")
 __Name__: transportEvent 
 
 
@@ -19,5 +19,5 @@ __Description__: A Transport Event describes a specific transport phenomenon, as
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:TransportPattern/transportEvent](../../Submissions/TransportPattern/transportEvent.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:TransportPattern/transportEvent](../../Submissions/TransportPattern/transportEvent)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

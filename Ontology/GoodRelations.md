@@ -1,4 +1,4 @@
-Return to [Catalogue of Exemplary Ontologies](../Ontology/Main.md "Ontology:Main")
+Return to [Catalogue of Exemplary Ontologies](../Ontology/Main "Ontology:Main")
 
 
 
@@ -38,20 +38,20 @@ In an extremely short space of time (approx a year) this ontology has already se
 #  References
 
 
-[Add a reference](index.php@title=Odp%253AAdd_reference&subject=../Ontology/GoodRelations.md "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_reference&subject=Ontology%3AGoodRelations")
+[Add a reference](index.php@title=Odp%253AAdd_reference&subject=../Ontology/GoodRelations "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_reference&subject=Ontology%3AGoodRelations")
 
 
 
-* Blog post describing Best Buy's use of GoodRelations to improve SEO [Application](http://priyankmohan.blogspot.com/2009/12/online-retail-how-best-buy-is-using.html "http://priyankmohan.blogspot.com/2009/12/online-retail-how-best-buy-is-using.html") | [reference page](../Community/References/Best_Buy.md "Community:References/Best Buy")
-* Online article [Article](http://www.solutions-answers-results.com.au/index.php/Ways-to-Improve-Your-Website/How-To-Get-Ranked-Without-Resorting-to-Outdated-SEO-Tactics.html "http://www.solutions-answers-results.com.au/index.php/Ways-to-Improve-Your-Website/How-To-Get-Ranked-Without-Resorting-to-Outdated-SEO-Tactics.html") | [reference page](../Community/References/How_To_Get_Ranked_Without_Resorting_to_Outdated_SEO_Tactics.md "Community:References/How To Get Ranked Without Resorting to Outdated SEO Tactics")
-* Extensive documentation with examples. [Documentation](http://www.heppnetz.de/projects/goodrelations/primer/ "http://www.heppnetz.de/projects/goodrelations/primer/") | [reference page](../Community/References/GoodRelations_Primer_and_User's_Guide.md "Community:References/GoodRelations Primer and User's Guide")
-* Shows the major classes in GoodRelations [Documentation](http://lists.w3.org/Archives/Public/public-lod/2009Jul/att-0192/goodrelations-UML-2009-07-18.pdf "http://lists.w3.org/Archives/Public/public-lod/2009Jul/att-0192/goodrelations-UML-2009-07-18.pdf") | [reference page](../Community/References/Ontology_overview_-_UML_Class_Diagram.md "Community:References/Ontology overview - UML Class Diagram")
-* Online Browsing and Documentation of GoodRelations [Documentation](http://purl.org/goodrelations/v1.html "http://purl.org/goodrelations/v1.html") | [reference page](../Community/References/Online_Browsing_and_Documentation_of_GoodRelations.md "Community:References/Online Browsing and Documentation of GoodRelations")
-* . [Project Home Page](http://purl.org/goodrelations/ "http://purl.org/goodrelations/") | [reference page](../Community/References/GR_Home_Page.md "Community:References/GR Home Page")
-* Developer's Wiki contains Tools, Documentation, Podcasts, etc. [Wiki](http://www.ebusiness-unibw.org/wiki/GoodRelations "http://www.ebusiness-unibw.org/wiki/GoodRelations") | [reference page](../Community/References/Additional_Information_and_Resources.md "Community:References/Additional Information and Resources")
+* Blog post describing Best Buy's use of GoodRelations to improve SEO [Application](http://priyankmohan.blogspot.com/2009/12/online-retail-how-best-buy-is-using.html "http://priyankmohan.blogspot.com/2009/12/online-retail-how-best-buy-is-using.html") | [reference page](../Community/References/Best_Buy "Community:References/Best Buy")
+* Online article [Article](http://www.solutions-answers-results.com.au/index.php/Ways-to-Improve-Your-Website/How-To-Get-Ranked-Without-Resorting-to-Outdated-SEO-Tactics.html "http://www.solutions-answers-results.com.au/index.php/Ways-to-Improve-Your-Website/How-To-Get-Ranked-Without-Resorting-to-Outdated-SEO-Tactics.html") | [reference page](../Community/References/How_To_Get_Ranked_Without_Resorting_to_Outdated_SEO_Tactics "Community:References/How To Get Ranked Without Resorting to Outdated SEO Tactics")
+* Extensive documentation with examples. [Documentation](http://www.heppnetz.de/projects/goodrelations/primer/ "http://www.heppnetz.de/projects/goodrelations/primer/") | [reference page](../Community/References/GoodRelations_Primer_and_User's_Guide "Community:References/GoodRelations Primer and User's Guide")
+* Shows the major classes in GoodRelations [Documentation](http://lists.w3.org/Archives/Public/public-lod/2009Jul/att-0192/goodrelations-UML-2009-07-18.pdf "http://lists.w3.org/Archives/Public/public-lod/2009Jul/att-0192/goodrelations-UML-2009-07-18.pdf") | [reference page](../Community/References/Ontology_overview_-_UML_Class_Diagram "Community:References/Ontology overview - UML Class Diagram")
+* Online Browsing and Documentation of GoodRelations [Documentation](http://purl.org/goodrelations/v1.html "http://purl.org/goodrelations/v1.html") | [reference page](../Community/References/Online_Browsing_and_Documentation_of_GoodRelations "Community:References/Online Browsing and Documentation of GoodRelations")
+* . [Project Home Page](http://purl.org/goodrelations/ "http://purl.org/goodrelations/") | [reference page](../Community/References/GR_Home_Page "Community:References/GR Home Page")
+* Developer's Wiki contains Tools, Documentation, Podcasts, etc. [Wiki](http://www.ebusiness-unibw.org/wiki/GoodRelations "http://www.ebusiness-unibw.org/wiki/GoodRelations") | [reference page](../Community/References/Additional_Information_and_Resources "Community:References/Additional Information and Resources")
 
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Ontology:GoodRelations](../Ontology/GoodRelations.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Ontology](../Category/Ontology.md "Category:Ontology")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Ontology:GoodRelations](../Ontology/GoodRelations)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Ontology](../Category/Ontology "Category:Ontology")

@@ -1,4 +1,4 @@
-[![](../images/thumb/b/b5/Certified.png/70px-Certified.png)](../Image/Certified.png.md "Certified.png") __This pattern has been certified.__
+[![](../images/thumb/b/b5/Certified.png/70px-Certified.png)](../Image/Certified.png "Certified.png") __This pattern has been certified.__
 Related submission, with evaluation history, can be found __here__
 
 
@@ -13,7 +13,7 @@ __Diagram__
 
 
 
-[![Image:ReportingEvent-scheme.png](../images/b/b6/ReportingEvent-scheme.png)](../Image/ReportingEvent-scheme.png.md "Image:ReportingEvent-scheme.png")
+[![Image:ReportingEvent-scheme.png](../images/b/b6/ReportingEvent-scheme.png)](../Image/ReportingEvent-scheme.png "Image:ReportingEvent-scheme.png")
 
 
 
@@ -83,7 +83,7 @@ There is no Modeling issue related to this proposal.
 #  References
 
 
-[Add a reference](index.php@title=Odp%253AAdd_reference&subject=../Submissions/ReportingEvent.md "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_reference&subject=Submissions%3AReportingEvent")
+[Add a reference](index.php@title=Odp%253AAdd_reference&subject=../Submissions/ReportingEvent "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_reference&subject=Submissions%3AReportingEvent")
 
 
   
@@ -93,5 +93,5 @@ There is no Modeling issue related to this proposal.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:ReportingEvent](../Submissions/ReportingEvent.md)"
- [Categories](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ProposedContentOP](../Category/ProposedContentOP.md "Category:ProposedContentOP") | [Submitted to event](../Category/Submitted_to_event.md "Category:Submitted to event")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:ReportingEvent](../Submissions/ReportingEvent)"
+ [Categories](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ProposedContentOP](../Category/ProposedContentOP "Category:ProposedContentOP") | [Submitted to event](../Category/Submitted_to_event "Category:Submitted to event")

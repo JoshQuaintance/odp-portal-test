@@ -1,6 +1,6 @@
-* [Image](../Image/ModifiedHazardousSituation.png.md#file)
-* [File history](../Image/ModifiedHazardousSituation.png.md#filehistory)
-* [Links](../Image/ModifiedHazardousSituation.png.md#filelinks)
+* [Image](../Image/ModifiedHazardousSituation.png#file)
+* [File history](../Image/ModifiedHazardousSituation.png#filehistory)
+* [Links](../Image/ModifiedHazardousSituation.png#filelinks)
 
 [![Image:ModifiedHazardousSituation.png](../images/thumb/4/45/ModifiedHazardousSituation.png/800px-ModifiedHazardousSituation.png)](../images/4/45/ModifiedHazardousSituation.png)  
 Size of this preview: 800 × 482 pixels  
@@ -26,7 +26,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Submissions:ModifiedHazardousSituation](../Submissions/ModifiedHazardousSituation.md "Submissions:ModifiedHazardousSituation")
+* [Submissions:ModifiedHazardousSituation](../Submissions/ModifiedHazardousSituation "Submissions:ModifiedHazardousSituation")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:ModifiedHazardousSituation.png](../Image/ModifiedHazardousSituation.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:ModifiedHazardousSituation.png](../Image/ModifiedHazardousSituation.png)"

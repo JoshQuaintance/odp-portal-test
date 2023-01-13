@@ -1,4 +1,4 @@
-[![Image:ODPUser.png](../images/a/a6/ODPUser.png)](../Image/ODPUser.png.md "Image:ODPUser.png")
+[![Image:ODPUser.png](../images/a/a6/ODPUser.png)](../Image/ODPUser.png "Image:ODPUser.png")
 
 
 
@@ -19,7 +19,7 @@ __Domains of interest:__
 
 
 
-* [semiotics](../Community/Semiotics.md "Community:Semiotics")
+* [semiotics](../Community/Semiotics "Community:Semiotics")
 * [ontologies](http://ontologydesignpatterns.org/wiki/Special:AddData/Domain Form/Community:Ontologies "Community:Ontologies (not yet written)")
 * [journalism](http://ontologydesignpatterns.org/wiki/Special:AddData/Domain Form/Community:Journalism "Community:Journalism (not yet written)")
 * [mass communication](http://ontologydesignpatterns.org/wiki/Special:AddData/Domain Form/Community:Mass_communication "Community:Mass communication (not yet written)")
@@ -39,5 +39,5 @@ __How did I know about ODP:__ surfing the web
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/User:AdolfoAnt%C3%B3nBravo](../User/AdolfoAntónBravo.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ODPUser](../Category/ODPUser.md "Category:ODPUser")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/User:AdolfoAnt%C3%B3nBravo](../User/AdolfoAntónBravo)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ODPUser](../Category/ODPUser "Category:ODPUser")

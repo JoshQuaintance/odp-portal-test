@@ -5,4 +5,4 @@ There is currently no text in this page, you can [search for this page title](ht
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Odp:Privacy\_policy](../Odp/Privacy_policy.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Odp:Privacy\_policy](../Odp/Privacy_policy)"

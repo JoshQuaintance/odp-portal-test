@@ -1,5 +1,5 @@
 __Description__. This property indicates a brief description of the entity it refers to.
-The value of this property is of type [Text](../Type/Text.md "Type:Text").
+The value of this property is of type [Text](../Type/Text "Type:Text").
 
 
 

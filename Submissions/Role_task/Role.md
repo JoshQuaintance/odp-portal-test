@@ -1,4 +1,4 @@
-___Role__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [Role task](../../Submissions/Role_task.md "Submissions:Role task")_
+___Role__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [Role task](../../Submissions/Role_task "Submissions:Role task")_
 
 
   
@@ -6,7 +6,7 @@ ___Role__ has [Category:OntologyElement](../../Category/OntologyElement.md "Cate
 
 
 
-[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif.md "Class")
+[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif "Class")
 __Name__: role 
 
 
@@ -19,5 +19,5 @@ __Description__: A concept that classifies an object. For example, the role deve
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Role\_task/Role](../../Community/AcademicRoles.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Role\_task/Role](../../Community/AcademicRoles)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

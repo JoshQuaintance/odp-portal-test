@@ -44,8 +44,8 @@ _Related Modeling Issues:_
 
 
 
-* [Overloading OWL sameAs](../Community/Overloading_OWL_sameAs.md "Community:Overloading OWL sameAs")
-* [Versioning and URIs](../Community/Versioning_and_URIs.md "Community:Versioning and URIs")
+* [Overloading OWL sameAs](../Community/Overloading_OWL_sameAs "Community:Overloading OWL sameAs")
+* [Versioning and URIs](../Community/Versioning_and_URIs "Community:Versioning and URIs")
 
 
 _Example(s)_
@@ -88,11 +88,11 @@ From all this, Uschold teased out three distinct but closely related modeling is
 
 
 
-1. [Overloading OWL sameAs](../Community/Overloading_OWL_sameAs.md "Community:Overloading OWL sameAs"): sameAs is being used in the linked data community in a way that is inconsistent with its semantics
+1. [Overloading OWL sameAs](../Community/Overloading_OWL_sameAs "Community:Overloading OWL sameAs"): sameAs is being used in the linked data community in a way that is inconsistent with its semantics
 2. __Proliferation of URIs, Managing Coreference__: How to avoid or manage two negative consequences to the current proliferation of new URIs being minted for the same things. Specifically:
 	1. it is hard to find when two things should be the same
 	2. even if you can find the links, prolific use of owl:sameAs will create computational problems.
-3. [Versioning and URIs](../Community/Versioning_and_URIs.md "Community:Versioning and URIs"): When and whether to make new URIs for different versions of things.
+3. [Versioning and URIs](../Community/Versioning_and_URIs "Community:Versioning and URIs"): When and whether to make new URIs for different versions of things.
 
 
   
@@ -257,11 +257,11 @@ So multiple URIs for the same thing is life, a constant tradeoff, but life is, o
 
 
 
-* Thread: Managing Co-reference (Was: A Semantic Elephant?) [Discussion Forum](http://lists.w3.org/Archives/Public/semantic-web/2008May/0078.html "http://lists.w3.org/Archives/Public/semantic-web/2008May/0078.html") | [reference page](../Community/References/W3C_SemWeb_Thread.md "Community:References/W3C SemWeb Thread")
+* Thread: Managing Co-reference (Was: A Semantic Elephant?) [Discussion Forum](http://lists.w3.org/Archives/Public/semantic-web/2008May/0078.html "http://lists.w3.org/Archives/Public/semantic-web/2008May/0078.html") | [reference page](../Community/References/W3C_SemWeb_Thread "Community:References/W3C SemWeb Thread")
 
 
- [List of Modeling Issues](../Community/Main.md "Community:Main") | [Post a new modeling issue](../Community/PostModelingIssue.md "Community:PostModelingIssue") | [Add a comment in the discussion page](index.php@title=Odp%253AAdd_comment&target=Community_talk%253AProliferation_of_URIs,_Managing_Coreference.html#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Community_talk:Proliferation_of_URIs%2C_Managing_Coreference#New_comment")
+ [List of Modeling Issues](../Community/Main "Community:Main") | [Post a new modeling issue](../Community/PostModelingIssue "Community:PostModelingIssue") | [Add a comment in the discussion page](index.php@title=Odp%253AAdd_comment&target=Community_talk%253AProliferation_of_URIs,_Managing_Coreference.html#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Community_talk:Proliferation_of_URIs%2C_Managing_Coreference#New_comment")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Community:Proliferation\_of\_URIs%2C\_Managing\_Coreference](../Community/Proliferation_of_URIs,_Managing_Coreference.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ModelingIssue](../Category/ModelingIssue.md "Category:ModelingIssue")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Community:Proliferation\_of\_URIs%2C\_Managing\_Coreference](../Community/Proliferation_of_URIs,_Managing_Coreference)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ModelingIssue](../Category/ModelingIssue "Category:ModelingIssue")

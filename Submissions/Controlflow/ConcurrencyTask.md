@@ -1,4 +1,4 @@
-___ConcurrencyTask__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [Controlflow](../../Submissions/Controlflow.md "Submissions:Controlflow")_
+___ConcurrencyTask__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [Controlflow](../../Submissions/Controlflow "Submissions:Controlflow")_
 
 
   
@@ -6,7 +6,7 @@ ___ConcurrencyTask__ has [Category:OntologyElement](../../Category/OntologyEleme
 
 
 
-[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif.md "Class")
+[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif "Class")
 __Name__: ConcurrencyTask 
 
 
@@ -19,5 +19,5 @@ __Description__: A concurrent task is a task branched to a set of tasks executab
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Controlflow/ConcurrencyTask](../../Submissions/Controlflow/ConcurrencyTask.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Controlflow/ConcurrencyTask](../../Submissions/Controlflow/ConcurrencyTask)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

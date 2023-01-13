@@ -1,4 +1,4 @@
-___isIncludedInParticipation__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [Nary Participation](../../Submissions/Nary_Participation.md "Submissions:Nary Participation")_
+___isIncludedInParticipation__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [Nary Participation](../../Submissions/Nary_Participation "Submissions:Nary Participation")_
 
 
   
@@ -6,18 +6,18 @@ ___isIncludedInParticipation__ has [Category:OntologyElement](../../Category/Ont
 
 
 
-[![ObjectProperty](../../images/thumb/c/c3/ObjectProperty.gif/45px-ObjectProperty.gif)](../../Image/ObjectProperty.gif.md "ObjectProperty")
+[![ObjectProperty](../../images/thumb/c/c3/ObjectProperty.gif/45px-ObjectProperty.gif)](../../Image/ObjectProperty.gif "ObjectProperty")
 __Name__: isIncludedInParticipation 
 
 
 __Type:__ owl:ObjectProperty 
 
 
-__Description__: The relation holding between any  [Entity](../../Submissions/Situation/Entity.md "Submissions:Situation/Entity") and a  [NaryParticipation](../../Submissions/Nary_Participation/NaryParticipation.md "Submissions:Nary Participation/NaryParticipation"). 
+__Description__: The relation holding between any  [Entity](../../Submissions/Situation/Entity "Submissions:Situation/Entity") and a  [NaryParticipation](../../Submissions/Nary_Participation/NaryParticipation "Submissions:Nary Participation/NaryParticipation"). 
 
 
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Nary\_Participation/isIncludedInParticipation](../../Submissions/Nary_Participation/isIncludedInParticipation.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Nary\_Participation/isIncludedInParticipation](../../Submissions/Nary_Participation/isIncludedInParticipation)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

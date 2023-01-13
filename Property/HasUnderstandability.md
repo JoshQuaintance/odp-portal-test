@@ -1,4 +1,4 @@
-This is a property of type [Text](../Type/Text.md "Type:Text").
+This is a property of type [Text](../Type/Text "Type:Text").
 
 
 

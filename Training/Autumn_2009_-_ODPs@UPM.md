@@ -26,7 +26,7 @@ __Instructions for homework exercise:__
 * Work in pairs of two students.
 * Study the Content ODPs in the catalogue (in this wiki, see menu on the left 'catalogues'->'Content ODPs'), decide which ones you want to use, download and reuse their OWL building blocks while modelling.
 * Try to apply the XD method if you find it useful to structure your work.
-* Either use the XD plugin for the NTK to find and get the patterns, or use the portal (the catalogue in this wiki) and just download the OWL-files, put them in your workspace folder, import them into your current ontology in the NTK and then specialize/compose etc. If you want to use the XD plugin some instructions can be found  [here.](../Training/Autumn_2009_-_ODPs@UPM/XD-help.md "Training:Autumn 2009 - ODPs@UPM/XD-help")
+* Either use the XD plugin for the NTK to find and get the patterns, or use the portal (the catalogue in this wiki) and just download the OWL-files, put them in your workspace folder, import them into your current ontology in the NTK and then specialize/compose etc. If you want to use the XD plugin some instructions can be found  [here.](../Training/Autumn_2009_-_ODPs@UPM/XD-help "Training:Autumn 2009 - ODPs@UPM/XD-help")
 * Solve the modelling problem (see exercise below). The CQs and contextual statement are your requirements, the rest is just an example scenario description.
 * After working on the problem for __3 hours__ (or less if you finished the task already) save the OWL file and send it to me (_evabl444<<at>>gmail<<dot>>com_ or _eva<<dot>>blomqvist<<at>>istc<<dot>>cnr<<dot>>it_). This helps us to see how difficult you found the exercise, to assess the size and difficulty of the task.
 * When you send your first version of the ontology, you will receive a short questionnaire back, this is for evaluating the course and your experience with using the patterns. Please fill it out _individually_ and submit it to me by e-mail.
@@ -48,12 +48,12 @@ __Exercises__:
 
 
 
-* [Autumn 2009 - ODPs@UPM/Homework exercise - modelling theater productions](../Training/Autumn_2009_-_ODPs@UPM/Homework_exercise_-_modelling_theater_productions.md "Training:Autumn 2009 - ODPs@UPM/Homework exercise - modelling theater productions")
+* [Autumn 2009 - ODPs@UPM/Homework exercise - modelling theater productions](../Training/Autumn_2009_-_ODPs@UPM/Homework_exercise_-_modelling_theater_productions "Training:Autumn 2009 - ODPs@UPM/Homework exercise - modelling theater productions")
 
 
-[Create exercise for this tutorial](http://ontologydesignpatterns.org/wiki/Special:AddData/Form:Tutorial_Exercise_Form?Exercise_Description_Template[Tutorial]=Autumn 2009 - ODPs@UPM) | [Training area](../Training/Main.md "Training:Main")
+[Create exercise for this tutorial](http://ontologydesignpatterns.org/wiki/Special:AddData/Form:Tutorial_Exercise_Form?Exercise_Description_Template[Tutorial]=Autumn 2009 - ODPs@UPM) | [Training area](../Training/Main "Training:Main")
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Training:Autumn\_2009\_-\_ODPs%40UPM](../Training/Autumn_2009_-_ODPs@UPM.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Tutorial](../Category/Tutorial.md "Category:Tutorial")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Training:Autumn\_2009\_-\_ODPs%40UPM](../Training/Autumn_2009_-_ODPs@UPM)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Tutorial](../Category/Tutorial "Category:Tutorial")

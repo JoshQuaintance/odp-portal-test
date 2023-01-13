@@ -1,6 +1,6 @@
-* [Image](../Image/Bferris_100x100.png.md#file)
-* [File history](../Image/Bferris_100x100.png.md#filehistory)
-* [Links](../Image/Bferris_100x100.png.md#filelinks)
+* [Image](../Image/Bferris_100x100.png#file)
+* [File history](../Image/Bferris_100x100.png#filehistory)
+* [Links](../Image/Bferris_100x100.png#filelinks)
 
 [![Image:Bferris 100x100.png](../images/1/19/Bferris_100x100.png)](../images/1/19/Bferris_100x100.png)  
 No higher resolution available.  
@@ -23,7 +23,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [User:BobFerris](../User/BobFerris.md "User:BobFerris")
+* [User:BobFerris](../User/BobFerris "User:BobFerris")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Bferris\_100x100.png](../Image/Bferris_100x100.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Bferris\_100x100.png](../Image/Bferris_100x100.png)"

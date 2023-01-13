@@ -1,4 +1,4 @@
-Return to [Catalogue of Exemplary Ontologies](../Ontology/Main.md "Ontology:Main")
+Return to [Catalogue of Exemplary Ontologies](../Ontology/Main "Ontology:Main")
 
 
 
@@ -38,5 +38,5 @@ Furthermore, this ontology includes a wo:Scale, which is modeled as a sub class 
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Ontology:Weighting\_Ontology](../Ontology/Weighting_Ontology.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Ontology](../Category/Ontology.md "Category:Ontology")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Ontology:Weighting\_Ontology](../Ontology/Weighting_Ontology)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Ontology](../Category/Ontology "Category:Ontology")

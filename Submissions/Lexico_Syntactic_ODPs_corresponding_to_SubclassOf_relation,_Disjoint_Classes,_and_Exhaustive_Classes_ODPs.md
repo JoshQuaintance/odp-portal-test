@@ -1,4 +1,4 @@
-[![](../images/thumb/b/b5/Certified.png/70px-Certified.png)](../Image/Certified.png.md "Certified.png") __This pattern has been certified.__
+[![](../images/thumb/b/b5/Certified.png/70px-Certified.png)](../Image/Certified.png "Certified.png") __This pattern has been certified.__
 Related submission, with evaluation history, can be found __here__
 
 
@@ -16,7 +16,7 @@ Related submission, with evaluation history, can be found __here__
 #  Cases
 
 
-_The __Lexico Syntactic ODPs corresponding to SubclassOf relation, Disjoint Classes, and Exhaustive Classes ODPs__ Lexico-Syntactic ODP includes the following cases (see also [abbreviations and symbols used in LSP Formalization](../Community/LSPSymbols.md "Community:LSPSymbols")):_
+_The __Lexico Syntactic ODPs corresponding to SubclassOf relation, Disjoint Classes, and Exhaustive Classes ODPs__ Lexico-Syntactic ODP includes the following cases (see also [abbreviations and symbols used in LSP Formalization](../Community/LSPSymbols "Community:LSPSymbols")):_
 
 
   
@@ -49,7 +49,7 @@ __Reusable JAPE code__: [SC\_Di\_EC\_3.jape](../images/c/c3/SC_Di_EC_3.jape "SC 
 
 
 
-[![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[1](../Submissions/Lexico_Syntactic_ODPs_corresponding_to_SubclassOf_relation,_Disjoint_Classes,_and_Exhaustive_Classes_ODPs/1.md "Submissions:Lexico Syntactic ODPs corresponding to SubclassOf relation, Disjoint Classes, and Exhaustive Classes ODPs/1") page_
+[![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif "ArrowRight.gif") _[1](../Submissions/Lexico_Syntactic_ODPs_corresponding_to_SubclassOf_relation,_Disjoint_Classes,_and_Exhaustive_Classes_ODPs/1 "Submissions:Lexico Syntactic ODPs corresponding to SubclassOf relation, Disjoint Classes, and Exhaustive Classes ODPs/1") page_
 
 
 
@@ -78,7 +78,7 @@ __Reusable JAPE code__: [SC\_Di\_EC\_4\_5.jape](../images/2/2e/SC_Di_EC_4_5.jape
 
 
 
-[![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[2](../Submissions/Lexico_Syntactic_ODPs_corresponding_to_SubclassOf_relation,_Disjoint_Classes,_and_Exhaustive_Classes_ODPs/2.md "Submissions:Lexico Syntactic ODPs corresponding to SubclassOf relation, Disjoint Classes, and Exhaustive Classes ODPs/2") page_
+[![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif "ArrowRight.gif") _[2](../Submissions/Lexico_Syntactic_ODPs_corresponding_to_SubclassOf_relation,_Disjoint_Classes,_and_Exhaustive_Classes_ODPs/2 "Submissions:Lexico Syntactic ODPs corresponding to SubclassOf relation, Disjoint Classes, and Exhaustive Classes ODPs/2") page_
 
 
 
@@ -107,7 +107,7 @@ __Reusable JAPE code__: -
 
 
 
-[![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[3](../Submissions/Lexico_Syntactic_ODPs_corresponding_to_SubclassOf_relation,_Disjoint_Classes,_and_Exhaustive_Classes_ODPs/3.md "Submissions:Lexico Syntactic ODPs corresponding to SubclassOf relation, Disjoint Classes, and Exhaustive Classes ODPs/3") page_
+[![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif "ArrowRight.gif") _[3](../Submissions/Lexico_Syntactic_ODPs_corresponding_to_SubclassOf_relation,_Disjoint_Classes,_and_Exhaustive_Classes_ODPs/3 "Submissions:Lexico Syntactic ODPs corresponding to SubclassOf relation, Disjoint Classes, and Exhaustive Classes ODPs/3") page_
 
 
 
@@ -136,7 +136,7 @@ __Reusable JAPE code__: [SC\_Di\_EC\_2.jape](../images/e/ec/SC_Di_EC_2.jape "SC 
 
 
 
-[![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[4](../Submissions/Lexico_Syntactic_ODPs_corresponding_to_SubclassOf_relation,_Disjoint_Classes,_and_Exhaustive_Classes_ODPs/4.md "Submissions:Lexico Syntactic ODPs corresponding to SubclassOf relation, Disjoint Classes, and Exhaustive Classes ODPs/4") page_
+[![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif "ArrowRight.gif") _[4](../Submissions/Lexico_Syntactic_ODPs_corresponding_to_SubclassOf_relation,_Disjoint_Classes,_and_Exhaustive_Classes_ODPs/4 "Submissions:Lexico Syntactic ODPs corresponding to SubclassOf relation, Disjoint Classes, and Exhaustive Classes ODPs/4") page_
 
 
 
@@ -190,5 +190,5 @@ There is no Modeling issue related to this proposal.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Lexico\_Syntactic\_ODPs\_corresponding\_to\_SubclassOf\_relation%2C\_Disjoint\_Classes%2C\_and\_Exhaustive\_Classes\_ODPs](../Submissions/Lexico_Syntactic_ODPs_corresponding_to_SubclassOf_relation,_Disjoint_Classes,_and_Exhaustive_Classes_ODPs.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ProposedLexicoSyntacticOP](../Category/ProposedLexicoSyntacticOP.md "Category:ProposedLexicoSyntacticOP")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Lexico\_Syntactic\_ODPs\_corresponding\_to\_SubclassOf\_relation%2C\_Disjoint\_Classes%2C\_and\_Exhaustive\_Classes\_ODPs](../Submissions/Lexico_Syntactic_ODPs_corresponding_to_SubclassOf_relation,_Disjoint_Classes,_and_Exhaustive_Classes_ODPs)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ProposedLexicoSyntacticOP](../Category/ProposedLexicoSyntacticOP "Category:ProposedLexicoSyntacticOP")

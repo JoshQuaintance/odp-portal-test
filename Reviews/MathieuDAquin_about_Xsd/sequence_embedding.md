@@ -1,5 +1,5 @@
-[![](../../images/thumb/2/29/Reviewer.png/48px-Reviewer.png)](../../Image/Reviewer.png.md "Reviewer.png")
-__[MathieuDAquin](../../User/MathieuDAquin.md "User:MathieuDAquin") about [Xsd:sequence embedding](../../Submissions/Xsd/sequence_embedding.md "Submissions:Xsd:sequence embedding") (Revision ID: [embedding?oldid=5628 5628](../../Submissions/Xsd/sequence.md "http://ontologydesignpatterns.org/wiki/Submissions:Xsd:sequence"))__
+[![](../../images/thumb/2/29/Reviewer.png/48px-Reviewer.png)](../../Image/Reviewer.png "Reviewer.png")
+__[MathieuDAquin](../../User/MathieuDAquin "User:MathieuDAquin") about [Xsd:sequence embedding](../../Submissions/Xsd/sequence_embedding "Submissions:Xsd:sequence embedding") (Revision ID: [embedding?oldid=5628 5628](../../Submissions/Xsd/sequence "http://ontologydesignpatterns.org/wiki/Submissions:Xsd:sequence"))__
 Overall suggestion (score): 0 - needs major revision
 
 
@@ -28,8 +28,8 @@ _Posted:_ 2009/9/8 _Last modified:_ 2009/9/8
 
 
 
-[All reviews](../../Reviews/Main.md "Reviews:Main") | [Add a comment at the bottom of this page](index.php@title=Odp%253AAdd_comment&target=../../Reviews/MathieuDAquin_about_Xsd/sequence_embedding.md#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Reviews:MathieuDAquin_about_Xsd:sequence_embedding#New_comment")
+[All reviews](../../Reviews/Main "Reviews:Main") | [Add a comment at the bottom of this page](index.php@title=Odp%253AAdd_comment&target=../../Reviews/MathieuDAquin_about_Xsd/sequence_embedding#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Reviews:MathieuDAquin_about_Xsd:sequence_embedding#New_comment")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Reviews:MathieuDAquin\_about\_Xsd:sequence\_embedding](../../Reviews/MathieuDAquin_about_Xsd/sequence_embedding.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [QCReview](../../Category/QCReview.md "Category:QCReview")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Reviews:MathieuDAquin\_about\_Xsd:sequence\_embedding](../../Reviews/MathieuDAquin_about_Xsd/sequence_embedding)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [QCReview](../../Category/QCReview "Category:QCReview")

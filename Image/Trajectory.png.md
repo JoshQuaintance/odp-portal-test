@@ -1,6 +1,6 @@
-* [Image](../Image/Trajectory.png.md#file)
-* [File history](../Image/Trajectory.png.md#filehistory)
-* [Links](../Image/Trajectory.png.md#filelinks)
+* [Image](../Image/Trajectory.png#file)
+* [File history](../Image/Trajectory.png#filehistory)
+* [Links](../Image/Trajectory.png#filelinks)
 
 [![Image:Trajectory.png](../images/8/87/Trajectory.png)](../images/8/87/Trajectory.png)  
 No higher resolution available.  
@@ -23,7 +23,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Submissions:Trajectory](../Submissions/Trajectory.md "Submissions:Trajectory")
+* [Submissions:Trajectory](../Submissions/Trajectory "Submissions:Trajectory")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Trajectory.png](../Image/Trajectory.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Trajectory.png](../Image/Trajectory.png)"

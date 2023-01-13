@@ -1,6 +1,6 @@
-* [Image](../Image/Met1.jpg.md#file)
-* [File history](../Image/Met1.jpg.md#filehistory)
-* [Links](../Image/Met1.jpg.md#filelinks)
+* [Image](../Image/Met1.jpg#file)
+* [File history](../Image/Met1.jpg#filehistory)
+* [Links](../Image/Met1.jpg#filelinks)
 
 [![Image:Met1.jpg](../images/f/fc/Met1.jpg)](../images/f/fc/Met1.jpg)  
 No higher resolution available.  
@@ -26,8 +26,8 @@ Click on a date/time to view the file as it appeared at that time.
 The following 2 pages link to this file:
 
 
-* [Community:Images](../Community/Images.md "Community:Images")
-* [Submissions:Metonymy-species-commodity](../Submissions/Metonymy-species-commodity.md "Submissions:Metonymy-species-commodity")
+* [Community:Images](../Community/Images "Community:Images")
+* [Submissions:Metonymy-species-commodity](../Submissions/Metonymy-species-commodity "Submissions:Metonymy-species-commodity")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Met1.jpg](../Image/Met1.jpg.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Met1.jpg](../Image/Met1.jpg)"

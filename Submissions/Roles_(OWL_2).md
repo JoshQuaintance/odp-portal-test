@@ -1,4 +1,4 @@
-[![](../images/thumb/b/b5/Certified.png/70px-Certified.png)](../Image/Certified.png.md "Certified.png") __This pattern has been certified.__
+[![](../images/thumb/b/b5/Certified.png/70px-Certified.png)](../Image/Certified.png "Certified.png") __This pattern has been certified.__
 Related submission, with evaluation history, can be found __here__
 
 
@@ -13,7 +13,7 @@ __Diagram__
 
 
 
-[![Image:Role.png](../images/5/59/Role.png)](../Image/Role.png.md "Image:Role.png")
+[![Image:Role.png](../images/5/59/Role.png)](../Image/Role.png "Image:Role.png")
 
 
 
@@ -109,5 +109,5 @@ There is no Modeling issue related to this proposal.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Roles\_%28OWL\_2%29](../Submissions/Roles_(OWL_2).md).md).html)"
- [Categories](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ProposedContentOP](../Category/ProposedContentOP.md "Category:ProposedContentOP") | [Waiting for review](../Category/Waiting_for_review.md "Category:Waiting for review")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Roles\_%28OWL\_2%29](../Submissions/Roles_(OWL_2)).md).md).html)"
+ [Categories](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ProposedContentOP](../Category/ProposedContentOP "Category:ProposedContentOP") | [Waiting for review](../Category/Waiting_for_review "Category:Waiting for review")

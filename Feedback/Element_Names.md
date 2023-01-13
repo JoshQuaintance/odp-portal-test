@@ -20,11 +20,11 @@ For example “Reviews”, “Catalogue”, and “Feedback” are included in t
 
 
 
-Go back to the  [Feedback main page](../Feedback/Main.md "Feedback:Main")
+Go back to the  [Feedback main page](../Feedback/Main "Feedback:Main")
 
 
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Feedback:Element\_Names](../Feedback/Element_Names.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Feedback](../Category/Feedback.md "Category:Feedback")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Feedback:Element\_Names](../Feedback/Element_Names)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Feedback](../Category/Feedback "Category:Feedback")

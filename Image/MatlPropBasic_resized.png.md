@@ -1,6 +1,6 @@
-* [Image](../Image/MatlPropBasic_resized.png.md#file)
-* [File history](../Image/MatlPropBasic_resized.png.md#filehistory)
-* [Links](../Image/MatlPropBasic_resized.png.md#filelinks)
+* [Image](../Image/MatlPropBasic_resized.png#file)
+* [File history](../Image/MatlPropBasic_resized.png#filehistory)
+* [Links](../Image/MatlPropBasic_resized.png#filelinks)
 
 [![Image:MatlPropBasic resized.png](../images/thumb/5/5b/MatlPropBasic_resized.png/490px-MatlPropBasic_resized.png)](../images/5/5b/MatlPropBasic_resized.png)  
 Size of this preview: 490 × 599 pixels  
@@ -23,7 +23,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Submissions:MaterialsProperty](../Submissions/MaterialsProperty.md "Submissions:MaterialsProperty")
+* [Submissions:MaterialsProperty](../Submissions/MaterialsProperty "Submissions:MaterialsProperty")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:MatlPropBasic\_resized.png](../Image/MatlPropBasic_resized.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:MatlPropBasic\_resized.png](../Image/MatlPropBasic_resized.png)"

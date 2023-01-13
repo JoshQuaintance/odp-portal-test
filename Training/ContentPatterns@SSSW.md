@@ -19,12 +19,12 @@ __Exercises__:
 
 
 
-* [ContentPatterns@SSSW/MusicIndustryExercise](../Training/ContentPatterns@SSSW/MusicIndustryExercise.md "Training:ContentPatterns@SSSW/MusicIndustryExercise")
+* [ContentPatterns@SSSW/MusicIndustryExercise](../Training/ContentPatterns@SSSW/MusicIndustryExercise "Training:ContentPatterns@SSSW/MusicIndustryExercise")
 
 
-[Create exercise for this tutorial](http://ontologydesignpatterns.org/wiki/Special:AddData/Form:Tutorial_Exercise_Form?Exercise_Description_Template[Tutorial]=ContentPatterns@SSSW) | [Training area](../Training/Main.md "Training:Main")
+[Create exercise for this tutorial](http://ontologydesignpatterns.org/wiki/Special:AddData/Form:Tutorial_Exercise_Form?Exercise_Description_Template[Tutorial]=ContentPatterns@SSSW) | [Training area](../Training/Main "Training:Main")
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Training:ContentPatterns%40SSSW](../Training/ContentPatterns@SSSW.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Tutorial](../Category/Tutorial.md "Category:Tutorial")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Training:ContentPatterns%40SSSW](../Training/ContentPatterns@SSSW)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Tutorial](../Category/Tutorial "Category:Tutorial")

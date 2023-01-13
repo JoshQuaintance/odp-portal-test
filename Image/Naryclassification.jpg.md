@@ -1,6 +1,6 @@
-* [Image](../Image/Naryclassification.jpg.md#file)
-* [File history](../Image/Naryclassification.jpg.md#filehistory)
-* [Links](../Image/Naryclassification.jpg.md#filelinks)
+* [Image](../Image/Naryclassification.jpg#file)
+* [File history](../Image/Naryclassification.jpg#filehistory)
+* [Links](../Image/Naryclassification.jpg#filelinks)
 
 [![Image:Naryclassification.jpg](../images/2/2b/Naryclassification.jpg)](../images/2/2b/Naryclassification.jpg)  
 No higher resolution available.  
@@ -23,7 +23,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Community:Images](../Community/Images.md "Community:Images")
+* [Community:Images](../Community/Images "Community:Images")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Naryclassification.jpg](../Image/Naryclassification.jpg.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Naryclassification.jpg](../Image/Naryclassification.jpg)"

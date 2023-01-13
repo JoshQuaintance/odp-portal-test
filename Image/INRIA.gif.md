@@ -1,6 +1,6 @@
-* [Image](../Image/INRIA.gif.md#file)
-* [File history](../Image/INRIA.gif.md#filehistory)
-* [Links](../Image/INRIA.gif.md#filelinks)
+* [Image](../Image/INRIA.gif#file)
+* [File history](../Image/INRIA.gif#filehistory)
+* [Links](../Image/INRIA.gif#filelinks)
 
 [![Image:INRIA.gif](../images/7/71/INRIA.gif)](../images/7/71/INRIA.gif)  
 No higher resolution available.  
@@ -25,4 +25,4 @@ There are no pages that link to this file.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:INRIA.gif](../Image/INRIA.gif.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:INRIA.gif](../Image/INRIA.gif)"

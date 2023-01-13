@@ -7,4 +7,4 @@ More details can be found here: [https://github.com/monarch-initiative/mondo-bui
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions\_talk:Create\_Disjoint\_Siblings](../Submissions_talk/Create_Disjoint_Siblings.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions\_talk:Create\_Disjoint\_Siblings](../Submissions_talk/Create_Disjoint_Siblings)"

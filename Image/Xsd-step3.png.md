@@ -1,6 +1,6 @@
-* [Image](../Image/Xsd-step3.png.md#file)
-* [File history](../Image/Xsd-step3.png.md#filehistory)
-* [Links](../Image/Xsd-step3.png.md#filelinks)
+* [Image](../Image/Xsd-step3.png#file)
+* [File history](../Image/Xsd-step3.png#filehistory)
+* [Links](../Image/Xsd-step3.png#filelinks)
 
 [![Image:Xsd-step3.png](../images/thumb/3/35/Xsd-step3.png/800px-Xsd-step3.png)](../images/3/35/Xsd-step3.png)  
 Size of this preview: 800 × 338 pixels  
@@ -23,7 +23,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Submissions:Xsd:sequence embedding](../Submissions/Xsd/sequence_embedding.md "Submissions:Xsd:sequence embedding")
+* [Submissions:Xsd:sequence embedding](../Submissions/Xsd/sequence_embedding "Submissions:Xsd:sequence embedding")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Xsd-step3.png](../Image/Xsd-step3.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Xsd-step3.png](../Image/Xsd-step3.png)"

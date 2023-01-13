@@ -1,4 +1,4 @@
-This is a property of type [String](../Type/String.md "Type:String").
+This is a property of type [String](../Type/String "Type:String").
 
 
 This field allows the following values (based on [ISO Standard 3166-1](http://en.wikipedia.org/wiki/ISO_3166-1 "http://en.wikipedia.org/wiki/ISO_3166-1")):

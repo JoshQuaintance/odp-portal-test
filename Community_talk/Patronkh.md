@@ -7,4 +7,4 @@ Thanks
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Community\_talk:Patronkh](../Community_talk/Patronkh.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Community\_talk:Patronkh](../Community_talk/Patronkh)"

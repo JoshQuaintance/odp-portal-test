@@ -35,9 +35,9 @@ _Actions:_
 
 
 
-* [View or Contribute to modeling issues already posted](../Community/Main.md "Community:Main")
-* [How do I Post or Contribute to a modeling issue?](../Submissions/HowDoISubmitAModelllingIssue.md "Submissions:HowDoISubmitAModelllingIssue")
-* [Post a modeling issue now.](../Community/PostModelingIssue.md "Community:PostModelingIssue")
+* [View or Contribute to modeling issues already posted](../Community/Main "Community:Main")
+* [How do I Post or Contribute to a modeling issue?](../Submissions/HowDoISubmitAModelllingIssue "Submissions:HowDoISubmitAModelllingIssue")
+* [Post a modeling issue now.](../Community/PostModelingIssue "Community:PostModelingIssue")
 
 
   
@@ -47,4 +47,4 @@ _Actions:_
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Odp:WhatIsAModelingIssue](../Odp/WhatIsAModelingIssue.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Odp:WhatIsAModelingIssue](../Odp/WhatIsAModelingIssue)"

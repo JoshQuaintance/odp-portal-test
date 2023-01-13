@@ -1,6 +1,6 @@
-* [Image](../Image/Class-by-relation-domain-exclusion.png.md#file)
-* [File history](../Image/Class-by-relation-domain-exclusion.png.md#filehistory)
-* [Links](../Image/Class-by-relation-domain-exclusion.png.md#filelinks)
+* [Image](../Image/Class-by-relation-domain-exclusion.png#file)
+* [File history](../Image/Class-by-relation-domain-exclusion.png#filehistory)
+* [Links](../Image/Class-by-relation-domain-exclusion.png#filelinks)
 
 [![Image:Class-by-relation-domain-exclusion.png](../images/e/e2/Class-by-relation-domain-exclusion.png)](../images/e/e2/Class-by-relation-domain-exclusion.png)  
 No higher resolution available.  
@@ -25,4 +25,4 @@ There are no pages that link to this file.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Class-by-relation-domain-exclusion.png](../Image/Class-by-relation-domain-exclusion.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Class-by-relation-domain-exclusion.png](../Image/Class-by-relation-domain-exclusion.png)"

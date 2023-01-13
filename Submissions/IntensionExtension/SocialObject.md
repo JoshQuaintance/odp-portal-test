@@ -1,4 +1,4 @@
-___SocialObject__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [IntensionExtension](../../Submissions/IntensionExtension.md "Submissions:IntensionExtension")_
+___SocialObject__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [IntensionExtension](../../Submissions/IntensionExtension "Submissions:IntensionExtension")_
 
 
   
@@ -6,7 +6,7 @@ ___SocialObject__ has [Category:OntologyElement](../../Category/OntologyElement.
 
 
 
-[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif.md "Class")
+[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif "Class")
 __Name__: SocialObject 
 
 
@@ -22,5 +22,5 @@ In other words, all objects that have been created in the process of social comm
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:IntensionExtension/SocialObject](../../Submissions/IntensionExtension/SocialObject.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:IntensionExtension/SocialObject](../../Submissions/IntensionExtension/SocialObject)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

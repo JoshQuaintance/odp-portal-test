@@ -1,4 +1,4 @@
-___inRelationship__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [CommunicationEvent](../../Submissions/CommunicationEvent.md "Submissions:CommunicationEvent")_
+___inRelationship__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [CommunicationEvent](../../Submissions/CommunicationEvent "Submissions:CommunicationEvent")_
 
 
   
@@ -6,7 +6,7 @@ ___inRelationship__ has [Category:OntologyElement](../../Category/OntologyElemen
 
 
 
-[![ObjectProperty](../../images/thumb/c/c3/ObjectProperty.gif/45px-ObjectProperty.gif)](../../Image/ObjectProperty.gif.md "ObjectProperty")
+[![ObjectProperty](../../images/thumb/c/c3/ObjectProperty.gif/45px-ObjectProperty.gif)](../../Image/ObjectProperty.gif "ObjectProperty")
 __Name__: inRelationship 
 
 
@@ -19,5 +19,5 @@ __Description__:
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:CommunicationEvent/inRelationship](../../Submissions/CommunicationEvent/inRelationship.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:CommunicationEvent/inRelationship](../../Submissions/CommunicationEvent/inRelationship)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

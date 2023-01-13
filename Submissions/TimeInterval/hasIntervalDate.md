@@ -1,4 +1,4 @@
-___hasIntervalDate__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [TimeInterval](../../Submissions/TimeInterval.md "Submissions:TimeInterval")_
+___hasIntervalDate__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [TimeInterval](../../Submissions/TimeInterval "Submissions:TimeInterval")_
 
 
   
@@ -6,7 +6,7 @@ ___hasIntervalDate__ has [Category:OntologyElement](../../Category/OntologyEleme
 
 
 
-[![DatatypeProperty](../../images/thumb/a/a5/DatatypeProperty.gif/45px-DatatypeProperty.gif)](../../Image/DatatypeProperty.gif.md "DatatypeProperty")
+[![DatatypeProperty](../../images/thumb/a/a5/DatatypeProperty.gif/45px-DatatypeProperty.gif)](../../Image/DatatypeProperty.gif "DatatypeProperty")
 __Name__: has interval date 
 
 
@@ -20,5 +20,5 @@ same time interval can have more than one xsd:date value: begin date, end date, 
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:TimeInterval/hasIntervalDate](../../Submissions/TimeInterval/hasIntervalDate.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:TimeInterval/hasIntervalDate](../../Submissions/TimeInterval/hasIntervalDate)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

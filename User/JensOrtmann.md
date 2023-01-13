@@ -1,4 +1,4 @@
-[![Image:ODPUser.png](../images/a/a6/ODPUser.png)](../Image/ODPUser.png.md "Image:ODPUser.png")
+[![Image:ODPUser.png](../images/a/a6/ODPUser.png)](../Image/ODPUser.png "Image:ODPUser.png")
 
 
 
@@ -20,7 +20,7 @@ __Domains of interest:__
 
 
 * [Geographic Information Science](http://ontologydesignpatterns.org/wiki/Special:AddData/Domain Form/Community:Geographic_Information_Science "Community:Geographic Information Science (not yet written)")
-* [Ecology](../Community/Ecology.md "Community:Ecology")
+* [Ecology](../Community/Ecology "Community:Ecology")
 * [Ecological Psychology](http://ontologydesignpatterns.org/wiki/Special:AddData/Domain Form/Community:Ecological_Psychology "Community:Ecological Psychology (not yet written)")
 
 
@@ -36,5 +36,5 @@ __How did I know about ODP:__ conference/public events, surfing the web
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/User:JensOrtmann](../User/JensOrtmann.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ODPUser](../Category/ODPUser.md "Category:ODPUser")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/User:JensOrtmann](../User/JensOrtmann)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ODPUser](../Category/ODPUser "Category:ODPUser")

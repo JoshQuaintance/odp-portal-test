@@ -1,4 +1,4 @@
-___reportingYear__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [CatchRecord](../../Submissions/CatchRecord.md "Submissions:CatchRecord")_
+___reportingYear__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [CatchRecord](../../Submissions/CatchRecord "Submissions:CatchRecord")_
 
 
   
@@ -6,7 +6,7 @@ ___reportingYear__ has [Category:OntologyElement](../../Category/OntologyElement
 
 
 
-[![DatatypeProperty](../../images/thumb/a/a5/DatatypeProperty.gif/45px-DatatypeProperty.gif)](../../Image/DatatypeProperty.gif.md "DatatypeProperty")
+[![DatatypeProperty](../../images/thumb/a/a5/DatatypeProperty.gif/45px-DatatypeProperty.gif)](../../Image/DatatypeProperty.gif "DatatypeProperty")
 __Name__: reportingYear 
 
 
@@ -19,5 +19,5 @@ __Description__: The year in which a catch record has been officially reported (
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:CatchRecord/reportingYear](../../Submissions/CatchRecord/reportingYear.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:CatchRecord/reportingYear](../../Submissions/CatchRecord/reportingYear)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

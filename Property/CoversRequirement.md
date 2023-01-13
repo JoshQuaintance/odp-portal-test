@@ -1,9 +1,9 @@
 __CoversRequirement__
 This property indicates a competency question expressed in natural language, that is covered by the Content Ontology Design Pattern. 
-The value of this property is of type [Text](../Type/Text.md "Type:Text").
+The value of this property is of type [Text](../Type/Text "Type:Text").
 
 
-This property is a subproperty of [Property:PatternProblem](../Property/PatternProblem.md "Property:PatternProblem").
+This property is a subproperty of [Property:PatternProblem](../Property/PatternProblem "Property:PatternProblem").
 
 
 

@@ -64,4 +64,4 @@ RRs:
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Training:PhD\_Course\_on\_Computational\_Ontologies\_%40\_University\_of\_Bologna\_2011/Collaborative\_eXtreme\_Design/I3Pair](../../../Training/PhD_Course_on_Computational_Ontologies_@_University_of_Bologna_2011/Collaborative_eXtreme_Design/I3Pair.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Training:PhD\_Course\_on\_Computational\_Ontologies\_%40\_University\_of\_Bologna\_2011/Collaborative\_eXtreme\_Design/I3Pair](../../../Training/PhD_Course_on_Computational_Ontologies_@_University_of_Bologna_2011/Collaborative_eXtreme_Design/I3Pair)"

@@ -1,6 +1,6 @@
-* [Image](../Image/Class-by-attribute-value.png.md#file)
-* [File history](../Image/Class-by-attribute-value.png.md#filehistory)
-* [Links](../Image/Class-by-attribute-value.png.md#filelinks)
+* [Image](../Image/Class-by-attribute-value.png#file)
+* [File history](../Image/Class-by-attribute-value.png#filehistory)
+* [Links](../Image/Class-by-attribute-value.png#filelinks)
 
 [![Image:Class-by-attribute-value.png](../images/f/fa/Class-by-attribute-value.png)](../images/f/fa/Class-by-attribute-value.png)  
 No higher resolution available.  
@@ -23,9 +23,9 @@ Click on a date/time to view the file as it appeared at that time.
 The following 3 pages link to this file:
 
 
-* [Community:Images](../Community/Images.md "Community:Images")
-* [Category:AlignmentOP](../Category/AlignmentOP.md "Category:AlignmentOP")
-* [Submissions:Class by attribute value](../Submissions/Class_by_attribute_value.md "Submissions:Class by attribute value")
+* [Community:Images](../Community/Images "Community:Images")
+* [Category:AlignmentOP](../Category/AlignmentOP "Category:AlignmentOP")
+* [Submissions:Class by attribute value](../Submissions/Class_by_attribute_value "Submissions:Class by attribute value")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Class-by-attribute-value.png](../Image/Class-by-attribute-value.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Class-by-attribute-value.png](../Image/Class-by-attribute-value.png)"

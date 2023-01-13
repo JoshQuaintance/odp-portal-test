@@ -1,4 +1,4 @@
-Indicates what if any licenses an ontology may be obtained under. This is a property of type [String](../Type/String.md "Type:String").
+Indicates what if any licenses an ontology may be obtained under. This is a property of type [String](../Type/String "Type:String").
 
 
 
@@ -13,4 +13,4 @@ Showing 10 pages using this property.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Property:OntologyLicensing](../Property/OntologyLicensing.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Property:OntologyLicensing](../Property/OntologyLicensing)"

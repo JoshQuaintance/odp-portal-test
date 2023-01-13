@@ -19,7 +19,7 @@ __Description:__ Is it possible to allow all ODP users to see what templates are
 
 
 
-Go back to the  [Feedback main page](../Feedback/Main.md "Feedback:Main")
+Go back to the  [Feedback main page](../Feedback/Main "Feedback:Main")
 
 
   
@@ -29,5 +29,5 @@ Go back to the  [Feedback main page](../Feedback/Main.md "Feedback:Main")
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Feedback:Templates\_definition\_functionality](../Feedback/Templates_definition_functionality.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Feedback](../Category/Feedback.md "Category:Feedback")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Feedback:Templates\_definition\_functionality](../Feedback/Templates_definition_functionality)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Feedback](../Category/Feedback "Category:Feedback")

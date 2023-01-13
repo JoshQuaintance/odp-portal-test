@@ -1,8 +1,8 @@
-* [Image](../Image/ODPA-approved-charter.pdf.md#file)
-* [File history](../Image/ODPA-approved-charter.pdf.md#filehistory)
-* [Links](../Image/ODPA-approved-charter.pdf.md#filelinks)
+* [Image](../Image/ODPA-approved-charter.pdf#file)
+* [File history](../Image/ODPA-approved-charter.pdf#filehistory)
+* [Links](../Image/ODPA-approved-charter.pdf#filelinks)
 
-[![](../skins/common/images/icons/fileicon-pdf.png)](../Image/ODPA-approved-charter.pdf.md "ODPA-approved-charter.pdf")
+[![](../skins/common/images/icons/fileicon-pdf.png)](../Image/ODPA-approved-charter.pdf "ODPA-approved-charter.pdf")
 [ODPA-approved-charter.pdf](../images/a/a3/ODPA-approved-charter.pdf "ODPA-approved-charter.pdf")‎  (file size: 40 KB, MIME type: application/pdf)
 
 
@@ -26,7 +26,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [ODPA](../ODPA.md "ODPA")
+* [ODPA](../ODPA "ODPA")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:ODPA-approved-charter.pdf](../Image/ODPA-approved-charter.pdf.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:ODPA-approved-charter.pdf](../Image/ODPA-approved-charter.pdf)"

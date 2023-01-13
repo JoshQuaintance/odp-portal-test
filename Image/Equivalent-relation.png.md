@@ -1,6 +1,6 @@
-* [Image](../Image/Equivalent-relation.png.md#file)
-* [File history](../Image/Equivalent-relation.png.md#filehistory)
-* [Links](../Image/Equivalent-relation.png.md#filelinks)
+* [Image](../Image/Equivalent-relation.png#file)
+* [File history](../Image/Equivalent-relation.png#filehistory)
+* [Links](../Image/Equivalent-relation.png#filelinks)
 
 [![Image:Equivalent-relation.png](../images/1/15/Equivalent-relation.png)](../images/1/15/Equivalent-relation.png)  
 No higher resolution available.  
@@ -25,4 +25,4 @@ There are no pages that link to this file.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Equivalent-relation.png](../Image/Equivalent-relation.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Equivalent-relation.png](../Image/Equivalent-relation.png)"

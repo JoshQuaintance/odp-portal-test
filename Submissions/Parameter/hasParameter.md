@@ -1,4 +1,4 @@
-___hasParameter__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [Parameter](../../Submissions/Parameter.md "Submissions:Parameter")_
+___hasParameter__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [Parameter](../../Submissions/Parameter "Submissions:Parameter")_
 
 
   
@@ -6,7 +6,7 @@ ___hasParameter__ has [Category:OntologyElement](../../Category/OntologyElement.
 
 
 
-[![ObjectProperty](../../images/thumb/c/c3/ObjectProperty.gif/45px-ObjectProperty.gif)](../../Image/ObjectProperty.gif.md "ObjectProperty")
+[![ObjectProperty](../../images/thumb/c/c3/ObjectProperty.gif/45px-ObjectProperty.gif)](../../Image/ObjectProperty.gif "ObjectProperty")
 __Name__: hasParameter 
 
 
@@ -19,5 +19,5 @@ __Description__: A Concept can have a Parameter that constrains the attributes t
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Parameter/hasParameter](../../Submissions/Affordance/hasParameter.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Parameter/hasParameter](../../Submissions/Affordance/hasParameter)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

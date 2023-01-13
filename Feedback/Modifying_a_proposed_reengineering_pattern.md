@@ -21,7 +21,7 @@ Intermediate saves and editing options of saved versions should be enabled, whci
 
 
 
-Go back to the  [Feedback main page](../Feedback/Main.md "Feedback:Main")
+Go back to the  [Feedback main page](../Feedback/Main "Feedback:Main")
 
 
   
@@ -31,5 +31,5 @@ Go back to the  [Feedback main page](../Feedback/Main.md "Feedback:Main")
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Feedback:Modifying\_a\_proposed\_reengineering\_pattern](../Feedback/Modifying_a_proposed_reengineering_pattern.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Feedback](../Category/Feedback.md "Category:Feedback")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Feedback:Modifying\_a\_proposed\_reengineering\_pattern](../Feedback/Modifying_a_proposed_reengineering_pattern)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Feedback](../Category/Feedback "Category:Feedback")

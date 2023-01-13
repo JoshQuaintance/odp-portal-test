@@ -1,6 +1,6 @@
-* [Image](../Image/Ep.png.md#file)
-* [File history](../Image/Ep.png.md#filehistory)
-* [Links](../Image/Ep.png.md#filelinks)
+* [Image](../Image/Ep.png#file)
+* [File history](../Image/Ep.png#filehistory)
+* [Links](../Image/Ep.png#filelinks)
 
 [![Image:Ep.png](../images/thumb/2/20/Ep.png/800px-Ep.png)](../images/2/20/Ep.png)  
 Size of this preview: 800 × 464 pixels  
@@ -28,4 +28,4 @@ There are no pages that link to this file.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Ep.png](../Image/Ep.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Ep.png](../Image/Ep.png)"

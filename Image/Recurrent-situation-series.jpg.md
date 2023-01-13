@@ -1,6 +1,6 @@
-* [Image](../Image/Recurrent-situation-series.jpg.md#file)
-* [File history](../Image/Recurrent-situation-series.jpg.md#filehistory)
-* [Links](../Image/Recurrent-situation-series.jpg.md#filelinks)
+* [Image](../Image/Recurrent-situation-series.jpg#file)
+* [File history](../Image/Recurrent-situation-series.jpg#filehistory)
+* [Links](../Image/Recurrent-situation-series.jpg#filelinks)
 
 [![Image:Recurrent-situation-series.jpg](../images/thumb/2/28/Recurrent-situation-series.jpg/800px-Recurrent-situation-series.jpg)](../images/2/28/Recurrent-situation-series.jpg)  
 Size of this preview: 800 × 517 pixels  
@@ -23,7 +23,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Submissions:RecurrentSituationSeries](../Submissions/RecurrentSituationSeries.md "Submissions:RecurrentSituationSeries")
+* [Submissions:RecurrentSituationSeries](../Submissions/RecurrentSituationSeries "Submissions:RecurrentSituationSeries")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Recurrent-situation-series.jpg](../Image/Recurrent-situation-series.jpg.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Recurrent-situation-series.jpg](../Image/Recurrent-situation-series.jpg)"

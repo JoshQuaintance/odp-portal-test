@@ -1,4 +1,4 @@
-This is a property of type [String](../Type/String.md "Type:String").
+This is a property of type [String](../Type/String "Type:String").
  __Priority__. This property indicates the priority of a certain issue described by a feedback page. The author of the feedback page should set it at 'High'. The administrators will change its value accordingly. 
 
 

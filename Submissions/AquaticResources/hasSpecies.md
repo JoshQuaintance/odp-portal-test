@@ -1,4 +1,4 @@
-___hasSpecies__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [AquaticResources](../../Submissions/AquaticResources.md "Submissions:AquaticResources")_
+___hasSpecies__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [AquaticResources](../../Submissions/AquaticResources "Submissions:AquaticResources")_
 
 
   
@@ -6,7 +6,7 @@ ___hasSpecies__ has [Category:OntologyElement](../../Category/OntologyElement.md
 
 
 
-[![ObjectProperty](../../images/thumb/c/c3/ObjectProperty.gif/45px-ObjectProperty.gif)](../../Image/ObjectProperty.gif.md "ObjectProperty")
+[![ObjectProperty](../../images/thumb/c/c3/ObjectProperty.gif/45px-ObjectProperty.gif)](../../Image/ObjectProperty.gif "ObjectProperty")
 __Name__: hasSpecies 
 
 
@@ -19,5 +19,5 @@ __Description__: has species
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:AquaticResources/hasSpecies](../../Submissions/AquaticResources/hasSpecies.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:AquaticResources/hasSpecies](../../Submissions/AquaticResources/hasSpecies)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

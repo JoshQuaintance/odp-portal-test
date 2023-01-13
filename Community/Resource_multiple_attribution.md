@@ -96,8 +96,8 @@ _Keith Alexander_ [adds](http://markmail.org/message/tr3riemv72ujlbif "http://ma
 
 
 
- [List of Modeling Issues](../Community/Main.md "Community:Main") | [Post a new modeling issue](../Community/PostModelingIssue.md "Community:PostModelingIssue") | [Add a comment in the discussion page](index.php@title=Odp%253AAdd_comment&target=Community_talk%253AResource_multiple_attribution.html#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Community_talk:Resource_multiple_attribution#New_comment")
+ [List of Modeling Issues](../Community/Main "Community:Main") | [Post a new modeling issue](../Community/PostModelingIssue "Community:PostModelingIssue") | [Add a comment in the discussion page](index.php@title=Odp%253AAdd_comment&target=Community_talk%253AResource_multiple_attribution.html#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Community_talk:Resource_multiple_attribution#New_comment")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Community:Resource\_multiple\_attribution](../Community/Resource_multiple_attribution.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ModelingIssue](../Category/ModelingIssue.md "Category:ModelingIssue")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Community:Resource\_multiple\_attribution](../Community/Resource_multiple_attribution)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ModelingIssue](../Category/ModelingIssue "Category:ModelingIssue")

@@ -1,6 +1,6 @@
-* [Image](../Image/FacetedClassificationSchemeOntoExObjProp.png.md#file)
-* [File history](../Image/FacetedClassificationSchemeOntoExObjProp.png.md#filehistory)
-* [Links](../Image/FacetedClassificationSchemeOntoExObjProp.png.md#filelinks)
+* [Image](../Image/FacetedClassificationSchemeOntoExObjProp.png#file)
+* [File history](../Image/FacetedClassificationSchemeOntoExObjProp.png#filehistory)
+* [Links](../Image/FacetedClassificationSchemeOntoExObjProp.png#filelinks)
 
 [![Image:FacetedClassificationSchemeOntoExObjProp.png](../images/1/12/FacetedClassificationSchemeOntoExObjProp.png)](../images/1/12/FacetedClassificationSchemeOntoExObjProp.png)  
 No higher resolution available.  
@@ -26,7 +26,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Submissions:Faceted Classification Scheme](../Submissions/Faceted_Classification_Scheme.md "Submissions:Faceted Classification Scheme")
+* [Submissions:Faceted Classification Scheme](../Submissions/Faceted_Classification_Scheme "Submissions:Faceted Classification Scheme")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:FacetedClassificationSchemeOntoExObjProp.png](../Image/FacetedClassificationSchemeOntoExObjProp.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:FacetedClassificationSchemeOntoExObjProp.png](../Image/FacetedClassificationSchemeOntoExObjProp.png)"

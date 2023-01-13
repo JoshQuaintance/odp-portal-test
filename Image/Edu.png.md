@@ -1,6 +1,6 @@
-* [Image](../Image/Edu.png.md#file)
-* [File history](../Image/Edu.png.md#filehistory)
-* [Links](../Image/Edu.png.md#filelinks)
+* [Image](../Image/Edu.png#file)
+* [File history](../Image/Edu.png#filehistory)
+* [Links](../Image/Edu.png#filelinks)
 
 [![Image:Edu.png](../images/a/ad/Edu.png)](../images/a/ad/Edu.png)  
 No higher resolution available.  
@@ -25,4 +25,4 @@ There are no pages that link to this file.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Edu.png](../Image/Edu.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Edu.png](../Image/Edu.png)"

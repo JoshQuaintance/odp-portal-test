@@ -33,5 +33,5 @@ __Solutions__:
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Training:NeOn\_2008\_Tutorial\_on\_Computational\_Ontologies/Toys\_and\_Dolls](../../Training/NeOn_2008_Tutorial_on_Computational_Ontologies/Toys_and_Dolls.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Exercise](../../Category/Exercise.md "Category:Exercise")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Training:NeOn\_2008\_Tutorial\_on\_Computational\_Ontologies/Toys\_and\_Dolls](../../Training/NeOn_2008_Tutorial_on_Computational_Ontologies/Toys_and_Dolls)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Exercise](../../Category/Exercise "Category:Exercise")

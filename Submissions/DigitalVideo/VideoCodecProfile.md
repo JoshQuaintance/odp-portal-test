@@ -1,4 +1,4 @@
-___VideoCodecProfile__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [DigitalVideo](../../Submissions/DigitalVideo.md "Submissions:DigitalVideo")_
+___VideoCodecProfile__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [DigitalVideo](../../Submissions/DigitalVideo "Submissions:DigitalVideo")_
 
 
   
@@ -6,7 +6,7 @@ ___VideoCodecProfile__ has [Category:OntologyElement](../../Category/OntologyEle
 
 
 
-[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif.md "Class")
+[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif "Class")
 __Name__: VideoCodecProfile 
 
 
@@ -22,5 +22,5 @@ E.g. baseline profile, extended profile, main profile, high profile, etc.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:DigitalVideo/VideoCodecProfile](../../Submissions/DigitalVideo/hasVideoCodecProfile.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:DigitalVideo/VideoCodecProfile](../../Submissions/DigitalVideo/hasVideoCodecProfile)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

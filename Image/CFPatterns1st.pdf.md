@@ -1,8 +1,8 @@
-* [Image](../Image/CFPatterns1st.pdf.md#file)
-* [File history](../Image/CFPatterns1st.pdf.md#filehistory)
-* [Links](../Image/CFPatterns1st.pdf.md#filelinks)
+* [Image](../Image/CFPatterns1st.pdf#file)
+* [File history](../Image/CFPatterns1st.pdf#filehistory)
+* [Links](../Image/CFPatterns1st.pdf#filelinks)
 
-[![](../skins/common/images/icons/fileicon-pdf.png)](../Image/CFPatterns1st.pdf.md "CFPatterns1st.pdf")
+[![](../skins/common/images/icons/fileicon-pdf.png)](../Image/CFPatterns1st.pdf "CFPatterns1st.pdf")
 [CFPatterns1st.pdf](../images/a/ab/CFPatterns1st.pdf "CFPatterns1st.pdf")‎  (file size: 47 KB, MIME type: application/pdf)
 
 
@@ -32,4 +32,4 @@ There are no pages that link to this file.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:CFPatterns1st.pdf](../Image/CFPatterns1st.pdf.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:CFPatterns1st.pdf](../Image/CFPatterns1st.pdf)"

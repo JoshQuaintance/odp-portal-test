@@ -4,7 +4,7 @@
 The first Workshop on Knowledge Injection into and Extraction from Linked Data is a co-located event with [EKAW 2010](http://ekaw2010.inesc-id.pt/ "http://ekaw2010.inesc-id.pt/"), [held in Lisbon (Portugal)](http://ekaw2010.inesc-id.pt/conference-venue.html "http://ekaw2010.inesc-id.pt/conference-venue.html"). It will be held on 15th October 2010.
 
 
-__News:  [Workshop program](../Odp/KIELD2010.md#Workshop_Program "Odp:KIELD2010") is available.__
+__News:  [Workshop program](../Odp/KIELD2010#Workshop_Program "Odp:KIELD2010") is available.__
 
 
 __News: [CEUR proceedings](http://ftp.informatik.rwth-aachen.de/Publications/CEUR-WS/Vol-631/ "http://ftp.informatik.rwth-aachen.de/Publications/CEUR-WS/Vol-631/") is available.__
@@ -30,7 +30,7 @@ Most notably:
 * The linked data themselves represent a large and growing resource woven from numerous components. Empirical knowledge discovery in linked data, carried out by machine learning and data mining algorithms, could reveal interesting patterns on frequently used structures, which could then be fuelled back to the vocabulary design. Existing techniques for mining network-structured data, such as graph databases or web links, are likely to require adaptation so as to take account of links that are typed according to semantically rich and heterogeneous schemata.
 
 
-Aside the [EKAW 2010](http://ekaw2010.inesc-id.pt/ "http://ekaw2010.inesc-id.pt/") conference itself, the workshop is informally associated with the series of [WOP workshops - Workshops on Ontology Patterns](../WOP/2009.md "WOP:2009"). Participants of the previous successful WOP (1st edition at ISWC2009) are encouraged to submit to KIELD 2010.
+Aside the [EKAW 2010](http://ekaw2010.inesc-id.pt/ "http://ekaw2010.inesc-id.pt/") conference itself, the workshop is informally associated with the series of [WOP workshops - Workshops on Ontology Patterns](../WOP/2009 "WOP:2009"). Participants of the previous successful WOP (1st edition at ISWC2009) are encouraged to submit to KIELD 2010.
 
 
 By this interdisciplinary nature KIELD2010 aims at being of high interest for both researchers and practitioners of all three areas mentioned above. Furthermore, it will give space to ongoing and pioneering research activities, which would still be too preliminary as conference publications, although extremely hot as topics in the semantic technology field.
@@ -239,5 +239,5 @@ Submissions must be sent to [KIELD chairs](mailto:kield2010@inrialpes.fr "mailto
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Odp:KIELD2010](../Odp/KIELD2010.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Event](../Category/Event.md "Category:Event")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Odp:KIELD2010](../Odp/KIELD2010)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Event](../Category/Event "Category:Event")

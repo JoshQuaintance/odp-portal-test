@@ -1,6 +1,6 @@
-* [Image](../Image/Fig_fault_f1_f2_asserted_prot4x.png.md#file)
-* [File history](../Image/Fig_fault_f1_f2_asserted_prot4x.png.md#filehistory)
-* [Links](../Image/Fig_fault_f1_f2_asserted_prot4x.png.md#filelinks)
+* [Image](../Image/Fig_fault_f1_f2_asserted_prot4x.png#file)
+* [File history](../Image/Fig_fault_f1_f2_asserted_prot4x.png#filehistory)
+* [Links](../Image/Fig_fault_f1_f2_asserted_prot4x.png#filelinks)
 
 [![Image:Fig fault f1 f2 asserted prot4x.png](../images/thumb/a/ac/Fig_fault_f1_f2_asserted_prot4x.png/447px-Fig_fault_f1_f2_asserted_prot4x.png)](../images/a/ac/Fig_fault_f1_f2_asserted_prot4x.png)  
 Size of this preview: 447 × 600 pixels  
@@ -23,7 +23,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Submissions:View Inheritance](../Submissions/View_Inheritance.md "Submissions:View Inheritance")
+* [Submissions:View Inheritance](../Submissions/View_Inheritance "Submissions:View Inheritance")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Fig\_fault\_f1\_f2\_asserted\_prot4x.png](../Image/Fig_fault_f1_f2_asserted_prot4x.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Fig\_fault\_f1\_f2\_asserted\_prot4x.png](../Image/Fig_fault_f1_f2_asserted_prot4x.png)"

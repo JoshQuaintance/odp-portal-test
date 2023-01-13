@@ -1,6 +1,6 @@
-* [Image](../Image/Regionoverlap.jpg.md#file)
-* [File history](../Image/Regionoverlap.jpg.md#filehistory)
-* [Links](../Image/Regionoverlap.jpg.md#filelinks)
+* [Image](../Image/Regionoverlap.jpg#file)
+* [File history](../Image/Regionoverlap.jpg#filehistory)
+* [Links](../Image/Regionoverlap.jpg#filelinks)
 
 [![Image:Regionoverlap.jpg](../images/a/a8/Regionoverlap.jpg)](../images/a/a8/Regionoverlap.jpg)  
 No higher resolution available.  
@@ -23,7 +23,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Community:Images](../Community/Images.md "Community:Images")
+* [Community:Images](../Community/Images "Community:Images")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Regionoverlap.jpg](../Image/Regionoverlap.jpg.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Regionoverlap.jpg](../Image/Regionoverlap.jpg)"

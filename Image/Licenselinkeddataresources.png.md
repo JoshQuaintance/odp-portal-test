@@ -1,6 +1,6 @@
-* [Image](../Image/Licenselinkeddataresources.png.md#file)
-* [File history](../Image/Licenselinkeddataresources.png.md#filehistory)
-* [Links](../Image/Licenselinkeddataresources.png.md#filelinks)
+* [Image](../Image/Licenselinkeddataresources.png#file)
+* [File history](../Image/Licenselinkeddataresources.png#filehistory)
+* [Links](../Image/Licenselinkeddataresources.png#filelinks)
 
 [![Image:Licenselinkeddataresources.png](../images/thumb/0/08/Licenselinkeddataresources.png/800px-Licenselinkeddataresources.png)](../images/0/08/Licenselinkeddataresources.png)  
 Size of this preview: 800 × 398 pixels  
@@ -26,7 +26,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Submissions:LicenseLinkedDataResources](../Submissions/LicenseLinkedDataResources.md "Submissions:LicenseLinkedDataResources")
+* [Submissions:LicenseLinkedDataResources](../Submissions/LicenseLinkedDataResources "Submissions:LicenseLinkedDataResources")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Licenselinkeddataresources.png](../Image/Licenselinkeddataresources.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Licenselinkeddataresources.png](../Image/Licenselinkeddataresources.png)"

@@ -1,5 +1,5 @@
 __Problem__:
-Develop an OWL ontology starting from the below use-case. Note that the text is only there to help you understand the domain and the context of the ontology, but the actual modelling requirements are the competency questions and the contextual statement. __In this exercise you should reuse some Content ODPs, in order to get used to them and understand the modelling issues they represent.__ You can find the ODPs at [this page.](../../../Submissions/ContentOPs.md "Submissions:ContentOPs")
+Develop an OWL ontology starting from the below use-case. Note that the text is only there to help you understand the domain and the context of the ontology, but the actual modelling requirements are the competency questions and the contextual statement. __In this exercise you should reuse some Content ODPs, in order to get used to them and understand the modelling issues they represent.__ You can find the ODPs at [this page.](../../../Submissions/ContentOPs "Submissions:ContentOPs")
 
 
 
@@ -73,5 +73,5 @@ __Solutions__:
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Training:PhD\_Course\_on\_Computational\_Ontologies\_%40\_University\_of\_Bologna/Hands-on\_%28Day3%29:\_Theater\_productions\_-\_revisited](../../../Training/PhD_Course_on_Computational_Ontologies_@_University_of_Bologna/Hands-on_(Day3)/_Theater_productions_-_revisited.md)/_Theater_productions_-_revisited.md)%253A_Theater_productions_-_revisited.html)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Exercise](../../../Category/Exercise.md "Category:Exercise")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Training:PhD\_Course\_on\_Computational\_Ontologies\_%40\_University\_of\_Bologna/Hands-on\_%28Day3%29:\_Theater\_productions\_-\_revisited](../../../Training/PhD_Course_on_Computational_Ontologies_@_University_of_Bologna/Hands-on_(Day3)/_Theater_productions_-_revisited)/_Theater_productions_-_revisited.md)/_Theater_productions_-_revisited.md)%253A_Theater_productions_-_revisited.html)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Exercise](../../../Category/Exercise "Category:Exercise")

@@ -1,6 +1,6 @@
-* [Image](../Image/Affordance.png.md#file)
-* [File history](../Image/Affordance.png.md#filehistory)
-* [Links](../Image/Affordance.png.md#filelinks)
+* [Image](../Image/Affordance.png#file)
+* [File history](../Image/Affordance.png#filehistory)
+* [Links](../Image/Affordance.png#filelinks)
 
 [![Image:Affordance.png](../images/thumb/b/b3/Affordance.png/800px-Affordance.png)](../images/b/b3/Affordance.png)  
 Size of this preview: 800 × 565 pixels  
@@ -26,7 +26,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Submissions:Affordance](../Submissions/Affordance.md "Submissions:Affordance")
+* [Submissions:Affordance](../Submissions/Affordance "Submissions:Affordance")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Affordance.png](../Image/Affordance.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Affordance.png](../Image/Affordance.png)"

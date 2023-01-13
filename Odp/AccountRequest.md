@@ -1,4 +1,4 @@
-[![Image:ClaraDrawing.jpg](../images/c/cc/ClaraDrawing.jpg)](../Image/ClaraDrawing.jpg.md "Image:ClaraDrawing.jpg")
+[![Image:ClaraDrawing.jpg](../images/c/cc/ClaraDrawing.jpg)](../Image/ClaraDrawing.jpg "Image:ClaraDrawing.jpg")
 
 
 Currently, the ODP semantic web portal is under testing. However, it will be online very soon so if you want to be notified when the it will be online, and have an account, please send an email to the [administrator](mailto:valentina.presutti@istc.cnr.it "mailto:valentina.presutti@istc.cnr.it").
@@ -9,4 +9,4 @@ If you want to download reusable content ontology design patterns, you can find 
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Odp:AccountRequest](../Odp/AccountRequest.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Odp:AccountRequest](../Odp/AccountRequest)"

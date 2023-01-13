@@ -1,4 +1,4 @@
-___describes__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [DescriptionAndSituation](../../Submissions/DescriptionAndSituation.md "Submissions:DescriptionAndSituation")_
+___describes__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [DescriptionAndSituation](../../Submissions/DescriptionAndSituation "Submissions:DescriptionAndSituation")_
 
 
   
@@ -6,7 +6,7 @@ ___describes__ has [Category:OntologyElement](../../Category/OntologyElement.md 
 
 
 
-[![ObjectProperty](../../images/thumb/c/c3/ObjectProperty.gif/45px-ObjectProperty.gif)](../../Image/ObjectProperty.gif.md "ObjectProperty")
+[![ObjectProperty](../../images/thumb/c/c3/ObjectProperty.gif/45px-ObjectProperty.gif)](../../Image/ObjectProperty.gif "ObjectProperty")
 __Name__: describes 
 
 
@@ -22,5 +22,5 @@ A same Entity can be given different descriptions, for example, an old cradle ca
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:DescriptionAndSituation/describes](../../Submissions/DescriptionAndSituation/describes.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:DescriptionAndSituation/describes](../../Submissions/DescriptionAndSituation/describes)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

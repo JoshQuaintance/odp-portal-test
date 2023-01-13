@@ -1,4 +1,4 @@
-___Driver__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [Computer System](../../Submissions/Computer_System.md "Submissions:Computer System")_
+___Driver__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [Computer System](../../Submissions/Computer_System "Submissions:Computer System")_
 
 
   
@@ -6,7 +6,7 @@ ___Driver__ has [Category:OntologyElement](../../Category/OntologyElement.md "Ca
 
 
 
-[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif.md "Class")
+[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif "Class")
 __Name__: Driver 
 
 
@@ -19,5 +19,5 @@ __Description__: A computer program that operates or controls a particular type 
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Computer\_System/Driver](../../Submissions/Computer_System/Driver.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Computer\_System/Driver](../../Submissions/Computer_System/Driver)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

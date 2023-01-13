@@ -1,5 +1,5 @@
 __Problem__:
-The task of the exercise is presented at the  [bottom of this page](../../Training/Advanced_Ontology_Engineering_at_FOI_-_2011/Ontology_Testing.md#Tasks "Training:Advanced Ontology Engineering at FOI - 2011/Ontology Testing"). First, read through the instructions below.
+The task of the exercise is presented at the  [bottom of this page](../../Training/Advanced_Ontology_Engineering_at_FOI_-_2011/Ontology_Testing#Tasks "Training:Advanced Ontology Engineering at FOI - 2011/Ontology Testing"). First, read through the instructions below.
 
 
 
@@ -8,7 +8,7 @@ __Solutions__:
 
 
 
-* Solution ideas are available  [here](../../Training/Advanced_Ontology_Engineering_at_FOI_-_2011/Ontology_Testing/Testing_Solution.md "Training:Advanced Ontology Engineering at FOI - 2011/Ontology Testing/Testing Solution"), do not open until end of the exercise!
+* Solution ideas are available  [here](../../Training/Advanced_Ontology_Engineering_at_FOI_-_2011/Ontology_Testing/Testing_Solution "Training:Advanced Ontology Engineering at FOI - 2011/Ontology Testing/Testing Solution"), do not open until end of the exercise!
 
 
 __Instructions for the exercise:__
@@ -212,5 +212,5 @@ Reasoning requirement:
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Training:Advanced\_Ontology\_Engineering\_at\_FOI\_-\_2011/Ontology\_Testing](../../Training/Advanced_Ontology_Engineering_at_FOI_-_2011/Ontology_Testing.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Exercise](../../Category/Exercise.md "Category:Exercise")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Training:Advanced\_Ontology\_Engineering\_at\_FOI\_-\_2011/Ontology\_Testing](../../Training/Advanced_Ontology_Engineering_at_FOI_-_2011/Ontology_Testing)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Exercise](../../Category/Exercise "Category:Exercise")

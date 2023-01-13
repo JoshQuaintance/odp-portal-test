@@ -1,4 +1,4 @@
-[![](../images/thumb/b/b5/Certified.png/70px-Certified.png)](../Image/Certified.png.md "Certified.png") __This pattern has been certified.__
+[![](../images/thumb/b/b5/Certified.png/70px-Certified.png)](../Image/Certified.png "Certified.png") __This pattern has been certified.__
 Related submission, with evaluation history, can be found __here__
 
 
@@ -13,7 +13,7 @@ __Diagram__
 
 
 
-[![Image:Criterion setter.png](../images/c/cf/Criterion_setter.png)](../Image/Criterion_setter.png.md "Image:Criterion setter.png")
+[![Image:Criterion setter.png](../images/c/cf/Criterion_setter.png)](../Image/Criterion_setter.png "Image:Criterion setter.png")
 
 
 
@@ -87,7 +87,7 @@ There is no Modeling issue related to this proposal.
 #  References
 
 
-[Add a reference](index.php@title=Odp%253AAdd_reference&subject=../Submissions/CriterionSetter.md "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_reference&subject=Submissions%3ACriterionSetter")
+[Add a reference](index.php@title=Odp%253AAdd_reference&subject=../Submissions/CriterionSetter "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_reference&subject=Submissions%3ACriterionSetter")
 
 
   
@@ -97,5 +97,5 @@ There is no Modeling issue related to this proposal.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:CriterionSetter](../Submissions/CriterionSetter.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ProposedContentOP](../Category/ProposedContentOP.md "Category:ProposedContentOP")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:CriterionSetter](../Submissions/CriterionSetter)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ProposedContentOP](../Category/ProposedContentOP "Category:ProposedContentOP")

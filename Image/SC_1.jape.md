@@ -1,6 +1,6 @@
-* [Image](../Image/SC_1.jape.md#file)
-* [File history](../Image/SC_1.jape.md#filehistory)
-* [Links](../Image/SC_1.jape.md#filelinks)
+* [Image](../Image/SC_1.jape#file)
+* [File history](../Image/SC_1.jape#filehistory)
+* [Links](../Image/SC_1.jape#filelinks)
 
 
 [SC\_1.jape](../images/5/5f/SC_1.jape "SC 1.jape")‎
@@ -34,4 +34,4 @@ There are no pages that link to this file.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:SC\_1.jape](../Image/SC_1.jape.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:SC\_1.jape](../Image/SC_1.jape)"

@@ -1,6 +1,6 @@
-* [Image](../Image/Fig_avizienis_fault_5b.jpg.md#file)
-* [File history](../Image/Fig_avizienis_fault_5b.jpg.md#filehistory)
-* [Links](../Image/Fig_avizienis_fault_5b.jpg.md#filelinks)
+* [Image](../Image/Fig_avizienis_fault_5b.jpg#file)
+* [File history](../Image/Fig_avizienis_fault_5b.jpg#filehistory)
+* [Links](../Image/Fig_avizienis_fault_5b.jpg#filelinks)
 
 [![Image:Fig avizienis fault 5b.jpg](../images/d/d1/Fig_avizienis_fault_5b.jpg)](../images/d/d1/Fig_avizienis_fault_5b.jpg)  
 No higher resolution available.  
@@ -23,7 +23,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Submissions:View Inheritance](../Submissions/View_Inheritance.md "Submissions:View Inheritance")
+* [Submissions:View Inheritance](../Submissions/View_Inheritance "Submissions:View Inheritance")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Fig\_avizienis\_fault\_5b.jpg](../Image/Fig_avizienis_fault_5b.jpg.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Fig\_avizienis\_fault\_5b.jpg](../Image/Fig_avizienis_fault_5b.jpg)"

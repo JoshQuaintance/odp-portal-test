@@ -1,6 +1,6 @@
-* [Image](../Image/Property-subsumption.png.md#file)
-* [File history](../Image/Property-subsumption.png.md#filehistory)
-* [Links](../Image/Property-subsumption.png.md#filelinks)
+* [Image](../Image/Property-subsumption.png#file)
+* [File history](../Image/Property-subsumption.png#filehistory)
+* [Links](../Image/Property-subsumption.png#filelinks)
 
 [![Image:Property-subsumption.png](../images/4/49/Property-subsumption.png)](../images/4/49/Property-subsumption.png)  
 No higher resolution available.  
@@ -25,4 +25,4 @@ There are no pages that link to this file.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Property-subsumption.png](../Image/Property-subsumption.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Property-subsumption.png](../Image/Property-subsumption.png)"

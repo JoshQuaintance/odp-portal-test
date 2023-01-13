@@ -1,6 +1,6 @@
-* [Image](../Image/Digital_Video_ODP_diagram.png.md#file)
-* [File history](../Image/Digital_Video_ODP_diagram.png.md#filehistory)
-* [Links](../Image/Digital_Video_ODP_diagram.png.md#filelinks)
+* [Image](../Image/Digital_Video_ODP_diagram.png#file)
+* [File history](../Image/Digital_Video_ODP_diagram.png#filehistory)
+* [Links](../Image/Digital_Video_ODP_diagram.png#filelinks)
 
 [![Image:Digital Video ODP diagram.png](../images/thumb/6/6a/Digital_Video_ODP_diagram.png/800px-Digital_Video_ODP_diagram.png)](../images/6/6a/Digital_Video_ODP_diagram.png)  
 Size of this preview: 800 × 348 pixels  
@@ -26,7 +26,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Submissions:DigitalVideo](../Submissions/DigitalVideo.md "Submissions:DigitalVideo")
+* [Submissions:DigitalVideo](../Submissions/DigitalVideo "Submissions:DigitalVideo")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Digital\_Video\_ODP\_diagram.png](../Image/Digital_Video_ODP_diagram.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Digital\_Video\_ODP\_diagram.png](../Image/Digital_Video_ODP_diagram.png)"

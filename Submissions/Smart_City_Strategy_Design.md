@@ -1,4 +1,4 @@
-[![](../images/thumb/b/b5/Certified.png/70px-Certified.png)](../Image/Certified.png.md "Certified.png") __This pattern has been certified.__
+[![](../images/thumb/b/b5/Certified.png/70px-Certified.png)](../Image/Certified.png "Certified.png") __This pattern has been certified.__
 Related submission, with evaluation history, can be found __here__
 
 
@@ -13,7 +13,7 @@ __Diagram__
 
 
 
-[![Image:Ontology_strategy_design.png](../images/0/0c/Ontology_strategy_design.png)](../Image/Ontology_strategy_design.png.md "Image:Ontology_strategy_design.png")
+[![Image:Ontology_strategy_design.png](../images/0/0c/Ontology_strategy_design.png)](../Image/Ontology_strategy_design.png "Image:Ontology_strategy_design.png")
 
 
 
@@ -87,13 +87,13 @@ There is no Modeling issue related to this proposal.
 
 
 
-* Taamallah, A., Khemaja, M., & Faiz, S. (2018, October). Toward a framework for smart city strategies design. In Proceedings of the 3rd international conference on smart city applications (pp. 1-7). Conference Paper | [reference page](../Community/References/Paper.md "Community:References/Paper")
-* Taamallah, A., Khemaja, M., & Faiz, S. (2018, October). Towards a framework for participatory strategy design in smart cities. In The Proceedings of the Third International Conference on Smart City Applications (pp. 179-192). Springer, Cham. Documentation | [reference page](../Community/References/Paper_2.md "Community:References/Paper 2")
-* Taamallah, A., Khemaja, M., & Faiz, S. (2019). A web-based platform for strategy design in smart cities. International Journal of Web Based Communities, 15(1), 62-84. Documentation | [reference page](../Community/References/Paper_4.md "Community:References/Paper 4")
-* Taamallah, A., Khemaja, M., & Faiz, S. (2020). Building a Framework for Smart Cities: Strategy Development. In Smart Governance for Cities: Perspectives and Experiences (pp. 29-53). Springer, Cham. Documentation | [reference page](../Community/References/Paper_3.md "Community:References/Paper 3")
+* Taamallah, A., Khemaja, M., & Faiz, S. (2018, October). Toward a framework for smart city strategies design. In Proceedings of the 3rd international conference on smart city applications (pp. 1-7). Conference Paper | [reference page](../Community/References/Paper "Community:References/Paper")
+* Taamallah, A., Khemaja, M., & Faiz, S. (2018, October). Towards a framework for participatory strategy design in smart cities. In The Proceedings of the Third International Conference on Smart City Applications (pp. 179-192). Springer, Cham. Documentation | [reference page](../Community/References/Paper_2 "Community:References/Paper 2")
+* Taamallah, A., Khemaja, M., & Faiz, S. (2019). A web-based platform for strategy design in smart cities. International Journal of Web Based Communities, 15(1), 62-84. Documentation | [reference page](../Community/References/Paper_4 "Community:References/Paper 4")
+* Taamallah, A., Khemaja, M., & Faiz, S. (2020). Building a Framework for Smart Cities: Strategy Development. In Smart Governance for Cities: Perspectives and Experiences (pp. 29-53). Springer, Cham. Documentation | [reference page](../Community/References/Paper_3 "Community:References/Paper 3")
 
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Smart\_City\_Strategy\_Design](../Submissions/Smart_City_Strategy_Design.md)"
- [Categories](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ProposedContentOP](../Category/ProposedContentOP.md "Category:ProposedContentOP") | [Waiting for review](../Category/Waiting_for_review.md "Category:Waiting for review")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Smart\_City\_Strategy\_Design](../Submissions/Smart_City_Strategy_Design)"
+ [Categories](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ProposedContentOP](../Category/ProposedContentOP "Category:ProposedContentOP") | [Waiting for review](../Category/Waiting_for_review "Category:Waiting for review")

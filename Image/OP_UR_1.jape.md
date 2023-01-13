@@ -1,6 +1,6 @@
-* [Image](../Image/OP_UR_1.jape.md#file)
-* [File history](../Image/OP_UR_1.jape.md#filehistory)
-* [Links](../Image/OP_UR_1.jape.md#filelinks)
+* [Image](../Image/OP_UR_1.jape#file)
+* [File history](../Image/OP_UR_1.jape#filehistory)
+* [Links](../Image/OP_UR_1.jape#filelinks)
 
 
 [OP\_UR\_1.jape](../images/8/83/OP_UR_1.jape "OP UR 1.jape")‎
@@ -34,4 +34,4 @@ There are no pages that link to this file.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:OP\_UR\_1.jape](../Image/OP_UR_1.jape.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:OP\_UR\_1.jape](../Image/OP_UR_1.jape)"

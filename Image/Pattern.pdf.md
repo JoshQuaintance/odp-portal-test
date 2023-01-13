@@ -1,8 +1,8 @@
-* [Image](../Image/Pattern.pdf.md#file)
-* [File history](../Image/Pattern.pdf.md#filehistory)
-* [Links](../Image/Pattern.pdf.md#filelinks)
+* [Image](../Image/Pattern.pdf#file)
+* [File history](../Image/Pattern.pdf#filehistory)
+* [Links](../Image/Pattern.pdf#filelinks)
 
-[![](../skins/common/images/icons/fileicon-pdf.png)](../Image/Pattern.pdf.md "Pattern.pdf")
+[![](../skins/common/images/icons/fileicon-pdf.png)](../Image/Pattern.pdf "Pattern.pdf")
 [Pattern.pdf](../images/1/1b/Pattern.pdf "Pattern.pdf")‎  (file size: 106 KB, MIME type: application/pdf)
 
 
@@ -30,7 +30,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Submissions:Device-Interface-Link Pattern](../Submissions/Device-Interface-Link_Pattern.md "Submissions:Device-Interface-Link Pattern")
+* [Submissions:Device-Interface-Link Pattern](../Submissions/Device-Interface-Link_Pattern "Submissions:Device-Interface-Link Pattern")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Pattern.pdf](../Image/Pattern.pdf.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Pattern.pdf](../Image/Pattern.pdf)"

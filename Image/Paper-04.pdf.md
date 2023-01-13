@@ -1,8 +1,8 @@
-* [Image](../Image/Paper-04.pdf.md#file)
-* [File history](../Image/Paper-04.pdf.md#filehistory)
-* [Links](../Image/Paper-04.pdf.md#filelinks)
+* [Image](../Image/Paper-04.pdf#file)
+* [File history](../Image/Paper-04.pdf#filehistory)
+* [Links](../Image/Paper-04.pdf#filelinks)
 
-[![](../skins/common/images/icons/fileicon-pdf.png)](../Image/Paper-04.pdf.md "Paper-04.pdf")
+[![](../skins/common/images/icons/fileicon-pdf.png)](../Image/Paper-04.pdf "Paper-04.pdf")
 [Paper-04.pdf](../images/6/66/Paper-04.pdf "Paper-04.pdf")‎  (file size: 279 KB, MIME type: application/pdf)
 
 
@@ -33,4 +33,4 @@ There are no pages that link to this file.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Paper-04.pdf](../Image/Paper-04.pdf.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Paper-04.pdf](../Image/Paper-04.pdf)"

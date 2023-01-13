@@ -1,4 +1,4 @@
-[Text](../Type/Text.md "Type:Text")
+[Text](../Type/Text "Type:Text")
 
 
 
@@ -13,4 +13,4 @@ Showing 0 pages using this property.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Property:PatternProblemExample](../Property/PatternProblemExample.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Property:PatternProblemExample](../Property/PatternProblemExample)"

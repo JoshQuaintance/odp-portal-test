@@ -1,6 +1,6 @@
-* [Image](../Image/KmiLogo.png.md#file)
-* [File history](../Image/KmiLogo.png.md#filehistory)
-* [Links](../Image/KmiLogo.png.md#filelinks)
+* [Image](../Image/KmiLogo.png#file)
+* [File history](../Image/KmiLogo.png#filehistory)
+* [Links](../Image/KmiLogo.png#filelinks)
 
 [![Image:KmiLogo.png](../images/3/36/KmiLogo.png)](../images/3/36/KmiLogo.png)  
 No higher resolution available.  
@@ -23,8 +23,8 @@ Click on a date/time to view the file as it appeared at that time.
 The following 2 pages link to this file:
 
 
-* [Community:Images](../Community/Images.md "Community:Images")
-* [Odp:Partners](../Odp/Partners.md "Odp:Partners")
+* [Community:Images](../Community/Images "Community:Images")
+* [Odp:Partners](../Odp/Partners "Odp:Partners")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:KmiLogo.png](../Image/KmiLogo.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:KmiLogo.png](../Image/KmiLogo.png)"

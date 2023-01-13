@@ -1,6 +1,6 @@
-* [Image](../Image/Class-intersection.png.md#file)
-* [File history](../Image/Class-intersection.png.md#filehistory)
-* [Links](../Image/Class-intersection.png.md#filelinks)
+* [Image](../Image/Class-intersection.png#file)
+* [File history](../Image/Class-intersection.png#filehistory)
+* [Links](../Image/Class-intersection.png#filelinks)
 
 [![Image:Class-intersection.png](../images/f/f2/Class-intersection.png)](../images/f/f2/Class-intersection.png)  
 No higher resolution available.  
@@ -23,7 +23,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Submissions:Class intersection](../Submissions/Class_intersection.md "Submissions:Class intersection")
+* [Submissions:Class intersection](../Submissions/Class_intersection "Submissions:Class intersection")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Class-intersection.png](../Image/Class-intersection.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Class-intersection.png](../Image/Class-intersection.png)"

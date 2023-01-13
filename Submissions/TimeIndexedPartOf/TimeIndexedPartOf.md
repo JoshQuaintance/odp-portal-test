@@ -1,4 +1,4 @@
-___TimeIndexedPartOf__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [TimeIndexedPartOf](../../Submissions/TimeIndexedPartOf.md "Submissions:TimeIndexedPartOf")_
+___TimeIndexedPartOf__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [TimeIndexedPartOf](../../Submissions/TimeIndexedPartOf "Submissions:TimeIndexedPartOf")_
 
 
   
@@ -6,18 +6,18 @@ ___TimeIndexedPartOf__ has [Category:OntologyElement](../../Category/OntologyEle
 
 
 
-[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif.md "Class")
+[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif "Class")
 __Name__: Time Indexed Part Of 
 
 
 __Type:__ owl:Class 
 
 
-__Description__: A  [situation](../../Submissions/Situation/Situation.md "Submissions:Situation/Situation") that includes at least two  [Objects](../../Image/ObjectProperty.gif.md "Submissions:TimeIndexedPartOf/Object"), one having the role of whole object, the other(s) being a part(s) of it, and one  [time interval](../../Submissions/TimeInterval/TimeInterval.md "Submissions:TimeInterval/TimeInterval"). 
+__Description__: A  [situation](../../Submissions/Situation/Situation "Submissions:Situation/Situation") that includes at least two  [Objects](../../Image/ObjectProperty.gif "Submissions:TimeIndexedPartOf/Object"), one having the role of whole object, the other(s) being a part(s) of it, and one  [time interval](../../Submissions/TimeInterval/TimeInterval "Submissions:TimeInterval/TimeInterval"). 
 
 
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:TimeIndexedPartOf/TimeIndexedPartOf](../../Submissions/TimeIndexedPartOf.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:TimeIndexedPartOf/TimeIndexedPartOf](../../Submissions/TimeIndexedPartOf)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

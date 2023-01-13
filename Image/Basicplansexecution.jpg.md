@@ -1,6 +1,6 @@
-* [Image](../Image/Basicplansexecution.jpg.md#file)
-* [File history](../Image/Basicplansexecution.jpg.md#filehistory)
-* [Links](../Image/Basicplansexecution.jpg.md#filelinks)
+* [Image](../Image/Basicplansexecution.jpg#file)
+* [File history](../Image/Basicplansexecution.jpg#filehistory)
+* [Links](../Image/Basicplansexecution.jpg#filelinks)
 
 [![Image:Basicplansexecution.jpg](../images/thumb/7/71/Basicplansexecution.jpg/800px-Basicplansexecution.jpg)](../images/7/71/Basicplansexecution.jpg)  
 Size of this preview: 800 × 487 pixels  
@@ -23,7 +23,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Community:Images](../Community/Images.md "Community:Images")
+* [Community:Images](../Community/Images "Community:Images")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Basicplansexecution.jpg](../Image/Basicplansexecution.jpg.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Basicplansexecution.jpg](../Image/Basicplansexecution.jpg)"

@@ -1,6 +1,6 @@
-* [Image](../Image/Inverse-transitive-relation.png.md#file)
-* [File history](../Image/Inverse-transitive-relation.png.md#filehistory)
-* [Links](../Image/Inverse-transitive-relation.png.md#filelinks)
+* [Image](../Image/Inverse-transitive-relation.png#file)
+* [File history](../Image/Inverse-transitive-relation.png#filehistory)
+* [Links](../Image/Inverse-transitive-relation.png#filelinks)
 
 [![Image:Inverse-transitive-relation.png](../images/5/5f/Inverse-transitive-relation.png)](../images/5/5f/Inverse-transitive-relation.png)  
 No higher resolution available.  
@@ -25,4 +25,4 @@ There are no pages that link to this file.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Inverse-transitive-relation.png](../Image/Inverse-transitive-relation.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Inverse-transitive-relation.png](../Image/Inverse-transitive-relation.png)"

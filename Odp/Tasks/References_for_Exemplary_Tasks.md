@@ -14,7 +14,7 @@ __Description:__ Currently, there is no good way for users to enter references w
 
 
 * __Type__: Improvement
-* __Posted by__: [MichaelUschold](../../User/MichaelUschold.md "User:MichaelUschold")
+* __Posted by__: [MichaelUschold](../../User/MichaelUschold "User:MichaelUschold")
 * __Status__: fixed
 
 
@@ -29,8 +29,8 @@ This task has no sub-tasks
 
 
 
-[Development](../../Odp/Development.md "Odp:Development") | [Create new task](http://ontologydesignpatterns.org/wiki/Special:AddData/Task_Form?Task Template[SubmittedBy]=93.44.81.35).| [Add sub-task](http://ontologydesignpatterns.org/wiki/Special:AddData/Task_Form?parenttask=Tasks/References_for_Exemplary_Ontologies&Task Template[ParentTask]=Tasks/References_for_Exemplary_Ontologies&Task Template[SubmittedBy]=93.44.81.35) | [Add a comment at the bottom of this page](../index.php@title=Odp%253AAdd_comment&target=Odp%253ATasks%252F../../Odp/Tasks/References_for_Exemplary_Ontologies.md#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Odp:Tasks/References_for_Exemplary_Ontologies#New_comment")
-#####  25-02-2010 [EnricoDaga](../../User/EnricoDaga.md "User:EnricoDaga") says:
+[Development](../../Odp/Development "Odp:Development") | [Create new task](http://ontologydesignpatterns.org/wiki/Special:AddData/Task_Form?Task Template[SubmittedBy]=93.44.81.35).| [Add sub-task](http://ontologydesignpatterns.org/wiki/Special:AddData/Task_Form?parenttask=Tasks/References_for_Exemplary_Ontologies&Task Template[ParentTask]=Tasks/References_for_Exemplary_Ontologies&Task Template[SubmittedBy]=93.44.81.35) | [Add a comment at the bottom of this page](../index.php@title=Odp%253AAdd_comment&target=Odp%253ATasks%252F../../Odp/Tasks/References_for_Exemplary_Ontologies#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Odp:Tasks/References_for_Exemplary_Ontologies#New_comment")
+#####  25-02-2010 [EnricoDaga](../../User/EnricoDaga "User:EnricoDaga") says:
 
 
 We can give the possibility to add references in the following way:
@@ -51,7 +51,7 @@ We can give the possibility to add references in the following way:
 	* Domains
 
 
-#####  26-02-2010 [EnricoDaga](../../User/EnricoDaga.md "User:EnricoDaga") says:
+#####  26-02-2010 [EnricoDaga](../../User/EnricoDaga "User:EnricoDaga") says:
 
 
 The workflow ca be:
@@ -64,7 +64,7 @@ The workflow ca be:
 * all references are automatically listed at the bottom of the page
 
 
-#####  26-02-2010 [MichaelUschold](../../User/MichaelUschold.md "User:MichaelUschold") says:
+#####  26-02-2010 [MichaelUschold](../../User/MichaelUschold "User:MichaelUschold") says:
 
 
 This is close to what we want. I propose the following changes:
@@ -86,7 +86,7 @@ This is close to what we want. I propose the following changes:
 4. Have a "Add Another Reference Type" button, in case there is a commonly occurring option missed.
 
 
-#####  26-02-2010 [MichaelUschold](../../User/MichaelUschold.md "User:MichaelUschold") says:
+#####  26-02-2010 [MichaelUschold](../../User/MichaelUschold "User:MichaelUschold") says:
 
 
 I like the workflow. We may later choose to put the references somewhere else, but the bottom of the page is good for now. For example, you might want to list one or two references in the main table, and the rest below. That is a later frill.
@@ -97,19 +97,19 @@ I like the workflow. We may later choose to put the references somewhere else, b
 
 
 
-#####  2-03-2010 [EnricoDaga](../../User/EnricoDaga.md "User:EnricoDaga") says:
+#####  2-03-2010 [EnricoDaga](../../User/EnricoDaga "User:EnricoDaga") says:
 
 
 The model is now:
 
 
 
-* [Category:Reference](../../Category/Reference.md "Category:Reference")
-	+ [Property:ReferenceSubject](../../Property/ReferenceSubject.md "Property:ReferenceSubject") (automatic, multiple)
-	+ [Property:ReferenceLabel](../../Property/ReferenceLabel.md "Property:ReferenceLabel") (mandatory)
-	+ [Property:ReferenceDescription](../../Property/ReferenceDescription.md "Property:ReferenceDescription") (mandatory)
-	+ [Property:ReferenceURL](../../Property/ReferenceURL.md "Property:ReferenceURL") (optional)
-	+ [Property:ReferenceType](../../Property/ReferenceType.md "Property:ReferenceType") (mandatory, enumeration)
+* [Category:Reference](../../Category/Reference "Category:Reference")
+	+ [Property:ReferenceSubject](../../Property/ReferenceSubject "Property:ReferenceSubject") (automatic, multiple)
+	+ [Property:ReferenceLabel](../../Property/ReferenceLabel "Property:ReferenceLabel") (mandatory)
+	+ [Property:ReferenceDescription](../../Property/ReferenceDescription "Property:ReferenceDescription") (mandatory)
+	+ [Property:ReferenceURL](../../Property/ReferenceURL "Property:ReferenceURL") (optional)
+	+ [Property:ReferenceType](../../Property/ReferenceType "Property:ReferenceType") (mandatory, enumeration)
 		1. Project Home Page
 		2. Documentation
 		3. Wiki
@@ -117,7 +117,7 @@ The model is now:
 		5. Personal Communication
 		6. Other
 		- Have a "Add Another Reference Type" button, in case there is a commonly occurring option missed. . The list can be extended by sysop users. If the user needs a type of reference that is not in the list, he can choose 'Other' and write it in an additional field.
-		- This list can be extended by editing the '[Property:ReferenceType](../../Property/ReferenceType.md "Property:ReferenceType")' page.
+		- This list can be extended by editing the '[Property:ReferenceType](../../Property/ReferenceType "Property:ReferenceType")' page.
 * References have their own page, named as follow: Community:References/<ReferenceLabel>
 * Reference page shows the subject and reference data
 
@@ -127,11 +127,11 @@ Workflow:
 
 
 * from any page a button/link is provided 'add a reference'
-* The user creates a new reference. The form for a [Category:Reference](../../Category/Reference.md "Category:Reference") is presented (the previous page is automatically setup as subject of the reference)
+* The user creates a new reference. The form for a [Category:Reference](../../Category/Reference "Category:Reference") is presented (the previous page is automatically setup as subject of the reference)
 * all references are automatically listed at the bottom of the page
 
 
-__IMPORTANT: a [Category:Reference](../../Category/Reference.md "Category:Reference") is intended to represent an n-ary relation. References cannot be shared by multiple subjects!__
+__IMPORTANT: a [Category:Reference](../../Category/Reference "Category:Reference") is intended to represent an n-ary relation. References cannot be shared by multiple subjects!__
 
 
   
@@ -141,5 +141,5 @@ __IMPORTANT: a [Category:Reference](../../Category/Reference.md "Category:Refere
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Odp:Tasks/References\_for\_Exemplary\_Ontologies](../../Odp/Tasks/References_for_Exemplary_Ontologies.md)"
- [Categories](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [RootTask](../../Category/RootTask.md "Category:RootTask") | [DevelopmentTask](../../Category/DevelopmentTask.md "Category:DevelopmentTask")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Odp:Tasks/References\_for\_Exemplary\_Ontologies](../../Odp/Tasks/References_for_Exemplary_Ontologies)"
+ [Categories](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [RootTask](../../Category/RootTask "Category:RootTask") | [DevelopmentTask](../../Category/DevelopmentTask "Category:DevelopmentTask")

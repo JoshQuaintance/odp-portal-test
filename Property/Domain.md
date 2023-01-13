@@ -1,9 +1,9 @@
-[Domain](../Property/Domain.md "Property:Domain")
+[Domain](../Property/Domain "Property:Domain")
 This property indicates the domain of the Content Ontology Design Pattern.
-The value of this property is of type [Domain](../Category/Domain.md "Category:Domain").
+The value of this property is of type [Domain](../Category/Domain "Category:Domain").
 
 
-This property is of type [Page](../Type/Page.md "Type:Page"). The object of this property has default form [Form:Domain Form](../Form/Domain_Form.md "Form:Domain Form").
+This property is of type [Page](../Type/Page "Type:Page"). The object of this property has default form [Form:Domain Form](../Form/Domain_Form "Form:Domain Form").
 
 
   

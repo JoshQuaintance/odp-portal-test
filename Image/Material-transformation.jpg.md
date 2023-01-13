@@ -1,6 +1,6 @@
-* [Image](../Image/Material-transformation.jpg.md#file)
-* [File history](../Image/Material-transformation.jpg.md#filehistory)
-* [Links](../Image/Material-transformation.jpg.md#filelinks)
+* [Image](../Image/Material-transformation.jpg#file)
+* [File history](../Image/Material-transformation.jpg#filehistory)
+* [Links](../Image/Material-transformation.jpg#filelinks)
 
 [![Image:Material-transformation.jpg](../images/c/c4/Material-transformation.jpg)](../images/c/c4/Material-transformation.jpg)  
 No higher resolution available.  
@@ -26,7 +26,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Submissions:Material Transformation](../Submissions/Material_Transformation.md "Submissions:Material Transformation")
+* [Submissions:Material Transformation](../Submissions/Material_Transformation "Submissions:Material Transformation")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Material-transformation.jpg](../Image/Material-transformation.jpg.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Material-transformation.jpg](../Image/Material-transformation.jpg)"

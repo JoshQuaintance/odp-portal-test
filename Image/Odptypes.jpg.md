@@ -1,6 +1,6 @@
-* [Image](../Image/Odptypes.jpg.md#file)
-* [File history](../Image/Odptypes.jpg.md#filehistory)
-* [Links](../Image/Odptypes.jpg.md#filelinks)
+* [Image](../Image/Odptypes.jpg#file)
+* [File history](../Image/Odptypes.jpg#filehistory)
+* [Links](../Image/Odptypes.jpg#filelinks)
 
 [![Image:Odptypes.jpg](../images/thumb/f/fa/Odptypes.jpg/800px-Odptypes.jpg)](../images/f/fa/Odptypes.jpg)  
 Size of this preview: 800 × 245 pixels  
@@ -23,7 +23,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [OPTypes](../OPTypes.md "OPTypes")
+* [OPTypes](../OPTypes "OPTypes")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Odptypes.jpg](../Image/Odptypes.jpg.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Odptypes.jpg](../Image/Odptypes.jpg)"

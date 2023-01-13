@@ -1,4 +1,4 @@
-[![](../images/thumb/b/b5/Certified.png/70px-Certified.png)](../Image/Certified.png.md "Certified.png") __This pattern has been certified.__
+[![](../images/thumb/b/b5/Certified.png/70px-Certified.png)](../Image/Certified.png "Certified.png") __This pattern has been certified.__
 Related submission, with evaluation history, can be found __here__
 
 
@@ -13,7 +13,7 @@ __Diagram__
 
 
 
-[![Image:Recurrent-event-series.jpg](../images/d/d1/Recurrent-event-series.jpg)](../Image/Recurrent-event-series.jpg.md "Image:Recurrent-event-series.jpg")
+[![Image:Recurrent-event-series.jpg](../images/d/d1/Recurrent-event-series.jpg)](../Image/Recurrent-event-series.jpg "Image:Recurrent-event-series.jpg")
 
 
 
@@ -83,7 +83,7 @@ There is no Modeling issue related to this proposal.
 #  References
 
 
-[Add a reference](index.php@title=Odp%253AAdd_reference&subject=../Submissions/RecurrentEventSeries.md "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_reference&subject=Submissions%3ARecurrentEventSeries")
+[Add a reference](index.php@title=Odp%253AAdd_reference&subject=../Submissions/RecurrentEventSeries "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_reference&subject=Submissions%3ARecurrentEventSeries")
 
 
   
@@ -93,5 +93,5 @@ There is no Modeling issue related to this proposal.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:RecurrentEventSeries](../Submissions/RecurrentEventSeries.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ProposedContentOP](../Category/ProposedContentOP.md "Category:ProposedContentOP")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:RecurrentEventSeries](../Submissions/RecurrentEventSeries)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ProposedContentOP](../Category/ProposedContentOP "Category:ProposedContentOP")

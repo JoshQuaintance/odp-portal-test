@@ -1,4 +1,4 @@
-___hasRegion__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [Region](../../Submissions/Region.md "Submissions:Region")_
+___hasRegion__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [Region](../../Submissions/Region "Submissions:Region")_
 
 
   
@@ -6,7 +6,7 @@ ___hasRegion__ has [Category:OntologyElement](../../Category/OntologyElement.md 
 
 
 
-[![ObjectProperty](../../images/thumb/c/c3/ObjectProperty.gif/45px-ObjectProperty.gif)](../../Image/ObjectProperty.gif.md "ObjectProperty")
+[![ObjectProperty](../../images/thumb/c/c3/ObjectProperty.gif/45px-ObjectProperty.gif)](../../Image/ObjectProperty.gif "ObjectProperty")
 __Name__: hasRegion 
 
 
@@ -19,5 +19,5 @@ __Description__: A relation between entities and regions, e.g. 'the number of wh
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Region/hasRegion](../../Submissions/Region/hasRegion.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Region/hasRegion](../../Submissions/Region/hasRegion)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

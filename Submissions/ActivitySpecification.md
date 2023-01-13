@@ -1,4 +1,4 @@
-[![](../images/thumb/b/b5/Certified.png/70px-Certified.png)](../Image/Certified.png.md "Certified.png") __This pattern has been certified.__
+[![](../images/thumb/b/b5/Certified.png/70px-Certified.png)](../Image/Certified.png "Certified.png") __This pattern has been certified.__
 Related submission, with evaluation history, can be found __here__
 
 
@@ -13,7 +13,7 @@ __Diagram__
 
 
 
-[![Image:Activityspec op.png](../images/2/21/Activityspec_op.png)](../Image/Activityspec_op.png.md "Image:Activityspec op.png")
+[![Image:Activityspec op.png](../images/2/21/Activityspec_op.png)](../Image/Activityspec_op.png "Image:Activityspec op.png")
 
 
 
@@ -83,7 +83,7 @@ There is no Modeling issue related to this proposal.
 #  References
 
 
-[Add a reference](index.php@title=Odp%253AAdd_reference&subject=../Submissions/ActivitySpecification.md "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_reference&subject=Submissions%3AActivitySpecification")
+[Add a reference](index.php@title=Odp%253AAdd_reference&subject=../Submissions/ActivitySpecification "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_reference&subject=Submissions%3AActivitySpecification")
 
 
   
@@ -93,5 +93,5 @@ There is no Modeling issue related to this proposal.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:ActivitySpecification](../Submissions/ActivitySpecification.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ProposedContentOP](../Category/ProposedContentOP.md "Category:ProposedContentOP")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:ActivitySpecification](../Submissions/ActivitySpecification)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ProposedContentOP](../Category/ProposedContentOP "Category:ProposedContentOP")

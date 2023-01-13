@@ -1,4 +1,4 @@
-[![Image:ODPUser.png](../images/a/a6/ODPUser.png)](../Image/ODPUser.png.md "Image:ODPUser.png")
+[![Image:ODPUser.png](../images/a/a6/ODPUser.png)](../Image/ODPUser.png "Image:ODPUser.png")
 
 
 
@@ -19,7 +19,7 @@ __Domains of interest:__
 
 
 
-* [Academy](../Community/Academy.md "Community:Academy")
+* [Academy](../Community/Academy "Community:Academy")
 * [education](http://ontologydesignpatterns.org/wiki/Special:AddData/Domain Form/Community:Education "Community:Education (not yet written)")
 
 
@@ -35,5 +35,5 @@ __How did I know about ODP:__ colleagues, surfing the web
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/User:JeffreyEarp](../User/JeffreyEarp.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ODPUser](../Category/ODPUser.md "Category:ODPUser")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/User:JeffreyEarp](../User/JeffreyEarp)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ODPUser](../Category/ODPUser "Category:ODPUser")

@@ -1,4 +1,4 @@
-___hasReferenceYear__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [ClimaticZone](../../Submissions/ClimaticZone.md "Submissions:ClimaticZone")_
+___hasReferenceYear__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [ClimaticZone](../../Submissions/ClimaticZone "Submissions:ClimaticZone")_
 
 
   
@@ -6,7 +6,7 @@ ___hasReferenceYear__ has [Category:OntologyElement](../../Category/OntologyElem
 
 
 
-[![DatatypeProperty](../../images/thumb/a/a5/DatatypeProperty.gif/45px-DatatypeProperty.gif)](../../Image/DatatypeProperty.gif.md "DatatypeProperty")
+[![DatatypeProperty](../../images/thumb/a/a5/DatatypeProperty.gif/45px-DatatypeProperty.gif)](../../Image/DatatypeProperty.gif "DatatypeProperty")
 __Name__: hasReferenceYear 
 
 
@@ -19,5 +19,5 @@ __Description__:
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:ClimaticZone/hasReferenceYear](../../Submissions/AquaticResourceObservation/hasReferenceYear.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:ClimaticZone/hasReferenceYear](../../Submissions/AquaticResourceObservation/hasReferenceYear)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

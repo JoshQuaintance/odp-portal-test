@@ -1,4 +1,4 @@
-Return to [Catalogue of Exemplary Ontologies](../Ontology/Main.md "Ontology:Main")
+Return to [Catalogue of Exemplary Ontologies](../Ontology/Main "Ontology:Main")
 
 
 
@@ -99,5 +99,5 @@ In Ch. Hochberger and R. Liskowsky, editors, Informatik 2006, volume P-94 of Lec
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Ontology:Smart\_Product\_Description\_Object\_%28SPDO%29](../Ontology/Smart_Product_Description_Object_(SPDO).md).md).html)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Ontology](../Category/Ontology.md "Category:Ontology")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Ontology:Smart\_Product\_Description\_Object\_%28SPDO%29](../Ontology/Smart_Product_Description_Object_(SPDO)).md).md).html)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Ontology](../Category/Ontology "Category:Ontology")

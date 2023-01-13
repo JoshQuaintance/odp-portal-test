@@ -1,4 +1,4 @@
-Return to [Catalogue of Exemplary Ontologies](../Ontology/Main.md "Ontology:Main")
+Return to [Catalogue of Exemplary Ontologies](../Ontology/Main "Ontology:Main")
 
 
 
@@ -31,11 +31,11 @@ The axiomitization of OntoClean in S5 modal logic entails certain constraints be
 
 
 
-* SemanticWeb.org Wiki article [Documentation](http://semanticweb.org/wiki/OntoClean "http://semanticweb.org/wiki/OntoClean") | [reference page](../Community/References/OntoClean_Wiki_Entry.md "Community:References/OntoClean Wiki Entry")
-* Wikipedia article [Documentation](http://en.wikipedia.org/wiki/Ontoclean "http://en.wikipedia.org/wiki/Ontoclean") | [reference page](../Community/References/OntoClean_Wikipedia_article.md "Community:References/OntoClean Wikipedia article")
+* SemanticWeb.org Wiki article [Documentation](http://semanticweb.org/wiki/OntoClean "http://semanticweb.org/wiki/OntoClean") | [reference page](../Community/References/OntoClean_Wiki_Entry "Community:References/OntoClean Wiki Entry")
+* Wikipedia article [Documentation](http://en.wikipedia.org/wiki/Ontoclean "http://en.wikipedia.org/wiki/Ontoclean") | [reference page](../Community/References/OntoClean_Wikipedia_article "Community:References/OntoClean Wikipedia article")
 
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Ontology:OntoClean\_Meta-Property\_Ontology](../Ontology/OntoClean_Meta-Property_Ontology.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Ontology](../Category/Ontology.md "Category:Ontology")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Ontology:OntoClean\_Meta-Property\_Ontology](../Ontology/OntoClean_Meta-Property_Ontology)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Ontology](../Category/Ontology "Category:Ontology")

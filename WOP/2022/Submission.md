@@ -1,7 +1,7 @@
 #   Submission Instructions for WOP 2022
 
 
-This page contains instructions for submitting to [WOP 2022](../../WOP/2022.1.md "WOP:2022"). There are three categories of papers:
+This page contains instructions for submitting to [WOP 2022](../../WOP/2022.1 "WOP:2022"). There are three categories of papers:
 
 
 
@@ -47,7 +47,7 @@ The following is a list of detailed instructions that authors have to take into 
 
 
 * [Request an account at the ODP portal](http://ontologydesignpatterns.org/wiki/Special:RequestAccount "Special:RequestAccount"), in case you do not have already one. Note that account requests are processed by hand, so do this step with a few days to spare before the submission deadline.
-* Go to the ODP portal  [pattern submission page](../../Submissions/SubmitAPattern.md "Submissions:SubmitAPattern").
+* Go to the ODP portal  [pattern submission page](../../Submissions/SubmitAPattern "Submissions:SubmitAPattern").
 * Submit your pattern by following the instructions, and make sure you enter as much information about your pattern as possible (clarity and completeness of the information will be a review criteria for patterns), i.e. fill out __all__ applicable fields.
 * Write a document briefly describing your pattern (__between 5 and 12 pages__, depending on the complexity or topic of the pattern, in CEUR style), and submit this pattern description through [https://easychair.org/conferences/?conf=wop2022](https://easychair.org/conferences/?conf=wop2022 "https://easychair.org/conferences/?conf=wop2022").
 * If you are experiencing any problems, or have questions about how to submit patterns, please contact the chairs.

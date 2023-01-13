@@ -1,6 +1,6 @@
-* [Image](../Image/SnowflakeExample.png.md#file)
-* [File history](../Image/SnowflakeExample.png.md#filehistory)
-* [Links](../Image/SnowflakeExample.png.md#filelinks)
+* [Image](../Image/SnowflakeExample.png#file)
+* [File history](../Image/SnowflakeExample.png#filehistory)
+* [Links](../Image/SnowflakeExample.png#filelinks)
 
 [![Image:SnowflakeExample.png](../images/1/15/SnowflakeExample.png)](../images/1/15/SnowflakeExample.png)  
 No higher resolution available.  
@@ -23,7 +23,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following file is a duplicate of this file:
 
 
-* [Image:SnowflakeExample2.png](../Image/SnowflakeExample2.png.md "Image:SnowflakeExample2.png")
+* [Image:SnowflakeExample2.png](../Image/SnowflakeExample2.png "Image:SnowflakeExample2.png")
 
 
 There are no pages that link to this file.
@@ -31,4 +31,4 @@ There are no pages that link to this file.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:SnowflakeExample.png](../Image/SnowflakeExample.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:SnowflakeExample.png](../Image/SnowflakeExample.png)"

@@ -1,6 +1,6 @@
-* [Image](../Image/Logo_limbio.png.md#file)
-* [File history](../Image/Logo_limbio.png.md#filehistory)
-* [Links](../Image/Logo_limbio.png.md#filelinks)
+* [Image](../Image/Logo_limbio.png#file)
+* [File history](../Image/Logo_limbio.png#filehistory)
+* [Links](../Image/Logo_limbio.png#filelinks)
 
 [![Image:Logo limbio.png](../images/5/5b/Logo_limbio.png)](../images/5/5b/Logo_limbio.png)  
 No higher resolution available.  
@@ -23,7 +23,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Odp:Partners](../Odp/Partners.md "Odp:Partners")
+* [Odp:Partners](../Odp/Partners "Odp:Partners")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Logo\_limbio.png](../Image/Logo_limbio.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Logo\_limbio.png](../Image/Logo_limbio.png)"

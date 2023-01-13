@@ -19,7 +19,7 @@ __Description:__ When I save a proposed Content OP page, the red links of the on
 
 
 
-Go back to the  [Feedback main page](../Feedback/Main.md "Feedback:Main")
+Go back to the  [Feedback main page](../Feedback/Main "Feedback:Main")
 
 
   
@@ -29,5 +29,5 @@ Go back to the  [Feedback main page](../Feedback/Main.md "Feedback:Main")
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Feedback:Definition\_of\_ontology\_elements](../Feedback/Definition_of_ontology_elements.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Feedback](../Category/Feedback.md "Category:Feedback")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Feedback:Definition\_of\_ontology\_elements](../Feedback/Definition_of_ontology_elements)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Feedback](../Category/Feedback "Category:Feedback")

@@ -1,6 +1,6 @@
-* [Image](../Image/Gearspecies.jpg.md#file)
-* [File history](../Image/Gearspecies.jpg.md#filehistory)
-* [Links](../Image/Gearspecies.jpg.md#filelinks)
+* [Image](../Image/Gearspecies.jpg#file)
+* [File history](../Image/Gearspecies.jpg#filehistory)
+* [Links](../Image/Gearspecies.jpg#filelinks)
 
 [![Image:Gearspecies.jpg](../images/9/96/Gearspecies.jpg)](../images/9/96/Gearspecies.jpg)  
 No higher resolution available.  
@@ -23,8 +23,8 @@ Click on a date/time to view the file as it appeared at that time.
 The following 2 pages link to this file:
 
 
-* [Community:Images](../Community/Images.md "Community:Images")
-* [Submissions:GearSpecies](../Submissions/GearSpecies.md "Submissions:GearSpecies")
+* [Community:Images](../Community/Images "Community:Images")
+* [Submissions:GearSpecies](../Submissions/GearSpecies "Submissions:GearSpecies")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Gearspecies.jpg](../Image/Gearspecies.jpg.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Gearspecies.jpg](../Image/Gearspecies.jpg)"

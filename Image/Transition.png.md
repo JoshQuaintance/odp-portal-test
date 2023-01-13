@@ -1,6 +1,6 @@
-* [Image](../Image/Transition.png.md#file)
-* [File history](../Image/Transition.png.md#filehistory)
-* [Links](../Image/Transition.png.md#filelinks)
+* [Image](../Image/Transition.png#file)
+* [File history](../Image/Transition.png#filehistory)
+* [Links](../Image/Transition.png#filelinks)
 
 [![Image:Transition.png](../images/7/7a/Transition.png)](../images/7/7a/Transition.png)  
 No higher resolution available.  
@@ -23,7 +23,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Submissions:Transition](../Submissions/Transition.md "Submissions:Transition")
+* [Submissions:Transition](../Submissions/Transition "Submissions:Transition")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Transition.png](../Image/Transition.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Transition.png](../Image/Transition.png)"

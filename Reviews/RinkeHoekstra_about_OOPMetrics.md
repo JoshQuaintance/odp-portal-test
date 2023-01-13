@@ -1,5 +1,5 @@
-[![](../images/thumb/2/29/Reviewer.png/48px-Reviewer.png)](../Image/Reviewer.png.md "Reviewer.png")
-__[RinkeHoekstra](../User/RinkeHoekstra.md "User:RinkeHoekstra") about [OOPMetrics](../Submissions/OOPMetrics.md "Submissions:OOPMetrics") (Revision ID: [11169](../Submissions/OOPMetrics@oldid=11169.md "http://ontologydesignpatterns.org/wiki/Submissions:OOPMetrics?oldid=11169"))__
+[![](../images/thumb/2/29/Reviewer.png/48px-Reviewer.png)](../Image/Reviewer.png "Reviewer.png")
+__[RinkeHoekstra](../User/RinkeHoekstra "User:RinkeHoekstra") about [OOPMetrics](../Submissions/OOPMetrics "Submissions:OOPMetrics") (Revision ID: [11169](../Submissions/OOPMetrics@oldid=11169 "http://ontologydesignpatterns.org/wiki/Submissions:OOPMetrics?oldid=11169"))__
 Overall suggestion (score): -1 - reject
 
 
@@ -22,8 +22,8 @@ _Posted:_ 2012/8/21 _Last modified:_ 2012/8/21
 
 
 
-[All reviews](../Reviews/Main.md "Reviews:Main") | [Add a comment at the bottom of this page](index.php@title=Odp%253AAdd_comment&target=../Reviews/RinkeHoekstra_about_OOPMetrics.md#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Reviews:RinkeHoekstra_about_OOPMetrics#New_comment")
+[All reviews](../Reviews/Main "Reviews:Main") | [Add a comment at the bottom of this page](index.php@title=Odp%253AAdd_comment&target=../Reviews/RinkeHoekstra_about_OOPMetrics#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Reviews:RinkeHoekstra_about_OOPMetrics#New_comment")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Reviews:RinkeHoekstra\_about\_OOPMetrics](../Reviews/RinkeHoekstra_about_OOPMetrics.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [QCReview](../Category/QCReview.md "Category:QCReview")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Reviews:RinkeHoekstra\_about\_OOPMetrics](../Reviews/RinkeHoekstra_about_OOPMetrics)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [QCReview](../Category/QCReview "Category:QCReview")

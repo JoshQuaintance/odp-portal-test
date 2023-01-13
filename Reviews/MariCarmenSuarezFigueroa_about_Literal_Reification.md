@@ -1,5 +1,5 @@
-[![](../images/thumb/2/29/Reviewer.png/48px-Reviewer.png)](../Image/Reviewer.png.md "Reviewer.png")
-__[MariCarmenSuarezFigueroa](../User/MariCarmenSuarezFigueroa.md "User:MariCarmenSuarezFigueroa") about [Literal Reification](../Submissions/Literal_Reification.md "Submissions:Literal Reification") (Revision ID: [Reification?oldid=10110 10110](../Submissions/Literal.md "http://ontologydesignpatterns.org/wiki/Submissions:Literal"))__
+[![](../images/thumb/2/29/Reviewer.png/48px-Reviewer.png)](../Image/Reviewer.png "Reviewer.png")
+__[MariCarmenSuarezFigueroa](../User/MariCarmenSuarezFigueroa "User:MariCarmenSuarezFigueroa") about [Literal Reification](../Submissions/Literal_Reification "Submissions:Literal Reification") (Revision ID: [Reification?oldid=10110 10110](../Submissions/Literal "http://ontologydesignpatterns.org/wiki/Submissions:Literal"))__
 Overall suggestion (score): 1 - needs minor revision
 
 
@@ -27,8 +27,8 @@ _Posted:_ 2010/9/17 _Last modified:_ 2010/9/17
 
 
 
-[All reviews](../Reviews/Main.md "Reviews:Main") | [Add a comment at the bottom of this page](index.php@title=Odp%253AAdd_comment&target=../Reviews/MariCarmenSuarezFigueroa_about_Literal_Reification.md#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Reviews:MariCarmenSuarezFigueroa_about_Literal_Reification#New_comment")
+[All reviews](../Reviews/Main "Reviews:Main") | [Add a comment at the bottom of this page](index.php@title=Odp%253AAdd_comment&target=../Reviews/MariCarmenSuarezFigueroa_about_Literal_Reification#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Reviews:MariCarmenSuarezFigueroa_about_Literal_Reification#New_comment")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Reviews:MariCarmenSuarezFigueroa\_about\_Literal\_Reification](../Reviews/MariCarmenSuarezFigueroa_about_Literal_Reification.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [QCReview](../Category/QCReview.md "Category:QCReview")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Reviews:MariCarmenSuarezFigueroa\_about\_Literal\_Reification](../Reviews/MariCarmenSuarezFigueroa_about_Literal_Reification)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [QCReview](../Category/QCReview "Category:QCReview")

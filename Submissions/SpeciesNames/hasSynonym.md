@@ -1,4 +1,4 @@
-___hasSynonym__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [SpeciesNames](../../Submissions/SpeciesNames.md "Submissions:SpeciesNames")_
+___hasSynonym__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [SpeciesNames](../../Submissions/SpeciesNames "Submissions:SpeciesNames")_
 
 
   
@@ -6,7 +6,7 @@ ___hasSynonym__ has [Category:OntologyElement](../../Category/OntologyElement.md
 
 
 
-[![DatatypeProperty](../../images/thumb/a/a5/DatatypeProperty.gif/45px-DatatypeProperty.gif)](../../Image/DatatypeProperty.gif.md "DatatypeProperty")
+[![DatatypeProperty](../../images/thumb/a/a5/DatatypeProperty.gif/45px-DatatypeProperty.gif)](../../Image/DatatypeProperty.gif "DatatypeProperty")
 __Name__: hasSynonym 
 
 
@@ -19,5 +19,5 @@ __Description__: Expresses the scientific names that exist for a species but are
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:SpeciesNames/hasSynonym](../../Submissions/AOS_AGROVOC_Concept_Server_fundation_ontology_model/hasSynonym.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:SpeciesNames/hasSynonym](../../Submissions/AOS_AGROVOC_Concept_Server_fundation_ontology_model/hasSynonym)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

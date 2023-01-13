@@ -19,7 +19,7 @@ __Description:__ I suggest to add a tipping support when entering a new page for
 
 
 
-Go back to the  [Feedback main page](../Feedback/Main.md "Feedback:Main")
+Go back to the  [Feedback main page](../Feedback/Main "Feedback:Main")
 
 
   
@@ -29,5 +29,5 @@ Go back to the  [Feedback main page](../Feedback/Main.md "Feedback:Main")
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Feedback:Tip\_for\_entering\_new\_submissions](../Feedback/Tip_for_entering_new_submissions.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Feedback](../Category/Feedback.md "Category:Feedback")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Feedback:Tip\_for\_entering\_new\_submissions](../Feedback/Tip_for_entering_new_submissions)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Feedback](../Category/Feedback "Category:Feedback")

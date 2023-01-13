@@ -1,6 +1,6 @@
-* [Image](../Image/Gearwaterarea.jpg.md#file)
-* [File history](../Image/Gearwaterarea.jpg.md#filehistory)
-* [Links](../Image/Gearwaterarea.jpg.md#filelinks)
+* [Image](../Image/Gearwaterarea.jpg#file)
+* [File history](../Image/Gearwaterarea.jpg#filehistory)
+* [Links](../Image/Gearwaterarea.jpg#filelinks)
 
 [![Image:Gearwaterarea.jpg](../images/6/6e/Gearwaterarea.jpg)](../images/6/6e/Gearwaterarea.jpg)  
 No higher resolution available.  
@@ -23,8 +23,8 @@ Click on a date/time to view the file as it appeared at that time.
 The following 2 pages link to this file:
 
 
-* [Community:Images](../Community/Images.md "Community:Images")
-* [Submissions:GearWaterArea](../Submissions/GearWaterArea.md "Submissions:GearWaterArea")
+* [Community:Images](../Community/Images "Community:Images")
+* [Submissions:GearWaterArea](../Submissions/GearWaterArea "Submissions:GearWaterArea")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Gearwaterarea.jpg](../Image/Gearwaterarea.jpg.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Gearwaterarea.jpg](../Image/Gearwaterarea.jpg)"

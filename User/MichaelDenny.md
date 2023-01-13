@@ -1,4 +1,4 @@
-[![Image:ODPUser.png](../images/a/a6/ODPUser.png)](../Image/ODPUser.png.md "Image:ODPUser.png")
+[![Image:ODPUser.png](../images/a/a6/ODPUser.png)](../Image/ODPUser.png "Image:ODPUser.png")
 
 
 
@@ -20,7 +20,7 @@ __Domains of interest:__
 
 
 * [military](http://ontologydesignpatterns.org/wiki/Special:AddData/Domain Form/Community:Military "Community:Military (not yet written)")
-* [business](../Community/Business.md "Community:Business")
+* [business](../Community/Business "Community:Business")
 * [information systems architecture](http://ontologydesignpatterns.org/wiki/Special:AddData/Domain Form/Community:Information_systems_architecture "Community:Information systems architecture (not yet written)")
 
 
@@ -36,5 +36,5 @@ __How did I know about ODP:__ colleagues
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/User:MichaelDenny](../User/MichaelDenny.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ODPUser](../Category/ODPUser.md "Category:ODPUser")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/User:MichaelDenny](../User/MichaelDenny)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ODPUser](../Category/ODPUser "Category:ODPUser")

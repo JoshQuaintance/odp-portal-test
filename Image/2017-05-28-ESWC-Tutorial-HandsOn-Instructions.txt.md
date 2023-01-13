@@ -1,6 +1,6 @@
-* [Image](../Image/2017-05-28-ESWC-Tutorial-HandsOn-Instructions.txt.md#file)
-* [File history](../Image/2017-05-28-ESWC-Tutorial-HandsOn-Instructions.txt.md#filehistory)
-* [Links](../Image/2017-05-28-ESWC-Tutorial-HandsOn-Instructions.txt.md#filelinks)
+* [Image](../Image/2017-05-28-ESWC-Tutorial-HandsOn-Instructions.txt#file)
+* [File history](../Image/2017-05-28-ESWC-Tutorial-HandsOn-Instructions.txt#filehistory)
+* [Links](../Image/2017-05-28-ESWC-Tutorial-HandsOn-Instructions.txt#filelinks)
 
 
 [2017-05-28-ESWC-Tutorial-HandsOn-Instructions.txt](../images/d/d6/2017-05-28-ESWC-Tutorial-HandsOn-Instructions.txt "2017-05-28-ESWC-Tutorial-HandsOn-Instructions.txt")‎
@@ -36,7 +36,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Training:Tutorial: Modular Ontology Modeling with Ontology Design Patterns at ESWC2017](../Training/Tutorial/_Modular_Ontology_Modeling_with_Ontology_Design_Patterns_at_ESWC2017.md "Training:Tutorial: Modular Ontology Modeling with Ontology Design Patterns at ESWC2017")
+* [Training:Tutorial: Modular Ontology Modeling with Ontology Design Patterns at ESWC2017](../Training/Tutorial/_Modular_Ontology_Modeling_with_Ontology_Design_Patterns_at_ESWC2017 "Training:Tutorial: Modular Ontology Modeling with Ontology Design Patterns at ESWC2017")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:2017-05-28-ESWC-Tutorial-HandsOn-Instructions.txt](../Image/2017-05-28-ESWC-Tutorial-HandsOn-Instructions.txt.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:2017-05-28-ESWC-Tutorial-HandsOn-Instructions.txt](../Image/2017-05-28-ESWC-Tutorial-HandsOn-Instructions.txt)"

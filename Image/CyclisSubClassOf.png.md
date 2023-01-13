@@ -1,6 +1,6 @@
-* [Image](../Image/CyclisSubClassOf.png.md#file)
-* [File history](../Image/CyclisSubClassOf.png.md#filehistory)
-* [Links](../Image/CyclisSubClassOf.png.md#filelinks)
+* [Image](../Image/CyclisSubClassOf.png#file)
+* [File history](../Image/CyclisSubClassOf.png#filehistory)
+* [Links](../Image/CyclisSubClassOf.png#filelinks)
 
 [![Image:CyclisSubClassOf.png](../images/7/74/CyclisSubClassOf.png)](../images/7/74/CyclisSubClassOf.png)  
 No higher resolution available.  
@@ -23,7 +23,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Submissions:CyclicSubClassOf](../Submissions/CyclicSubClassOf.md "Submissions:CyclicSubClassOf")
+* [Submissions:CyclicSubClassOf](../Submissions/CyclicSubClassOf "Submissions:CyclicSubClassOf")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:CyclisSubClassOf.png](../Image/CyclisSubClassOf.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:CyclisSubClassOf.png](../Image/CyclisSubClassOf.png)"

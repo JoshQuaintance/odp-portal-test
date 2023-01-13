@@ -1,6 +1,6 @@
-* [Image](../Image/Cop.png.md#file)
-* [File history](../Image/Cop.png.md#filehistory)
-* [Links](../Image/Cop.png.md#filelinks)
+* [Image](../Image/Cop.png#file)
+* [File history](../Image/Cop.png#filehistory)
+* [Links](../Image/Cop.png#filelinks)
 
 [![Image:Cop.png](../images/1/14/Cop.png)](../images/1/14/Cop.png)  
 No higher resolution available.  
@@ -28,4 +28,4 @@ There are no pages that link to this file.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Cop.png](../Image/Cop.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Cop.png](../Image/Cop.png)"

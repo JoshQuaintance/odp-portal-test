@@ -1,6 +1,6 @@
-* [Image](../Image/Property-relation-composite.png.md#file)
-* [File history](../Image/Property-relation-composite.png.md#filehistory)
-* [Links](../Image/Property-relation-composite.png.md#filelinks)
+* [Image](../Image/Property-relation-composite.png#file)
+* [File history](../Image/Property-relation-composite.png#filehistory)
+* [Links](../Image/Property-relation-composite.png#filelinks)
 
 [![Image:Property-relation-composite.png](../images/7/73/Property-relation-composite.png)](../images/7/73/Property-relation-composite.png)  
 No higher resolution available.  
@@ -25,4 +25,4 @@ There are no pages that link to this file.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Property-relation-composite.png](../Image/Property-relation-composite.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Property-relation-composite.png](../Image/Property-relation-composite.png)"

@@ -1,4 +1,4 @@
-[![Image:ODPUser.png](../images/a/a6/ODPUser.png)](../Image/ODPUser.png.md "Image:ODPUser.png")
+[![Image:ODPUser.png](../images/a/a6/ODPUser.png)](../Image/ODPUser.png "Image:ODPUser.png")
 
 
 
@@ -19,14 +19,14 @@ __Domains of interest:__
 
 
 
-* [Upper Ontology](../Community/Upper_Ontology.md "Community:Upper Ontology")
+* [Upper Ontology](../Community/Upper_Ontology "Community:Upper Ontology")
 
 
 __Is expert of:__
 
 
 
-* [Context-aware](../Community/Context-aware.md "Community:Context-aware")
+* [Context-aware](../Community/Context-aware "Community:Context-aware")
 
 
 __How did I know about ODP:__ colleagues, surfing the web
@@ -36,5 +36,5 @@ __How did I know about ODP:__ colleagues, surfing the web
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/User:EfstratiosKontopoulos](../User/EfstratiosKontopoulos.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ODPUser](../Category/ODPUser.md "Category:ODPUser")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/User:EfstratiosKontopoulos](../User/EfstratiosKontopoulos)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ODPUser](../Category/ODPUser "Category:ODPUser")

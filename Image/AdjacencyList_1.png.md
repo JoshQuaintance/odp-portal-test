@@ -1,6 +1,6 @@
-* [Image](../Image/AdjacencyList_1.png.md#file)
-* [File history](../Image/AdjacencyList_1.png.md#filehistory)
-* [Links](../Image/AdjacencyList_1.png.md#filelinks)
+* [Image](../Image/AdjacencyList_1.png#file)
+* [File history](../Image/AdjacencyList_1.png#filehistory)
+* [Links](../Image/AdjacencyList_1.png#filelinks)
 
 [![Image:AdjacencyList 1.png](../images/7/7a/AdjacencyList_1.png)](../images/7/7a/AdjacencyList_1.png)  
 No higher resolution available.  
@@ -23,7 +23,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Submissions:Pattern for re-engineering a classification scheme, which follows the adjacency list data model, into an ontology schema](../Submissions/Pattern_for_re-engineering_a_classification_scheme,_which_follows_the_adjacency_list_data_model,_into_an_ontology_schema.md "Submissions:Pattern for re-engineering a classification scheme, which follows the adjacency list data model, into an ontology schema")
+* [Submissions:Pattern for re-engineering a classification scheme, which follows the adjacency list data model, into an ontology schema](../Submissions/Pattern_for_re-engineering_a_classification_scheme,_which_follows_the_adjacency_list_data_model,_into_an_ontology_schema "Submissions:Pattern for re-engineering a classification scheme, which follows the adjacency list data model, into an ontology schema")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:AdjacencyList\_1.png](../Image/AdjacencyList_1.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:AdjacencyList\_1.png](../Image/AdjacencyList_1.png)"

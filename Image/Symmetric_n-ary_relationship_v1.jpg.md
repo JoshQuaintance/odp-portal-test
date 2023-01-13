@@ -1,6 +1,6 @@
-* [Image](../Image/Symmetric_n-ary_relationship_v1.jpg.md#file)
-* [File history](../Image/Symmetric_n-ary_relationship_v1.jpg.md#filehistory)
-* [Links](../Image/Symmetric_n-ary_relationship_v1.jpg.md#filelinks)
+* [Image](../Image/Symmetric_n-ary_relationship_v1.jpg#file)
+* [File history](../Image/Symmetric_n-ary_relationship_v1.jpg#filehistory)
+* [Links](../Image/Symmetric_n-ary_relationship_v1.jpg#filelinks)
 
 [![Image:Symmetric n-ary relationship v1.jpg](../images/4/49/Symmetric_n-ary_relationship_v1.jpg)](../images/4/49/Symmetric_n-ary_relationship_v1.jpg)  
 No higher resolution available.  
@@ -23,7 +23,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Submissions:Symmetric n-ary relationship](../Submissions/Symmetric_n-ary_relationship.md "Submissions:Symmetric n-ary relationship")
+* [Submissions:Symmetric n-ary relationship](../Submissions/Symmetric_n-ary_relationship "Submissions:Symmetric n-ary relationship")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Symmetric\_n-ary\_relationship\_v1.jpg](../Image/Symmetric_n-ary_relationship_v1.jpg.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Symmetric\_n-ary\_relationship\_v1.jpg](../Image/Symmetric_n-ary_relationship_v1.jpg)"

@@ -8,10 +8,10 @@ For this exercise your will be divided into two groups. The goal of both groups 
 Each group finds all the instructions needed when clicking on the respective link below (but please click only on the link for the group you belong to below).
 
 
- [Instructions for the group applying testing ideas freely](../../Training/PhD_Course_on_Computational_Ontologies_@_University_of_Bologna_2011/Ontology_Testing/Unrestricted_testing.md "Training:PhD Course on Computational Ontologies @ University of Bologna 2011/Ontology Testing:Unrestricted testing")
+ [Instructions for the group applying testing ideas freely](../../Training/PhD_Course_on_Computational_Ontologies_@_University_of_Bologna_2011/Ontology_Testing/Unrestricted_testing "Training:PhD Course on Computational Ontologies @ University of Bologna 2011/Ontology Testing:Unrestricted testing")
 
 
- [Instructions for the group applying a given set of testing methods](../../Training/PhD_Course_on_Computational_Ontologies_@_University_of_Bologna_2011/Ontology_Testing/Method-based_testing.md "Training:PhD Course on Computational Ontologies @ University of Bologna 2011/Ontology Testing:Method-based testing")
+ [Instructions for the group applying a given set of testing methods](../../Training/PhD_Course_on_Computational_Ontologies_@_University_of_Bologna_2011/Ontology_Testing/Method-based_testing "Training:PhD Course on Computational Ontologies @ University of Bologna 2011/Ontology Testing:Method-based testing")
 
 
 
@@ -22,5 +22,5 @@ __Solutions__:
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Training:PhD\_Course\_on\_Computational\_Ontologies\_%40\_University\_of\_Bologna\_2011/Ontology\_Testing](../../Training/Advanced_Ontology_Engineering_at_FOI_-_2011/Ontology_Testing.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Exercise](../../Category/Exercise.md "Category:Exercise")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Training:PhD\_Course\_on\_Computational\_Ontologies\_%40\_University\_of\_Bologna\_2011/Ontology\_Testing](../../Training/Advanced_Ontology_Engineering_at_FOI_-_2011/Ontology_Testing)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Exercise](../../Category/Exercise "Category:Exercise")

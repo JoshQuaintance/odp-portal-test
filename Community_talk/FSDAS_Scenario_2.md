@@ -6,10 +6,10 @@ I have a comment to the __1st CQ__ and the content: pattern [http://ontologydesi
 * the first two are OK, but the 3rd is very differtent. This one should be objectProperty relating two species.
 
 
---[MichaelErdmann](../User/MichaelErdmann.md "User:MichaelErdmann") 13:14, 12 March 2009 (UTC)
+--[MichaelErdmann](../User/MichaelErdmann "User:MichaelErdmann") 13:14, 12 March 2009 (UTC)
 
 
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Community\_talk:FSDAS\_Scenario\_2](../Community_talk/FSDAS_Scenario_2.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Community\_talk:FSDAS\_Scenario\_2](../Community_talk/FSDAS_Scenario_2)"

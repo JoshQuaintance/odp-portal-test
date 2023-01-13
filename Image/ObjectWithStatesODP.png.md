@@ -1,6 +1,6 @@
-* [Image](../Image/ObjectWithStatesODP.png.md#file)
-* [File history](../Image/ObjectWithStatesODP.png.md#filehistory)
-* [Links](../Image/ObjectWithStatesODP.png.md#filelinks)
+* [Image](../Image/ObjectWithStatesODP.png#file)
+* [File history](../Image/ObjectWithStatesODP.png#filehistory)
+* [Links](../Image/ObjectWithStatesODP.png#filelinks)
 
 [![Image:ObjectWithStatesODP.png](../images/thumb/1/11/ObjectWithStatesODP.png/800px-ObjectWithStatesODP.png)](../images/1/11/ObjectWithStatesODP.png)  
 Size of this preview: 800 × 268 pixels  
@@ -26,7 +26,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Submissions:Object with states](../Submissions/Object_with_states.md "Submissions:Object with states")
+* [Submissions:Object with states](../Submissions/Object_with_states "Submissions:Object with states")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:ObjectWithStatesODP.png](../Image/ObjectWithStatesODP.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:ObjectWithStatesODP.png](../Image/ObjectWithStatesODP.png)"

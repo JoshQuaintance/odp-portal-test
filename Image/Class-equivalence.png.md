@@ -1,6 +1,6 @@
-* [Image](../Image/Class-equivalence.png.md#file)
-* [File history](../Image/Class-equivalence.png.md#filehistory)
-* [Links](../Image/Class-equivalence.png.md#filelinks)
+* [Image](../Image/Class-equivalence.png#file)
+* [File history](../Image/Class-equivalence.png#filehistory)
+* [Links](../Image/Class-equivalence.png#filelinks)
 
 [![Image:Class-equivalence.png](../images/7/79/Class-equivalence.png)](../images/7/79/Class-equivalence.png)  
 No higher resolution available.  
@@ -26,7 +26,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Submissions:Class equivalence](../Submissions/Class_equivalence.md "Submissions:Class equivalence")
+* [Submissions:Class equivalence](../Submissions/Class_equivalence "Submissions:Class equivalence")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Class-equivalence.png](../Image/Class-equivalence.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Class-equivalence.png](../Image/Class-equivalence.png)"

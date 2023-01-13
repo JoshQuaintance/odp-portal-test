@@ -19,11 +19,11 @@ __Description:__ It would be clearer if you include a colon after each ODP templ
 
 
 
-Go back to the  [Feedback main page](../Feedback/Main.md "Feedback:Main")
+Go back to the  [Feedback main page](../Feedback/Main "Feedback:Main")
 
 
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Feedback:Colon\_in\_the\_ODP\_template](../Feedback/Colon_in_the_ODP_template.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Feedback](../Category/Feedback.md "Category:Feedback")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Feedback:Colon\_in\_the\_ODP\_template](../Feedback/Colon_in_the_ODP_template)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Feedback](../Category/Feedback "Category:Feedback")

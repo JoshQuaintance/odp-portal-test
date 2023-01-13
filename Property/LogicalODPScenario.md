@@ -1,4 +1,4 @@
-This is a property of type [Text](../Type/Text.md "Type:Text").
+This is a property of type [Text](../Type/Text "Type:Text").
 
 
 
@@ -13,4 +13,4 @@ Showing 14 pages using this property.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Property:LogicalODPScenario](../Property/LogicalODPScenario.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Property:LogicalODPScenario](../Property/LogicalODPScenario)"

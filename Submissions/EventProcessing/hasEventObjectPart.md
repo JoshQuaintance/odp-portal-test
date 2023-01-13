@@ -1,4 +1,4 @@
-___hasEventObjectPart__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [EventProcessing](../../Submissions/EventProcessing.md "Submissions:EventProcessing")_
+___hasEventObjectPart__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [EventProcessing](../../Submissions/EventProcessing "Submissions:EventProcessing")_
 
 
   
@@ -6,7 +6,7 @@ ___hasEventObjectPart__ has [Category:OntologyElement](../../Category/OntologyEl
 
 
 
-[![ObjectProperty](../../images/thumb/c/c3/ObjectProperty.gif/45px-ObjectProperty.gif)](../../Image/ObjectProperty.gif.md "ObjectProperty")
+[![ObjectProperty](../../images/thumb/c/c3/ObjectProperty.gif/45px-ObjectProperty.gif)](../../Image/ObjectProperty.gif "ObjectProperty")
 __Name__: hasEventObjectPart 
 
 
@@ -19,5 +19,5 @@ __Description__: This transitive property represents a partonomy relation betwee
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:EventProcessing/hasEventObjectPart](../../Submissions/EventProcessing/hasEventObjectPart.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:EventProcessing/hasEventObjectPart](../../Submissions/EventProcessing/hasEventObjectPart)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

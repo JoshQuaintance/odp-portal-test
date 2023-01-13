@@ -1,6 +1,6 @@
-* [Image](../Image/Aquaticresource.jpg.md#file)
-* [File history](../Image/Aquaticresource.jpg.md#filehistory)
-* [Links](../Image/Aquaticresource.jpg.md#filelinks)
+* [Image](../Image/Aquaticresource.jpg#file)
+* [File history](../Image/Aquaticresource.jpg#filehistory)
+* [Links](../Image/Aquaticresource.jpg#filelinks)
 
 [![Image:Aquaticresource.jpg](../images/c/c0/Aquaticresource.jpg)](../images/c/c0/Aquaticresource.jpg)  
 No higher resolution available.  
@@ -23,8 +23,8 @@ Click on a date/time to view the file as it appeared at that time.
 The following 2 pages link to this file:
 
 
-* [Community:Images](../Community/Images.md "Community:Images")
-* [Submissions:AquaticResources](../Submissions/AquaticResources.md "Submissions:AquaticResources")
+* [Community:Images](../Community/Images "Community:Images")
+* [Submissions:AquaticResources](../Submissions/AquaticResources "Submissions:AquaticResources")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Aquaticresource.jpg](../Image/Aquaticresource.jpg.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Aquaticresource.jpg](../Image/Aquaticresource.jpg)"

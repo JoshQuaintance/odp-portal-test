@@ -1,6 +1,6 @@
-* [Image](../Image/Class-subsumption.png.md#file)
-* [File history](../Image/Class-subsumption.png.md#filehistory)
-* [Links](../Image/Class-subsumption.png.md#filelinks)
+* [Image](../Image/Class-subsumption.png#file)
+* [File history](../Image/Class-subsumption.png#filehistory)
+* [Links](../Image/Class-subsumption.png#filelinks)
 
 [![Image:Class-subsumption.png](../images/6/60/Class-subsumption.png)](../images/6/60/Class-subsumption.png)  
 No higher resolution available.  
@@ -23,7 +23,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Submissions:Class subsumption](../Submissions/Class_subsumption.md "Submissions:Class subsumption")
+* [Submissions:Class subsumption](../Submissions/Class_subsumption "Submissions:Class subsumption")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Class-subsumption.png](../Image/Class-subsumption.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Class-subsumption.png](../Image/Class-subsumption.png)"

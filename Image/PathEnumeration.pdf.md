@@ -1,8 +1,8 @@
-* [Image](../Image/PathEnumeration.pdf.md#file)
-* [File history](../Image/PathEnumeration.pdf.md#filehistory)
-* [Links](../Image/PathEnumeration.pdf.md#filelinks)
+* [Image](../Image/PathEnumeration.pdf#file)
+* [File history](../Image/PathEnumeration.pdf#filehistory)
+* [Links](../Image/PathEnumeration.pdf#filelinks)
 
-[![](../skins/common/images/icons/fileicon-pdf.png)](../Image/PathEnumeration.pdf.md "PathEnumeration.pdf")
+[![](../skins/common/images/icons/fileicon-pdf.png)](../Image/PathEnumeration.pdf "PathEnumeration.pdf")
 [PathEnumeration.pdf](../images/2/2b/PathEnumeration.pdf "PathEnumeration.pdf")‎  (file size: 50 KB, MIME type: application/pdf)
 
 
@@ -28,4 +28,4 @@ There are no pages that link to this file.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:PathEnumeration.pdf](../Image/PathEnumeration.pdf.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:PathEnumeration.pdf](../Image/PathEnumeration.pdf)"

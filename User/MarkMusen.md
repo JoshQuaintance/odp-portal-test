@@ -1,4 +1,4 @@
-[![Image:ODPUser.png](../images/a/a6/ODPUser.png)](../Image/ODPUser.png.md "Image:ODPUser.png")
+[![Image:ODPUser.png](../images/a/a6/ODPUser.png)](../Image/ODPUser.png "Image:ODPUser.png")
 
 
 
@@ -19,9 +19,9 @@ __Domains of interest:__
 
 
 
-* [Healthcare](../Community/Healthcare.md "Community:Healthcare")
-* [Ontology](../Community/Ontology-based_models.md "Community:Ontology")
-* [Biology](../Community/Biology.md "Community:Biology")
+* [Healthcare](../Community/Healthcare "Community:Healthcare")
+* [Ontology](../Community/Ontology-based_models "Community:Ontology")
+* [Biology](../Community/Biology "Community:Biology")
 
 
 __Is expert of:__
@@ -36,5 +36,5 @@ __How did I know about ODP:__ colleagues
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/User:MarkMusen](../User/MarkMusen.md)"
- [Categories](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ODPUser](../Category/ODPUser.md "Category:ODPUser") | [QCMember](../Category/QCMember.md "Category:QCMember")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/User:MarkMusen](../User/MarkMusen)"
+ [Categories](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ODPUser](../Category/ODPUser "Category:ODPUser") | [QCMember](../Category/QCMember "Category:QCMember")

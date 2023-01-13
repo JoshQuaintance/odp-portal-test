@@ -1,6 +1,6 @@
-* [Image](../Image/Class-by-attribute-occurence.png.md#file)
-* [File history](../Image/Class-by-attribute-occurence.png.md#filehistory)
-* [Links](../Image/Class-by-attribute-occurence.png.md#filelinks)
+* [Image](../Image/Class-by-attribute-occurence.png#file)
+* [File history](../Image/Class-by-attribute-occurence.png#filehistory)
+* [Links](../Image/Class-by-attribute-occurence.png#filelinks)
 
 [![Image:Class-by-attribute-occurence.png](../images/c/c8/Class-by-attribute-occurence.png)](../images/c/c8/Class-by-attribute-occurence.png)  
 No higher resolution available.  
@@ -23,7 +23,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Submissions:Class by attribute occurence](../Submissions/Class_by_attribute_occurence.md "Submissions:Class by attribute occurence")
+* [Submissions:Class by attribute occurence](../Submissions/Class_by_attribute_occurence "Submissions:Class by attribute occurence")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Class-by-attribute-occurence.png](../Image/Class-by-attribute-occurence.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Class-by-attribute-occurence.png](../Image/Class-by-attribute-occurence.png)"

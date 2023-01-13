@@ -1,6 +1,6 @@
-* [Image](../Image/Definition.gif.md#file)
-* [File history](../Image/Definition.gif.md#filehistory)
-* [Links](../Image/Definition.gif.md#filelinks)
+* [Image](../Image/Definition.gif#file)
+* [File history](../Image/Definition.gif#filehistory)
+* [Links](../Image/Definition.gif#filelinks)
 
 [![Image:Definition.gif](../images/6/6f/Definition.gif)](../images/6/6f/Definition.gif)  
 No higher resolution available.  
@@ -23,24 +23,24 @@ Click on a date/time to view the file as it appeared at that time.
 The following 18 pages link to this file:
 
 
-* [Community:Images](../Community/Images.md "Community:Images")
-* [Category:ContentOP](../Category/ContentOP.md "Category:ContentOP")
-* [OPTypes](../OPTypes.md "OPTypes")
-* [Template:Definition](../Template/Definition.md "Template:Definition")
-* [Odp:Development/Tests](../Odp/Development/Tests.md "Odp:Development/Tests")
-* [Category:LogicalOP](../Category/LogicalOP.md "Category:LogicalOP")
-* [Category:ArchitecturalOP](../Category/ArchitecturalOP.md "Category:ArchitecturalOP")
-* [Category:PresentationOP](../Category/PresentationOP.md "Category:PresentationOP")
-* [Category:NamingOP](../Category/NamingOP.md "Category:NamingOP")
-* [Category:AnnotationOP](../Category/AnnotationOP.md "Category:AnnotationOP")
-* [Category:AlignmentOP](../Category/AlignmentOP.md "Category:AlignmentOP")
-* [Category:StructuralOP](../Category/StructuralOP.md "Category:StructuralOP")
-* [Category:CorrespondenceOP](../Category/CorrespondenceOP.md "Category:CorrespondenceOP")
-* [Category:ReengineeringOP](../Category/ReengineeringOP.md "Category:ReengineeringOP")
-* [Category:SchemaReengineeringOP](../Category/SchemaReengineeringOP.md "Category:SchemaReengineeringOP")
-* [Category:ReasoningOP](../Category/ReasoningOP.md "Category:ReasoningOP")
-* [Category:LexicoSyntacticOP](../Category/LexicoSyntacticOP.md "Category:LexicoSyntacticOP")
-* [Category:OntologyDesignPattern](../Category/OntologyDesignPattern.md "Category:OntologyDesignPattern")
+* [Community:Images](../Community/Images "Community:Images")
+* [Category:ContentOP](../Category/ContentOP "Category:ContentOP")
+* [OPTypes](../OPTypes "OPTypes")
+* [Template:Definition](../Template/Definition "Template:Definition")
+* [Odp:Development/Tests](../Odp/Development/Tests "Odp:Development/Tests")
+* [Category:LogicalOP](../Category/LogicalOP "Category:LogicalOP")
+* [Category:ArchitecturalOP](../Category/ArchitecturalOP "Category:ArchitecturalOP")
+* [Category:PresentationOP](../Category/PresentationOP "Category:PresentationOP")
+* [Category:NamingOP](../Category/NamingOP "Category:NamingOP")
+* [Category:AnnotationOP](../Category/AnnotationOP "Category:AnnotationOP")
+* [Category:AlignmentOP](../Category/AlignmentOP "Category:AlignmentOP")
+* [Category:StructuralOP](../Category/StructuralOP "Category:StructuralOP")
+* [Category:CorrespondenceOP](../Category/CorrespondenceOP "Category:CorrespondenceOP")
+* [Category:ReengineeringOP](../Category/ReengineeringOP "Category:ReengineeringOP")
+* [Category:SchemaReengineeringOP](../Category/SchemaReengineeringOP "Category:SchemaReengineeringOP")
+* [Category:ReasoningOP](../Category/ReasoningOP "Category:ReasoningOP")
+* [Category:LexicoSyntacticOP](../Category/LexicoSyntacticOP "Category:LexicoSyntacticOP")
+* [Category:OntologyDesignPattern](../Category/OntologyDesignPattern "Category:OntologyDesignPattern")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Definition.gif](../Image/Definition.gif.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Definition.gif](../Image/Definition.gif)"

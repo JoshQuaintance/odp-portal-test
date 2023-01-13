@@ -1,7 +1,7 @@
 The natural language to which a Lexico-Syntactic ODP is applied.
 
 
-This is a property of type [String](../Type/String.md "Type:String").
+This is a property of type [String](../Type/String "Type:String").
 
 
 
@@ -16,4 +16,4 @@ Showing 20 pages using this property.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Property:Lexico-SyntacticODPLanguage](../Property/Lexico-SyntacticODPLanguage.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Property:Lexico-SyntacticODPLanguage](../Property/Lexico-SyntacticODPLanguage)"

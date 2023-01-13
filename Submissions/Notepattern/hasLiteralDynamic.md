@@ -1,4 +1,4 @@
-___hasLiteralDynamic__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [Notepattern](../../Submissions/Notepattern.md "Submissions:Notepattern")_
+___hasLiteralDynamic__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [Notepattern](../../Submissions/Notepattern "Submissions:Notepattern")_
 
 
   
@@ -6,7 +6,7 @@ ___hasLiteralDynamic__ has [Category:OntologyElement](../../Category/OntologyEle
 
 
 
-[![DatatypeProperty](../../images/thumb/a/a5/DatatypeProperty.gif/45px-DatatypeProperty.gif)](../../Image/DatatypeProperty.gif.md "DatatypeProperty")
+[![DatatypeProperty](../../images/thumb/a/a5/DatatypeProperty.gif/45px-DatatypeProperty.gif)](../../Image/DatatypeProperty.gif "DatatypeProperty")
 __Name__: hasLiteralDynamic 
 
 
@@ -19,5 +19,5 @@ __Description__: The dynamic expressed in a music score by means of adjectives (
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Notepattern/hasLiteralDynamic](../../Submissions/Notepattern/hasLiteralDynamic.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Notepattern/hasLiteralDynamic](../../Submissions/Notepattern/hasLiteralDynamic)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

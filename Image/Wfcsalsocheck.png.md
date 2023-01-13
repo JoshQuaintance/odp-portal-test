@@ -1,6 +1,6 @@
-* [Image](../Image/Wfcsalsocheck.png.md#file)
-* [File history](../Image/Wfcsalsocheck.png.md#filehistory)
-* [Links](../Image/Wfcsalsocheck.png.md#filelinks)
+* [Image](../Image/Wfcsalsocheck.png#file)
+* [File history](../Image/Wfcsalsocheck.png#filehistory)
+* [Links](../Image/Wfcsalsocheck.png#filelinks)
 
 [![Image:Wfcsalsocheck.png](../images/thumb/4/43/Wfcsalsocheck.png/411px-Wfcsalsocheck.png)](../images/4/43/Wfcsalsocheck.png)  
 Size of this preview: 411 × 600 pixels  
@@ -23,7 +23,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Submissions:Classification scheme - adjacency list model - to Taxonomy](../Submissions/Classification_scheme_-_adjacency_list_model_-_to_Taxonomy.md "Submissions:Classification scheme - adjacency list model - to Taxonomy")
+* [Submissions:Classification scheme - adjacency list model - to Taxonomy](../Submissions/Classification_scheme_-_adjacency_list_model_-_to_Taxonomy "Submissions:Classification scheme - adjacency list model - to Taxonomy")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Wfcsalsocheck.png](../Image/Wfcsalsocheck.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Wfcsalsocheck.png](../Image/Wfcsalsocheck.png)"

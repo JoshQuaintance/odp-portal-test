@@ -1,6 +1,6 @@
-* [Image](../Image/Fig_wop2010_award.jpg.md#file)
-* [File history](../Image/Fig_wop2010_award.jpg.md#filehistory)
-* [Links](../Image/Fig_wop2010_award.jpg.md#filelinks)
+* [Image](../Image/Fig_wop2010_award.jpg#file)
+* [File history](../Image/Fig_wop2010_award.jpg#filehistory)
+* [Links](../Image/Fig_wop2010_award.jpg#filelinks)
 
 [![Image:Fig wop2010 award.jpg](../images/thumb/5/5a/Fig_wop2010_award.jpg/424px-Fig_wop2010_award.jpg)](../images/5/5a/Fig_wop2010_award.jpg)  
 Size of this preview: 424 × 599 pixels  
@@ -26,7 +26,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [WOP:2010](../WOP/2010.md "WOP:2010")
+* [WOP:2010](../WOP/2010 "WOP:2010")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Fig\_wop2010\_award.jpg](../Image/Fig_wop2010_award.jpg.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Fig\_wop2010\_award.jpg](../Image/Fig_wop2010_award.jpg)"

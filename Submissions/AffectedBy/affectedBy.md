@@ -1,4 +1,4 @@
-___affectedBy__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [AffectedBy](../../Submissions/AffectedBy.md "Submissions:AffectedBy")_
+___affectedBy__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [AffectedBy](../../Submissions/AffectedBy "Submissions:AffectedBy")_
 
 
   
@@ -6,7 +6,7 @@ ___affectedBy__ has [Category:OntologyElement](../../Category/OntologyElement.md
 
 
 
-[![ObjectProperty](../../images/thumb/c/c3/ObjectProperty.gif/45px-ObjectProperty.gif)](../../Image/ObjectProperty.gif.md "ObjectProperty")
+[![ObjectProperty](../../images/thumb/c/c3/ObjectProperty.gif/45px-ObjectProperty.gif)](../../Image/ObjectProperty.gif "ObjectProperty")
 __Name__: affectedBy 
 
 
@@ -19,5 +19,5 @@ __Description__: A relation between qualities. A quality is affected by another 
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:AffectedBy/affectedBy](../../Submissions/AffectedBy/affectedBy.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:AffectedBy/affectedBy](../../Submissions/AffectedBy/affectedBy)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

@@ -46,7 +46,7 @@ In this case, we propose a solution based on:
 So, ingredients are part of Compositions which are related to a concrete pharmaceutical product
 
 
-[![Image:Pp_odp.JPG](../images/1/13/Pp_odp.JPG)](../Image/Pp_odp.JPG.md "Image:Pp_odp.JPG")
+[![Image:Pp_odp.JPG](../images/1/13/Pp_odp.JPG)](../Image/Pp_odp.JPG "Image:Pp_odp.JPG")
 
 
 
@@ -61,8 +61,8 @@ So, ingredients are part of Compositions which are related to a concrete pharmac
 
 
 
- [List of Modeling Issues](../Community/Main.md "Community:Main") | [Post a new modeling issue](../Community/PostModelingIssue.md "Community:PostModelingIssue") | [Add a comment in the discussion page](index.php@title=Odp%253AAdd_comment&target=Community_talk%253APharmaceuticalProducts_Composition.html#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Community_talk:PharmaceuticalProducts_Composition#New_comment")
+ [List of Modeling Issues](../Community/Main "Community:Main") | [Post a new modeling issue](../Community/PostModelingIssue "Community:PostModelingIssue") | [Add a comment in the discussion page](index.php@title=Odp%253AAdd_comment&target=Community_talk%253APharmaceuticalProducts_Composition.html#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Community_talk:PharmaceuticalProducts_Composition#New_comment")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Community:PharmaceuticalProducts\_Composition](../Community/PharmaceuticalProducts_Composition.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ModelingIssue](../Category/ModelingIssue.md "Category:ModelingIssue")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Community:PharmaceuticalProducts\_Composition](../Community/PharmaceuticalProducts_Composition)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ModelingIssue](../Category/ModelingIssue "Category:ModelingIssue")

@@ -1,4 +1,4 @@
-___Stream__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [DigitalVideo](../../Submissions/DigitalVideo.md "Submissions:DigitalVideo")_
+___Stream__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [DigitalVideo](../../Submissions/DigitalVideo "Submissions:DigitalVideo")_
 
 
   
@@ -6,7 +6,7 @@ ___Stream__ has [Category:OntologyElement](../../Category/OntologyElement.md "Ca
 
 
 
-[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif.md "Class")
+[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif "Class")
 __Name__: Stream 
 
 
@@ -19,5 +19,5 @@ __Description__: A (data) stream is a sequence of digitally encoded coherent sig
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:DigitalVideo/Stream](../../Submissions/DigitalVideo/AudioStream.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:DigitalVideo/Stream](../../Submissions/DigitalVideo/AudioStream)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

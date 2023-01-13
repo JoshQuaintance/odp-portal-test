@@ -1,7 +1,7 @@
-This is a property of type [Text](../Type/Text.md "Type:Text").
+This is a property of type [Text](../Type/Text "Type:Text").
 
 
-This property is subproperty of [PatternWorkFlow](../Property/PatternWorkFlow.md "Property:PatternWorkFlow").
+This property is subproperty of [PatternWorkFlow](../Property/PatternWorkFlow "Property:PatternWorkFlow").
 
 
 
@@ -16,4 +16,4 @@ Showing 2 pages using this property.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Property:AlignmentODPWorkflow](../Property/AlignmentODPWorkflow.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Property:AlignmentODPWorkflow](../Property/AlignmentODPWorkflow)"

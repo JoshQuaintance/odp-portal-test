@@ -1,6 +1,6 @@
-* [Image](../Image/PathEnumerationOccupationscheck.png.md#file)
-* [File history](../Image/PathEnumerationOccupationscheck.png.md#filehistory)
-* [Links](../Image/PathEnumerationOccupationscheck.png.md#filelinks)
+* [Image](../Image/PathEnumerationOccupationscheck.png#file)
+* [File history](../Image/PathEnumerationOccupationscheck.png#filehistory)
+* [Links](../Image/PathEnumerationOccupationscheck.png#filelinks)
 
 [![Image:PathEnumerationOccupationscheck.png](../images/c/c5/PathEnumerationOccupationscheck.png)](../images/c/c5/PathEnumerationOccupationscheck.png)  
 No higher resolution available.  
@@ -23,7 +23,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Submissions:Classification scheme - path enumeration model - to Taxonomy](../Submissions/Classification_scheme_-_path_enumeration_model_-_to_Taxonomy.md "Submissions:Classification scheme - path enumeration model - to Taxonomy")
+* [Submissions:Classification scheme - path enumeration model - to Taxonomy](../Submissions/Classification_scheme_-_path_enumeration_model_-_to_Taxonomy "Submissions:Classification scheme - path enumeration model - to Taxonomy")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:PathEnumerationOccupationscheck.png](../Image/PathEnumerationOccupationscheck.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:PathEnumerationOccupationscheck.png](../Image/PathEnumerationOccupationscheck.png)"

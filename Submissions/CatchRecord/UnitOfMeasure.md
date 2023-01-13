@@ -1,4 +1,4 @@
-___UnitOfMeasure__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [CatchRecord](../../Submissions/CatchRecord.md "Submissions:CatchRecord")_
+___UnitOfMeasure__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [CatchRecord](../../Submissions/CatchRecord "Submissions:CatchRecord")_
 
 
   
@@ -6,7 +6,7 @@ ___UnitOfMeasure__ has [Category:OntologyElement](../../Category/OntologyElement
 
 
 
-[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif.md "Class")
+[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif "Class")
 __Name__: UnitOfMeasure 
 
 
@@ -19,5 +19,5 @@ __Description__:
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:CatchRecord/UnitOfMeasure](../../Submissions/CatchRecord/UnitOfMeasure.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:CatchRecord/UnitOfMeasure](../../Submissions/CatchRecord/UnitOfMeasure)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

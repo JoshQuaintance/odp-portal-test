@@ -19,7 +19,7 @@ __Description:__ It would be good to be able to upload owl files to the wiki. It
 
 
 
-Go back to the  [Feedback main page](../Feedback/Main.md "Feedback:Main")
+Go back to the  [Feedback main page](../Feedback/Main "Feedback:Main")
 
 
   
@@ -29,5 +29,5 @@ Go back to the  [Feedback main page](../Feedback/Main.md "Feedback:Main")
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Feedback:Upload\_owl\_files](../Feedback/Upload_owl_files.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Feedback](../Category/Feedback.md "Category:Feedback")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Feedback:Upload\_owl\_files](../Feedback/Upload_owl_files)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Feedback](../Category/Feedback "Category:Feedback")

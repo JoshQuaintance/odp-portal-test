@@ -1,6 +1,6 @@
-* [Image](../Image/Parameter.jpg.md#file)
-* [File history](../Image/Parameter.jpg.md#filehistory)
-* [Links](../Image/Parameter.jpg.md#filelinks)
+* [Image](../Image/Parameter.jpg#file)
+* [File history](../Image/Parameter.jpg#filehistory)
+* [Links](../Image/Parameter.jpg#filelinks)
 
 [![Image:Parameter.jpg](../images/5/56/Parameter.jpg)](../images/5/56/Parameter.jpg)  
 No higher resolution available.  
@@ -23,8 +23,8 @@ Click on a date/time to view the file as it appeared at that time.
 The following 2 pages link to this file:
 
 
-* [Community:Images](../Community/Images.md "Community:Images")
-* [Submissions:Parameter](../Submissions/Parameter.md "Submissions:Parameter")
+* [Community:Images](../Community/Images "Community:Images")
+* [Submissions:Parameter](../Submissions/Parameter "Submissions:Parameter")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Parameter.jpg](../Image/Parameter.jpg.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Parameter.jpg](../Image/Parameter.jpg)"

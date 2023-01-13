@@ -1,9 +1,9 @@
 __Scenario__
 This property is used for describing examples of instantiation of the Content OP. For example, for the part of Content OP (which represents part-whole relations) a possible scenario is the sentence: "the brain is part of the human body". Scenarios are expressed as natural language sentences.
-The value of this property is of type [Text](../Type/Text.md "Type:Text").
+The value of this property is of type [Text](../Type/Text "Type:Text").
 
 
-This property is a subproperty of [PatternProblemExample](../Property/PatternProblemExample.md "Property:PatternProblemExample").
+This property is a subproperty of [PatternProblemExample](../Property/PatternProblemExample "Property:PatternProblemExample").
 
 
 

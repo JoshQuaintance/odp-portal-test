@@ -1,5 +1,5 @@
-[![](../images/thumb/2/29/Reviewer.png/48px-Reviewer.png)](../Image/Reviewer.png.md "Reviewer.png")
-__[BorisVillazón-Terrazas](../User/BorisVillazón-Terrazas.md "User:BorisVillazón-Terrazas") about [Normalization](../Submissions/Normalization.md "Submissions:Normalization") (Revision ID: [10071](../Submissions/Normalization@oldid=10071.md "http://ontologydesignpatterns.org/wiki/Submissions:Normalization?oldid=10071"))__
+[![](../images/thumb/2/29/Reviewer.png/48px-Reviewer.png)](../Image/Reviewer.png "Reviewer.png")
+__[BorisVillazón-Terrazas](../User/BorisVillazón-Terrazas "User:BorisVillazón-Terrazas") about [Normalization](../Submissions/Normalization "Submissions:Normalization") (Revision ID: [10071](../Submissions/Normalization@oldid=10071 "http://ontologydesignpatterns.org/wiki/Submissions:Normalization?oldid=10071"))__
 Overall suggestion (score): 1 - needs minor revision
 
 
@@ -34,8 +34,8 @@ _Posted:_ 2010/9/16 _Last modified:_ 2010/9/16
 
 
 
-[All reviews](../Reviews/Main.md "Reviews:Main") | [Add a comment at the bottom of this page](index.php@title=Odp%253AAdd_comment&target=../Reviews/BorisVillazón-Terrazas_about_Normalization.md#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Reviews:BorisVillaz%C3%B3n-Terrazas_about_Normalization#New_comment")
+[All reviews](../Reviews/Main "Reviews:Main") | [Add a comment at the bottom of this page](index.php@title=Odp%253AAdd_comment&target=../Reviews/BorisVillazón-Terrazas_about_Normalization#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Reviews:BorisVillaz%C3%B3n-Terrazas_about_Normalization#New_comment")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Reviews:BorisVillaz%C3%B3n-Terrazas\_about\_Normalization](../Reviews/BorisVillazón-Terrazas_about_Normalization.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [QCReview](../Category/QCReview.md "Category:QCReview")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Reviews:BorisVillaz%C3%B3n-Terrazas\_about\_Normalization](../Reviews/BorisVillazón-Terrazas_about_Normalization)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [QCReview](../Category/QCReview "Category:QCReview")

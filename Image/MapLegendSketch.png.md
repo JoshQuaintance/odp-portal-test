@@ -1,6 +1,6 @@
-* [Image](../Image/MapLegendSketch.png.md#file)
-* [File history](../Image/MapLegendSketch.png.md#filehistory)
-* [Links](../Image/MapLegendSketch.png.md#filelinks)
+* [Image](../Image/MapLegendSketch.png#file)
+* [File history](../Image/MapLegendSketch.png#filehistory)
+* [Links](../Image/MapLegendSketch.png#filelinks)
 
 [![Image:MapLegendSketch.png](../images/thumb/5/58/MapLegendSketch.png/800px-MapLegendSketch.png)](../images/5/58/MapLegendSketch.png)  
 Size of this preview: 800 × 600 pixels  
@@ -28,4 +28,4 @@ There are no pages that link to this file.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:MapLegendSketch.png](../Image/MapLegendSketch.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:MapLegendSketch.png](../Image/MapLegendSketch.png)"

@@ -1,9 +1,9 @@
 __HasConsequence__
 This property is assigned with a description of the benefits and/or possible trade-offs when using the Content Ontology Design Pattern.
-The value of this property is of type [Text](../Type/Text.md "Type:Text").
+The value of this property is of type [Text](../Type/Text "Type:Text").
 
 
-This property is a subproperty of [Property:PatternConsequences](../Property/PatternConsequences.md "Property:PatternConsequences").
+This property is a subproperty of [Property:PatternConsequences](../Property/PatternConsequences "Property:PatternConsequences").
 
 
 

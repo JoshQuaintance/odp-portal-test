@@ -1,4 +1,4 @@
-___invoiceCurrencyCode__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [Invoice](../../Submissions/Invoice.md "Submissions:Invoice")_
+___invoiceCurrencyCode__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [Invoice](../../Submissions/Invoice "Submissions:Invoice")_
 
 
   
@@ -6,7 +6,7 @@ ___invoiceCurrencyCode__ has [Category:OntologyElement](../../Category/OntologyE
 
 
 
-[![DatatypeProperty](../../images/thumb/a/a5/DatatypeProperty.gif/45px-DatatypeProperty.gif)](../../Image/DatatypeProperty.gif.md "DatatypeProperty")
+[![DatatypeProperty](../../images/thumb/a/a5/DatatypeProperty.gif/45px-DatatypeProperty.gif)](../../Image/DatatypeProperty.gif "DatatypeProperty")
 __Name__: invoice currency code 
 
 
@@ -19,5 +19,5 @@ __Description__: A relation between an invoice and the code of its currency
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Invoice/invoiceCurrencyCode](../../Submissions/Invoice/invoiceCurrencyCode.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Invoice/invoiceCurrencyCode](../../Submissions/Invoice/invoiceCurrencyCode)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

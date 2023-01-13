@@ -1,6 +1,6 @@
-* [Image](../Image/Info_locked.png.md#file)
-* [File history](../Image/Info_locked.png.md#filehistory)
-* [Links](../Image/Info_locked.png.md#filelinks)
+* [Image](../Image/Info_locked.png#file)
+* [File history](../Image/Info_locked.png#filehistory)
+* [Links](../Image/Info_locked.png#filelinks)
 
 [![Image:Info locked.png](../images/thumb/4/49/Info_locked.png/600px-Info_locked.png)](../images/4/49/Info_locked.png)  
 Size of this preview: 600 × 600 pixels  
@@ -23,8 +23,8 @@ Click on a date/time to view the file as it appeared at that time.
 The following 2 pages link to this file:
 
 
-* [Community:Images](../Community/Images.md "Community:Images")
-* [Template:Info locked](../Template/Info_locked.md "Template:Info locked")
+* [Community:Images](../Community/Images "Community:Images")
+* [Template:Info locked](../Template/Info_locked "Template:Info locked")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Info\_locked.png](../Image/Info_locked.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Info\_locked.png](../Image/Info_locked.png)"

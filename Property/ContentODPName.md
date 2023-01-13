@@ -1,7 +1,7 @@
-This is a property of type [String](../Type/String.md "Type:String").
+This is a property of type [String](../Type/String "Type:String").
 
 
-This property is a subproperty of [Property:PatternName](../Property/PatternName.md "Property:PatternName").
+This property is a subproperty of [Property:PatternName](../Property/PatternName "Property:PatternName").
 
 
 
@@ -16,4 +16,4 @@ Showing 0 pages using this property.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Property:ContentODPName](../Property/ContentODPName.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Property:ContentODPName](../Property/ContentODPName)"

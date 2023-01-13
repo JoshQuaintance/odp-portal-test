@@ -32,12 +32,12 @@ __Solutions__:
 
 
 
-* [Proposed CQs group 1](../../Training/Ontology_Design_with_the_NeOn_Toolkit_-_NeOn_tutorial/Mini-project/CQs1.md "Training:Ontology Design with the NeOn Toolkit - NeOn tutorial/Mini-project/CQs1")
-* [Proposed CQs group 2](../../Training/Ontology_Design_with_the_NeOn_Toolkit_-_NeOn_tutorial/Mini-project/CQs2.md "Training:Ontology Design with the NeOn Toolkit - NeOn tutorial/Mini-project/CQs2")
-* [Proposed CQs group 3](../../Training/Ontology_Design_with_the_NeOn_Toolkit_-_NeOn_tutorial/Mini-project/CQs3.md "Training:Ontology Design with the NeOn Toolkit - NeOn tutorial/Mini-project/CQs3")
+* [Proposed CQs group 1](../../Training/Ontology_Design_with_the_NeOn_Toolkit_-_NeOn_tutorial/Mini-project/CQs1 "Training:Ontology Design with the NeOn Toolkit - NeOn tutorial/Mini-project/CQs1")
+* [Proposed CQs group 2](../../Training/Ontology_Design_with_the_NeOn_Toolkit_-_NeOn_tutorial/Mini-project/CQs2 "Training:Ontology Design with the NeOn Toolkit - NeOn tutorial/Mini-project/CQs2")
+* [Proposed CQs group 3](../../Training/Ontology_Design_with_the_NeOn_Toolkit_-_NeOn_tutorial/Mini-project/CQs3 "Training:Ontology Design with the NeOn Toolkit - NeOn tutorial/Mini-project/CQs3")
 
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Training:Ontology\_Design\_with\_the\_NeOn\_Toolkit\_-\_NeOn\_tutorial/Mini-project](../../Training/Autumn_2009_-_PhD_course_Jönköping/Mini-project_1/_Hospital_employees.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Exercise](../../Category/Exercise.md "Category:Exercise")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Training:Ontology\_Design\_with\_the\_NeOn\_Toolkit\_-\_NeOn\_tutorial/Mini-project](../../Training/Autumn_2009_-_PhD_course_Jönköping/Mini-project_1/_Hospital_employees)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Exercise](../../Category/Exercise "Category:Exercise")

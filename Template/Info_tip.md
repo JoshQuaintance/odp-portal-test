@@ -21,4 +21,4 @@ The result is
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Template:Info\_tip](../Template/Info_tip.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Template:Info\_tip](../Template/Info_tip)"

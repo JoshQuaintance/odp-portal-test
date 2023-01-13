@@ -1,4 +1,4 @@
-___hasAttack__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [Musicalobject](../../Submissions/Musicalobject.md "Submissions:Musicalobject")_
+___hasAttack__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [Musicalobject](../../Submissions/Musicalobject "Submissions:Musicalobject")_
 
 
   
@@ -6,7 +6,7 @@ ___hasAttack__ has [Category:OntologyElement](../../Category/OntologyElement.md 
 
 
 
-[![DatatypeProperty](../../images/thumb/a/a5/DatatypeProperty.gif/45px-DatatypeProperty.gif)](../../Image/DatatypeProperty.gif.md "DatatypeProperty")
+[![DatatypeProperty](../../images/thumb/a/a5/DatatypeProperty.gif/45px-DatatypeProperty.gif)](../../Image/DatatypeProperty.gif "DatatypeProperty")
 __Name__: hasAttack 
 
 
@@ -19,5 +19,5 @@ __Description__: Describes the attack time (expressed in seconds) of the soundwa
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Musicalobject/hasAttack](../../Submissions/Musicalobject/hasAttack.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Musicalobject/hasAttack](../../Submissions/Musicalobject/hasAttack)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

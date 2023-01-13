@@ -1,7 +1,7 @@
-This is a property of type [String](../Type/String.md "Type:String").
+This is a property of type [String](../Type/String "Type:String").
 
 
-This is a subproperty of [PatternAuthor](../Property/PatternAuthor.md "Property:PatternAuthor")
+This is a subproperty of [PatternAuthor](../Property/PatternAuthor "Property:PatternAuthor")
 
 
 
@@ -16,4 +16,4 @@ Showing 12 pages using this property.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Property:AlignmentODPAuthor](../Property/AlignmentODPAuthor.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Property:AlignmentODPAuthor](../Property/AlignmentODPAuthor)"

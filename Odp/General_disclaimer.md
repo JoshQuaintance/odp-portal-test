@@ -5,4 +5,4 @@ There is currently no text in this page, you can [search for this page title](ht
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Odp:General\_disclaimer](../Odp/General_disclaimer.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Odp:General\_disclaimer](../Odp/General_disclaimer)"

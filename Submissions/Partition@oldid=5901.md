@@ -1,4 +1,4 @@
-[![](../images/thumb/b/b5/Certified.png/70px-Certified.png)](../Image/Certified.png.md "Certified.png") __This pattern has been certified.__
+[![](../images/thumb/b/b5/Certified.png/70px-Certified.png)](../Image/Certified.png "Certified.png") __This pattern has been certified.__
 Related submission, with evaluation history, can be found __here__
 
 
@@ -6,7 +6,7 @@ Related submission, with evaluation history, can be found __here__
 
 
 
-[![Image:Partition-diagram.png](../images/e/e1/Partition-diagram.png)](../Image/Partition-diagram.png.md "Image:Partition-diagram.png")
+[![Image:Partition-diagram.png](../images/e/e1/Partition-diagram.png)](../Image/Partition-diagram.png "Image:Partition-diagram.png")
 
 
 
@@ -81,5 +81,5 @@ Other info at [evaluation tab](http://ontologydesignpatterns.org/wiki/index.php?
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Partition](../Submissions/Partition.md)"
- [Categories](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [LogicalOP](../Category/LogicalOP.md "Category:LogicalOP") | [ProposedLogicalOP](../Category/ProposedLogicalOP.md "Category:ProposedLogicalOP") | [Submitted to event](../Category/Submitted_to_event.md "Category:Submitted to event")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Partition](../Submissions/Partition)"
+ [Categories](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [LogicalOP](../Category/LogicalOP "Category:LogicalOP") | [ProposedLogicalOP](../Category/ProposedLogicalOP "Category:ProposedLogicalOP") | [Submitted to event](../Category/Submitted_to_event "Category:Submitted to event")

@@ -1,6 +1,6 @@
-* [Image](../Image/Move.jpg.md#file)
-* [File history](../Image/Move.jpg.md#filehistory)
-* [Links](../Image/Move.jpg.md#filelinks)
+* [Image](../Image/Move.jpg#file)
+* [File history](../Image/Move.jpg#filehistory)
+* [Links](../Image/Move.jpg#filelinks)
 
 [![Image:Move.jpg](../images/1/11/Move.jpg)](../images/1/11/Move.jpg)  
 No higher resolution available.  
@@ -23,7 +23,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Community:Images](../Community/Images.md "Community:Images")
+* [Community:Images](../Community/Images "Community:Images")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Move.jpg](../Image/Move.jpg.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Move.jpg](../Image/Move.jpg)"

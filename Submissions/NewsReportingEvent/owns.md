@@ -1,4 +1,4 @@
-___owns__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [NewsReportingEvent](../../Submissions/NewsReportingEvent.md "Submissions:NewsReportingEvent")_
+___owns__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [NewsReportingEvent](../../Submissions/NewsReportingEvent "Submissions:NewsReportingEvent")_
 
 
   
@@ -6,7 +6,7 @@ ___owns__ has [Category:OntologyElement](../../Category/OntologyElement.md "Cate
 
 
 
-[![ObjectProperty](../../images/thumb/c/c3/ObjectProperty.gif/45px-ObjectProperty.gif)](../../Image/ObjectProperty.gif.md "ObjectProperty")
+[![ObjectProperty](../../images/thumb/c/c3/ObjectProperty.gif/45px-ObjectProperty.gif)](../../Image/ObjectProperty.gif "ObjectProperty")
 __Name__: owns 
 
 
@@ -22,5 +22,5 @@ This is an universal property, it can be also used in different context (e.g. Ru
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:NewsReportingEvent/owns](../../Submissions/NewsReportingEvent/owns.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:NewsReportingEvent/owns](../../Submissions/NewsReportingEvent/owns)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

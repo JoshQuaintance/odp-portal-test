@@ -1,4 +1,4 @@
-[<-Go back to K-CAP tutorial main page.](../../../Training/Extreme_Design_(XD)/_Pattern-based_Ontology_Design.md)/_Pattern-based_Ontology_Design.md)/_Pattern-based_Ontology_Design.md)%253A_Pattern-based_Ontology_Design.html "Training:Extreme Design (XD): Pattern-based Ontology Design")
+[<-Go back to K-CAP tutorial main page.](../../../Training/Extreme_Design_(XD)/_Pattern-based_Ontology_Design)/_Pattern-based_Ontology_Design)/_Pattern-based_Ontology_Design.md)/_Pattern-based_Ontology_Design.md)/_Pattern-based_Ontology_Design.md)%253A_Pattern-based_Ontology_Design.html "Training:Extreme Design (XD): Pattern-based Ontology Design")
 
 
   
@@ -62,5 +62,5 @@ __Solutions__:
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Training:Extreme\_Design\_%28XD%29:\_Pattern-based\_Ontology\_Design/Hands-on\_session\_K-CAP\_tutorial](../../../Training/Extreme_Design_(XD)/_Pattern-based_Ontology_Design.md)/_Pattern-based_Ontology_Design.md)/_Pattern-based_Ontology_Design/Hands-on_session_K-CAP_tutorial.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Exercise](../../../Category/Exercise.md "Category:Exercise")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Training:Extreme\_Design\_%28XD%29:\_Pattern-based\_Ontology\_Design/Hands-on\_session\_K-CAP\_tutorial](../../../Training/Extreme_Design_(XD)/_Pattern-based_Ontology_Design)/_Pattern-based_Ontology_Design)/_Pattern-based_Ontology_Design.md)/_Pattern-based_Ontology_Design.md)/_Pattern-based_Ontology_Design/Hands-on_session_K-CAP_tutorial.md)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Exercise](../../../Category/Exercise "Category:Exercise")

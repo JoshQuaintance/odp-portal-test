@@ -1,4 +1,4 @@
-___hasEventObjectExpirationTime__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [EventProcessing](../../Submissions/EventProcessing.md "Submissions:EventProcessing")_
+___hasEventObjectExpirationTime__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [EventProcessing](../../Submissions/EventProcessing "Submissions:EventProcessing")_
 
 
   
@@ -6,7 +6,7 @@ ___hasEventObjectExpirationTime__ has [Category:OntologyElement](../../Category/
 
 
 
-[![DatatypeProperty](../../images/thumb/a/a5/DatatypeProperty.gif/45px-DatatypeProperty.gif)](../../Image/DatatypeProperty.gif.md "DatatypeProperty")
+[![DatatypeProperty](../../images/thumb/a/a5/DatatypeProperty.gif/45px-DatatypeProperty.gif)](../../Image/DatatypeProperty.gif "DatatypeProperty")
 __Name__: hasEventObjectExpirationTime 
 
 
@@ -19,5 +19,5 @@ __Description__: Time limit on the validity of this event object.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:EventProcessing/hasEventObjectExpirationTime](../../Submissions/EventProcessing/hasEventObjectExpirationTime.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:EventProcessing/hasEventObjectExpirationTime](../../Submissions/EventProcessing/hasEventObjectExpirationTime)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

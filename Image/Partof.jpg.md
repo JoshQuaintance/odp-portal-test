@@ -1,6 +1,6 @@
-* [Image](../Image/Partof.jpg.md#file)
-* [File history](../Image/Partof.jpg.md#filehistory)
-* [Links](../Image/Partof.jpg.md#filelinks)
+* [Image](../Image/Partof.jpg#file)
+* [File history](../Image/Partof.jpg#filehistory)
+* [Links](../Image/Partof.jpg#filelinks)
 
 [![Image:Partof.jpg](../images/b/b4/Partof.jpg)](../images/b/b4/Partof.jpg)  
 No higher resolution available.  
@@ -23,8 +23,8 @@ Click on a date/time to view the file as it appeared at that time.
 The following 2 pages link to this file:
 
 
-* [Community:Images](../Community/Images.md "Community:Images")
-* [Submissions:PartOf](../Submissions/PartOf.md "Submissions:PartOf")
+* [Community:Images](../Community/Images "Community:Images")
+* [Submissions:PartOf](../Submissions/PartOf "Submissions:PartOf")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Partof.jpg](../Image/Partof.jpg.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Partof.jpg](../Image/Partof.jpg)"

@@ -1,6 +1,6 @@
-* [Image](../Image/Class-by-attribute-value.svg.md#file)
-* [File history](../Image/Class-by-attribute-value.svg.md#filehistory)
-* [Links](../Image/Class-by-attribute-value.svg.md#filelinks)
+* [Image](../Image/Class-by-attribute-value.svg#file)
+* [File history](../Image/Class-by-attribute-value.svg#filehistory)
+* [Links](../Image/Class-by-attribute-value.svg#filelinks)
 
 [![Image:Class-by-attribute-value.svg](../images/thumb/d/d4/Class-by-attribute-value.svg/274px-Class-by-attribute-value.svg.png)](../images/d/d4/Class-by-attribute-value.svg)  
 
@@ -27,7 +27,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Community:Images](../Community/Images.md "Community:Images")
+* [Community:Images](../Community/Images "Community:Images")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Class-by-attribute-value.svg](../Image/Class-by-attribute-value.svg.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Class-by-attribute-value.svg](../Image/Class-by-attribute-value.svg)"

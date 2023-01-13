@@ -1,7 +1,7 @@
-[![](../images/thumb/6/6f/Definition.gif/70px-Definition.gif)](../Image/Definition.gif.md "Definition.gif")
+[![](../images/thumb/6/6f/Definition.gif/70px-Definition.gif)](../Image/Definition.gif "Definition.gif")
 __Content Ontology Design Patterns (CPs)__
 
-CPs are distinguished networked ontologies and have their own namespace. They cover a speciﬁc set of competency questions (requirements), which represent the problem they provide a solution for. Furthermore, CPs show certain characteristics, i.e. they are: computational, small, autonomous, hierarchical, cognitively relevant, linguistically relevant, and best practices. See  [evaluation principles](../Odp/EvaluationPrinciples.md "Odp:EvaluationPrinciples") for more details. 
+CPs are distinguished networked ontologies and have their own namespace. They cover a speciﬁc set of competency questions (requirements), which represent the problem they provide a solution for. Furthermore, CPs show certain characteristics, i.e. they are: computational, small, autonomous, hierarchical, cognitively relevant, linguistically relevant, and best practices. See  [evaluation principles](../Odp/EvaluationPrinciples "Odp:EvaluationPrinciples") for more details. 
 
 
   
@@ -41,8 +41,8 @@ See also
 
 
 
-* [Certified CPs](../Category/CertifiedContentOP.md "Category:CertifiedContentOP") must satisfy a set of  [evaluation principles](../Odp/EvaluationPrinciples.md "Odp:EvaluationPrinciples") and are listed in the  [official catalogue](../Catalogue/Main.md "Catalogue:Main")
-* [Proposed CPs](../Category/ProposedContentOP.md "Category:ProposedContentOP") are submitted by users of the ODP community and are listed in the  [submission area](../Submissions/Main.md "Submissions:Main").
+* [Certified CPs](../Category/CertifiedContentOP "Category:CertifiedContentOP") must satisfy a set of  [evaluation principles](../Odp/EvaluationPrinciples "Odp:EvaluationPrinciples") and are listed in the  [official catalogue](../Catalogue/Main "Catalogue:Main")
+* [Proposed CPs](../Category/ProposedContentOP "Category:ProposedContentOP") are submitted by users of the ODP community and are listed in the  [submission area](../Submissions/Main "Submissions:Main").
 
 
 
@@ -56,14 +56,14 @@ This category has the following 2 subcategories, out of 2 total.
 ### C
 
 
-* [CertifiedContentOP](../Category/CertifiedContentOP.md "Category:CertifiedContentOP")
+* [CertifiedContentOP](../Category/CertifiedContentOP "Category:CertifiedContentOP")
 
 ### P
 
 
-* [ProposedContentOP](../Category/ProposedContentOP.md "Category:ProposedContentOP")
+* [ProposedContentOP](../Category/ProposedContentOP "Category:ProposedContentOP")
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Category:ContentOP](../Category/ContentOP.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyDesignPattern](../Category/OntologyDesignPattern.md "Category:OntologyDesignPattern")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Category:ContentOP](../Category/ContentOP)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyDesignPattern](../Category/OntologyDesignPattern "Category:OntologyDesignPattern")

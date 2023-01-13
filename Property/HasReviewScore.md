@@ -1,4 +1,4 @@
-This is a property of type [number](../Type/Number.md "Type:Number").
+This is a property of type [number](../Type/Number "Type:Number").
 
 
 Possible values for this porperty are:
@@ -13,7 +13,7 @@ Possible values for this porperty are:
 
   
 
-This property is a subproperty of [HasDecision](../Property/HasDecision.md "Property:HasDecision")
+This property is a subproperty of [HasDecision](../Property/HasDecision "Property:HasDecision")
 
 
   

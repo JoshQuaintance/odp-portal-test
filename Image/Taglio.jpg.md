@@ -1,6 +1,6 @@
-* [Image](../Image/Taglio.jpg.md#file)
-* [File history](../Image/Taglio.jpg.md#filehistory)
-* [Links](../Image/Taglio.jpg.md#filelinks)
+* [Image](../Image/Taglio.jpg#file)
+* [File history](../Image/Taglio.jpg#filehistory)
+* [Links](../Image/Taglio.jpg#filelinks)
 
 [![Image:Taglio.jpg](../images/5/52/Taglio.jpg)](../images/5/52/Taglio.jpg)  
 No higher resolution available.  
@@ -23,7 +23,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Community:Images](../Community/Images.md "Community:Images")
+* [Community:Images](../Community/Images "Community:Images")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Taglio.jpg](../Image/Taglio.jpg.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Taglio.jpg](../Image/Taglio.jpg)"

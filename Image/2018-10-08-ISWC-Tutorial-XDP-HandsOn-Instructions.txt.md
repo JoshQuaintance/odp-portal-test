@@ -1,6 +1,6 @@
-* [Image](../Image/2018-10-08-ISWC-Tutorial-XDP-HandsOn-Instructions.txt.md#file)
-* [File history](../Image/2018-10-08-ISWC-Tutorial-XDP-HandsOn-Instructions.txt.md#filehistory)
-* [Links](../Image/2018-10-08-ISWC-Tutorial-XDP-HandsOn-Instructions.txt.md#filelinks)
+* [Image](../Image/2018-10-08-ISWC-Tutorial-XDP-HandsOn-Instructions.txt#file)
+* [File history](../Image/2018-10-08-ISWC-Tutorial-XDP-HandsOn-Instructions.txt#filehistory)
+* [Links](../Image/2018-10-08-ISWC-Tutorial-XDP-HandsOn-Instructions.txt#filelinks)
 
 
 [2018-10-08-ISWC-Tutorial-XDP-HandsOn-Instructions.txt](../images/2/2f/2018-10-08-ISWC-Tutorial-XDP-HandsOn-Instructions.txt "2018-10-08-ISWC-Tutorial-XDP-HandsOn-Instructions.txt")‎
@@ -32,7 +32,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Training:Tutorial: Methods and Tools for Modular Ontology Modeling](../Training/Tutorial/_Methods_and_Tools_for_Modular_Ontology_Modeling.md "Training:Tutorial: Methods and Tools for Modular Ontology Modeling")
+* [Training:Tutorial: Methods and Tools for Modular Ontology Modeling](../Training/Tutorial/_Methods_and_Tools_for_Modular_Ontology_Modeling "Training:Tutorial: Methods and Tools for Modular Ontology Modeling")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:2018-10-08-ISWC-Tutorial-XDP-HandsOn-Instructions.txt](../Image/2018-10-08-ISWC-Tutorial-XDP-HandsOn-Instructions.txt.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:2018-10-08-ISWC-Tutorial-XDP-HandsOn-Instructions.txt](../Image/2018-10-08-ISWC-Tutorial-XDP-HandsOn-Instructions.txt)"

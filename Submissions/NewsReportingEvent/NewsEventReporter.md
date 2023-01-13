@@ -1,4 +1,4 @@
-___NewsEventReporter__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [NewsReportingEvent](../../Submissions/NewsReportingEvent.md "Submissions:NewsReportingEvent")_
+___NewsEventReporter__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [NewsReportingEvent](../../Submissions/NewsReportingEvent "Submissions:NewsReportingEvent")_
 
 
   
@@ -6,7 +6,7 @@ ___NewsEventReporter__ has [Category:OntologyElement](../../Category/OntologyEle
 
 
 
-[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif.md "Class")
+[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif "Class")
 __Name__: NewsEventReporter 
 
 
@@ -22,5 +22,5 @@ NewsEventReporter is not linked to an ActualEventView directly, it is connected 
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:NewsReportingEvent/NewsEventReporter](../../Submissions/NewsReportingEvent/NewsEventReporter.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:NewsReportingEvent/NewsEventReporter](../../Submissions/NewsReportingEvent/NewsEventReporter)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

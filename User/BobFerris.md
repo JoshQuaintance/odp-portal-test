@@ -1,4 +1,4 @@
-[![Image:bferris_100x100.png](../images/1/19/Bferris_100x100.png)](../Image/Bferris_100x100.png.md "Image:bferris_100x100.png")
+[![Image:bferris_100x100.png](../images/1/19/Bferris_100x100.png)](../Image/Bferris_100x100.png "Image:bferris_100x100.png")
 
 
 
@@ -34,19 +34,19 @@ __Domains of interest:__
 
 
 
-* [philosophical engineering](../Community/Philosophical_engineering.md "Community:Philosophical engineering")
-* [knowledge engineering](../Community/Knowledge_engineering.md "Community:Knowledge engineering")
-* [music](../Community/Music.md "Community:Music")
-* [personalization](../Community/Personalization.md "Community:Personalization")
-* [recommendation](../Community/Recommendation.md "Community:Recommendation")
+* [philosophical engineering](../Community/Philosophical_engineering "Community:Philosophical engineering")
+* [knowledge engineering](../Community/Knowledge_engineering "Community:Knowledge engineering")
+* [music](../Community/Music "Community:Music")
+* [personalization](../Community/Personalization "Community:Personalization")
+* [recommendation](../Community/Recommendation "Community:Recommendation")
 
 
 __Is expert of:__
 
 
 
-* [ontology engineering](../Community/Ontology_engineering.md "Community:Ontology engineering")
-* [music](../Community/Music.md "Community:Music")
+* [ontology engineering](../Community/Ontology_engineering "Community:Ontology engineering")
+* [music](../Community/Music "Community:Music")
 
 
 __How did I know about ODP:__ surfing the web
@@ -60,5 +60,5 @@ believe in music to survive
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/User:BobFerris](../User/BobFerris.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ODPUser](../Category/ODPUser.md "Category:ODPUser")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/User:BobFerris](../User/BobFerris)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ODPUser](../Category/ODPUser "Category:ODPUser")

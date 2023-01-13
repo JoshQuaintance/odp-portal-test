@@ -82,5 +82,5 @@ __Solutions__:
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Training:Autumn\_2009\_-\_ODPs%40UPM/Homework\_exercise\_-\_modelling\_theater\_productions](../../Training/Autumn_2009_-_ODPs@UPM/Homework_exercise_-_modelling_theater_productions.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Exercise](../../Category/Exercise.md "Category:Exercise")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Training:Autumn\_2009\_-\_ODPs%40UPM/Homework\_exercise\_-\_modelling\_theater\_productions](../../Training/Autumn_2009_-_ODPs@UPM/Homework_exercise_-_modelling_theater_productions)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Exercise](../../Category/Exercise "Category:Exercise")

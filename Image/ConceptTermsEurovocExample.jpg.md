@@ -1,7 +1,7 @@
-* [Image](../Image/ConceptTermsEurovocExample.jpg.md#file)
-* [File history](../Image/ConceptTermsEurovocExample.jpg.md#filehistory)
-* [Links](../Image/ConceptTermsEurovocExample.jpg.md#filelinks)
-* [Metadata](../Image/ConceptTermsEurovocExample.jpg.md#metadata)
+* [Image](../Image/ConceptTermsEurovocExample.jpg#file)
+* [File history](../Image/ConceptTermsEurovocExample.jpg#filehistory)
+* [Links](../Image/ConceptTermsEurovocExample.jpg#filelinks)
+* [Metadata](../Image/ConceptTermsEurovocExample.jpg#metadata)
 
 [![Image:ConceptTermsEurovocExample.jpg](../images/thumb/9/9e/ConceptTermsEurovocExample.jpg/800px-ConceptTermsEurovocExample.jpg)](../images/9/9e/ConceptTermsEurovocExample.jpg)  
 Size of this preview: 800 × 542 pixels  
@@ -24,7 +24,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Submissions:ConceptTerms/Scenario 1](../Submissions/ConceptTerms/Scenario_1.md "Submissions:ConceptTerms/Scenario 1")
+* [Submissions:ConceptTerms/Scenario 1](../Submissions/ConceptTerms/Scenario_1 "Submissions:ConceptTerms/Scenario 1")
 
 ## Metadata
 
@@ -35,4 +35,4 @@ If the file has been modified from its original state, some details may not full
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:ConceptTermsEurovocExample.jpg](../Image/ConceptTermsEurovocExample.jpg.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:ConceptTermsEurovocExample.jpg](../Image/ConceptTermsEurovocExample.jpg)"

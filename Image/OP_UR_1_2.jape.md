@@ -1,6 +1,6 @@
-* [Image](../Image/OP_UR_1_2.jape.md#file)
-* [File history](../Image/OP_UR_1_2.jape.md#filehistory)
-* [Links](../Image/OP_UR_1_2.jape.md#filelinks)
+* [Image](../Image/OP_UR_1_2.jape#file)
+* [File history](../Image/OP_UR_1_2.jape#filehistory)
+* [Links](../Image/OP_UR_1_2.jape#filelinks)
 
 
 [OP\_UR\_1\_2.jape](../images/8/8a/OP_UR_1_2.jape "OP UR 1 2.jape")‎
@@ -32,8 +32,8 @@ Click on a date/time to view the file as it appeared at that time.
 The following 2 pages link to this file:
 
 
-* [Submissions:Lexico Syntactic ODPs corresponding to Object Property and Universal Restriction ODPs](../Submissions/Lexico_Syntactic_ODPs_corresponding_to_Object_Property_and_Universal_Restriction_ODPs.md "Submissions:Lexico Syntactic ODPs corresponding to Object Property and Universal Restriction ODPs")
-* [Submissions:Lexico Syntactic ODPs corresponding to Object Property and Universal Restriction ODPs/1](../Submissions/Lexico_Syntactic_ODPs_corresponding_to_Object_Property_and_Universal_Restriction_ODPs/1.md "Submissions:Lexico Syntactic ODPs corresponding to Object Property and Universal Restriction ODPs/1")
+* [Submissions:Lexico Syntactic ODPs corresponding to Object Property and Universal Restriction ODPs](../Submissions/Lexico_Syntactic_ODPs_corresponding_to_Object_Property_and_Universal_Restriction_ODPs "Submissions:Lexico Syntactic ODPs corresponding to Object Property and Universal Restriction ODPs")
+* [Submissions:Lexico Syntactic ODPs corresponding to Object Property and Universal Restriction ODPs/1](../Submissions/Lexico_Syntactic_ODPs_corresponding_to_Object_Property_and_Universal_Restriction_ODPs/1 "Submissions:Lexico Syntactic ODPs corresponding to Object Property and Universal Restriction ODPs/1")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:OP\_UR\_1\_2.jape](../Image/OP_UR_1_2.jape.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:OP\_UR\_1\_2.jape](../Image/OP_UR_1_2.jape)"

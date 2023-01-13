@@ -35,4 +35,4 @@
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Training:Ontology\_Design\_with\_the\_NeOn\_Toolkit\_-\_NeOn\_tutorial/Mini-project/CQs1](../../../Training/Ontology_Design_with_the_NeOn_Toolkit_-_NeOn_tutorial/Mini-project/CQs1.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Training:Ontology\_Design\_with\_the\_NeOn\_Toolkit\_-\_NeOn\_tutorial/Mini-project/CQs1](../../../Training/Ontology_Design_with_the_NeOn_Toolkit_-_NeOn_tutorial/Mini-project/CQs1)"

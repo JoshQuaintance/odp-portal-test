@@ -1,5 +1,5 @@
-[Go to the subject of this reference](../../Submissions/Lexico_Syntactic_ODPs_corresponding_to_LocationODP.md "Submissions:Lexico Syntactic ODPs corresponding to LocationODP") | [All references](../../Community/References.1.md "Community:References") | [Add another reference to Submissions:Lexico Syntactic ODPs corresponding to LocationODP](http://ontologydesignpatterns.org/wiki/Special:AddData/Reference?Reference[Subject]=Submissions:Lexico Syntactic ODPs corresponding to LocationODP&subject=Submissions:Lexico Syntactic ODPs corresponding to LocationODP)
+[Go to the subject of this reference](../../Submissions/Lexico_Syntactic_ODPs_corresponding_to_LocationODP "Submissions:Lexico Syntactic ODPs corresponding to LocationODP") | [All references](../../Community/References.1 "Community:References") | [Add another reference to Submissions:Lexico Syntactic ODPs corresponding to LocationODP](http://ontologydesignpatterns.org/wiki/Special:AddData/Reference?Reference[Subject]=Submissions:Lexico Syntactic ODPs corresponding to LocationODP&subject=Submissions:Lexico Syntactic ODPs corresponding to LocationODP)
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Community:References/NeOn\_Deliverable\_D2\_5\_1\_3](../../Community/References/NeOn_Deliverable_D2_5_1_3.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Reference](../../Category/Reference.md "Category:Reference")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Community:References/NeOn\_Deliverable\_D2\_5\_1\_3](../../Community/References/NeOn_Deliverable_D2_5_1_3)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Reference](../../Category/Reference "Category:Reference")

@@ -1,6 +1,6 @@
-* [Image](../Image/Npa-diagram.png.md#file)
-* [File history](../Image/Npa-diagram.png.md#filehistory)
-* [Links](../Image/Npa-diagram.png.md#filelinks)
+* [Image](../Image/Npa-diagram.png#file)
+* [File history](../Image/Npa-diagram.png#filehistory)
+* [Links](../Image/Npa-diagram.png#filelinks)
 
 [![Image:Npa-diagram.png](../images/f/f1/Npa-diagram.png)](../images/f/f1/Npa-diagram.png)  
 No higher resolution available.  
@@ -26,7 +26,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Submissions:NegativePropertyAssertions](../Submissions/NegativePropertyAssertions.md "Submissions:NegativePropertyAssertions")
+* [Submissions:NegativePropertyAssertions](../Submissions/NegativePropertyAssertions "Submissions:NegativePropertyAssertions")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Npa-diagram.png](../Image/Npa-diagram.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Npa-diagram.png](../Image/Npa-diagram.png)"

@@ -1,4 +1,4 @@
-___Action__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [BasicPlanExecution](../../Submissions/BasicPlanExecution.md "Submissions:BasicPlanExecution")_
+___Action__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [BasicPlanExecution](../../Submissions/BasicPlanExecution "Submissions:BasicPlanExecution")_
 
 
   
@@ -6,7 +6,7 @@ ___Action__ has [Category:OntologyElement](../../Category/OntologyElement.md "Ca
 
 
 
-[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif.md "Class")
+[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif "Class")
 __Name__: Action 
 
 
@@ -19,5 +19,5 @@ __Description__: An Event with at least one Agent that isParticipantIn, and that
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:BasicPlanExecution/Action](../../Image/Action.jpg.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:BasicPlanExecution/Action](../../Image/Action.jpg)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

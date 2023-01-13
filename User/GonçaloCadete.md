@@ -1,4 +1,4 @@
-[![Image:ODPUser.png](../images/a/a6/ODPUser.png)](../Image/ODPUser.png.md "Image:ODPUser.png")
+[![Image:ODPUser.png](../images/a/a6/ODPUser.png)](../Image/ODPUser.png "Image:ODPUser.png")
 
 
 
@@ -23,7 +23,7 @@ __Domains of interest:__
 * [security](http://ontologydesignpatterns.org/wiki/Special:AddData/Domain Form/Community:Security "Community:Security (not yet written)")
 * [resilience](http://ontologydesignpatterns.org/wiki/Special:AddData/Domain Form/Community:Resilience "Community:Resilience (not yet written)")
 * [governance](http://ontologydesignpatterns.org/wiki/Special:AddData/Domain Form/Community:Governance "Community:Governance (not yet written)")
-* [management](../Community/Management.md "Community:Management")
+* [management](../Community/Management "Community:Management")
 * [risk management](http://ontologydesignpatterns.org/wiki/Special:AddData/Domain Form/Community:Risk_management "Community:Risk management (not yet written)")
 * [crisis management](http://ontologydesignpatterns.org/wiki/Special:AddData/Domain Form/Community:Crisis_management "Community:Crisis management (not yet written)")
 * [disaster risk management](http://ontologydesignpatterns.org/wiki/Special:AddData/Domain Form/Community:Disaster_risk_management "Community:Disaster risk management (not yet written)")
@@ -41,5 +41,5 @@ __How did I know about ODP:__ surfing the web
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/User:Gon%C3%A7aloCadete](../User/GonçaloCadete.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ODPUser](../Category/ODPUser.md "Category:ODPUser")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/User:Gon%C3%A7aloCadete](../User/GonçaloCadete)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ODPUser](../Category/ODPUser "Category:ODPUser")

@@ -1,6 +1,6 @@
-* [Image](../Image/Observation.jpg.md#file)
-* [File history](../Image/Observation.jpg.md#filehistory)
-* [Links](../Image/Observation.jpg.md#filelinks)
+* [Image](../Image/Observation.jpg#file)
+* [File history](../Image/Observation.jpg#filehistory)
+* [Links](../Image/Observation.jpg#filelinks)
 
 [![Image:Observation.jpg](../images/a/a9/Observation.jpg)](../images/a/a9/Observation.jpg)  
 No higher resolution available.  
@@ -23,8 +23,8 @@ Click on a date/time to view the file as it appeared at that time.
 The following 2 pages link to this file:
 
 
-* [Community:Images](../Community/Images.md "Community:Images")
-* [Submissions:Observation](../Submissions/Observation.md "Submissions:Observation")
+* [Community:Images](../Community/Images "Community:Images")
+* [Submissions:Observation](../Submissions/Observation "Submissions:Observation")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Observation.jpg](../Image/Observation.jpg.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Observation.jpg](../Image/Observation.jpg)"

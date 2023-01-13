@@ -1,6 +1,6 @@
-* [Image](../Image/Symmetric-relation.png.md#file)
-* [File history](../Image/Symmetric-relation.png.md#filehistory)
-* [Links](../Image/Symmetric-relation.png.md#filelinks)
+* [Image](../Image/Symmetric-relation.png#file)
+* [File history](../Image/Symmetric-relation.png#filehistory)
+* [Links](../Image/Symmetric-relation.png#filelinks)
 
 [![Image:Symmetric-relation.png](../images/4/47/Symmetric-relation.png)](../images/4/47/Symmetric-relation.png)  
 No higher resolution available.  
@@ -25,4 +25,4 @@ There are no pages that link to this file.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Symmetric-relation.png](../Image/Symmetric-relation.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Symmetric-relation.png](../Image/Symmetric-relation.png)"

@@ -1,6 +1,6 @@
-* [Image](../Image/Network.png.md#file)
-* [File history](../Image/Network.png.md#filehistory)
-* [Links](../Image/Network.png.md#filelinks)
+* [Image](../Image/Network.png#file)
+* [File history](../Image/Network.png#filehistory)
+* [Links](../Image/Network.png#filelinks)
 
 [![Image:Network.png](../images/d/d7/Network.png)](../images/d/d7/Network.png)  
 No higher resolution available.  
@@ -23,7 +23,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Submissions:SmartHome Network](../Submissions/SmartHome_Network.md "Submissions:SmartHome Network")
+* [Submissions:SmartHome Network](../Submissions/SmartHome_Network "Submissions:SmartHome Network")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Network.png](../Image/Network.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Network.png](../Image/Network.png)"

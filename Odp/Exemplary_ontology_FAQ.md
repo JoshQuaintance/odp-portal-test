@@ -1,6 +1,6 @@
-* [Where is the catalog of exemplary ontologies?](../Ontology/Main.md "Ontology:Main")
-* [How do I submit an exemplary ontology?](../Submissions/HowToSubmitAnExemplaryOntology.md "Submissions:HowToSubmitAnExemplaryOntology")
-* [What do you mean by an _exemplary ontology_?](../Odp/WhatIsAnExemplaryOntology.md "Odp:WhatIsAnExemplaryOntology").
+* [Where is the catalog of exemplary ontologies?](../Ontology/Main "Ontology:Main")
+* [How do I submit an exemplary ontology?](../Submissions/HowToSubmitAnExemplaryOntology "Submissions:HowToSubmitAnExemplaryOntology")
+* [What do you mean by an _exemplary ontology_?](../Odp/WhatIsAnExemplaryOntology "Odp:WhatIsAnExemplaryOntology").
 
 
   
@@ -32,7 +32,7 @@ The main critera for including an ontology is whether it is something that other
 
 
 * Q: __What if I disagree that a submitted ontology is exemplary?__
-* This is a Wiki, let your views be known. Start a discussion using the discussion tab. In some cases you may wish to enter comments in the  [Known Issues](../Property/KnownIssues.md "Property:KnownIssues") field.
+* This is a Wiki, let your views be known. Start a discussion using the discussion tab. In some cases you may wish to enter comments in the  [Known Issues](../Property/KnownIssues "Property:KnownIssues") field.
 
 
   
@@ -77,9 +77,9 @@ The main critera for including an ontology is whether it is something that other
 
 
 * Q: __How do I know what Domains are available to choose from? How can I add a new one?__
-* A: [Click here to see existing domains](../Category/Domain.md "Category:Domain") and [click here to add a new domain](../Form/Domain_Form.md "Form:Domain Form").
+* A: [Click here to see existing domains](../Category/Domain "Category:Domain") and [click here to add a new domain](../Form/Domain_Form "Form:Domain Form").
 
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Odp:Exemplary\_ontology\_FAQ](../Odp/Exemplary_ontology_FAQ.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Odp:Exemplary\_ontology\_FAQ](../Odp/Exemplary_ontology_FAQ)"

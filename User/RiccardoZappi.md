@@ -1,4 +1,4 @@
-[![Image:ODPUser.png](../images/a/a6/ODPUser.png)](../Image/ODPUser.png.md "Image:ODPUser.png")
+[![Image:ODPUser.png](../images/a/a6/ODPUser.png)](../Image/ODPUser.png "Image:ODPUser.png")
 
 
 
@@ -19,7 +19,7 @@ __Domains of interest:__
 
 
 
-* [Pharmaceutical](../Community/Pharmaceutical.md "Community:Pharmaceutical")
+* [Pharmaceutical](../Community/Pharmaceutical "Community:Pharmaceutical")
 * [High Energy Physics](http://ontologydesignpatterns.org/wiki/index.php?title=Community:High_Energy_Physics&action=edit&redlink=1 "Community:High Energy Physics (not yet written)")
 * [Medical Imaging](http://ontologydesignpatterns.org/wiki/index.php?title=Community:Medical_Imaging&action=edit&redlink=1 "Community:Medical Imaging (not yet written)")
 * [Operation Oceanography](http://ontologydesignpatterns.org/wiki/index.php?title=Community:Operation_Oceanography&action=edit&redlink=1 "Community:Operation Oceanography (not yet written)")
@@ -39,5 +39,5 @@ __How did I know about ODP:__ colleagues
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/User:RiccardoZappi](../User/RiccardoZappi.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ODPUser](../Category/ODPUser.md "Category:ODPUser")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/User:RiccardoZappi](../User/RiccardoZappi)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ODPUser](../Category/ODPUser "Category:ODPUser")

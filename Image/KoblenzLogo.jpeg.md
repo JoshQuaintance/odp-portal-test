@@ -1,6 +1,6 @@
-* [Image](../Image/KoblenzLogo.jpeg.md#file)
-* [File history](../Image/KoblenzLogo.jpeg.md#filehistory)
-* [Links](../Image/KoblenzLogo.jpeg.md#filelinks)
+* [Image](../Image/KoblenzLogo.jpeg#file)
+* [File history](../Image/KoblenzLogo.jpeg#filehistory)
+* [Links](../Image/KoblenzLogo.jpeg#filelinks)
 
 [![Image:KoblenzLogo.jpeg](../images/5/50/KoblenzLogo.jpeg)](../images/5/50/KoblenzLogo.jpeg)  
 No higher resolution available.  
@@ -23,8 +23,8 @@ Click on a date/time to view the file as it appeared at that time.
 The following 2 pages link to this file:
 
 
-* [Community:Images](../Community/Images.md "Community:Images")
-* [Odp:Partners](../Odp/Partners.md "Odp:Partners")
+* [Community:Images](../Community/Images "Community:Images")
+* [Odp:Partners](../Odp/Partners "Odp:Partners")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:KoblenzLogo.jpeg](../Image/KoblenzLogo.jpeg.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:KoblenzLogo.jpeg](../Image/KoblenzLogo.jpeg)"

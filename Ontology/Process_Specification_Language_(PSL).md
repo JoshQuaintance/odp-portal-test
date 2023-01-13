@@ -1,4 +1,4 @@
-Return to [Catalogue of Exemplary Ontologies](../Ontology/Main.md "Ontology:Main")
+Return to [Catalogue of Exemplary Ontologies](../Ontology/Main "Ontology:Main")
 
 
 
@@ -102,14 +102,14 @@ Cheng, J., Gruninger, M., Sriram, R., and Law, K. (2003)[Process Specification L
 
 
 
-* PSL Downloads [Downloads](http://www.mel.nist.gov/psl/download.html "http://www.mel.nist.gov/psl/download.html") | [reference page](../Community/References/PSL_Downloads.md "Community:References/PSL Downloads")
-* Bock, C. and Gruninger, M. (2004) PSL: A semantic domain for flow models, Software and Systems Modeling. [Paper](http://stl.mie.utoronto.ca/publications/semantic_domain.pdf "http://stl.mie.utoronto.ca/publications/semantic_domain.pdf") | [reference page](../Community/References/PSL_for_flow_models.md "Community:References/PSL for flow models")
-* Gruninger, M. and Menzel, C. (2003)The Process Specification Language: Theory and Applications, AI Magazine, 24:63-74. [Paper](http://stl.mie.utoronto.ca/publications/psl-aimag.pdf "http://stl.mie.utoronto.ca/publications/psl-aimag.pdf") | [reference page](../Community/References/PSL_AIMAG.md "Community:References/PSL AIMAG")
-* Cheng, J., Gruninger, M., Sriram, R., and Law, K. (2003)Process Specification Language for project scheduling information exchange, International Journal of IT in Architecture, Engineering and Construction, 1:307-328. [Paper](http://stl.mie.utoronto.ca/publications/pslschedules.pdf "http://stl.mie.utoronto.ca/publications/pslschedules.pdf") | [reference page](../Community/References/PSL-Schedule.md "Community:References/PSL-Schedule")
-* PSL Home Page [Project Home Page](http://www.mel.nist.gov/psl/ "http://www.mel.nist.gov/psl/") | [reference page](../Community/References/PSL_Home_Page.md "Community:References/PSL Home Page")
+* PSL Downloads [Downloads](http://www.mel.nist.gov/psl/download.html "http://www.mel.nist.gov/psl/download.html") | [reference page](../Community/References/PSL_Downloads "Community:References/PSL Downloads")
+* Bock, C. and Gruninger, M. (2004) PSL: A semantic domain for flow models, Software and Systems Modeling. [Paper](http://stl.mie.utoronto.ca/publications/semantic_domain.pdf "http://stl.mie.utoronto.ca/publications/semantic_domain.pdf") | [reference page](../Community/References/PSL_for_flow_models "Community:References/PSL for flow models")
+* Gruninger, M. and Menzel, C. (2003)The Process Specification Language: Theory and Applications, AI Magazine, 24:63-74. [Paper](http://stl.mie.utoronto.ca/publications/psl-aimag.pdf "http://stl.mie.utoronto.ca/publications/psl-aimag.pdf") | [reference page](../Community/References/PSL_AIMAG "Community:References/PSL AIMAG")
+* Cheng, J., Gruninger, M., Sriram, R., and Law, K. (2003)Process Specification Language for project scheduling information exchange, International Journal of IT in Architecture, Engineering and Construction, 1:307-328. [Paper](http://stl.mie.utoronto.ca/publications/pslschedules.pdf "http://stl.mie.utoronto.ca/publications/pslschedules.pdf") | [reference page](../Community/References/PSL-Schedule "Community:References/PSL-Schedule")
+* PSL Home Page [Project Home Page](http://www.mel.nist.gov/psl/ "http://www.mel.nist.gov/psl/") | [reference page](../Community/References/PSL_Home_Page "Community:References/PSL Home Page")
 
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Ontology:Process\_Specification\_Language\_%28PSL%29](../Ontology/Process_Specification_Language_(PSL).md).md).html)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Ontology](../Category/Ontology.md "Category:Ontology")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Ontology:Process\_Specification\_Language\_%28PSL%29](../Ontology/Process_Specification_Language_(PSL)).md).md).html)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Ontology](../Category/Ontology "Category:Ontology")

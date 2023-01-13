@@ -29,8 +29,8 @@ This task has no sub-tasks
 
 
 
-[Development](../../Odp/Development.md "Odp:Development") | [Create new task](http://ontologydesignpatterns.org/wiki/Special:AddData/Task_Form?Task Template[SubmittedBy]=93.34.113.67).| [Add sub-task](http://ontologydesignpatterns.org/wiki/Special:AddData/Task_Form?parenttask=Tasks/Editorial_Board_Group&Task Template[ParentTask]=Tasks/Editorial_Board_Group&Task Template[SubmittedBy]=93.34.113.67) | [Add a comment at the bottom of this page](../index.php@title=Odp%253AAdd_comment&target=Odp%253ATasks%252F../../Odp/Tasks/Editorial_Board_Group.md#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Odp:Tasks/Editorial_Board_Group#New_comment")
-#####  10-07-2008 [EnricoDaga](../../User/EnricoDaga.md "User:EnricoDaga") says:
+[Development](../../Odp/Development "Odp:Development") | [Create new task](http://ontologydesignpatterns.org/wiki/Special:AddData/Task_Form?Task Template[SubmittedBy]=93.34.113.67).| [Add sub-task](http://ontologydesignpatterns.org/wiki/Special:AddData/Task_Form?parenttask=Tasks/Editorial_Board_Group&Task Template[ParentTask]=Tasks/Editorial_Board_Group&Task Template[SubmittedBy]=93.34.113.67) | [Add a comment at the bottom of this page](../index.php@title=Odp%253AAdd_comment&target=Odp%253ATasks%252F../../Odp/Tasks/Editorial_Board_Group#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Odp:Tasks/Editorial_Board_Group#New_comment")
+#####  10-07-2008 [EnricoDaga](../../User/EnricoDaga "User:EnricoDaga") says:
 
 
 EditorialBoard group has been created, with the following privilegies:
@@ -39,7 +39,7 @@ EditorialBoard group has been created, with the following privilegies:
 
 * Read in all wiki pages
 * Edit all wiki pages except those 'protected' by 'sysop'
-* Submitting Tasks in [Odp:Development](../../Odp/Development.md "Odp:Development") section
+* Submitting Tasks in [Odp:Development](../../Odp/Development "Odp:Development") section
 
 
 The following functionalities are NOT allowed:
@@ -52,5 +52,5 @@ The following functionalities are NOT allowed:
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Odp:Tasks/Editorial\_Board\_Group](../../Odp/Tasks/Editorial_Board_Group.md)"
- [Categories](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [RootTask](../../Category/RootTask.md "Category:RootTask") | [DevelopmentTask](../../Category/DevelopmentTask.md "Category:DevelopmentTask")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Odp:Tasks/Editorial\_Board\_Group](../../Odp/Tasks/Editorial_Board_Group)"
+ [Categories](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [RootTask](../../Category/RootTask "Category:RootTask") | [DevelopmentTask](../../Category/DevelopmentTask "Category:DevelopmentTask")

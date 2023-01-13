@@ -1,4 +1,4 @@
-[![Image:ODPUser.png](../images/a/a6/ODPUser.png)](../Image/ODPUser.png.md "Image:ODPUser.png")
+[![Image:ODPUser.png](../images/a/a6/ODPUser.png)](../Image/ODPUser.png "Image:ODPUser.png")
 
 
 
@@ -19,7 +19,7 @@ __Domains of interest:__
 
 
 
-* [Manufacturing](../Community/Manufacturing.md "Community:Manufacturing")
+* [Manufacturing](../Community/Manufacturing "Community:Manufacturing")
 * [Healthcare and MANAGEMENT](http://ontologydesignpatterns.org/wiki/Special:AddData/Domain Form/Community:Healthcare_and_MANAGEMENT "Community:Healthcare and MANAGEMENT (not yet written)")
 
 
@@ -35,5 +35,5 @@ __How did I know about ODP:__ conference/public events
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/User:RajeshGupta](../User/RajeshGupta.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ODPUser](../Category/ODPUser.md "Category:ODPUser")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/User:RajeshGupta](../User/RajeshGupta)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ODPUser](../Category/ODPUser "Category:ODPUser")

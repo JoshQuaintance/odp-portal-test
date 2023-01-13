@@ -19,11 +19,11 @@ __Description:__ When you assign a person to the group "QualityCommittee" he app
 
 
 
-Go back to the  [Feedback main page](../Feedback/Main.md "Feedback:Main")
+Go back to the  [Feedback main page](../Feedback/Main "Feedback:Main")
 
 
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Feedback:Group\_assignment\_inconsistency](../Feedback/Group_assignment_inconsistency.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Feedback](../Category/Feedback.md "Category:Feedback")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Feedback:Group\_assignment\_inconsistency](../Feedback/Group_assignment_inconsistency)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Feedback](../Category/Feedback "Category:Feedback")

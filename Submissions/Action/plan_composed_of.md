@@ -1,4 +1,4 @@
-___plan composed of__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [Action](../../Submissions/Action.md "Submissions:Action")_
+___plan composed of__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [Action](../../Submissions/Action "Submissions:Action")_
 
 
   
@@ -6,7 +6,7 @@ ___plan composed of__ has [Category:OntologyElement](../../Category/OntologyElem
 
 
 
-[![ObjectProperty](../../images/thumb/c/c3/ObjectProperty.gif/45px-ObjectProperty.gif)](../../Image/ObjectProperty.gif.md "ObjectProperty")
+[![ObjectProperty](../../images/thumb/c/c3/ObjectProperty.gif/45px-ObjectProperty.gif)](../../Image/ObjectProperty.gif "ObjectProperty")
 __Name__: plan\_composed\_of 
 
 
@@ -19,5 +19,5 @@ __Description__: Property relating a plan to the action(s) (proposed action) tha
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Action/plan\_composed\_of](../../Submissions/Action/plan_composed_of.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Action/plan\_composed\_of](../../Submissions/Action/plan_composed_of)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

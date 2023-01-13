@@ -1,4 +1,4 @@
-This is a property of type [number](../Type/Number.md "Type:Number").
+This is a property of type [number](../Type/Number "Type:Number").
 
 
 Possible values for this porperty are:
@@ -22,4 +22,4 @@ Showing 1 page using this property.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Property:HasDecision](../Property/HasDecision.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Property:HasDecision](../Property/HasDecision)"

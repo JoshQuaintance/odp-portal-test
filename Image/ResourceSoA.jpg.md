@@ -1,6 +1,6 @@
-* [Image](../Image/ResourceSoA.jpg.md#file)
-* [File history](../Image/ResourceSoA.jpg.md#filehistory)
-* [Links](../Image/ResourceSoA.jpg.md#filelinks)
+* [Image](../Image/ResourceSoA.jpg#file)
+* [File history](../Image/ResourceSoA.jpg#filehistory)
+* [Links](../Image/ResourceSoA.jpg#filelinks)
 
 [![Image:ResourceSoA.jpg](../images/a/a4/ResourceSoA.jpg)](../images/a/a4/ResourceSoA.jpg)  
 No higher resolution available.  
@@ -23,7 +23,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Submissions:SimpleOrAggregated/Scenario 3](../Submissions/SimpleOrAggregated/Scenario_3.md "Submissions:SimpleOrAggregated/Scenario 3")
+* [Submissions:SimpleOrAggregated/Scenario 3](../Submissions/SimpleOrAggregated/Scenario_3 "Submissions:SimpleOrAggregated/Scenario 3")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:ResourceSoA.jpg](../Image/ResourceSoA.jpg.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:ResourceSoA.jpg](../Image/ResourceSoA.jpg)"

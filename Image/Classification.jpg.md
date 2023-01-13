@@ -1,6 +1,6 @@
-* [Image](../Image/Classification.jpg.md#file)
-* [File history](../Image/Classification.jpg.md#filehistory)
-* [Links](../Image/Classification.jpg.md#filelinks)
+* [Image](../Image/Classification.jpg#file)
+* [File history](../Image/Classification.jpg#filehistory)
+* [Links](../Image/Classification.jpg#filelinks)
 
 [![Image:Classification.jpg](../images/c/ca/Classification.jpg)](../images/c/ca/Classification.jpg)  
 No higher resolution available.  
@@ -23,8 +23,8 @@ Click on a date/time to view the file as it appeared at that time.
 The following 2 pages link to this file:
 
 
-* [Submissions:Classification](../Submissions/Classification.md "Submissions:Classification")
-* [Community:Images](../Community/Images.md "Community:Images")
+* [Submissions:Classification](../Submissions/Classification "Submissions:Classification")
+* [Community:Images](../Community/Images "Community:Images")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Classification.jpg](../Image/Classification.jpg.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Classification.jpg](../Image/Classification.jpg)"

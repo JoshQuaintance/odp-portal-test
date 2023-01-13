@@ -1,5 +1,5 @@
-[![](../images/thumb/2/29/Reviewer.png/48px-Reviewer.png)](../Image/Reviewer.png.md "Reviewer.png")
-__[EnricoMotta](../User/EnricoMotta.md "User:EnricoMotta") about [Context Slices](../Submissions/Context_Slices.md "Submissions:Context Slices") (Revision ID: [Slices?oldid=10119 10119](../Submissions/Context.md "http://ontologydesignpatterns.org/wiki/Submissions:Context"))__
+[![](../images/thumb/2/29/Reviewer.png/48px-Reviewer.png)](../Image/Reviewer.png "Reviewer.png")
+__[EnricoMotta](../User/EnricoMotta "User:EnricoMotta") about [Context Slices](../Submissions/Context_Slices "Submissions:Context Slices") (Revision ID: [Slices?oldid=10119 10119](../Submissions/Context "http://ontologydesignpatterns.org/wiki/Submissions:Context"))__
 Overall suggestion (score): 1 - needs minor revision
 
 
@@ -36,8 +36,8 @@ _Posted:_ 2010/9/19 _Last modified:_ 2010/9/19
 
 
 
-[All reviews](../Reviews/Main.md "Reviews:Main") | [Add a comment at the bottom of this page](index.php@title=Odp%253AAdd_comment&target=../Reviews/EnricoMotta_about_Context_Slices.md#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Reviews:EnricoMotta_about_Context_Slices#New_comment")
+[All reviews](../Reviews/Main "Reviews:Main") | [Add a comment at the bottom of this page](index.php@title=Odp%253AAdd_comment&target=../Reviews/EnricoMotta_about_Context_Slices#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Reviews:EnricoMotta_about_Context_Slices#New_comment")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Reviews:EnricoMotta\_about\_Context\_Slices](../Reviews/EnricoMotta_about_Context_Slices.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [QCReview](../Category/QCReview.md "Category:QCReview")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Reviews:EnricoMotta\_about\_Context\_Slices](../Reviews/EnricoMotta_about_Context_Slices)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [QCReview](../Category/QCReview "Category:QCReview")

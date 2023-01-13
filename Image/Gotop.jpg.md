@@ -1,6 +1,6 @@
-* [Image](../Image/Gotop.jpg.md#file)
-* [File history](../Image/Gotop.jpg.md#filehistory)
-* [Links](../Image/Gotop.jpg.md#filelinks)
+* [Image](../Image/Gotop.jpg#file)
+* [File history](../Image/Gotop.jpg#filehistory)
+* [Links](../Image/Gotop.jpg#filelinks)
 
 [![Image:Gotop.jpg](../images/d/da/Gotop.jpg)](../images/d/da/Gotop.jpg)  
 No higher resolution available.  
@@ -23,8 +23,8 @@ Click on a date/time to view the file as it appeared at that time.
 The following 2 pages link to this file:
 
 
-* [Community:Images](../Community/Images.md "Community:Images")
-* [Submissions:GO Top](../Submissions/GO_Top.md "Submissions:GO Top")
+* [Community:Images](../Community/Images "Community:Images")
+* [Submissions:GO Top](../Submissions/GO_Top "Submissions:GO Top")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Gotop.jpg](../Image/Gotop.jpg.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Gotop.jpg](../Image/Gotop.jpg)"

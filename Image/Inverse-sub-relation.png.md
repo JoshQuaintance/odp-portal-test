@@ -1,6 +1,6 @@
-* [Image](../Image/Inverse-sub-relation.png.md#file)
-* [File history](../Image/Inverse-sub-relation.png.md#filehistory)
-* [Links](../Image/Inverse-sub-relation.png.md#filelinks)
+* [Image](../Image/Inverse-sub-relation.png#file)
+* [File history](../Image/Inverse-sub-relation.png#filehistory)
+* [Links](../Image/Inverse-sub-relation.png#filelinks)
 
 [![Image:Inverse-sub-relation.png](../images/8/85/Inverse-sub-relation.png)](../images/8/85/Inverse-sub-relation.png)  
 No higher resolution available.  
@@ -25,4 +25,4 @@ There are no pages that link to this file.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Inverse-sub-relation.png](../Image/Inverse-sub-relation.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Inverse-sub-relation.png](../Image/Inverse-sub-relation.png)"

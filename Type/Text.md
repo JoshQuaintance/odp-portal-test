@@ -19,4 +19,4 @@ This type is among the standard datatypes of this wiki.
 Showing 74 properties using this type.
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Type:Text](../Type/Text.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Type:Text](../Type/Text)"

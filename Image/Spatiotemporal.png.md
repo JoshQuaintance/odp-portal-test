@@ -1,6 +1,6 @@
-* [Image](../Image/Spatiotemporal.png.md#file)
-* [File history](../Image/Spatiotemporal.png.md#filehistory)
-* [Links](../Image/Spatiotemporal.png.md#filelinks)
+* [Image](../Image/Spatiotemporal.png#file)
+* [File history](../Image/Spatiotemporal.png#filehistory)
+* [Links](../Image/Spatiotemporal.png#filelinks)
 
 [![Image:Spatiotemporal.png](../images/0/02/Spatiotemporal.png)](../images/0/02/Spatiotemporal.png)  
 No higher resolution available.  
@@ -23,7 +23,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Submissions:SpatioTemporalExtent](../Submissions/SpatioTemporalExtent.md "Submissions:SpatioTemporalExtent")
+* [Submissions:SpatioTemporalExtent](../Submissions/SpatioTemporalExtent "Submissions:SpatioTemporalExtent")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Spatiotemporal.png](../Image/Spatiotemporal.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Spatiotemporal.png](../Image/Spatiotemporal.png)"

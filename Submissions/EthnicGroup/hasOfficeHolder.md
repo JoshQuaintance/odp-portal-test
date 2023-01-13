@@ -1,4 +1,4 @@
-___hasOfficeHolder__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [EthnicGroup](../../Submissions/EthnicGroup.md "Submissions:EthnicGroup")_
+___hasOfficeHolder__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [EthnicGroup](../../Submissions/EthnicGroup "Submissions:EthnicGroup")_
 
 
   
@@ -6,7 +6,7 @@ ___hasOfficeHolder__ has [Category:OntologyElement](../../Category/OntologyEleme
 
 
 
-[![ObjectProperty](../../images/thumb/c/c3/ObjectProperty.gif/45px-ObjectProperty.gif)](../../Image/ObjectProperty.gif.md "ObjectProperty")
+[![ObjectProperty](../../images/thumb/c/c3/ObjectProperty.gif/45px-ObjectProperty.gif)](../../Image/ObjectProperty.gif "ObjectProperty")
 __Name__: hasOfficeHolder 
 
 
@@ -26,5 +26,5 @@ Relazione tra Ethnic Group e Office Holder
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:EthnicGroup/hasOfficeHolder](../../Submissions/EthnicGroup/hasOfficeHolder.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:EthnicGroup/hasOfficeHolder](../../Submissions/EthnicGroup/hasOfficeHolder)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

@@ -1,6 +1,6 @@
-* [Image](../Image/Facet_normalisation_odp_prot4x_n3.txt.md#file)
-* [File history](../Image/Facet_normalisation_odp_prot4x_n3.txt.md#filehistory)
-* [Links](../Image/Facet_normalisation_odp_prot4x_n3.txt.md#filelinks)
+* [Image](../Image/Facet_normalisation_odp_prot4x_n3.txt#file)
+* [File history](../Image/Facet_normalisation_odp_prot4x_n3.txt#filehistory)
+* [Links](../Image/Facet_normalisation_odp_prot4x_n3.txt#filelinks)
 
 
 [Facet\_normalisation\_odp\_prot4x\_n3.txt](../images/b/b5/Facet_normalisation_odp_prot4x_n3.txt "Facet normalisation odp prot4x n3.txt")‎
@@ -41,4 +41,4 @@ There are no pages that link to this file.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Facet\_normalisation\_odp\_prot4x\_n3.txt](../Image/Facet_normalisation_odp_prot4x_n3.txt.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Facet\_normalisation\_odp\_prot4x\_n3.txt](../Image/Facet_normalisation_odp_prot4x_n3.txt)"

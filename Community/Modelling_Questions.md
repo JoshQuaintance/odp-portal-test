@@ -54,8 +54,8 @@ _(this article has no graphical representation)_
 
 
 
- [List of Modeling Issues](../Community/Main.md "Community:Main") | [Post a new modeling issue](../Community/PostModelingIssue.md "Community:PostModelingIssue") | [Add a comment in the discussion page](index.php@title=Odp%253AAdd_comment&target=Community_talk%253AModelling_Questions.html#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Community_talk:Modelling_Questions#New_comment")
+ [List of Modeling Issues](../Community/Main "Community:Main") | [Post a new modeling issue](../Community/PostModelingIssue "Community:PostModelingIssue") | [Add a comment in the discussion page](index.php@title=Odp%253AAdd_comment&target=Community_talk%253AModelling_Questions.html#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Community_talk:Modelling_Questions#New_comment")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Community:Modelling\_Questions](../Community/Modelling_Questions.md)"
- [Categories](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ModelingIssue](../Category/ModelingIssue.md "Category:ModelingIssue") | [Submitted to event](../Category/Submitted_to_event.md "Category:Submitted to event")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Community:Modelling\_Questions](../Community/Modelling_Questions)"
+ [Categories](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ModelingIssue](../Category/ModelingIssue "Category:ModelingIssue") | [Submitted to event](../Category/Submitted_to_event "Category:Submitted to event")

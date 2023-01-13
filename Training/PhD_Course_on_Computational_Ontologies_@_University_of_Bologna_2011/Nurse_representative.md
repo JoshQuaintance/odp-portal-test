@@ -31,5 +31,5 @@ __Solutions__:
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Training:PhD\_Course\_on\_Computational\_Ontologies\_%40\_University\_of\_Bologna\_2011/Nurse\_representative](../../Training/PhD_Course_on_Computational_Ontologies_@_University_of_Bologna_2011/Nurse_representative.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Exercise](../../Category/Exercise.md "Category:Exercise")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Training:PhD\_Course\_on\_Computational\_Ontologies\_%40\_University\_of\_Bologna\_2011/Nurse\_representative](../../Training/PhD_Course_on_Computational_Ontologies_@_University_of_Bologna_2011/Nurse_representative)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Exercise](../../Category/Exercise "Category:Exercise")

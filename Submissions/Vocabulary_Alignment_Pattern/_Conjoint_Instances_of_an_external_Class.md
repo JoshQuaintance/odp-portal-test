@@ -1,4 +1,4 @@
-[![](../../images/thumb/b/b5/Certified.png/70px-Certified.png)](../../Image/Certified.png.md "Certified.png") __This pattern has been certified.__
+[![](../../images/thumb/b/b5/Certified.png/70px-Certified.png)](../../Image/Certified.png "Certified.png") __This pattern has been certified.__
 Related submission, with evaluation history, can be found __here__
 
 
@@ -13,7 +13,7 @@ __Diagram__
 
 
 
-[![Image:Alignment-odp.png](../../images/6/65/Alignment-odp.png)](../../Image/Alignment-odp.png.md "Image:Alignment-odp.png")
+[![Image:Alignment-odp.png](../../images/6/65/Alignment-odp.png)](../../Image/Alignment-odp.png "Image:Alignment-odp.png")
 
 
 
@@ -129,5 +129,5 @@ There is no Modeling issue related to this proposal.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Vocabulary\_Alignment\_Pattern:\_Conjoint\_Instances\_of\_an\_external\_Class](../../Submissions/Vocabulary_Alignment_Pattern/_Conjoint_Instances_of_an_external_Class.md)"
- [Categories](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ProposedAlignmentOP](../../Category/ProposedAlignmentOP.md "Category:ProposedAlignmentOP") | [AlignmentOP](../../Category/AlignmentOP.md "Category:AlignmentOP")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Vocabulary\_Alignment\_Pattern:\_Conjoint\_Instances\_of\_an\_external\_Class](../../Submissions/Vocabulary_Alignment_Pattern/_Conjoint_Instances_of_an_external_Class)"
+ [Categories](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ProposedAlignmentOP](../../Category/ProposedAlignmentOP "Category:ProposedAlignmentOP") | [AlignmentOP](../../Category/AlignmentOP "Category:AlignmentOP")

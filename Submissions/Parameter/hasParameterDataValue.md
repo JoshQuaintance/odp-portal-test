@@ -1,4 +1,4 @@
-___hasParameterDataValue__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [Parameter](../../Submissions/Parameter.md "Submissions:Parameter")_
+___hasParameterDataValue__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [Parameter](../../Submissions/Parameter "Submissions:Parameter")_
 
 
   
@@ -6,7 +6,7 @@ ___hasParameterDataValue__ has [Category:OntologyElement](../../Category/Ontolog
 
 
 
-[![DatatypeProperty](../../images/thumb/a/a5/DatatypeProperty.gif/45px-DatatypeProperty.gif)](../../Image/DatatypeProperty.gif.md "DatatypeProperty")
+[![DatatypeProperty](../../images/thumb/a/a5/DatatypeProperty.gif/45px-DatatypeProperty.gif)](../../Image/DatatypeProperty.gif "DatatypeProperty")
 __Name__: hasParameterDataValue 
 
 
@@ -25,5 +25,5 @@ Ordering on subparameters can be created by using or specializing the object pro
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Parameter/hasParameterDataValue](../../Submissions/Parameter/hasParameterDataValue.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Parameter/hasParameterDataValue](../../Submissions/Parameter/hasParameterDataValue)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

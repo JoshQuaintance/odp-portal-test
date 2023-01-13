@@ -1,6 +1,6 @@
-* [Image](../Image/Newspaper_Cover.svg.md#file)
-* [File history](../Image/Newspaper_Cover.svg.md#filehistory)
-* [Links](../Image/Newspaper_Cover.svg.md#filelinks)
+* [Image](../Image/Newspaper_Cover.svg#file)
+* [File history](../Image/Newspaper_Cover.svg#filehistory)
+* [Links](../Image/Newspaper_Cover.svg#filelinks)
 
 [![Image:Newspaper Cover.svg](../images/thumb/1/11/Newspaper_Cover.svg/120px-Newspaper_Cover.svg.png)](../images/1/11/Newspaper_Cover.svg)  
 
@@ -27,7 +27,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Community:Images](../Community/Images.md "Community:Images")
+* [Community:Images](../Community/Images "Community:Images")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Newspaper\_Cover.svg](../Image/Newspaper_Cover.svg.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Newspaper\_Cover.svg](../Image/Newspaper_Cover.svg)"

@@ -51,7 +51,7 @@ Instructions for accepted papers and presentations will be provided later.
 
 
 * [Request an account at the ODP portal](http://ontologydesignpatterns.org/wiki/Special:RequestAccount "Special:RequestAccount"), in case you do not have already one. Note that account requests are processed by hand, so do this step with a few days to spare before the submission deadline.
-* Go to the ODP portal  [pattern submission page](../../Submissions/SubmitAPattern.md "Submissions:SubmitAPattern").
+* Go to the ODP portal  [pattern submission page](../../Submissions/SubmitAPattern "Submissions:SubmitAPattern").
 * Submit your pattern by following the instructions, and make sure you enter as much information about your pattern as possible (clarity and completeness of the information will be a review criteria for patterns), i.e. fill out __all__ applicable fields.
 * Once created, edit your pattern page (edit tab at the top of the page) and under the "Submit for event" tab enter "WOP:2013".
 * Go back to  [this page](../../index.php@title=Odp/Add_reference&subject=Submissions/Lexico+Syntactic+ODPs+corresponding+to+Simple+Part-Whole+relation+&quot;or&quot;+Constituency+&quot;or&quot;+Componency+&quot;or&quot;+Collection-Entity+ODPs.md#Pattern_Submissions "WOP:2013/Submission") and check that your pattern appears in the table below.
@@ -62,7 +62,7 @@ Instructions for accepted papers and presentations will be provided later.
 ####   Review Process
 
 
-Each submission will be reviewed by at least two members of the Pattern PC (in case of disagreement a third reviewer will be assigned). Note that all reviews and discussions of patterns done in  [ODP portal](../../Ontology_Design_Patterns_._org_(ODP).md).md).html "Ontology Design Patterns . org (ODP)") are __public__ and __not__ anonymous, hence, all visitors of the portal can see the reviews and any subsequent discussion. Your pattern will be reviewed based on the following set of criteria:
+Each submission will be reviewed by at least two members of the Pattern PC (in case of disagreement a third reviewer will be assigned). Note that all reviews and discussions of patterns done in  [ODP portal](../../Ontology_Design_Patterns_._org_(ODP)).md).md).html "Ontology Design Patterns . org (ODP)") are __public__ and __not__ anonymous, hence, all visitors of the portal can see the reviews and any subsequent discussion. Your pattern will be reviewed based on the following set of criteria:
 
 
 

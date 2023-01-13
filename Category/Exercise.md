@@ -12,4 +12,4 @@ The following 35 pages are in this category, out of 35 total.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Category:Exercise](../Category/Exercise.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Category:Exercise](../Category/Exercise)"

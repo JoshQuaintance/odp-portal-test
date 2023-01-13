@@ -1,4 +1,4 @@
-[![](../images/thumb/b/b5/Certified.png/70px-Certified.png)](../Image/Certified.png.md "Certified.png") __This pattern has been certified.__
+[![](../images/thumb/b/b5/Certified.png/70px-Certified.png)](../Image/Certified.png "Certified.png") __This pattern has been certified.__
 Related submission, with evaluation history, can be found __here__
 
 
@@ -6,7 +6,7 @@ Related submission, with evaluation history, can be found __here__
 
 
 
-[![Image:Speciesbathymetry.jpg](../images/7/7c/Speciesbathymetry.jpg)](../Image/Speciesbathymetry.jpg.md "Image:Speciesbathymetry.jpg")
+[![Image:Speciesbathymetry.jpg](../images/7/7c/Speciesbathymetry.jpg)](../Image/Speciesbathymetry.jpg "Image:Speciesbathymetry.jpg")
 
 
 
@@ -26,20 +26,20 @@ _The __SpeciesBathymetry__ Content OP locally defines the following ontology ele
 
 
 
-[![Class](../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __BathymetricRange__ (owl:Class) This class contains the set of bathymetric ranges. Bathymetry is numeric depth information about the ranges in which an aquatic species is found.
+[![Class](../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif "Class") __BathymetricRange__ (owl:Class) This class contains the set of bathymetric ranges. Bathymetry is numeric depth information about the ranges in which an aquatic species is found.
 It can be mapped to fi:Bathymetry. 
 
 
 
- [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[BathymetricRange](../Submissions/SpeciesBathymetry/BathymetricRange.md "Submissions:SpeciesBathymetry/BathymetricRange") page_
-[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __hasBathymetricRange__ (owl:ObjectProperty) has bathymetric range 
- [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[hasBathymetricRange](../Submissions/SpeciesBathymetry/hasBathymetricRange.md "Submissions:SpeciesBathymetry/hasBathymetricRange") page_
-[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __isBathymetricRangeOf__ (owl:ObjectProperty) is bathymetric range of 
- [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[isBathymetricRangeOf](../Submissions/SpeciesBathymetry/isBathymetricRangeOf.md "Submissions:SpeciesBathymetry/isBathymetricRangeOf") page_
-[![DatatypeProperty](../images/thumb/a/a5/DatatypeProperty.gif/20px-DatatypeProperty.gif)](../Image/DatatypeProperty.gif.md "DatatypeProperty") __hasRangeMin__ (owl:DatatypeProperty) 
- [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[hasRangeMin](../Submissions/SpeciesBathymetry/hasRangeMin.md "Submissions:SpeciesBathymetry/hasRangeMin") page_
-[![DatatypeProperty](../images/thumb/a/a5/DatatypeProperty.gif/20px-DatatypeProperty.gif)](../Image/DatatypeProperty.gif.md "DatatypeProperty") __hasRangeMax__ (owl:DatatypeProperty) 
- [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[hasRangeMax](../Submissions/SpeciesBathymetry/hasRangeMax.md "Submissions:SpeciesBathymetry/hasRangeMax") page_
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif "ArrowRight.gif") _[BathymetricRange](../Submissions/SpeciesBathymetry/BathymetricRange "Submissions:SpeciesBathymetry/BathymetricRange") page_
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif "ObjectProperty") __hasBathymetricRange__ (owl:ObjectProperty) has bathymetric range 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif "ArrowRight.gif") _[hasBathymetricRange](../Submissions/SpeciesBathymetry/hasBathymetricRange "Submissions:SpeciesBathymetry/hasBathymetricRange") page_
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif "ObjectProperty") __isBathymetricRangeOf__ (owl:ObjectProperty) is bathymetric range of 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif "ArrowRight.gif") _[isBathymetricRangeOf](../Submissions/SpeciesBathymetry/isBathymetricRangeOf "Submissions:SpeciesBathymetry/isBathymetricRangeOf") page_
+[![DatatypeProperty](../images/thumb/a/a5/DatatypeProperty.gif/20px-DatatypeProperty.gif)](../Image/DatatypeProperty.gif "DatatypeProperty") __hasRangeMin__ (owl:DatatypeProperty) 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif "ArrowRight.gif") _[hasRangeMin](../Submissions/SpeciesBathymetry/hasRangeMin "Submissions:SpeciesBathymetry/hasRangeMin") page_
+[![DatatypeProperty](../images/thumb/a/a5/DatatypeProperty.gif/20px-DatatypeProperty.gif)](../Image/DatatypeProperty.gif "DatatypeProperty") __hasRangeMax__ (owl:DatatypeProperty) 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif "ArrowRight.gif") _[hasRangeMax](../Submissions/SpeciesBathymetry/hasRangeMax "Submissions:SpeciesBathymetry/hasRangeMax") page_
 This pattern encodes a FSDAS competency question, with an indication to use some AquaticSpecies class, and some hasBathymetricRange property, with range BathymetricRange.
 
 
@@ -87,5 +87,5 @@ Other info at [evaluation tab](http://ontologydesignpatterns.org/wiki/index.php?
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:SpeciesBathymetry](../Submissions/SpeciesBathymetry.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ProposedContentOP](../Category/ProposedContentOP.md "Category:ProposedContentOP")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:SpeciesBathymetry](../Submissions/SpeciesBathymetry)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ProposedContentOP](../Category/ProposedContentOP "Category:ProposedContentOP")

@@ -1,2 +1,2 @@
-Retrieved from "[http://ontologydesignpatterns.org/wiki/User:AndreaNuzzolese](../User/AndreaNuzzolese.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ODPUser](../Category/ODPUser.md "Category:ODPUser")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/User:AndreaNuzzolese](../User/AndreaNuzzolese)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ODPUser](../Category/ODPUser "Category:ODPUser")

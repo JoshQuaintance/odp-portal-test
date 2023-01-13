@@ -1,5 +1,5 @@
-[![](../images/thumb/2/29/Reviewer.png/48px-Reviewer.png)](../Image/Reviewer.png.md "Reviewer.png")
-__[MariCarmenSuarezFigueroa](../User/MariCarmenSuarezFigueroa.md "User:MariCarmenSuarezFigueroa") about [Enlarge Class Definition for Resolving Disjointness due to Subsomption](../Submissions/Enlarge_Class_Definition_for_Resolving_Disjointness_due_to_Subsomption.md "Submissions:Enlarge Class Definition for Resolving Disjointness due to Subsomption") (Revision ID: [Class Definition for Resolving Disjointness due to Subsomption?oldid=5624 5624](../Submissions/Enlarge.md "http://ontologydesignpatterns.org/wiki/Submissions:Enlarge"))__
+[![](../images/thumb/2/29/Reviewer.png/48px-Reviewer.png)](../Image/Reviewer.png "Reviewer.png")
+__[MariCarmenSuarezFigueroa](../User/MariCarmenSuarezFigueroa "User:MariCarmenSuarezFigueroa") about [Enlarge Class Definition for Resolving Disjointness due to Subsomption](../Submissions/Enlarge_Class_Definition_for_Resolving_Disjointness_due_to_Subsomption "Submissions:Enlarge Class Definition for Resolving Disjointness due to Subsomption") (Revision ID: [Class Definition for Resolving Disjointness due to Subsomption?oldid=5624 5624](../Submissions/Enlarge "http://ontologydesignpatterns.org/wiki/Submissions:Enlarge"))__
 Overall suggestion (score): -1 - reject
 
 
@@ -22,8 +22,8 @@ _Posted:_ 2009/9/8 _Last modified:_ 2009/9/8
 
 
 
-[All reviews](../Reviews/Main.md "Reviews:Main") | [Add a comment at the bottom of this page](index.php@title=Odp%253AAdd_comment&target=../Reviews/MariCarmenSuarezFigueroa_about_Enlarge_Class_Definition_for_Resolving_Disjointness_due_to_Subsomption.md#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Reviews:MariCarmenSuarezFigueroa_about_Enlarge_Class_Definition_for_Resolving_Disjointness_due_to_Subsomption#New_comment")
+[All reviews](../Reviews/Main "Reviews:Main") | [Add a comment at the bottom of this page](index.php@title=Odp%253AAdd_comment&target=../Reviews/MariCarmenSuarezFigueroa_about_Enlarge_Class_Definition_for_Resolving_Disjointness_due_to_Subsomption#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Reviews:MariCarmenSuarezFigueroa_about_Enlarge_Class_Definition_for_Resolving_Disjointness_due_to_Subsomption#New_comment")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Reviews:MariCarmenSuarezFigueroa\_about\_Enlarge\_Class\_Definition\_for\_Resolving\_Disjointness\_due\_to\_Subsomption](../Reviews/MariCarmenSuarezFigueroa_about_Enlarge_Class_Definition_for_Resolving_Disjointness_due_to_Subsomption.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [QCReview](../Category/QCReview.md "Category:QCReview")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Reviews:MariCarmenSuarezFigueroa\_about\_Enlarge\_Class\_Definition\_for\_Resolving\_Disjointness\_due\_to\_Subsomption](../Reviews/MariCarmenSuarezFigueroa_about_Enlarge_Class_Definition_for_Resolving_Disjointness_due_to_Subsomption)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [QCReview](../Category/QCReview "Category:QCReview")

@@ -1,6 +1,6 @@
-* [Image](../Image/Chris.jpg.md#file)
-* [File history](../Image/Chris.jpg.md#filehistory)
-* [Links](../Image/Chris.jpg.md#filelinks)
+* [Image](../Image/Chris.jpg#file)
+* [File history](../Image/Chris.jpg#filehistory)
+* [Links](../Image/Chris.jpg#filelinks)
 
 [![Image:Chris.jpg](../images/d/dd/Chris.jpg)](../images/d/dd/Chris.jpg)  
 No higher resolution available.  
@@ -26,7 +26,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [WOP:2010/KeynoteTalk](../WOP/2010/KeynoteTalk.md "WOP:2010/KeynoteTalk")
+* [WOP:2010/KeynoteTalk](../WOP/2010/KeynoteTalk "WOP:2010/KeynoteTalk")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Chris.jpg](../Image/Chris.jpg.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Chris.jpg](../Image/Chris.jpg)"

@@ -1,4 +1,4 @@
-[![Image:ODPUser.png](../images/a/a6/ODPUser.png)](../Image/ODPUser.png.md "Image:ODPUser.png")
+[![Image:ODPUser.png](../images/a/a6/ODPUser.png)](../Image/ODPUser.png "Image:ODPUser.png")
 
 
 
@@ -19,7 +19,7 @@ __Domains of interest:__
 
 
 
-* [Ontology](../Community/Ontology-based_models.md "Community:Ontology")
+* [Ontology](../Community/Ontology-based_models "Community:Ontology")
 
 
 __Is expert of:__
@@ -34,5 +34,5 @@ __How did I know about ODP:__
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/User:Marie-AudeAUFAURE](../User/Marie-AudeAUFAURE.md)"
- [Categories](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ODPUser](../Category/ODPUser.md "Category:ODPUser") | [EBMember](../Category/EBMember.md "Category:EBMember")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/User:Marie-AudeAUFAURE](../User/Marie-AudeAUFAURE)"
+ [Categories](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ODPUser](../Category/ODPUser "Category:ODPUser") | [EBMember](../Category/EBMember "Category:EBMember")

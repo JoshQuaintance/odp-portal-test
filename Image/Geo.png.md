@@ -1,6 +1,6 @@
-* [Image](../Image/Geo.png.md#file)
-* [File history](../Image/Geo.png.md#filehistory)
-* [Links](../Image/Geo.png.md#filelinks)
+* [Image](../Image/Geo.png#file)
+* [File history](../Image/Geo.png#filehistory)
+* [Links](../Image/Geo.png#filelinks)
 
 [![Image:Geo.png](../images/c/c9/Geo.png)](../images/c/c9/Geo.png)  
 No higher resolution available.  
@@ -23,7 +23,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Submissions:SmartHome Geometry](../Submissions/SmartHome_Geometry.md "Submissions:SmartHome Geometry")
+* [Submissions:SmartHome Geometry](../Submissions/SmartHome_Geometry "Submissions:SmartHome Geometry")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Geo.png](../Image/Geo.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Geo.png](../Image/Geo.png)"

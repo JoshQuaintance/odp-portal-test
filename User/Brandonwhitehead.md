@@ -1,4 +1,4 @@
-[![Image:ODPUser.png](../images/a/a6/ODPUser.png)](../Image/ODPUser.png.md "Image:ODPUser.png")
+[![Image:ODPUser.png](../images/a/a6/ODPUser.png)](../Image/ODPUser.png "Image:ODPUser.png")
 
 
 
@@ -19,7 +19,7 @@ __Domains of interest:__
 
 
 
-* [Geology](../Community/Geology.md "Community:Geology")
+* [Geology](../Community/Geology "Community:Geology")
 * [Geography](http://ontologydesignpatterns.org/wiki/Special:AddData/Domain Form/Community:Geography "Community:Geography (not yet written)")
 * [Geoscience](http://ontologydesignpatterns.org/wiki/Special:AddData/Domain Form/Community:Geoscience "Community:Geoscience (not yet written)")
 * [Earth Science](http://ontologydesignpatterns.org/wiki/Special:AddData/Domain Form/Community:Earth_Science "Community:Earth Science (not yet written)")
@@ -42,5 +42,5 @@ __How did I know about ODP:__ conference/public events, colleagues
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/User:Brandonwhitehead](../User/Brandonwhitehead.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ODPUser](../Category/ODPUser.md "Category:ODPUser")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/User:Brandonwhitehead](../User/Brandonwhitehead)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ODPUser](../Category/ODPUser "Category:ODPUser")

@@ -1,7 +1,7 @@
-* [Image](../Image/Valentina.jpg.md#file)
-* [File history](../Image/Valentina.jpg.md#filehistory)
-* [Links](../Image/Valentina.jpg.md#filelinks)
-* [Metadata](../Image/Valentina.jpg.md#metadata)
+* [Image](../Image/Valentina.jpg#file)
+* [File history](../Image/Valentina.jpg#filehistory)
+* [Links](../Image/Valentina.jpg#filelinks)
+* [Metadata](../Image/Valentina.jpg#metadata)
 
 [![Image:Valentina.jpg](../images/8/88/Valentina.jpg)](../images/8/88/Valentina.jpg)  
 No higher resolution available.  
@@ -24,8 +24,8 @@ Click on a date/time to view the file as it appeared at that time.
 The following 2 pages link to this file:
 
 
-* [Community:Images](../Community/Images.md "Community:Images")
-* [User:ValentinaPresutti](../User/ValentinaPresutti.md "User:ValentinaPresutti")
+* [Community:Images](../Community/Images "Community:Images")
+* [User:ValentinaPresutti](../User/ValentinaPresutti "User:ValentinaPresutti")
 
 ## Metadata
 
@@ -36,4 +36,4 @@ If the file has been modified from its original state, some details may not full
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Valentina.jpg](../Image/Valentina.jpg.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Valentina.jpg](../Image/Valentina.jpg)"

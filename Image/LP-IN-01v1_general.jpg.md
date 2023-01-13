@@ -1,6 +1,6 @@
-* [Image](../Image/LP-IN-01v1_general.jpg.md#file)
-* [File history](../Image/LP-IN-01v1_general.jpg.md#filehistory)
-* [Links](../Image/LP-IN-01v1_general.jpg.md#filelinks)
+* [Image](../Image/LP-IN-01v1_general.jpg#file)
+* [File history](../Image/LP-IN-01v1_general.jpg#filehistory)
+* [Links](../Image/LP-IN-01v1_general.jpg#filelinks)
 
 [![Image:LP-IN-01v1 general.jpg](../images/d/d1/LP-IN-01v1_general.jpg)](../images/d/d1/LP-IN-01v1_general.jpg)  
 No higher resolution available.  
@@ -23,7 +23,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Submissions:Summarization of an inverse n-ary relation](../Submissions/Summarization_of_an_inverse_n-ary_relation.md "Submissions:Summarization of an inverse n-ary relation")
+* [Submissions:Summarization of an inverse n-ary relation](../Submissions/Summarization_of_an_inverse_n-ary_relation "Submissions:Summarization of an inverse n-ary relation")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:LP-IN-01v1\_general.jpg](../Image/LP-IN-01v1_general.jpg.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:LP-IN-01v1\_general.jpg](../Image/LP-IN-01v1_general.jpg)"

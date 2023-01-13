@@ -1,4 +1,4 @@
-Return to [Catalogue of Exemplary Ontologies](../Ontology/Main.md "Ontology:Main")
+Return to [Catalogue of Exemplary Ontologies](../Ontology/Main "Ontology:Main")
 
 
 
@@ -40,14 +40,14 @@ After the matchmaking is completed, and a set of results is obtained, there is a
 #  References
 
 
-[Add a reference](index.php@title=Odp%253AAdd_reference&subject=../Ontology/Grid4AllOntology.md "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_reference&subject=Ontology%3AGrid4AllOntology")
+[Add a reference](index.php@title=Odp%253AAdd_reference&subject=../Ontology/Grid4AllOntology "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_reference&subject=Ontology%3AGrid4AllOntology")
 
 
 
-* Vouros, G., A. Papasalouros, K. Kotis, A. Valarakos, and K. Tzonas, "The Grid4All ontology for the retrieval of traded resources in a market-oriented Grid", IJWGS special issue on Web/Grid Information and Services Discovery and Management, vol. 4, pp. 418-439, 00/2008. [Paper](http://www.icsd.aegean.gr/kotis/publications/IJWGS.pdf "http://www.icsd.aegean.gr/kotis/publications/IJWGS.pdf") | [reference page](../Community/References/IJWGS_Paper.md "Community:References/IJWGS Paper")
+* Vouros, G., A. Papasalouros, K. Kotis, A. Valarakos, and K. Tzonas, "The Grid4All ontology for the retrieval of traded resources in a market-oriented Grid", IJWGS special issue on Web/Grid Information and Services Discovery and Management, vol. 4, pp. 418-439, 00/2008. [Paper](http://www.icsd.aegean.gr/kotis/publications/IJWGS.pdf "http://www.icsd.aegean.gr/kotis/publications/IJWGS.pdf") | [reference page](../Community/References/IJWGS_Paper "Community:References/IJWGS Paper")
 
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Ontology:Grid4AllOntology](../Ontology/Grid4AllOntology.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Ontology](../Category/Ontology.md "Category:Ontology")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Ontology:Grid4AllOntology](../Ontology/Grid4AllOntology)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Ontology](../Category/Ontology "Category:Ontology")

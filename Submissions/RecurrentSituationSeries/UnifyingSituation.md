@@ -1,4 +1,4 @@
-___UnifyingSituation__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [RecurrentSituationSeries](../../Submissions/RecurrentSituationSeries.md "Submissions:RecurrentSituationSeries")_
+___UnifyingSituation__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [RecurrentSituationSeries](../../Submissions/RecurrentSituationSeries "Submissions:RecurrentSituationSeries")_
 
 
   
@@ -6,7 +6,7 @@ ___UnifyingSituation__ has [Category:OntologyElement](../../Category/OntologyEle
 
 
 
-[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif.md "Class")
+[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif "Class")
 __Name__: UnifyingSituation 
 
 
@@ -19,5 +19,5 @@ __Description__: A Unifying Situation is a situation involving a unifying factor
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:RecurrentSituationSeries/UnifyingSituation](../../Submissions/RecurrentSituationSeries/hasUnifyingSituation.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:RecurrentSituationSeries/UnifyingSituation](../../Submissions/RecurrentSituationSeries/hasUnifyingSituation)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

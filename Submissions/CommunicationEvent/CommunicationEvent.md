@@ -1,4 +1,4 @@
-___CommunicationEvent__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [CommunicationEvent](../../Submissions/CommunicationEvent.md "Submissions:CommunicationEvent")_
+___CommunicationEvent__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [CommunicationEvent](../../Submissions/CommunicationEvent "Submissions:CommunicationEvent")_
 
 
   
@@ -6,7 +6,7 @@ ___CommunicationEvent__ has [Category:OntologyElement](../../Category/OntologyEl
 
 
 
-[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif.md "Class")
+[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif "Class")
 __Name__: CommunicationEvent 
 
 
@@ -19,5 +19,5 @@ __Description__: An instance of communication, e.g. a phone call, a meeting or a
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:CommunicationEvent/CommunicationEvent](../../Image/CommunicationEvent.jpg.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:CommunicationEvent/CommunicationEvent](../../Image/CommunicationEvent.jpg)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

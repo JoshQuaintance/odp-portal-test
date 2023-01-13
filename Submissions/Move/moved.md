@@ -1,4 +1,4 @@
-___moved__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [Move](../../Submissions/Move.md "Submissions:Move")_
+___moved__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [Move](../../Submissions/Move "Submissions:Move")_
 
 
   
@@ -6,7 +6,7 @@ ___moved__ has [Category:OntologyElement](../../Category/OntologyElement.md "Cat
 
 
 
-[![ObjectProperty](../../images/thumb/c/c3/ObjectProperty.gif/45px-ObjectProperty.gif)](../../Image/ObjectProperty.gif.md "ObjectProperty")
+[![ObjectProperty](../../images/thumb/c/c3/ObjectProperty.gif/45px-ObjectProperty.gif)](../../Image/ObjectProperty.gif "ObjectProperty")
 __Name__: moved 
 
 
@@ -29,5 +29,5 @@ In reality, a move must concern at least one object.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Move/moved](../../Submissions/Spatial_Graph_Adapter_Pattern_(moved_to_Content_ODPs).md).md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Move/moved](../../Submissions/Spatial_Graph_Adapter_Pattern_(moved_to_Content_ODPs)).md).md)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

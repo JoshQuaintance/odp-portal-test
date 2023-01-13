@@ -24,9 +24,9 @@ No exercises.
 
 
 
-[Create exercise for this tutorial](http://ontologydesignpatterns.org/wiki/Special:AddData/Form:Tutorial_Exercise_Form?Exercise_Description_Template[Tutorial]=The Loreley of Ontology Design Patterns) | [Training area](../Training/Main.md "Training:Main")
+[Create exercise for this tutorial](http://ontologydesignpatterns.org/wiki/Special:AddData/Form:Tutorial_Exercise_Form?Exercise_Description_Template[Tutorial]=The Loreley of Ontology Design Patterns) | [Training area](../Training/Main "Training:Main")
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Training:The\_Loreley\_of\_Ontology\_Design\_Patterns](../Training/The_Loreley_of_Ontology_Design_Patterns.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Tutorial](../Category/Tutorial.md "Category:Tutorial")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Training:The\_Loreley\_of\_Ontology\_Design\_Patterns](../Training/The_Loreley_of_Ontology_Design_Patterns)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Tutorial](../Category/Tutorial "Category:Tutorial")

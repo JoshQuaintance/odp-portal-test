@@ -1,7 +1,7 @@
-This is a property of type [Page](../Type/Page.md "Type:Page").
+This is a property of type [Page](../Type/Page "Type:Page").
 
 
-This is a subproperty of [Property:PatternDomain](../Property/PatternDomain.md "Property:PatternDomain")
+This is a subproperty of [Property:PatternDomain](../Property/PatternDomain "Property:PatternDomain")
 
 
 
@@ -16,4 +16,4 @@ Showing 0 pages using this property.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Property:ContentODPDomain](../Property/ContentODPDomain.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Property:ContentODPDomain](../Property/ContentODPDomain)"

@@ -1,4 +1,4 @@
-[![](../images/thumb/b/b5/Certified.png/70px-Certified.png)](../Image/Certified.png.md "Certified.png") __This pattern has been certified.__
+[![](../images/thumb/b/b5/Certified.png/70px-Certified.png)](../Image/Certified.png "Certified.png") __This pattern has been certified.__
 Related submission, with evaluation history, can be found __here__
 
 
@@ -13,7 +13,7 @@ __Diagram__
 
 
 
-[![Image:met1.jpg](../images/f/fc/Met1.jpg)](../Image/Met1.jpg.md "Image:met1.jpg")
+[![Image:met1.jpg](../images/f/fc/Met1.jpg)](../Image/Met1.jpg "Image:met1.jpg")
 
 
 
@@ -87,7 +87,7 @@ There is no Modeling issue related to this proposal.
 #  References
 
 
-[Add a reference](index.php@title=Odp%253AAdd_reference&subject=../Submissions/Metonymy-species-commodity.md "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_reference&subject=Submissions%3AMetonymy-species-commodity")
+[Add a reference](index.php@title=Odp%253AAdd_reference&subject=../Submissions/Metonymy-species-commodity "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_reference&subject=Submissions%3AMetonymy-species-commodity")
 
 
   
@@ -97,5 +97,5 @@ There is no Modeling issue related to this proposal.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Metonymy-species-commodity](../Submissions/Metonymy-species-commodity.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ProposedContentOP](../Category/ProposedContentOP.md "Category:ProposedContentOP")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Metonymy-species-commodity](../Submissions/Metonymy-species-commodity)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ProposedContentOP](../Category/ProposedContentOP "Category:ProposedContentOP")

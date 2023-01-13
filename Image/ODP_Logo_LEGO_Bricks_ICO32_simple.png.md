@@ -1,6 +1,6 @@
-* [Image](../Image/ODP_Logo_LEGO_Bricks_ICO32_simple.png.md#file)
-* [File history](../Image/ODP_Logo_LEGO_Bricks_ICO32_simple.png.md#filehistory)
-* [Links](../Image/ODP_Logo_LEGO_Bricks_ICO32_simple.png.md#filelinks)
+* [Image](../Image/ODP_Logo_LEGO_Bricks_ICO32_simple.png#file)
+* [File history](../Image/ODP_Logo_LEGO_Bricks_ICO32_simple.png#filehistory)
+* [Links](../Image/ODP_Logo_LEGO_Bricks_ICO32_simple.png#filelinks)
 
 [![Image:ODP Logo LEGO Bricks ICO32 simple.png](../images/2/2f/ODP_Logo_LEGO_Bricks_ICO32_simple.png)](../images/2/2f/ODP_Logo_LEGO_Bricks_ICO32_simple.png)  
 No higher resolution available.  
@@ -28,4 +28,4 @@ There are no pages that link to this file.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:ODP\_Logo\_LEGO\_Bricks\_ICO32\_simple.png](../Image/ODP_Logo_LEGO_Bricks_ICO32_simple.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:ODP\_Logo\_LEGO\_Bricks\_ICO32\_simple.png](../Image/ODP_Logo_LEGO_Bricks_ICO32_simple.png)"

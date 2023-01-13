@@ -1,4 +1,4 @@
-___isPublishedBy__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [HistoricalMap](../../Submissions/HistoricalMap.md "Submissions:HistoricalMap")_
+___isPublishedBy__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [HistoricalMap](../../Submissions/HistoricalMap "Submissions:HistoricalMap")_
 
 
   
@@ -6,7 +6,7 @@ ___isPublishedBy__ has [Category:OntologyElement](../../Category/OntologyElement
 
 
 
-[![ObjectProperty](../../images/thumb/c/c3/ObjectProperty.gif/45px-ObjectProperty.gif)](../../Image/ObjectProperty.gif.md "ObjectProperty")
+[![ObjectProperty](../../images/thumb/c/c3/ObjectProperty.gif/45px-ObjectProperty.gif)](../../Image/ObjectProperty.gif "ObjectProperty")
 __Name__: isPublishedBy 
 
 
@@ -19,5 +19,5 @@ __Description__:
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:HistoricalMap/isPublishedBy](../../Submissions/HistoricalMap/isPublishedBy.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:HistoricalMap/isPublishedBy](../../Submissions/HistoricalMap/isPublishedBy)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

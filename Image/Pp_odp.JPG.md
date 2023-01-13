@@ -1,6 +1,6 @@
-* [Image](../Image/Pp_odp.JPG.md#file)
-* [File history](../Image/Pp_odp.JPG.md#filehistory)
-* [Links](../Image/Pp_odp.JPG.md#filelinks)
+* [Image](../Image/Pp_odp.JPG#file)
+* [File history](../Image/Pp_odp.JPG#filehistory)
+* [Links](../Image/Pp_odp.JPG#filelinks)
 
 [![Image:Pp odp.JPG](../images/thumb/1/13/Pp_odp.JPG/800px-Pp_odp.JPG)](../images/1/13/Pp_odp.JPG)  
 Size of this preview: 800 × 401 pixels  
@@ -23,7 +23,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Community:PharmaceuticalProducts Composition](../Community/PharmaceuticalProducts_Composition.md "Community:PharmaceuticalProducts Composition")
+* [Community:PharmaceuticalProducts Composition](../Community/PharmaceuticalProducts_Composition "Community:PharmaceuticalProducts Composition")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Pp\_odp.JPG](../Image/Pp_odp.JPG.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Pp\_odp.JPG](../Image/Pp_odp.JPG)"

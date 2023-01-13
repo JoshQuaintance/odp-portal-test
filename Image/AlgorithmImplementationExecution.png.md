@@ -1,6 +1,6 @@
-* [Image](../Image/AlgorithmImplementationExecution.png.md#file)
-* [File history](../Image/AlgorithmImplementationExecution.png.md#filehistory)
-* [Links](../Image/AlgorithmImplementationExecution.png.md#filelinks)
+* [Image](../Image/AlgorithmImplementationExecution.png#file)
+* [File history](../Image/AlgorithmImplementationExecution.png#filehistory)
+* [Links](../Image/AlgorithmImplementationExecution.png#filelinks)
 
 [![Image:AlgorithmImplementationExecution.png](../images/thumb/7/77/AlgorithmImplementationExecution.png/800px-AlgorithmImplementationExecution.png)](../images/7/77/AlgorithmImplementationExecution.png)  
 Size of this preview: 800 × 583 pixels  
@@ -25,4 +25,4 @@ There are no pages that link to this file.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:AlgorithmImplementationExecution.png](../Image/AlgorithmImplementationExecution.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:AlgorithmImplementationExecution.png](../Image/AlgorithmImplementationExecution.png)"

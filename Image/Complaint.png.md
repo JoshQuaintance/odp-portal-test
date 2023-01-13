@@ -1,6 +1,6 @@
-* [Image](../Image/Complaint.png.md#file)
-* [File history](../Image/Complaint.png.md#filehistory)
-* [Links](../Image/Complaint.png.md#filelinks)
+* [Image](../Image/Complaint.png#file)
+* [File history](../Image/Complaint.png#filehistory)
+* [Links](../Image/Complaint.png#filelinks)
 
 [![Image:Complaint.png](../images/thumb/4/4e/Complaint.png/800px-Complaint.png)](../images/4/4e/Complaint.png)  
 Size of this preview: 800 × 408 pixels  
@@ -28,4 +28,4 @@ There are no pages that link to this file.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Complaint.png](../Image/Complaint.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Complaint.png](../Image/Complaint.png)"

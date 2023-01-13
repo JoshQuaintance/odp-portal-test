@@ -1,4 +1,4 @@
-___isSatisfiedBy__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [DescriptionAndSituation](../../Submissions/DescriptionAndSituation.md "Submissions:DescriptionAndSituation")_
+___isSatisfiedBy__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [DescriptionAndSituation](../../Submissions/DescriptionAndSituation "Submissions:DescriptionAndSituation")_
 
 
   
@@ -6,7 +6,7 @@ ___isSatisfiedBy__ has [Category:OntologyElement](../../Category/OntologyElement
 
 
 
-[![ObjectProperty](../../images/thumb/c/c3/ObjectProperty.gif/45px-ObjectProperty.gif)](../../Image/ObjectProperty.gif.md "ObjectProperty")
+[![ObjectProperty](../../images/thumb/c/c3/ObjectProperty.gif/45px-ObjectProperty.gif)](../../Image/ObjectProperty.gif "ObjectProperty")
 __Name__: isSatisfiedBy 
 
 
@@ -19,5 +19,5 @@ __Description__: A relation between a Situation and a Description, e.g. the exec
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:DescriptionAndSituation/isSatisfiedBy](../../Submissions/BasicPlan/isSatisfiedBy.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:DescriptionAndSituation/isSatisfiedBy](../../Submissions/BasicPlan/isSatisfiedBy)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

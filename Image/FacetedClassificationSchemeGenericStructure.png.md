@@ -1,6 +1,6 @@
-* [Image](../Image/FacetedClassificationSchemeGenericStructure.png.md#file)
-* [File history](../Image/FacetedClassificationSchemeGenericStructure.png.md#filehistory)
-* [Links](../Image/FacetedClassificationSchemeGenericStructure.png.md#filelinks)
+* [Image](../Image/FacetedClassificationSchemeGenericStructure.png#file)
+* [File history](../Image/FacetedClassificationSchemeGenericStructure.png#filehistory)
+* [Links](../Image/FacetedClassificationSchemeGenericStructure.png#filelinks)
 
 [![Image:FacetedClassificationSchemeGenericStructure.png](../images/2/22/FacetedClassificationSchemeGenericStructure.png)](../images/2/22/FacetedClassificationSchemeGenericStructure.png)  
 No higher resolution available.  
@@ -26,7 +26,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Submissions:Faceted Classification Scheme](../Submissions/Faceted_Classification_Scheme.md "Submissions:Faceted Classification Scheme")
+* [Submissions:Faceted Classification Scheme](../Submissions/Faceted_Classification_Scheme "Submissions:Faceted Classification Scheme")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:FacetedClassificationSchemeGenericStructure.png](../Image/FacetedClassificationSchemeGenericStructure.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:FacetedClassificationSchemeGenericStructure.png](../Image/FacetedClassificationSchemeGenericStructure.png)"

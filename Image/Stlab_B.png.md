@@ -1,6 +1,6 @@
-* [Image](../Image/Stlab_B.png.md#file)
-* [File history](../Image/Stlab_B.png.md#filehistory)
-* [Links](../Image/Stlab_B.png.md#filelinks)
+* [Image](../Image/Stlab_B.png#file)
+* [File history](../Image/Stlab_B.png#filehistory)
+* [Links](../Image/Stlab_B.png#filelinks)
 
 [![Image:Stlab B.png](../images/thumb/9/9e/Stlab_B.png/800px-Stlab_B.png)](../images/9/9e/Stlab_B.png)  
 Size of this preview: 800 × 300 pixels  
@@ -23,8 +23,8 @@ Click on a date/time to view the file as it appeared at that time.
 The following 2 pages link to this file:
 
 
-* [Community:Images](../Community/Images.md "Community:Images")
-* [Odp:Partners](../Odp/Partners.md "Odp:Partners")
+* [Community:Images](../Community/Images "Community:Images")
+* [Odp:Partners](../Odp/Partners "Odp:Partners")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Stlab\_B.png](../Image/Stlab_B.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Stlab\_B.png](../Image/Stlab_B.png)"

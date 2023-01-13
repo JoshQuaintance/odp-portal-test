@@ -1,4 +1,4 @@
-Return to [Catalogue of Exemplary Ontologies](../Ontology/Main.md "Ontology:Main")
+Return to [Catalogue of Exemplary Ontologies](../Ontology/Main "Ontology:Main")
 
 
 
@@ -43,12 +43,12 @@ ISO/IEC 21000-19:2010 includes the definition of an API to facilitate the implem
 
 
 
-* Introduction to the Media Value Chain Ontology - 7th November 2008 [Documentation](http://dmag.ac.upc.edu/ontologies/ "http://dmag.ac.upc.edu/ontologies/") | [reference page](../Community/References/Introduction_to_the_MVCO.md "Community:References/Introduction to the MVCO")
-* A Media Value Chain Ontology for MPEG-21 [Paper](http://portal.acm.org/citation.cfm?id=1685140.1685158&coll=portal&dl=ACM "http://portal.acm.org/citation.cfm?id=1685140.1685158&coll=portal&dl=ACM") | [reference page](../Community/References/A_Media_Value_Chain_Ontology_for_MPEG-21.md "Community:References/A Media Value Chain Ontology for MPEG-21")
-* Information technology -- Multimedia framework (MPEG-21) -- Part 19: Media Value Chain Ontology [Web page](http://www.iso.org/iso/catalogue_detail.htm?csnumber=52887 "http://www.iso.org/iso/catalogue_detail.htm?csnumber=52887") | [reference page](../Community/References/ISO/IEC_FDIS_21000-19.md "Community:References/ISO/IEC FDIS 21000-19")
+* Introduction to the Media Value Chain Ontology - 7th November 2008 [Documentation](http://dmag.ac.upc.edu/ontologies/ "http://dmag.ac.upc.edu/ontologies/") | [reference page](../Community/References/Introduction_to_the_MVCO "Community:References/Introduction to the MVCO")
+* A Media Value Chain Ontology for MPEG-21 [Paper](http://portal.acm.org/citation.cfm?id=1685140.1685158&coll=portal&dl=ACM "http://portal.acm.org/citation.cfm?id=1685140.1685158&coll=portal&dl=ACM") | [reference page](../Community/References/A_Media_Value_Chain_Ontology_for_MPEG-21 "Community:References/A Media Value Chain Ontology for MPEG-21")
+* Information technology -- Multimedia framework (MPEG-21) -- Part 19: Media Value Chain Ontology [Web page](http://www.iso.org/iso/catalogue_detail.htm?csnumber=52887 "http://www.iso.org/iso/catalogue_detail.htm?csnumber=52887") | [reference page](../Community/References/ISO/IEC_FDIS_21000-19 "Community:References/ISO/IEC FDIS 21000-19")
 
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Ontology:Media\_Value\_Chain\_Ontology](../Ontology/Media_Value_Chain_Ontology.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Ontology](../Category/Ontology.md "Category:Ontology")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Ontology:Media\_Value\_Chain\_Ontology](../Ontology/Media_Value_Chain_Ontology)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Ontology](../Category/Ontology "Category:Ontology")

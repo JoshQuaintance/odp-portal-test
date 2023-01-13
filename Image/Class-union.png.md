@@ -1,6 +1,6 @@
-* [Image](../Image/Class-union.png.md#file)
-* [File history](../Image/Class-union.png.md#filehistory)
-* [Links](../Image/Class-union.png.md#filelinks)
+* [Image](../Image/Class-union.png#file)
+* [File history](../Image/Class-union.png#filehistory)
+* [Links](../Image/Class-union.png#filelinks)
 
 [![Image:Class-union.png](../images/thumb/5/53/Class-union.png/800px-Class-union.png)](../images/5/53/Class-union.png)  
 Size of this preview: 800 × 227 pixels  
@@ -23,7 +23,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Submissions:Class Union](../Submissions/Class_Union.md "Submissions:Class Union")
+* [Submissions:Class Union](../Submissions/Class_Union "Submissions:Class Union")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Class-union.png](../Image/Class-union.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Class-union.png](../Image/Class-union.png)"

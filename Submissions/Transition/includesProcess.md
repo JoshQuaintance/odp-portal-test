@@ -1,4 +1,4 @@
-___includesProcess__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [Transition](../../Submissions/Transition.md "Submissions:Transition")_
+___includesProcess__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [Transition](../../Submissions/Transition "Submissions:Transition")_
 
 
   
@@ -6,7 +6,7 @@ ___includesProcess__ has [Category:OntologyElement](../../Category/OntologyEleme
 
 
 
-[![ObjectProperty](../../images/thumb/c/c3/ObjectProperty.gif/45px-ObjectProperty.gif)](../../Image/ObjectProperty.gif.md "ObjectProperty")
+[![ObjectProperty](../../images/thumb/c/c3/ObjectProperty.gif/45px-ObjectProperty.gif)](../../Image/ObjectProperty.gif "ObjectProperty")
 __Name__: includesProcess 
 
 
@@ -19,5 +19,5 @@ __Description__: A relation between a transition situation and the underlying pr
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Transition/includesProcess](../../Submissions/Transition/includesProcess.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Transition/includesProcess](../../Submissions/Transition/includesProcess)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

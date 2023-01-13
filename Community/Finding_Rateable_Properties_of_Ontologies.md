@@ -34,8 +34,8 @@ _(this article has no graphical representation)_
 
 
 
- [List of Modeling Issues](../Community/Main.md "Community:Main") | [Post a new modeling issue](../Community/PostModelingIssue.md "Community:PostModelingIssue") | [Add a comment in the discussion page](index.php@title=Odp%253AAdd_comment&target=Community_talk%253AFinding_Rateable_Properties_of_Ontologies.html#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Community_talk:Finding_Rateable_Properties_of_Ontologies#New_comment")
+ [List of Modeling Issues](../Community/Main "Community:Main") | [Post a new modeling issue](../Community/PostModelingIssue "Community:PostModelingIssue") | [Add a comment in the discussion page](index.php@title=Odp%253AAdd_comment&target=Community_talk%253AFinding_Rateable_Properties_of_Ontologies.html#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Community_talk:Finding_Rateable_Properties_of_Ontologies#New_comment")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Community:Finding\_Rateable\_Properties\_of\_Ontologies](../Community/Finding_Rateable_Properties_of_Ontologies.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ModelingIssue](../Category/ModelingIssue.md "Category:ModelingIssue")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Community:Finding\_Rateable\_Properties\_of\_Ontologies](../Community/Finding_Rateable_Properties_of_Ontologies)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ModelingIssue](../Category/ModelingIssue "Category:ModelingIssue")

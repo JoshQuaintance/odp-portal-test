@@ -5,42 +5,42 @@ __Propose a [Content pattern](http://ontologydesignpatterns.org/wiki/Special:Imp
 
 
 
-* Follow the instructions at [this page](../Submissions/ProposeCP.md "Submissions:ProposeCP").
+* Follow the instructions at [this page](../Submissions/ProposeCP "Submissions:ProposeCP").
 
 
-__Propose a [Reengineering pattern](../Submissions/ProposeRP.md "Submissions:ProposeRP")__
-
-
-
-* Follow the instructions at [this page](../Submissions/ProposeRP.md "Submissions:ProposeRP").
-
-
-__Propose an [Alignment pattern](../Submissions/ProposeALP.md "Submissions:ProposeALP")__
+__Propose a [Reengineering pattern](../Submissions/ProposeRP "Submissions:ProposeRP")__
 
 
 
-* Follow the instructions at [this page](../Submissions/ProposeALP.md "Submissions:ProposeALP").
+* Follow the instructions at [this page](../Submissions/ProposeRP "Submissions:ProposeRP").
 
 
-__Propose a [Logical pattern](../Submissions/ProposeLP.md "Submissions:ProposeLP")__
-
-
-
-* Follow the instructions at [this page](../Submissions/ProposeLP.md "Submissions:ProposeLP").
-
-
-__Propose an [Architectural pattern](../Submissions/ProposeARP.md "Submissions:ProposeARP")__
+__Propose an [Alignment pattern](../Submissions/ProposeALP "Submissions:ProposeALP")__
 
 
 
-* Follow the instructions at [this page](../Submissions/ProposeARP.md "Submissions:ProposeARP").
+* Follow the instructions at [this page](../Submissions/ProposeALP "Submissions:ProposeALP").
 
 
-__Propose a [Lexico-Syntactic pattern](../Submissions/ProposeLSP.md "Submissions:ProposeLSP")__
+__Propose a [Logical pattern](../Submissions/ProposeLP "Submissions:ProposeLP")__
 
 
 
-* Follow the instructions at [this page](../Submissions/ProposeLSP.md "Submissions:ProposeLSP").
+* Follow the instructions at [this page](../Submissions/ProposeLP "Submissions:ProposeLP").
+
+
+__Propose an [Architectural pattern](../Submissions/ProposeARP "Submissions:ProposeARP")__
+
+
+
+* Follow the instructions at [this page](../Submissions/ProposeARP "Submissions:ProposeARP").
+
+
+__Propose a [Lexico-Syntactic pattern](../Submissions/ProposeLSP "Submissions:ProposeLSP")__
+
+
+
+* Follow the instructions at [this page](../Submissions/ProposeLSP "Submissions:ProposeLSP").
 
 
   
@@ -50,4 +50,4 @@ __Propose a [Lexico-Syntactic pattern](../Submissions/ProposeLSP.md "Submissions
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:SubmitAPattern](../Submissions/SubmitAPattern.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:SubmitAPattern](../Submissions/SubmitAPattern)"

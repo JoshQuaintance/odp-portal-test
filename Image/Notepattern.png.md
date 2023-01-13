@@ -1,6 +1,6 @@
-* [Image](../Image/Notepattern.png.md#file)
-* [File history](../Image/Notepattern.png.md#filehistory)
-* [Links](../Image/Notepattern.png.md#filelinks)
+* [Image](../Image/Notepattern.png#file)
+* [File history](../Image/Notepattern.png#filehistory)
+* [Links](../Image/Notepattern.png#filelinks)
 
 [![Image:Notepattern.png](../images/thumb/3/34/Notepattern.png/800px-Notepattern.png)](../images/3/34/Notepattern.png)  
 Size of this preview: 800 × 316 pixels  
@@ -28,4 +28,4 @@ There are no pages that link to this file.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Notepattern.png](../Image/Notepattern.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Notepattern.png](../Image/Notepattern.png)"

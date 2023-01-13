@@ -1,6 +1,6 @@
-* [Image](../Image/Timeindexedpartof.jpg.md#file)
-* [File history](../Image/Timeindexedpartof.jpg.md#filehistory)
-* [Links](../Image/Timeindexedpartof.jpg.md#filelinks)
+* [Image](../Image/Timeindexedpartof.jpg#file)
+* [File history](../Image/Timeindexedpartof.jpg#filehistory)
+* [Links](../Image/Timeindexedpartof.jpg#filelinks)
 
 [![Image:Timeindexedpartof.jpg](../images/c/c0/Timeindexedpartof.jpg)](../images/c/c0/Timeindexedpartof.jpg)  
 No higher resolution available.  
@@ -23,8 +23,8 @@ Click on a date/time to view the file as it appeared at that time.
 The following 2 pages link to this file:
 
 
-* [Community:Images](../Community/Images.md "Community:Images")
-* [Submissions:TimeIndexedPartOf](../Submissions/TimeIndexedPartOf.md "Submissions:TimeIndexedPartOf")
+* [Community:Images](../Community/Images "Community:Images")
+* [Submissions:TimeIndexedPartOf](../Submissions/TimeIndexedPartOf "Submissions:TimeIndexedPartOf")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Timeindexedpartof.jpg](../Image/Timeindexedpartof.jpg.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Timeindexedpartof.jpg](../Image/Timeindexedpartof.jpg)"

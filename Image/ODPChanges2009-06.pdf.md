@@ -1,8 +1,8 @@
-* [Image](../Image/ODPChanges2009-06.pdf.md#file)
-* [File history](../Image/ODPChanges2009-06.pdf.md#filehistory)
-* [Links](../Image/ODPChanges2009-06.pdf.md#filelinks)
+* [Image](../Image/ODPChanges2009-06.pdf#file)
+* [File history](../Image/ODPChanges2009-06.pdf#filehistory)
+* [Links](../Image/ODPChanges2009-06.pdf#filelinks)
 
-[![](../skins/common/images/icons/fileicon-pdf.png)](../Image/ODPChanges2009-06.pdf.md "ODPChanges2009-06.pdf")
+[![](../skins/common/images/icons/fileicon-pdf.png)](../Image/ODPChanges2009-06.pdf "ODPChanges2009-06.pdf")
 [ODPChanges2009-06.pdf](../images/1/19/ODPChanges2009-06.pdf "ODPChanges2009-06.pdf")‎  (file size: 401 KB, MIME type: application/pdf)
 
 
@@ -28,4 +28,4 @@ There are no pages that link to this file.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:ODPChanges2009-06.pdf](../Image/ODPChanges2009-06.pdf.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:ODPChanges2009-06.pdf](../Image/ODPChanges2009-06.pdf)"

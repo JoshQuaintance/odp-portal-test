@@ -1,4 +1,4 @@
-[![](../images/thumb/b/b5/Certified.png/70px-Certified.png)](../Image/Certified.png.md "Certified.png") __This pattern has been certified.__
+[![](../images/thumb/b/b5/Certified.png/70px-Certified.png)](../Image/Certified.png "Certified.png") __This pattern has been certified.__
 Related submission, with evaluation history, can be found __here__
 
 
@@ -13,7 +13,7 @@ __Diagram__
 
 
 
-[![Image:TimeIndexedSituation.png](../images/e/e7/TimeIndexedSituation.png)](../Image/TimeIndexedSituation.png.md "Image:TimeIndexedSituation.png")
+[![Image:TimeIndexedSituation.png](../images/e/e7/TimeIndexedSituation.png)](../Image/TimeIndexedSituation.png "Image:TimeIndexedSituation.png")
 
 
 
@@ -33,16 +33,16 @@ _The __TimeIndexedSituation__ Content OP locally defines the following ontology 
 
 
 
-[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __atTime__ (owl:ObjectProperty) 
- [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[atTime](../Submissions/TimeIndexedSituation/atTime.md "Submissions:TimeIndexedSituation/atTime") page_
-[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __forEntity__ (owl:ObjectProperty) 
- [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[forEntity](../Submissions/TimeIndexedSituation/forEntity.md "Submissions:TimeIndexedSituation/forEntity") page_
-[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __hasTimeIndexedSetting__ (owl:ObjectProperty) 
- [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[hasTimeIndexedSetting](../Submissions/TimeIndexedSituation/hasTimeIndexedSetting.md "Submissions:TimeIndexedSituation/hasTimeIndexedSetting") page_
-[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __isTimeIndexFor__ (owl:ObjectProperty) 
- [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[isTimeIndexFor](../Submissions/TimeIndexedSituation/isTimeIndexFor.md "Submissions:TimeIndexedSituation/isTimeIndexFor") page_
-[![Class](../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __TimeIndexedSituation__ (owl:Class) A Situation that is explicitly indexed at some time for at least one entity. 
- [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[TimeIndexedSituation](../Submissions/TimeIndexedSituation/TimeIndexedSituation.md "Submissions:TimeIndexedSituation/TimeIndexedSituation") page_
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif "ObjectProperty") __atTime__ (owl:ObjectProperty) 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif "ArrowRight.gif") _[atTime](../Submissions/TimeIndexedSituation/atTime "Submissions:TimeIndexedSituation/atTime") page_
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif "ObjectProperty") __forEntity__ (owl:ObjectProperty) 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif "ArrowRight.gif") _[forEntity](../Submissions/TimeIndexedSituation/forEntity "Submissions:TimeIndexedSituation/forEntity") page_
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif "ObjectProperty") __hasTimeIndexedSetting__ (owl:ObjectProperty) 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif "ArrowRight.gif") _[hasTimeIndexedSetting](../Submissions/TimeIndexedSituation/hasTimeIndexedSetting "Submissions:TimeIndexedSituation/hasTimeIndexedSetting") page_
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif "ObjectProperty") __isTimeIndexFor__ (owl:ObjectProperty) 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif "ArrowRight.gif") _[isTimeIndexFor](../Submissions/TimeIndexedSituation/isTimeIndexFor "Submissions:TimeIndexedSituation/isTimeIndexFor") page_
+[![Class](../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif "Class") __TimeIndexedSituation__ (owl:Class) A Situation that is explicitly indexed at some time for at least one entity. 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif "ArrowRight.gif") _[TimeIndexedSituation](../Submissions/TimeIndexedSituation/TimeIndexedSituation "Submissions:TimeIndexedSituation/TimeIndexedSituation") page_
 #  Additional information
 
 
@@ -97,7 +97,7 @@ There is no Modeling issue related to this proposal.
 #  References
 
 
-[Add a reference](index.php@title=Odp%253AAdd_reference&subject=../Submissions/TimeIndexedSituation.md "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_reference&subject=Submissions%3ATimeIndexedSituation")
+[Add a reference](index.php@title=Odp%253AAdd_reference&subject=../Submissions/TimeIndexedSituation "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_reference&subject=Submissions%3ATimeIndexedSituation")
 
 
   
@@ -107,5 +107,5 @@ There is no Modeling issue related to this proposal.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:TimeIndexedSituation](../Submissions/TimeIndexedSituation.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ProposedContentOP](../Category/ProposedContentOP.md "Category:ProposedContentOP")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:TimeIndexedSituation](../Submissions/TimeIndexedSituation)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ProposedContentOP](../Category/ProposedContentOP "Category:ProposedContentOP")

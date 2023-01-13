@@ -1,6 +1,6 @@
-* [Image](../Image/TimeIndexedSituation.png.md#file)
-* [File history](../Image/TimeIndexedSituation.png.md#filehistory)
-* [Links](../Image/TimeIndexedSituation.png.md#filelinks)
+* [Image](../Image/TimeIndexedSituation.png#file)
+* [File history](../Image/TimeIndexedSituation.png#filehistory)
+* [Links](../Image/TimeIndexedSituation.png#filelinks)
 
 [![Image:TimeIndexedSituation.png](../images/e/e7/TimeIndexedSituation.png)](../images/e/e7/TimeIndexedSituation.png)  
 No higher resolution available.  
@@ -23,7 +23,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Submissions:TimeIndexedSituation](../Submissions/TimeIndexedSituation.md "Submissions:TimeIndexedSituation")
+* [Submissions:TimeIndexedSituation](../Submissions/TimeIndexedSituation "Submissions:TimeIndexedSituation")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:TimeIndexedSituation.png](../Image/TimeIndexedSituation.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:TimeIndexedSituation.png](../Image/TimeIndexedSituation.png)"

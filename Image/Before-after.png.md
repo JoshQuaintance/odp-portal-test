@@ -1,6 +1,6 @@
-* [Image](../Image/Before-after.png.md#file)
-* [File history](../Image/Before-after.png.md#filehistory)
-* [Links](../Image/Before-after.png.md#filelinks)
+* [Image](../Image/Before-after.png#file)
+* [File history](../Image/Before-after.png#filehistory)
+* [Links](../Image/Before-after.png#filelinks)
 
 [![Image:Before-after.png](../images/9/97/Before-after.png)](../images/9/97/Before-after.png)  
 No higher resolution available.  
@@ -26,7 +26,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Submissions:Change of Time Varying Entities](../Submissions/Change_of_Time_Varying_Entities.md "Submissions:Change of Time Varying Entities")
+* [Submissions:Change of Time Varying Entities](../Submissions/Change_of_Time_Varying_Entities "Submissions:Change of Time Varying Entities")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Before-after.png](../Image/Before-after.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Before-after.png](../Image/Before-after.png)"

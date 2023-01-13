@@ -1,6 +1,6 @@
-* [Image](../Image/ISWC_2016_Tutorial_Overview.txt.md#file)
-* [File history](../Image/ISWC_2016_Tutorial_Overview.txt.md#filehistory)
-* [Links](../Image/ISWC_2016_Tutorial_Overview.txt.md#filelinks)
+* [Image](../Image/ISWC_2016_Tutorial_Overview.txt#file)
+* [File history](../Image/ISWC_2016_Tutorial_Overview.txt#filehistory)
+* [Links](../Image/ISWC_2016_Tutorial_Overview.txt#filelinks)
 
 
 [ISWC\_2016\_Tutorial\_Overview.txt](../images/b/b8/ISWC_2016_Tutorial_Overview.txt "ISWC 2016 Tutorial Overview.txt")‎
@@ -14,7 +14,7 @@ __Warning__: This file may contain malicious code, by executing it your system m
 ---
 
 
-Overview of the hands on session held at [http://ontologydesignpatterns.org/wiki/Training:Ontology\_Design\_Patterns\_for\_Linked\_Data\_Publishing\_at\_ISWC\_2016](../Training/Ontology_Design_Patterns_for_Linked_Data_Publishing_at_ISWC_2016.md "http://ontologydesignpatterns.org/wiki/Training:Ontology_Design_Patterns_for_Linked_Data_Publishing_at_ISWC_2016")
+Overview of the hands on session held at [http://ontologydesignpatterns.org/wiki/Training:Ontology\_Design\_Patterns\_for\_Linked\_Data\_Publishing\_at\_ISWC\_2016](../Training/Ontology_Design_Patterns_for_Linked_Data_Publishing_at_ISWC_2016 "http://ontologydesignpatterns.org/wiki/Training:Ontology_Design_Patterns_for_Linked_Data_Publishing_at_ISWC_2016")
 
 
 
@@ -36,7 +36,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Training:Ontology Design Patterns for Linked Data Publishing at ISWC 2016](../Training/Ontology_Design_Patterns_for_Linked_Data_Publishing_at_ISWC_2016.md "Training:Ontology Design Patterns for Linked Data Publishing at ISWC 2016")
+* [Training:Ontology Design Patterns for Linked Data Publishing at ISWC 2016](../Training/Ontology_Design_Patterns_for_Linked_Data_Publishing_at_ISWC_2016 "Training:Ontology Design Patterns for Linked Data Publishing at ISWC 2016")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:ISWC\_2016\_Tutorial\_Overview.txt](../Image/ISWC_2016_Tutorial_Overview.txt.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:ISWC\_2016\_Tutorial\_Overview.txt](../Image/ISWC_2016_Tutorial_Overview.txt)"

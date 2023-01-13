@@ -1,4 +1,4 @@
-This category uses the form [WOP](../Form/WOP.md "Form:WOP").
+This category uses the form [WOP](../Form/WOP "Form:WOP").
 
 
 
@@ -13,7 +13,7 @@ This category has only the following subcategory.
 ### W
 
 
-* [WOP2009](../Category/WOP2009.md "Category:WOP2009")
+* [WOP2009](../Category/WOP2009 "Category:WOP2009")
 
 
 
@@ -25,5 +25,5 @@ The following 14 pages are in this category, out of 14 total.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Category:WOP](../Category/WOP.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Event](../Category/Event.md "Category:Event")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Category:WOP](../Category/WOP)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Event](../Category/Event "Category:Event")

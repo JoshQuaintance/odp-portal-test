@@ -1,5 +1,5 @@
-[![](../images/thumb/2/29/Reviewer.png/48px-Reviewer.png)](../Image/Reviewer.png.md "Reviewer.png")
-__[AlessandroAdamou](../User/AlessandroAdamou.md "User:AlessandroAdamou") about [DisjointnessOfComplement (DOC)](../Submissions/DisjointnessOfComplement_(DOC).md).md).html "Submissions:DisjointnessOfComplement (DOC)") (Revision ID: [(DOC)?oldid=5597 5597](../Submissions/DisjointnessOfComplement.md "http://ontologydesignpatterns.org/wiki/Submissions:DisjointnessOfComplement"))__
+[![](../images/thumb/2/29/Reviewer.png/48px-Reviewer.png)](../Image/Reviewer.png "Reviewer.png")
+__[AlessandroAdamou](../User/AlessandroAdamou "User:AlessandroAdamou") about [DisjointnessOfComplement (DOC)](../Submissions/DisjointnessOfComplement_(DOC)).md).md).html "Submissions:DisjointnessOfComplement (DOC)") (Revision ID: [(DOC)?oldid=5597 5597](../Submissions/DisjointnessOfComplement "http://ontologydesignpatterns.org/wiki/Submissions:DisjointnessOfComplement"))__
 Overall suggestion (score): 1 - needs minor revision
 
 
@@ -37,8 +37,8 @@ _Posted:_ 2009/9/8 _Last modified:_ 2009/9/9
 
 
 
-[All reviews](../Reviews/Main.md "Reviews:Main") | [Add a comment at the bottom of this page](index.php@title=Odp%253AAdd_comment&target=../Reviews/AlessandroAdamou_about_DisjointnessOfComplement_(DOC).md).md).html#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Reviews:AlessandroAdamou_about_DisjointnessOfComplement_(DOC)#New_comment")
+[All reviews](../Reviews/Main "Reviews:Main") | [Add a comment at the bottom of this page](index.php@title=Odp%253AAdd_comment&target=../Reviews/AlessandroAdamou_about_DisjointnessOfComplement_(DOC)).md).md).html#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Reviews:AlessandroAdamou_about_DisjointnessOfComplement_(DOC)#New_comment")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Reviews:AlessandroAdamou\_about\_DisjointnessOfComplement\_%28DOC%29](../Reviews/AlessandroAdamou_about_DisjointnessOfComplement_(DOC).md).md).html)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [QCReview](../Category/QCReview.md "Category:QCReview")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Reviews:AlessandroAdamou\_about\_DisjointnessOfComplement\_%28DOC%29](../Reviews/AlessandroAdamou_about_DisjointnessOfComplement_(DOC)).md).md).html)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [QCReview](../Category/QCReview "Category:QCReview")

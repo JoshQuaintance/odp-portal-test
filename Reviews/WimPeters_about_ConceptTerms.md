@@ -1,5 +1,5 @@
-[![](../images/thumb/2/29/Reviewer.png/48px-Reviewer.png)](../Image/Reviewer.png.md "Reviewer.png")
-__[WimPeters](../User/WimPeters.md "User:WimPeters") about [ConceptTerms](../Submissions/ConceptTerms.md "Submissions:ConceptTerms") (Revision ID: [5626](../Submissions/ConceptTerms@oldid=5626.md "http://ontologydesignpatterns.org/wiki/Submissions:ConceptTerms?oldid=5626"))__
+[![](../images/thumb/2/29/Reviewer.png/48px-Reviewer.png)](../Image/Reviewer.png "Reviewer.png")
+__[WimPeters](../User/WimPeters "User:WimPeters") about [ConceptTerms](../Submissions/ConceptTerms "Submissions:ConceptTerms") (Revision ID: [5626](../Submissions/ConceptTerms@oldid=5626 "http://ontologydesignpatterns.org/wiki/Submissions:ConceptTerms?oldid=5626"))__
 Overall suggestion (score): 1 - needs minor revision
 
 
@@ -34,8 +34,8 @@ _Posted:_ 2009/9/8 _Last modified:_ 2009/9/8
 
 
 
-[All reviews](../Reviews/Main.md "Reviews:Main") | [Add a comment at the bottom of this page](index.php@title=Odp%253AAdd_comment&target=../Reviews/WimPeters_about_ConceptTerms.md#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Reviews:WimPeters_about_ConceptTerms#New_comment")
+[All reviews](../Reviews/Main "Reviews:Main") | [Add a comment at the bottom of this page](index.php@title=Odp%253AAdd_comment&target=../Reviews/WimPeters_about_ConceptTerms#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Reviews:WimPeters_about_ConceptTerms#New_comment")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Reviews:WimPeters\_about\_ConceptTerms](../Reviews/WimPeters_about_ConceptTerms.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [QCReview](../Category/QCReview.md "Category:QCReview")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Reviews:WimPeters\_about\_ConceptTerms](../Reviews/WimPeters_about_ConceptTerms)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [QCReview](../Category/QCReview "Category:QCReview")

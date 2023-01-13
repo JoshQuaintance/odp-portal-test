@@ -1,4 +1,4 @@
-[![](../images/thumb/b/b5/Certified.png/70px-Certified.png)](../Image/Certified.png.md "Certified.png") __This pattern has been certified.__
+[![](../images/thumb/b/b5/Certified.png/70px-Certified.png)](../Image/Certified.png "Certified.png") __This pattern has been certified.__
 Related submission, with evaluation history, can be found __here__
 
 
@@ -13,7 +13,7 @@ __Diagram__
 
 
 
-[![Image:ConceptGroupPattern.jpg](../images/e/e8/ConceptGroupPattern.jpg)](../Image/ConceptGroupPattern.jpg.md "Image:ConceptGroupPattern.jpg")
+[![Image:ConceptGroupPattern.jpg](../images/e/e8/ConceptGroupPattern.jpg)](../Image/ConceptGroupPattern.jpg "Image:ConceptGroupPattern.jpg")
 
 
 
@@ -82,7 +82,7 @@ There is no Modeling issue related to this proposal.
 #  References
 
 
-[Add a reference](index.php@title=Odp%253AAdd_reference&subject=../Submissions/ConceptGroup.md "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_reference&subject=Submissions%3AConceptGroup")
+[Add a reference](index.php@title=Odp%253AAdd_reference&subject=../Submissions/ConceptGroup "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_reference&subject=Submissions%3AConceptGroup")
 
 
   
@@ -92,5 +92,5 @@ There is no Modeling issue related to this proposal.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:ConceptGroup](../Submissions/ConceptGroup.md)"
- [Categories](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ProposedContentOP](../Category/ProposedContentOP.md "Category:ProposedContentOP") | [Review assigned](../Category/Review_assigned.md "Category:Review assigned") | [Submitted to event](../Category/Submitted_to_event.md "Category:Submitted to event")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:ConceptGroup](../Submissions/ConceptGroup)"
+ [Categories](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ProposedContentOP](../Category/ProposedContentOP "Category:ProposedContentOP") | [Review assigned](../Category/Review_assigned "Category:Review assigned") | [Submitted to event](../Category/Submitted_to_event "Category:Submitted to event")

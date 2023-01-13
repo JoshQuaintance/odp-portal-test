@@ -1,6 +1,6 @@
-* [Image](../Image/ODPUserIcon.gif.md#file)
-* [File history](../Image/ODPUserIcon.gif.md#filehistory)
-* [Links](../Image/ODPUserIcon.gif.md#filelinks)
+* [Image](../Image/ODPUserIcon.gif#file)
+* [File history](../Image/ODPUserIcon.gif#filehistory)
+* [Links](../Image/ODPUserIcon.gif#filelinks)
 
 [![Image:ODPUserIcon.gif](../images/2/22/ODPUserIcon.gif)](../images/2/22/ODPUserIcon.gif)  
 No higher resolution available.  
@@ -23,7 +23,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Community:Images](../Community/Images.md "Community:Images")
+* [Community:Images](../Community/Images "Community:Images")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:ODPUserIcon.gif](../Image/ODPUserIcon.gif.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:ODPUserIcon.gif](../Image/ODPUserIcon.gif)"

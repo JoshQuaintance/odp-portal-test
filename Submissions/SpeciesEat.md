@@ -1,4 +1,4 @@
-[![](../images/thumb/b/b5/Certified.png/70px-Certified.png)](../Image/Certified.png.md "Certified.png") __This pattern has been certified.__
+[![](../images/thumb/b/b5/Certified.png/70px-Certified.png)](../Image/Certified.png "Certified.png") __This pattern has been certified.__
 Related submission, with evaluation history, can be found __here__
 
 
@@ -13,7 +13,7 @@ __Diagram__
 
 
 
-[![Image:Specieseat.jpg](../images/1/13/Specieseat.jpg)](../Image/Specieseat.jpg.md "Image:Specieseat.jpg")
+[![Image:Specieseat.jpg](../images/1/13/Specieseat.jpg)](../Image/Specieseat.jpg "Image:Specieseat.jpg")
 
 
 
@@ -33,7 +33,7 @@ _The __SpeciesEat__ Content OP locally defines the following ontology elements:_
 
 
 
-[![Class](../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __AquaticSpecies__ (owl:Class) Aquatic species are conceptual entities that are characterized together with resources and water areas. 
+[![Class](../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif "Class") __AquaticSpecies__ (owl:Class) Aquatic species are conceptual entities that are characterized together with resources and water areas. 
 Mappable to fi:Species, fi:SpeciesRef, fi:SpeciesFeature, etc.
 
 
@@ -41,15 +41,15 @@ It has related axioms from FIGIS Schema that are included in the classes linked 
 
 
 
- [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[AquaticSpecies](../Submissions/SpeciesEat/AquaticSpecies.md "Submissions:SpeciesEat/AquaticSpecies") page_
-[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __feedsUpon__ (owl:ObjectProperty) 
- [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[feedsUpon](../Submissions/SpeciesEat/feedsUpon.md "Submissions:SpeciesEat/feedsUpon") page_
-[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __isPreyedUponBy__ (owl:ObjectProperty) 
- [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[isPreyedUponBy](../Submissions/SpeciesEat/isPreyedUponBy.md "Submissions:SpeciesEat/isPreyedUponBy") page_
-[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __isFoodOf__ (owl:ObjectProperty) 
- [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[isFoodOf](../Submissions/SpeciesEat/isFoodOf.md "Submissions:SpeciesEat/isFoodOf") page_
-[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __preyesUpon__ (owl:ObjectProperty) 
- [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[preyesUpon](../Submissions/SpeciesEat/preyesUpon.md "Submissions:SpeciesEat/preyesUpon") page_
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif "ArrowRight.gif") _[AquaticSpecies](../Submissions/SpeciesEat/AquaticSpecies "Submissions:SpeciesEat/AquaticSpecies") page_
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif "ObjectProperty") __feedsUpon__ (owl:ObjectProperty) 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif "ArrowRight.gif") _[feedsUpon](../Submissions/SpeciesEat/feedsUpon "Submissions:SpeciesEat/feedsUpon") page_
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif "ObjectProperty") __isPreyedUponBy__ (owl:ObjectProperty) 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif "ArrowRight.gif") _[isPreyedUponBy](../Submissions/SpeciesEat/isPreyedUponBy "Submissions:SpeciesEat/isPreyedUponBy") page_
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif "ObjectProperty") __isFoodOf__ (owl:ObjectProperty) 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif "ArrowRight.gif") _[isFoodOf](../Submissions/SpeciesEat/isFoodOf "Submissions:SpeciesEat/isFoodOf") page_
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif "ObjectProperty") __preyesUpon__ (owl:ObjectProperty) 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif "ArrowRight.gif") _[preyesUpon](../Submissions/SpeciesEat/preyesUpon "Submissions:SpeciesEat/preyesUpon") page_
 #  Additional information
 
 
@@ -113,7 +113,7 @@ There is no Modeling issue related to this proposal.
 #  References
 
 
-[Add a reference](index.php@title=Odp%253AAdd_reference&subject=../Submissions/SpeciesEat.md "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_reference&subject=Submissions%3ASpeciesEat")
+[Add a reference](index.php@title=Odp%253AAdd_reference&subject=../Submissions/SpeciesEat "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_reference&subject=Submissions%3ASpeciesEat")
 
 
   
@@ -123,5 +123,5 @@ There is no Modeling issue related to this proposal.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:SpeciesEat](../Submissions/SpeciesEat.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ProposedContentOP](../Category/ProposedContentOP.md "Category:ProposedContentOP")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:SpeciesEat](../Submissions/SpeciesEat)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ProposedContentOP](../Category/ProposedContentOP "Category:ProposedContentOP")

@@ -1,4 +1,4 @@
-[![Image:ODPUser.png](../images/a/a6/ODPUser.png)](../Image/ODPUser.png.md "Image:ODPUser.png")
+[![Image:ODPUser.png](../images/a/a6/ODPUser.png)](../Image/ODPUser.png "Image:ODPUser.png")
 
 
 
@@ -19,7 +19,7 @@ __Domains of interest:__
 
 
 
-* [Semiotics](../Community/Semiotics.md "Community:Semiotics")
+* [Semiotics](../Community/Semiotics "Community:Semiotics")
 * [Collaboration](http://ontologydesignpatterns.org/wiki/index.php?title=Community:Collaboration&action=edit&redlink=1 "Community:Collaboration (not yet written)")
 * [Role Modeling](http://ontologydesignpatterns.org/wiki/index.php?title=Community:Role_Modeling&action=edit&redlink=1 "Community:Role Modeling (not yet written)")
 
@@ -36,5 +36,5 @@ __How did I know about ODP:__ surfing the web
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/User:JimJacobs](../User/JimJacobs.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ODPUser](../Category/ODPUser.md "Category:ODPUser")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/User:JimJacobs](../User/JimJacobs)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ODPUser](../Category/ODPUser "Category:ODPUser")

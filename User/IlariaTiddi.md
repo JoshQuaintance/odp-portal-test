@@ -1,4 +1,4 @@
-[![Image:ODPUser.png](../images/a/a6/ODPUser.png)](../Image/ODPUser.png.md "Image:ODPUser.png")
+[![Image:ODPUser.png](../images/a/a6/ODPUser.png)](../Image/ODPUser.png "Image:ODPUser.png")
 
 
 
@@ -19,14 +19,14 @@ __Domains of interest:__
 
 
 
-* [Ontology](../Community/Ontology-based_models.md "Community:Ontology")
+* [Ontology](../Community/Ontology-based_models "Community:Ontology")
 
 
 __Is expert of:__
 
 
 
-* [Ontology](../Community/Ontology-based_models.md "Community:Ontology")
+* [Ontology](../Community/Ontology-based_models "Community:Ontology")
 
 
 __How did I know about ODP:__ conference/public events, surfing the web
@@ -36,5 +36,5 @@ __How did I know about ODP:__ conference/public events, surfing the web
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/User:IlariaTiddi](../User/IlariaTiddi.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ODPUser](../Category/ODPUser.md "Category:ODPUser")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/User:IlariaTiddi](../User/IlariaTiddi)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ODPUser](../Category/ODPUser "Category:ODPUser")

@@ -1,4 +1,4 @@
-___c lexicalization__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [AOS AGROVOC Concept Server fundation ontology model](../../Submissions/AOS_AGROVOC_Concept_Server_fundation_ontology_model.md "Submissions:AOS AGROVOC Concept Server fundation ontology model")_
+___c lexicalization__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [AOS AGROVOC Concept Server fundation ontology model](../../Submissions/AOS_AGROVOC_Concept_Server_fundation_ontology_model "Submissions:AOS AGROVOC Concept Server fundation ontology model")_
 
 
   
@@ -6,7 +6,7 @@ ___c lexicalization__ has [Category:OntologyElement](../../Category/OntologyElem
 
 
 
-[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif.md "Class")
+[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif "Class")
 __Name__: c\_lexicalization 
 
 
@@ -19,5 +19,5 @@ __Description__:
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:AOS\_AGROVOC\_Concept\_Server\_fundation\_ontology\_model/c\_lexicalization](../../Submissions/AOS_AGROVOC_Concept_Server_fundation_ontology_model/c_lexicalization.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:AOS\_AGROVOC\_Concept\_Server\_fundation\_ontology\_model/c\_lexicalization](../../Submissions/AOS_AGROVOC_Concept_Server_fundation_ontology_model/c_lexicalization)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

@@ -1,6 +1,6 @@
-* [Image](../Image/BooksAndCDs.xml.md#file)
-* [File history](../Image/BooksAndCDs.xml.md#filehistory)
-* [Links](../Image/BooksAndCDs.xml.md#filelinks)
+* [Image](../Image/BooksAndCDs.xml#file)
+* [File history](../Image/BooksAndCDs.xml#filehistory)
+* [Links](../Image/BooksAndCDs.xml#filelinks)
 
 
 [BooksAndCDs.xml](../images/3/34/BooksAndCDs.xml "BooksAndCDs.xml")‎
@@ -34,4 +34,4 @@ There are no pages that link to this file.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:BooksAndCDs.xml](../Image/BooksAndCDs.xml.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:BooksAndCDs.xml](../Image/BooksAndCDs.xml)"

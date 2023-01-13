@@ -1,5 +1,5 @@
-This is a property of type [Page](../Type/Page.md "Type:Page").
-Values of this property have default form [Domain Form](../Form/Domain_Form.md "Form:Domain Form").
+This is a property of type [Page](../Type/Page "Type:Page").
+Values of this property have default form [Domain Form](../Form/Domain_Form "Form:Domain Form").
 
 
 

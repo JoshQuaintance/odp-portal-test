@@ -1,6 +1,6 @@
-* [Image](../Image/FOI.png.md#file)
-* [File history](../Image/FOI.png.md#filehistory)
-* [Links](../Image/FOI.png.md#filelinks)
+* [Image](../Image/FOI.png#file)
+* [File history](../Image/FOI.png#filehistory)
+* [Links](../Image/FOI.png#filelinks)
 
 [![Image:FOI.png](../images/3/32/FOI.png)](../images/3/32/FOI.png)  
 No higher resolution available.  
@@ -23,7 +23,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Submissions:SmartHome FeatureOfInterest](../Submissions/SmartHome_FeatureOfInterest.md "Submissions:SmartHome FeatureOfInterest")
+* [Submissions:SmartHome FeatureOfInterest](../Submissions/SmartHome_FeatureOfInterest "Submissions:SmartHome FeatureOfInterest")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:FOI.png](../Image/FOI.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:FOI.png](../Image/FOI.png)"

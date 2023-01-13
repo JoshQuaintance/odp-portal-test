@@ -1,4 +1,4 @@
-___Topic__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [Topic](../../Submissions/Topic.md "Submissions:Topic")_
+___Topic__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [Topic](../../Submissions/Topic "Submissions:Topic")_
 
 
   
@@ -6,7 +6,7 @@ ___Topic__ has [Category:OntologyElement](../../Category/OntologyElement.md "Cat
 
 
 
-[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif.md "Class")
+[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif "Class")
 __Name__: Topic 
 
 
@@ -46,5 +46,5 @@ Accordingly to these basic observations, in this pattern Concept and Topic resul
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Topic/Topic](../../Image/Topic.png.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Topic/Topic](../../Image/Topic.png)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

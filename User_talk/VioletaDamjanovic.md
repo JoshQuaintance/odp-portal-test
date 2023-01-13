@@ -1,5 +1,5 @@
 __Welcome to _Odp_!__ We hope you will contribute much and well. 
-You will probably want to read the [help pages](http://ontologydesignpatterns.org/wiki/Help:Contents "Help:Contents"). Again, welcome and have fun! [Admin](../User/ValentinaPresutti.md "User:ValentinaPresutti") 16:18, 3 February 2009 (UTC)
+You will probably want to read the [help pages](http://ontologydesignpatterns.org/wiki/Help:Contents "Help:Contents"). Again, welcome and have fun! [Admin](../User/ValentinaPresutti "User:ValentinaPresutti") 16:18, 3 February 2009 (UTC)
 
 
 Violeta' talk
@@ -14,4 +14,4 @@ Violeta' talk
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/User\_talk:VioletaDamjanovic](../User_talk/VioletaDamjanovic.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/User\_talk:VioletaDamjanovic](../User_talk/VioletaDamjanovic)"

@@ -1,6 +1,6 @@
-* [Image](../Image/ODP_Logo_LEGO_Bricks.svg.md#file)
-* [File history](../Image/ODP_Logo_LEGO_Bricks.svg.md#filehistory)
-* [Links](../Image/ODP_Logo_LEGO_Bricks.svg.md#filelinks)
+* [Image](../Image/ODP_Logo_LEGO_Bricks.svg#file)
+* [File history](../Image/ODP_Logo_LEGO_Bricks.svg#filehistory)
+* [Links](../Image/ODP_Logo_LEGO_Bricks.svg#filelinks)
 
 [![Image:ODP Logo LEGO Bricks.svg](../images/thumb/d/d1/ODP_Logo_LEGO_Bricks.svg/685px-ODP_Logo_LEGO_Bricks.svg.png)](../images/d/d1/ODP_Logo_LEGO_Bricks.svg)  
 
@@ -33,4 +33,4 @@ There are no pages that link to this file.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:ODP\_Logo\_LEGO\_Bricks.svg](../Image/ODP_Logo_LEGO_Bricks.svg.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:ODP\_Logo\_LEGO\_Bricks.svg](../Image/ODP_Logo_LEGO_Bricks.svg)"

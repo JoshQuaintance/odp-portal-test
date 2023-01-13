@@ -1,4 +1,4 @@
-This property is of type [Text](../Type/Text.md "Type:Text").
+This property is of type [Text](../Type/Text "Type:Text").
 
 
 
@@ -13,4 +13,4 @@ Showing 12 pages using this property.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Property:GeneralDescription](../Property/GeneralDescription.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Property:GeneralDescription](../Property/GeneralDescription)"

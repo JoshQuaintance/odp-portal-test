@@ -1,6 +1,6 @@
-* [Image](../Image/ServiceProviderSoA.jpg.md#file)
-* [File history](../Image/ServiceProviderSoA.jpg.md#filehistory)
-* [Links](../Image/ServiceProviderSoA.jpg.md#filelinks)
+* [Image](../Image/ServiceProviderSoA.jpg#file)
+* [File history](../Image/ServiceProviderSoA.jpg#filehistory)
+* [Links](../Image/ServiceProviderSoA.jpg#filelinks)
 
 [![Image:ServiceProviderSoA.jpg](../images/2/27/ServiceProviderSoA.jpg)](../images/2/27/ServiceProviderSoA.jpg)  
 No higher resolution available.  
@@ -25,4 +25,4 @@ There are no pages that link to this file.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:ServiceProviderSoA.jpg](../Image/ServiceProviderSoA.jpg.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:ServiceProviderSoA.jpg](../Image/ServiceProviderSoA.jpg)"

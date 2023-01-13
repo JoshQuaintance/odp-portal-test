@@ -1,6 +1,6 @@
-* [Image](../Image/Precedence.jpg.md#file)
-* [File history](../Image/Precedence.jpg.md#filehistory)
-* [Links](../Image/Precedence.jpg.md#filelinks)
+* [Image](../Image/Precedence.jpg#file)
+* [File history](../Image/Precedence.jpg#filehistory)
+* [Links](../Image/Precedence.jpg#filelinks)
 
 [![Image:Precedence.jpg](../images/2/23/Precedence.jpg)](../images/2/23/Precedence.jpg)  
 No higher resolution available.  
@@ -23,7 +23,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Community:Images](../Community/Images.md "Community:Images")
+* [Community:Images](../Community/Images "Community:Images")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Precedence.jpg](../Image/Precedence.jpg.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Precedence.jpg](../Image/Precedence.jpg)"

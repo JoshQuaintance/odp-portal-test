@@ -1,4 +1,4 @@
-___hasSubTopic__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [Topic](../../Submissions/Topic.md "Submissions:Topic")_
+___hasSubTopic__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [Topic](../../Submissions/Topic "Submissions:Topic")_
 
 
   
@@ -6,7 +6,7 @@ ___hasSubTopic__ has [Category:OntologyElement](../../Category/OntologyElement.m
 
 
 
-[![ObjectProperty](../../images/thumb/c/c3/ObjectProperty.gif/45px-ObjectProperty.gif)](../../Image/ObjectProperty.gif.md "ObjectProperty")
+[![ObjectProperty](../../images/thumb/c/c3/ObjectProperty.gif/45px-ObjectProperty.gif)](../../Image/ObjectProperty.gif "ObjectProperty")
 __Name__: hasSubTopic 
 
 
@@ -22,5 +22,5 @@ It can be used widely to talk about document annotations, subject directories, e
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Topic/hasSubTopic](../../Submissions/Topic/hasSubTopic.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Topic/hasSubTopic](../../Submissions/Topic/hasSubTopic)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

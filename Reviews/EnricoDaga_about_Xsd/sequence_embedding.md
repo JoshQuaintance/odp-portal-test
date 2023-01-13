@@ -1,5 +1,5 @@
-[![](../../images/thumb/2/29/Reviewer.png/48px-Reviewer.png)](../../Image/Reviewer.png.md "Reviewer.png")
-__[EnricoDaga](../../User/EnricoDaga.md "User:EnricoDaga") about [Xsd:sequence embedding](../../Submissions/Xsd/sequence_embedding.md "Submissions:Xsd:sequence embedding") (Revision ID: [embedding?oldid=5723 5723](../../Submissions/Xsd/sequence.md "http://ontologydesignpatterns.org/wiki/Submissions:Xsd:sequence"))__
+[![](../../images/thumb/2/29/Reviewer.png/48px-Reviewer.png)](../../Image/Reviewer.png "Reviewer.png")
+__[EnricoDaga](../../User/EnricoDaga "User:EnricoDaga") about [Xsd:sequence embedding](../../Submissions/Xsd/sequence_embedding "Submissions:Xsd:sequence embedding") (Revision ID: [embedding?oldid=5723 5723](../../Submissions/Xsd/sequence "http://ontologydesignpatterns.org/wiki/Submissions:Xsd:sequence"))__
 Overall suggestion (score): 0 - needs major revision
 
 
@@ -23,7 +23,7 @@ There are two possibilities:
 __Community Relevance:__ The problem of reengineering XML-based structures to patterns should be faced in the near future by the community. A revised version of this pattern could have a place in that scenario.
 __Relation to Best Practices:__ Actually no relation to best practices. Also this point should be take into account in future revisions of this submissions.
 __Reusability:__ Not evaluable at the moment.
-__Relations to Other Patterns:__ [Submissions:PartOf](../../Submissions/PartOf.md "Submissions:PartOf"), [Submissions:Sequence](../../Submissions/Sequence.md "Submissions:Sequence")
+__Relations to Other Patterns:__ [Submissions:PartOf](../../Submissions/PartOf "Submissions:PartOf"), [Submissions:Sequence](../../Submissions/Sequence "Submissions:Sequence")
 __Overall Understandability:__ Actually the aim is not clear.
 __Clear Problem Description:__ As above.
 __Clear Relevance and Consequences:__ Not clear at the moment.
@@ -34,8 +34,8 @@ _Posted:_ 2009/9/8 _Last modified:_ 2009/9/8
 
 
 
-[All reviews](../../Reviews/Main.md "Reviews:Main") | [Add a comment at the bottom of this page](index.php@title=Odp%253AAdd_comment&target=../../Reviews/EnricoDaga_about_Xsd/sequence_embedding.md#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Reviews:EnricoDaga_about_Xsd:sequence_embedding#New_comment")
+[All reviews](../../Reviews/Main "Reviews:Main") | [Add a comment at the bottom of this page](index.php@title=Odp%253AAdd_comment&target=../../Reviews/EnricoDaga_about_Xsd/sequence_embedding#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Reviews:EnricoDaga_about_Xsd:sequence_embedding#New_comment")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Reviews:EnricoDaga\_about\_Xsd:sequence\_embedding](../../Reviews/EnricoDaga_about_Xsd/sequence_embedding.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [QCReview](../../Category/QCReview.md "Category:QCReview")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Reviews:EnricoDaga\_about\_Xsd:sequence\_embedding](../../Reviews/EnricoDaga_about_Xsd/sequence_embedding)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [QCReview](../../Category/QCReview "Category:QCReview")

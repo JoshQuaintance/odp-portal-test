@@ -30,4 +30,4 @@ Competency questions (CQs) and contextual statements of music and bands
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Training:ESWC2010\_Tutorial\_2\_-\_Extreme\_Design\_%28XD%29:\_Pattern-based\_Ontology\_Design/CQs](../../../Training/Autumn_2009_-_PhD_course_Jönköping/Creating_CQs_and_SPARQL_queries.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Training:ESWC2010\_Tutorial\_2\_-\_Extreme\_Design\_%28XD%29:\_Pattern-based\_Ontology\_Design/CQs](../../../Training/Autumn_2009_-_PhD_course_Jönköping/Creating_CQs_and_SPARQL_queries)"

@@ -1,5 +1,5 @@
-[![](../images/thumb/2/29/Reviewer.png/48px-Reviewer.png)](../Image/Reviewer.png.md "Reviewer.png")
-__[EvaBlomqvist](../User/EvaBlomqvist.md "User:EvaBlomqvist") about [CommunicationEvent](../Submissions/CommunicationEvent.md "Submissions:CommunicationEvent") (Revision ID: [10036](../Submissions/CommunicationEvent@oldid=10036.md "http://ontologydesignpatterns.org/wiki/Submissions:CommunicationEvent?oldid=10036"))__
+[![](../images/thumb/2/29/Reviewer.png/48px-Reviewer.png)](../Image/Reviewer.png "Reviewer.png")
+__[EvaBlomqvist](../User/EvaBlomqvist "User:EvaBlomqvist") about [CommunicationEvent](../Submissions/CommunicationEvent "Submissions:CommunicationEvent") (Revision ID: [10036](../Submissions/CommunicationEvent@oldid=10036 "http://ontologydesignpatterns.org/wiki/Submissions:CommunicationEvent?oldid=10036"))__
 Overall suggestion (score): 1 - needs minor revision
 
 
@@ -22,8 +22,8 @@ _Posted:_ 2010/9/6 _Last modified:_ 2010/9/6
 
 
 
-[All reviews](../Reviews/Main.md "Reviews:Main") | [Add a comment at the bottom of this page](index.php@title=Odp%253AAdd_comment&target=../Reviews/EvaBlomqvist_about_CommunicationEvent.md#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Reviews:EvaBlomqvist_about_CommunicationEvent#New_comment")
+[All reviews](../Reviews/Main "Reviews:Main") | [Add a comment at the bottom of this page](index.php@title=Odp%253AAdd_comment&target=../Reviews/EvaBlomqvist_about_CommunicationEvent#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Reviews:EvaBlomqvist_about_CommunicationEvent#New_comment")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Reviews:EvaBlomqvist\_about\_CommunicationEvent](../Reviews/EvaBlomqvist_about_CommunicationEvent.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [QCReview](../Category/QCReview.md "Category:QCReview")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Reviews:EvaBlomqvist\_about\_CommunicationEvent](../Reviews/EvaBlomqvist_about_CommunicationEvent)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [QCReview](../Category/QCReview "Category:QCReview")

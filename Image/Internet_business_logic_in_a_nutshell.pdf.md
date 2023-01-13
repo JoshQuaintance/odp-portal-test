@@ -1,8 +1,8 @@
-* [Image](../Image/Internet_business_logic_in_a_nutshell.pdf.md#file)
-* [File history](../Image/Internet_business_logic_in_a_nutshell.pdf.md#filehistory)
-* [Links](../Image/Internet_business_logic_in_a_nutshell.pdf.md#filelinks)
+* [Image](../Image/Internet_business_logic_in_a_nutshell.pdf#file)
+* [File history](../Image/Internet_business_logic_in_a_nutshell.pdf#filehistory)
+* [Links](../Image/Internet_business_logic_in_a_nutshell.pdf#filelinks)
 
-[![](../skins/common/images/icons/fileicon-pdf.png)](../Image/Internet_business_logic_in_a_nutshell.pdf.md "Internet business logic in a nutshell.pdf")
+[![](../skins/common/images/icons/fileicon-pdf.png)](../Image/Internet_business_logic_in_a_nutshell.pdf "Internet business logic in a nutshell.pdf")
 [Internet\_business\_logic\_in\_a\_nutshell.pdf](../images/0/02/Internet_business_logic_in_a_nutshell.pdf "Internet business logic in a nutshell.pdf")‎  (file size: 28 KB, MIME type: application/pdf)
 
 
@@ -31,7 +31,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Submissions:Adrian Walker 2](../Submissions/Adrian_Walker_2.md "Submissions:Adrian Walker 2")
+* [Submissions:Adrian Walker 2](../Submissions/Adrian_Walker_2 "Submissions:Adrian Walker 2")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Internet\_business\_logic\_in\_a\_nutshell.pdf](../Image/Internet_business_logic_in_a_nutshell.pdf.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Internet\_business\_logic\_in\_a\_nutshell.pdf](../Image/Internet_business_logic_in_a_nutshell.pdf)"

@@ -1,6 +1,6 @@
-* [Image](../Image/N_aria_provider_service.JPG.md#file)
-* [File history](../Image/N_aria_provider_service.JPG.md#filehistory)
-* [Links](../Image/N_aria_provider_service.JPG.md#filelinks)
+* [Image](../Image/N_aria_provider_service.JPG#file)
+* [File history](../Image/N_aria_provider_service.JPG#filehistory)
+* [Links](../Image/N_aria_provider_service.JPG#filelinks)
 
 [![Image:N aria provider service.JPG](../images/4/4f/N_aria_provider_service.JPG)](../images/4/4f/N_aria_provider_service.JPG)  
 No higher resolution available.  
@@ -23,7 +23,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Submissions:Summarization of an inverse n-ary relation](../Submissions/Summarization_of_an_inverse_n-ary_relation.md "Submissions:Summarization of an inverse n-ary relation")
+* [Submissions:Summarization of an inverse n-ary relation](../Submissions/Summarization_of_an_inverse_n-ary_relation "Submissions:Summarization of an inverse n-ary relation")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:N\_aria\_provider\_service.JPG](../Image/N_aria_provider_service.JPG.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:N\_aria\_provider\_service.JPG](../Image/N_aria_provider_service.JPG)"

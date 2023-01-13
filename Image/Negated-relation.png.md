@@ -1,6 +1,6 @@
-* [Image](../Image/Negated-relation.png.md#file)
-* [File history](../Image/Negated-relation.png.md#filehistory)
-* [Links](../Image/Negated-relation.png.md#filelinks)
+* [Image](../Image/Negated-relation.png#file)
+* [File history](../Image/Negated-relation.png#filehistory)
+* [Links](../Image/Negated-relation.png#filelinks)
 
 [![Image:Negated-relation.png](../images/7/7f/Negated-relation.png)](../images/7/7f/Negated-relation.png)  
 No higher resolution available.  
@@ -25,4 +25,4 @@ There are no pages that link to this file.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Negated-relation.png](../Image/Negated-relation.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Negated-relation.png](../Image/Negated-relation.png)"

@@ -1,4 +1,4 @@
-[![](../images/thumb/b/b5/Certified.png/70px-Certified.png)](../Image/Certified.png.md "Certified.png") __This pattern has been certified.__
+[![](../images/thumb/b/b5/Certified.png/70px-Certified.png)](../Image/Certified.png "Certified.png") __This pattern has been certified.__
 Related submission, with evaluation history, can be found __here__
 
 
@@ -13,7 +13,7 @@ __Diagram__
 
 
 
-[![Image:Stub-metapattern.png](../images/c/cd/Stub-metapattern.png)](../Image/Stub-metapattern.png.md "Image:Stub-metapattern.png")
+[![Image:Stub-metapattern.png](../images/c/cd/Stub-metapattern.png)](../Image/Stub-metapattern.png "Image:Stub-metapattern.png")
 
 
 
@@ -105,5 +105,5 @@ There is no Modeling issue related to this proposal.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Stub\_Metapattern](../Submissions/Stub_Metapattern.md)"
- [Categories](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [LogicalOP](../Category/LogicalOP.md "Category:LogicalOP") | [ProposedLogicalOP](../Category/ProposedLogicalOP.md "Category:ProposedLogicalOP") | [Submitted to event](../Category/Submitted_to_event.md "Category:Submitted to event")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Stub\_Metapattern](../Submissions/Stub_Metapattern)"
+ [Categories](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [LogicalOP](../Category/LogicalOP "Category:LogicalOP") | [ProposedLogicalOP](../Category/ProposedLogicalOP "Category:ProposedLogicalOP") | [Submitted to event](../Category/Submitted_to_event "Category:Submitted to event")

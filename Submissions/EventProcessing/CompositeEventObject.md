@@ -1,4 +1,4 @@
-___CompositeEventObject__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [EventProcessing](../../Submissions/EventProcessing.md "Submissions:EventProcessing")_
+___CompositeEventObject__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [EventProcessing](../../Submissions/EventProcessing "Submissions:EventProcessing")_
 
 
   
@@ -6,7 +6,7 @@ ___CompositeEventObject__ has [Category:OntologyElement](../../Category/Ontology
 
 
 
-[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif.md "Class")
+[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif "Class")
 __Name__: CompositeEventObject 
 
 
@@ -19,5 +19,5 @@ __Description__: An event object that is composed of a set of other event object
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:EventProcessing/CompositeEventObject](../../Submissions/EventProcessing/CompositeEventObject.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:EventProcessing/CompositeEventObject](../../Submissions/EventProcessing/CompositeEventObject)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

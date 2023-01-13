@@ -1,5 +1,5 @@
-[![](../images/thumb/2/29/Reviewer.png/48px-Reviewer.png)](../Image/Reviewer.png.md "Reviewer.png")
-__[GerdGroener](../User/GerdGroener.md "User:GerdGroener") about [Inverse n-ary relationship](../Submissions/Inverse_n-ary_relationship.md "Submissions:Inverse n-ary relationship") (Revision ID: [n-ary relationship?oldid=10060 10060](../Submissions/Inverse.md "http://ontologydesignpatterns.org/wiki/Submissions:Inverse"))__
+[![](../images/thumb/2/29/Reviewer.png/48px-Reviewer.png)](../Image/Reviewer.png "Reviewer.png")
+__[GerdGroener](../User/GerdGroener "User:GerdGroener") about [Inverse n-ary relationship](../Submissions/Inverse_n-ary_relationship "Submissions:Inverse n-ary relationship") (Revision ID: [n-ary relationship?oldid=10060 10060](../Submissions/Inverse "http://ontologydesignpatterns.org/wiki/Submissions:Inverse"))__
 Overall suggestion (score): 1 - needs minor revision
 
 
@@ -34,8 +34,8 @@ _Posted:_ 2010/9/10 _Last modified:_ 2010/9/10
 
 
 
-[All reviews](../Reviews/Main.md "Reviews:Main") | [Add a comment at the bottom of this page](index.php@title=Odp%253AAdd_comment&target=../Reviews/GerdGroener_about_Inverse_n-ary_relationship.md#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Reviews:GerdGroener_about_Inverse_n-ary_relationship#New_comment")
+[All reviews](../Reviews/Main "Reviews:Main") | [Add a comment at the bottom of this page](index.php@title=Odp%253AAdd_comment&target=../Reviews/GerdGroener_about_Inverse_n-ary_relationship#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Reviews:GerdGroener_about_Inverse_n-ary_relationship#New_comment")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Reviews:GerdGroener\_about\_Inverse\_n-ary\_relationship](../Reviews/GerdGroener_about_Inverse_n-ary_relationship.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [QCReview](../Category/QCReview.md "Category:QCReview")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Reviews:GerdGroener\_about\_Inverse\_n-ary\_relationship](../Reviews/GerdGroener_about_Inverse_n-ary_relationship)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [QCReview](../Category/QCReview "Category:QCReview")

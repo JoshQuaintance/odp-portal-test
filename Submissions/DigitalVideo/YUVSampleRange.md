@@ -1,4 +1,4 @@
-___YUVSampleRange__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [DigitalVideo](../../Submissions/DigitalVideo.md "Submissions:DigitalVideo")_
+___YUVSampleRange__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [DigitalVideo](../../Submissions/DigitalVideo "Submissions:DigitalVideo")_
 
 
   
@@ -6,7 +6,7 @@ ___YUVSampleRange__ has [Category:OntologyElement](../../Category/OntologyElemen
 
 
 
-[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif.md "Class")
+[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif "Class")
 __Name__: YUVSampleRange 
 
 
@@ -22,5 +22,5 @@ E.g. 16-235
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:DigitalVideo/YUVSampleRange](../../Submissions/DigitalVideo/hasYUVSampleRange.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:DigitalVideo/YUVSampleRange](../../Submissions/DigitalVideo/hasYUVSampleRange)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

@@ -1,5 +1,5 @@
-[![](../images/thumb/2/29/Reviewer.png/48px-Reviewer.png)](../Image/Reviewer.png.md "Reviewer.png")
-__[BenedictoRodriguezCastro](../User/BenedictoRodriguezCastro.md "User:BenedictoRodriguezCastro") about [Template Instance](../Submissions/Template_Instance.md "Submissions:Template Instance") (Revision ID: [Instance?oldid=11158 11158](../Submissions/Template.md "http://ontologydesignpatterns.org/wiki/Submissions:Template"))__
+[![](../images/thumb/2/29/Reviewer.png/48px-Reviewer.png)](../Image/Reviewer.png "Reviewer.png")
+__[BenedictoRodriguezCastro](../User/BenedictoRodriguezCastro "User:BenedictoRodriguezCastro") about [Template Instance](../Submissions/Template_Instance "Submissions:Template Instance") (Revision ID: [Instance?oldid=11158 11158](../Submissions/Template "http://ontologydesignpatterns.org/wiki/Submissions:Template"))__
 Overall suggestion (score): 0 - needs major revision
 
 
@@ -16,7 +16,7 @@ Therefore, because of the reasons above, I would recommend to provide a major re
 __Community Relevance:__ Upfront, the modelling scenario addressed comes accross as very likely to occur and therefore the pattern can be very relevant to the community.
 __Relation to Best Practices:__ 
 __Reusability:__ Provided the missing information outlined throughout the review is given, the pattern can be highly reusable.
-__Relations to Other Patterns:__ The relation to the "Literal Reification" pattern ([http://ontologydesignpatterns.org/wiki/Submissions:Literal\_Reification](../Submissions/Literal_Reification.md "http://ontologydesignpatterns.org/wiki/Submissions:Literal_Reification")) given by the authors seems appropriate.
+__Relations to Other Patterns:__ The relation to the "Literal Reification" pattern ([http://ontologydesignpatterns.org/wiki/Submissions:Literal\_Reification](../Submissions/Literal_Reification "http://ontologydesignpatterns.org/wiki/Submissions:Literal_Reification")) given by the authors seems appropriate.
 __Overall Understandability:__ There is opportunity to improve the understandability by providing a concrete example of the pattern in addition to the abstract one.
 __Clear Problem Description:__ The problem can be also better characterized by giving a clear real world example of the modelling problem addresed.
 __Clear Relevance and Consequences:__ 
@@ -27,8 +27,8 @@ _Posted:_ 2012/8/28 _Last modified:_ 2012/8/28
 
 
 
-[All reviews](../Reviews/Main.md "Reviews:Main") | [Add a comment at the bottom of this page](index.php@title=Odp%253AAdd_comment&target=../Reviews/BenedictoRodriguezCastro_about_Template_Instance.md#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Reviews:BenedictoRodriguezCastro_about_Template_Instance#New_comment")
+[All reviews](../Reviews/Main "Reviews:Main") | [Add a comment at the bottom of this page](index.php@title=Odp%253AAdd_comment&target=../Reviews/BenedictoRodriguezCastro_about_Template_Instance#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Reviews:BenedictoRodriguezCastro_about_Template_Instance#New_comment")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Reviews:BenedictoRodriguezCastro\_about\_Template\_Instance](../Reviews/BenedictoRodriguezCastro_about_Template_Instance.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [QCReview](../Category/QCReview.md "Category:QCReview")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Reviews:BenedictoRodriguezCastro\_about\_Template\_Instance](../Reviews/BenedictoRodriguezCastro_about_Template_Instance)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [QCReview](../Category/QCReview "Category:QCReview")

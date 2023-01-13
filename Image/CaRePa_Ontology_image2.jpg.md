@@ -1,6 +1,6 @@
-* [Image](../Image/CaRePa_Ontology_image2.jpg.md#file)
-* [File history](../Image/CaRePa_Ontology_image2.jpg.md#filehistory)
-* [Links](../Image/CaRePa_Ontology_image2.jpg.md#filelinks)
+* [Image](../Image/CaRePa_Ontology_image2.jpg#file)
+* [File history](../Image/CaRePa_Ontology_image2.jpg#filehistory)
+* [Links](../Image/CaRePa_Ontology_image2.jpg#filelinks)
 
 [![Image:CaRePa Ontology image2.jpg](../images/thumb/a/a4/CaRePa_Ontology_image2.jpg/800px-CaRePa_Ontology_image2.jpg)](../images/a/a4/CaRePa_Ontology_image2.jpg)  
 Size of this preview: 800 × 218 pixels  
@@ -28,4 +28,4 @@ There are no pages that link to this file.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:CaRePa\_Ontology\_image2.jpg](../Image/CaRePa_Ontology_image2.jpg.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:CaRePa\_Ontology\_image2.jpg](../Image/CaRePa_Ontology_image2.jpg)"

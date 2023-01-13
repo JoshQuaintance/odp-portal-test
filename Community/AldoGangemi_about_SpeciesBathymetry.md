@@ -1,5 +1,5 @@
-[![](../images/thumb/a/a6/ODPUser.png/48px-ODPUser.png)](../Image/ODPUser.png.md "ODPUser.png")
-__[AldoGangemi](../User/AldoGangemi.md "User:AldoGangemi") about [SpeciesBathymetry](../Submissions/SpeciesBathymetry.md "Submissions:SpeciesBathymetry") (Revision ID: [3675](../Submissions/SpeciesBathymetry@oldid=3675.md "http://ontologydesignpatterns.org/wiki/Submissions:SpeciesBathymetry?oldid=3675"))__
+[![](../images/thumb/a/a6/ODPUser.png/48px-ODPUser.png)](../Image/ODPUser.png "ODPUser.png")
+__[AldoGangemi](../User/AldoGangemi "User:AldoGangemi") about [SpeciesBathymetry](../Submissions/SpeciesBathymetry "Submissions:SpeciesBathymetry") (Revision ID: [3675](../Submissions/SpeciesBathymetry@oldid=3675 "http://ontologydesignpatterns.org/wiki/Submissions:SpeciesBathymetry?oldid=3675"))__
 Overall suggestion (score): 
 
 
@@ -22,8 +22,8 @@ _Posted:_ 2009-03-11 _Last modified:_ 2009/3/12
 
 
 
-[All reviews](../Reviews/Main.md "Reviews:Main") | [Add a comment at the bottom of this page](index.php@title=Odp%253AAdd_comment&target=../Community/AldoGangemi_about_SpeciesBathymetry.md#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Community:AldoGangemi_about_SpeciesBathymetry#New_comment")
+[All reviews](../Reviews/Main "Reviews:Main") | [Add a comment at the bottom of this page](index.php@title=Odp%253AAdd_comment&target=../Community/AldoGangemi_about_SpeciesBathymetry#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Community:AldoGangemi_about_SpeciesBathymetry#New_comment")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Community:AldoGangemi\_about\_SpeciesBathymetry](../Community/AldoGangemi_about_SpeciesBathymetry.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OpenReview](../Category/OpenReview.md "Category:OpenReview")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Community:AldoGangemi\_about\_SpeciesBathymetry](../Community/AldoGangemi_about_SpeciesBathymetry)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OpenReview](../Category/OpenReview "Category:OpenReview")

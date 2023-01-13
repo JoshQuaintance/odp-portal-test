@@ -5,4 +5,4 @@ There is currently no text in this page, you can [search for this page title](ht
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Community:Foo\_type\_B](../Community/Foo_type_B.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Community:Foo\_type\_B](../Community/Foo_type_B)"

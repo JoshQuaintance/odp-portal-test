@@ -1,6 +1,6 @@
-* [Image](../Image/OEGLogo.png.md#file)
-* [File history](../Image/OEGLogo.png.md#filehistory)
-* [Links](../Image/OEGLogo.png.md#filelinks)
+* [Image](../Image/OEGLogo.png#file)
+* [File history](../Image/OEGLogo.png#filehistory)
+* [Links](../Image/OEGLogo.png#filelinks)
 
 [![Image:OEGLogo.png](../images/d/d7/OEGLogo.png)](../images/d/d7/OEGLogo.png)  
 No higher resolution available.  
@@ -23,8 +23,8 @@ Click on a date/time to view the file as it appeared at that time.
 The following 2 pages link to this file:
 
 
-* [Community:Images](../Community/Images.md "Community:Images")
-* [Odp:Partners](../Odp/Partners.md "Odp:Partners")
+* [Community:Images](../Community/Images "Community:Images")
+* [Odp:Partners](../Odp/Partners "Odp:Partners")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:OEGLogo.png](../Image/OEGLogo.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:OEGLogo.png](../Image/OEGLogo.png)"

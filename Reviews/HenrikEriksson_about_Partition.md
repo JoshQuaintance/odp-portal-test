@@ -1,5 +1,5 @@
-[![](../images/thumb/2/29/Reviewer.png/48px-Reviewer.png)](../Image/Reviewer.png.md "Reviewer.png")
-__[HenrikEriksson](../User/HenrikEriksson.md "User:HenrikEriksson") about [Partition](../Submissions/Partition.md "Submissions:Partition") (Revision ID: [5748](../Submissions/Partition@oldid=5748.md "http://ontologydesignpatterns.org/wiki/Submissions:Partition?oldid=5748"))__
+[![](../images/thumb/2/29/Reviewer.png/48px-Reviewer.png)](../Image/Reviewer.png "Reviewer.png")
+__[HenrikEriksson](../User/HenrikEriksson "User:HenrikEriksson") about [Partition](../Submissions/Partition "Submissions:Partition") (Revision ID: [5748](../Submissions/Partition@oldid=5748 "http://ontologydesignpatterns.org/wiki/Submissions:Partition?oldid=5748"))__
 Overall suggestion (score): 0 - needs major revision
 
 
@@ -22,8 +22,8 @@ _Posted:_ 2009/9/9 _Last modified:_ 2009/9/8
 
 
 
-[All reviews](../Reviews/Main.md "Reviews:Main") | [Add a comment at the bottom of this page](index.php@title=Odp%253AAdd_comment&target=../Reviews/HenrikEriksson_about_Partition.md#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Reviews:HenrikEriksson_about_Partition#New_comment")
+[All reviews](../Reviews/Main "Reviews:Main") | [Add a comment at the bottom of this page](index.php@title=Odp%253AAdd_comment&target=../Reviews/HenrikEriksson_about_Partition#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Reviews:HenrikEriksson_about_Partition#New_comment")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Reviews:HenrikEriksson\_about\_Partition](../Reviews/HenrikEriksson_about_Partition.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [QCReview](../Category/QCReview.md "Category:QCReview")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Reviews:HenrikEriksson\_about\_Partition](../Reviews/HenrikEriksson_about_Partition)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [QCReview](../Category/QCReview "Category:QCReview")

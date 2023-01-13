@@ -1,6 +1,6 @@
-* [Image](../Image/Domain.png.md#file)
-* [File history](../Image/Domain.png.md#filehistory)
-* [Links](../Image/Domain.png.md#filelinks)
+* [Image](../Image/Domain.png#file)
+* [File history](../Image/Domain.png#filehistory)
+* [Links](../Image/Domain.png#filelinks)
 
 [![Image:Domain.png](../images/8/8b/Domain.png)](../images/8/8b/Domain.png)  
 No higher resolution available.  
@@ -23,9 +23,9 @@ Click on a date/time to view the file as it appeared at that time.
 The following 3 pages link to this file:
 
 
-* [Ontology Design Patterns . org (ODP)](../Ontology_Design_Patterns_._org_(ODP).md).md).html "Ontology Design Patterns . org (ODP)")
-* [Community:Domain](../Community/Domain.md "Community:Domain")
-* [Template:MainPageMap](../Template/MainPageMap.md "Template:MainPageMap")
+* [Ontology Design Patterns . org (ODP)](../Ontology_Design_Patterns_._org_(ODP)).md).md).html "Ontology Design Patterns . org (ODP)")
+* [Community:Domain](../Community/Domain "Community:Domain")
+* [Template:MainPageMap](../Template/MainPageMap "Template:MainPageMap")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Domain.png](../Image/Domain.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Domain.png](../Image/Domain.png)"

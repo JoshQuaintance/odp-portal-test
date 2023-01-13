@@ -1,4 +1,4 @@
-___letter__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [CommunicationEvent](../../Submissions/CommunicationEvent.md "Submissions:CommunicationEvent")_
+___letter__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [CommunicationEvent](../../Submissions/CommunicationEvent "Submissions:CommunicationEvent")_
 
 
   
@@ -19,5 +19,5 @@ __Description__:
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:CommunicationEvent/letter](../../Odp/Tasks/Newsletter.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:CommunicationEvent/letter](../../Odp/Tasks/Newsletter)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

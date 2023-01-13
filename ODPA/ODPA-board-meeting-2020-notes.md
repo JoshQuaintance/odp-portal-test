@@ -73,7 +73,7 @@ Pascal Hitzler:
 
   
 
-4. The terms of all current board members expire (see list at <[http://ontologydesignpatterns.org/wiki/ODPA](../ODPA.md "http://ontologydesignpatterns.org/wiki/ODPA")>). Board members for the next cycle are nominated by the current board, and elected by all members (member list on the same page). 
+4. The terms of all current board members expire (see list at <[http://ontologydesignpatterns.org/wiki/ODPA](../ODPA "http://ontologydesignpatterns.org/wiki/ODPA")>). Board members for the next cycle are nominated by the current board, and elected by all members (member list on the same page). 
 
 
   
@@ -270,4 +270,4 @@ Volunteers (Requirements):
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/ODPA:ODPA-board-meeting-2020-notes](../ODPA/ODPA-board-meeting-2020-notes.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/ODPA:ODPA-board-meeting-2020-notes](../ODPA/ODPA-board-meeting-2020-notes)"

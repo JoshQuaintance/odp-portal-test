@@ -19,7 +19,7 @@ __Description:__ sugegstion to display all relevant information entered on the f
 
 
 
-Go back to the  [Feedback main page](../Feedback/Main.md "Feedback:Main")
+Go back to the  [Feedback main page](../Feedback/Main "Feedback:Main")
 
 
 The text entered in the free text box should be displayed when the pattern wiki page is accessed. I just entered a short motivation for the "metonymy" pattern I created, and this text box seemed the best place to put it. Please tell me if there is a more appropriate place for free text explanation.
@@ -28,5 +28,5 @@ The text entered in the free text box should be displayed when the pattern wiki 
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Feedback:Free\_text\_on\_pattern\_submision\_page](../Feedback/Free_text_on_pattern_submision_page.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Feedback](../Category/Feedback.md "Category:Feedback")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Feedback:Free\_text\_on\_pattern\_submision\_page](../Feedback/Free_text_on_pattern_submision_page)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Feedback](../Category/Feedback "Category:Feedback")

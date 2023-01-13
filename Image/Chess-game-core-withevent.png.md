@@ -1,6 +1,6 @@
-* [Image](../Image/Chess-game-core-withevent.png.md#file)
-* [File history](../Image/Chess-game-core-withevent.png.md#filehistory)
-* [Links](../Image/Chess-game-core-withevent.png.md#filelinks)
+* [Image](../Image/Chess-game-core-withevent.png#file)
+* [File history](../Image/Chess-game-core-withevent.png#filehistory)
+* [Links](../Image/Chess-game-core-withevent.png#filelinks)
 
 [![Image:Chess-game-core-withevent.png](../images/thumb/2/25/Chess-game-core-withevent.png/800px-Chess-game-core-withevent.png)](../images/2/25/Chess-game-core-withevent.png)  
 Size of this preview: 800 × 523 pixels  
@@ -26,7 +26,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Submissions:ChessGame](../Submissions/ChessGame.md "Submissions:ChessGame")
+* [Submissions:ChessGame](../Submissions/ChessGame "Submissions:ChessGame")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Chess-game-core-withevent.png](../Image/Chess-game-core-withevent.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Chess-game-core-withevent.png](../Image/Chess-game-core-withevent.png)"

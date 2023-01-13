@@ -1,4 +1,4 @@
-___PresentationContext__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [NewsReportingEvent](../../Submissions/NewsReportingEvent.md "Submissions:NewsReportingEvent")_
+___PresentationContext__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [NewsReportingEvent](../../Submissions/NewsReportingEvent "Submissions:NewsReportingEvent")_
 
 
   
@@ -6,7 +6,7 @@ ___PresentationContext__ has [Category:OntologyElement](../../Category/OntologyE
 
 
 
-[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif.md "Class")
+[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif "Class")
 __Name__: PresentationContext 
 
 
@@ -19,5 +19,5 @@ __Description__: Class for denoting circumstances of an entity presentation. If 
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:NewsReportingEvent/PresentationContext](../../Submissions/NewsReportingEvent/hasPresentationContext.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:NewsReportingEvent/PresentationContext](../../Submissions/NewsReportingEvent/hasPresentationContext)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

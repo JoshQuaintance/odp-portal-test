@@ -1,6 +1,6 @@
-* [Image](../Image/Class-equivalence.svg.md#file)
-* [File history](../Image/Class-equivalence.svg.md#filehistory)
-* [Links](../Image/Class-equivalence.svg.md#filelinks)
+* [Image](../Image/Class-equivalence.svg#file)
+* [File history](../Image/Class-equivalence.svg#filehistory)
+* [Links](../Image/Class-equivalence.svg#filelinks)
 
 [![Image:Class-equivalence.svg](../images/thumb/a/ae/Class-equivalence.svg/237px-Class-equivalence.svg.png)](../images/a/ae/Class-equivalence.svg)  
 
@@ -27,7 +27,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Community:Images](../Community/Images.md "Community:Images")
+* [Community:Images](../Community/Images "Community:Images")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Class-equivalence.svg](../Image/Class-equivalence.svg.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Class-equivalence.svg](../Image/Class-equivalence.svg)"

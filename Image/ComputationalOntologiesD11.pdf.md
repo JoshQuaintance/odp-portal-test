@@ -1,8 +1,8 @@
-* [Image](../Image/ComputationalOntologiesD11.pdf.md#file)
-* [File history](../Image/ComputationalOntologiesD11.pdf.md#filehistory)
-* [Links](../Image/ComputationalOntologiesD11.pdf.md#filelinks)
+* [Image](../Image/ComputationalOntologiesD11.pdf#file)
+* [File history](../Image/ComputationalOntologiesD11.pdf#filehistory)
+* [Links](../Image/ComputationalOntologiesD11.pdf#filelinks)
 
-[![](../skins/common/images/icons/fileicon-pdf.png)](../Image/ComputationalOntologiesD11.pdf.md "ComputationalOntologiesD11.pdf")
+[![](../skins/common/images/icons/fileicon-pdf.png)](../Image/ComputationalOntologiesD11.pdf "ComputationalOntologiesD11.pdf")
 [ComputationalOntologiesD11.pdf](../images/8/8b/ComputationalOntologiesD11.pdf "ComputationalOntologiesD11.pdf")‎  (file size: 1.44 MB, MIME type: application/pdf)
 
 
@@ -26,7 +26,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Community:Images](../Community/Images.md "Community:Images")
+* [Community:Images](../Community/Images "Community:Images")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:ComputationalOntologiesD11.pdf](../Image/ComputationalOntologiesD11.pdf.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:ComputationalOntologiesD11.pdf](../Image/ComputationalOntologiesD11.pdf)"

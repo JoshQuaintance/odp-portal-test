@@ -1,4 +1,4 @@
-[![](../images/thumb/b/b5/Certified.png/70px-Certified.png)](../Image/Certified.png.md "Certified.png") __This pattern has been certified.__
+[![](../images/thumb/b/b5/Certified.png/70px-Certified.png)](../Image/Certified.png "Certified.png") __This pattern has been certified.__
 Related submission, with evaluation history, can be found __here__
 
 
@@ -132,5 +132,5 @@ There is no Modeling issue related to this proposal.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Pattern\_for\_re-engineering\_a\_classification\_scheme%2C\_which\_follows\_the\_flattened\_data\_model%2C\_into\_an\_ontology\_schema](../Submissions/Pattern_for_re-engineering_a_classification_scheme,_which_follows_the_flattened_data_model,_into_an_ontology_schema.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ProposedReengineeringOP](../Category/ProposedReengineeringOP.md "Category:ProposedReengineeringOP")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Pattern\_for\_re-engineering\_a\_classification\_scheme%2C\_which\_follows\_the\_flattened\_data\_model%2C\_into\_an\_ontology\_schema](../Submissions/Pattern_for_re-engineering_a_classification_scheme,_which_follows_the_flattened_data_model,_into_an_ontology_schema)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ProposedReengineeringOP](../Category/ProposedReengineeringOP "Category:ProposedReengineeringOP")

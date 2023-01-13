@@ -1,4 +1,4 @@
-___hasDurationInSeconds__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [Musicalobject](../../Submissions/Musicalobject.md "Submissions:Musicalobject")_
+___hasDurationInSeconds__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [Musicalobject](../../Submissions/Musicalobject "Submissions:Musicalobject")_
 
 
   
@@ -6,7 +6,7 @@ ___hasDurationInSeconds__ has [Category:OntologyElement](../../Category/Ontology
 
 
 
-[![DatatypeProperty](../../images/thumb/a/a5/DatatypeProperty.gif/45px-DatatypeProperty.gif)](../../Image/DatatypeProperty.gif.md "DatatypeProperty")
+[![DatatypeProperty](../../images/thumb/a/a5/DatatypeProperty.gif/45px-DatatypeProperty.gif)](../../Image/DatatypeProperty.gif "DatatypeProperty")
 __Name__: hasDurationInSeconds 
 
 
@@ -19,5 +19,5 @@ __Description__: Expresses the duration in seconds of a musical object.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Musicalobject/hasDurationInSeconds](../../Submissions/Musicalobject/hasDurationInSeconds.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Musicalobject/hasDurationInSeconds](../../Submissions/Musicalobject/hasDurationInSeconds)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

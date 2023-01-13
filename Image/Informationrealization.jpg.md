@@ -1,6 +1,6 @@
-* [Image](../Image/Informationrealization.jpg.md#file)
-* [File history](../Image/Informationrealization.jpg.md#filehistory)
-* [Links](../Image/Informationrealization.jpg.md#filelinks)
+* [Image](../Image/Informationrealization.jpg#file)
+* [File history](../Image/Informationrealization.jpg#filehistory)
+* [Links](../Image/Informationrealization.jpg#filelinks)
 
 [![Image:Informationrealization.jpg](../images/7/7b/Informationrealization.jpg)](../images/7/7b/Informationrealization.jpg)  
 No higher resolution available.  
@@ -23,8 +23,8 @@ Click on a date/time to view the file as it appeared at that time.
 The following 2 pages link to this file:
 
 
-* [Community:Images](../Community/Images.md "Community:Images")
-* [Submissions:Information realization](../Submissions/Information_realization.md "Submissions:Information realization")
+* [Community:Images](../Community/Images "Community:Images")
+* [Submissions:Information realization](../Submissions/Information_realization "Submissions:Information realization")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Informationrealization.jpg](../Image/Informationrealization.jpg.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Informationrealization.jpg](../Image/Informationrealization.jpg)"

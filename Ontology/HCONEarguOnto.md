@@ -1,4 +1,4 @@
-Return to [Catalogue of Exemplary Ontologies](../Ontology/Main.md "Ontology:Main")
+Return to [Catalogue of Exemplary Ontologies](../Ontology/Main "Ontology:Main")
 
 
 
@@ -23,7 +23,7 @@ Return to [Catalogue of Exemplary Ontologies](../Ontology/Main.md "Ontology:Main
 #  References
 
 
-[Add a reference](index.php@title=Odp%253AAdd_reference&subject=../Ontology/HCONEarguOnto.md "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_reference&subject=Ontology%3AHCONEarguOnto")
+[Add a reference](index.php@title=Odp%253AAdd_reference&subject=../Ontology/HCONEarguOnto "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_reference&subject=Ontology%3AHCONEarguOnto")
 
 
   
@@ -33,5 +33,5 @@ Return to [Catalogue of Exemplary Ontologies](../Ontology/Main.md "Ontology:Main
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Ontology:HCONEarguOnto](../Ontology/HCONEarguOnto.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Ontology](../Category/Ontology.md "Category:Ontology")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Ontology:HCONEarguOnto](../Ontology/HCONEarguOnto)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Ontology](../Category/Ontology "Category:Ontology")

@@ -1,5 +1,5 @@
-[![](../images/thumb/2/29/Reviewer.png/48px-Reviewer.png)](../Image/Reviewer.png.md "Reviewer.png")
-__[ValentinaPresutti](../User/ValentinaPresutti.md "User:ValentinaPresutti") about [NegativePropertyAssertions](../Submissions/NegativePropertyAssertions.md "Submissions:NegativePropertyAssertions") (Revision ID: [5769](../Submissions/NegativePropertyAssertions@oldid=5769.md "http://ontologydesignpatterns.org/wiki/Submissions:NegativePropertyAssertions?oldid=5769"))__
+[![](../images/thumb/2/29/Reviewer.png/48px-Reviewer.png)](../Image/Reviewer.png "Reviewer.png")
+__[ValentinaPresutti](../User/ValentinaPresutti "User:ValentinaPresutti") about [NegativePropertyAssertions](../Submissions/NegativePropertyAssertions "Submissions:NegativePropertyAssertions") (Revision ID: [5769](../Submissions/NegativePropertyAssertions@oldid=5769 "http://ontologydesignpatterns.org/wiki/Submissions:NegativePropertyAssertions?oldid=5769"))__
 Overall suggestion (score): 1 - needs minor revision
 
 
@@ -35,8 +35,8 @@ _Posted:_ 2009/9/9 _Last modified:_ 2009/9/9
 
 
 
-[All reviews](../Reviews/Main.md "Reviews:Main") | [Add a comment at the bottom of this page](index.php@title=Odp%253AAdd_comment&target=../Reviews/ValentinaPresutti_about_NegativePropertyAssertions.md#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Reviews:ValentinaPresutti_about_NegativePropertyAssertions#New_comment")
+[All reviews](../Reviews/Main "Reviews:Main") | [Add a comment at the bottom of this page](index.php@title=Odp%253AAdd_comment&target=../Reviews/ValentinaPresutti_about_NegativePropertyAssertions#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Reviews:ValentinaPresutti_about_NegativePropertyAssertions#New_comment")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Reviews:ValentinaPresutti\_about\_NegativePropertyAssertions](../Reviews/ValentinaPresutti_about_NegativePropertyAssertions.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [QCReview](../Category/QCReview.md "Category:QCReview")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Reviews:ValentinaPresutti\_about\_NegativePropertyAssertions](../Reviews/ValentinaPresutti_about_NegativePropertyAssertions)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [QCReview](../Category/QCReview "Category:QCReview")

@@ -17,7 +17,7 @@ The result is:
 
 
 
-[![](../images/thumb/6/6f/Definition.gif/70px-Definition.gif)](../Image/Definition.gif.md "Definition.gif")
+[![](../images/thumb/6/6f/Definition.gif/70px-Definition.gif)](../Image/Definition.gif "Definition.gif")
 __Titolo__
 testo 
 * elemento
@@ -32,4 +32,4 @@ testo
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Template:Definition](../Template/Definition.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Template:Definition](../Template/Definition)"

@@ -1,5 +1,5 @@
-[Go to the subject of this reference](../../Ontology/QUDT/_Quantities,_Units,_Dimensions_and_Types.md "Ontology:QUDT: Quantities, Units, Dimensions and Types") | [All references](../../Community/References.1.md "Community:References") | [Add another reference to Ontology:QUDT: Quantities, Units, Dimensions and Types](http://ontologydesignpatterns.org/wiki/Special:AddData/Reference?Reference[Subject]=Ontology:QUDT: Quantities, Units, Dimensions and Types&subject=Ontology:QUDT: Quantities, Units, Dimensions and Types)
+[Go to the subject of this reference](../../Ontology/QUDT/_Quantities,_Units,_Dimensions_and_Types "Ontology:QUDT: Quantities, Units, Dimensions and Types") | [All references](../../Community/References.1 "Community:References") | [Add another reference to Ontology:QUDT: Quantities, Units, Dimensions and Types](http://ontologydesignpatterns.org/wiki/Special:AddData/Reference?Reference[Subject]=Ontology:QUDT: Quantities, Units, Dimensions and Types&subject=Ontology:QUDT: Quantities, Units, Dimensions and Types)
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Community:References/QUDT\_home\_page](../../Community/References/QUDT_home_page.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Reference](../../Category/Reference.md "Category:Reference")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Community:References/QUDT\_home\_page](../../Community/References/QUDT_home_page)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Reference](../../Category/Reference "Category:Reference")

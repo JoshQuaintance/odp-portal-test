@@ -1,5 +1,5 @@
-[![](../images/thumb/2/29/Reviewer.png/48px-Reviewer.png)](../Image/Reviewer.png.md "Reviewer.png")
-__[AlessandroAdamou](../User/AlessandroAdamou.md "User:AlessandroAdamou") about [OnlynessIsLoneliness (OIL)](../Submissions/OnlynessIsLoneliness_(OIL).md).md).html "Submissions:OnlynessIsLoneliness (OIL)") (Revision ID: [(OIL)?oldid=5777 5777](../Submissions/OnlynessIsLoneliness.md "http://ontologydesignpatterns.org/wiki/Submissions:OnlynessIsLoneliness"))__
+[![](../images/thumb/2/29/Reviewer.png/48px-Reviewer.png)](../Image/Reviewer.png "Reviewer.png")
+__[AlessandroAdamou](../User/AlessandroAdamou "User:AlessandroAdamou") about [OnlynessIsLoneliness (OIL)](../Submissions/OnlynessIsLoneliness_(OIL)).md).md).html "Submissions:OnlynessIsLoneliness (OIL)") (Revision ID: [(OIL)?oldid=5777 5777](../Submissions/OnlynessIsLoneliness "http://ontologydesignpatterns.org/wiki/Submissions:OnlynessIsLoneliness"))__
 Overall suggestion (score): 1 - needs minor revision
 
 
@@ -45,8 +45,8 @@ _Posted:_ 2009/9/10 _Last modified:_ 2009/9/10
 
 
 
-[All reviews](../Reviews/Main.md "Reviews:Main") | [Add a comment at the bottom of this page](index.php@title=Odp%253AAdd_comment&target=../Reviews/AlessandroAdamou_about_OnlynessIsLoneliness_(OIL).md).md).html#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Reviews:AlessandroAdamou_about_OnlynessIsLoneliness_(OIL)#New_comment")
+[All reviews](../Reviews/Main "Reviews:Main") | [Add a comment at the bottom of this page](index.php@title=Odp%253AAdd_comment&target=../Reviews/AlessandroAdamou_about_OnlynessIsLoneliness_(OIL)).md).md).html#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Reviews:AlessandroAdamou_about_OnlynessIsLoneliness_(OIL)#New_comment")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Reviews:AlessandroAdamou\_about\_OnlynessIsLoneliness\_%28OIL%29](../Reviews/AlessandroAdamou_about_OnlynessIsLoneliness_(OIL).md).md).html)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [QCReview](../Category/QCReview.md "Category:QCReview")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Reviews:AlessandroAdamou\_about\_OnlynessIsLoneliness\_%28OIL%29](../Reviews/AlessandroAdamou_about_OnlynessIsLoneliness_(OIL)).md).md).html)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [QCReview](../Category/QCReview "Category:QCReview")

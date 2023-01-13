@@ -1,6 +1,6 @@
-* [Image](../Image/BDA_ODP_Diagram.png.md#file)
-* [File history](../Image/BDA_ODP_Diagram.png.md#filehistory)
-* [Links](../Image/BDA_ODP_Diagram.png.md#filelinks)
+* [Image](../Image/BDA_ODP_Diagram.png#file)
+* [File history](../Image/BDA_ODP_Diagram.png#filehistory)
+* [Links](../Image/BDA_ODP_Diagram.png#filelinks)
 
 [![Image:BDA ODP Diagram.png](../images/thumb/b/bf/BDA_ODP_Diagram.png/800px-BDA_ODP_Diagram.png)](../images/b/bf/BDA_ODP_Diagram.png)  
 Size of this preview: 800 × 374 pixels  
@@ -23,7 +23,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Submissions:Born Digital Archives](../Submissions/Born_Digital_Archives.md "Submissions:Born Digital Archives")
+* [Submissions:Born Digital Archives](../Submissions/Born_Digital_Archives "Submissions:Born Digital Archives")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:BDA\_ODP\_Diagram.png](../Image/BDA_ODP_Diagram.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:BDA\_ODP\_Diagram.png](../Image/BDA_ODP_Diagram.png)"

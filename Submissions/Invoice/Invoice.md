@@ -1,4 +1,4 @@
-___Invoice__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [Invoice](../../Submissions/Invoice.md "Submissions:Invoice")_
+___Invoice__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [Invoice](../../Submissions/Invoice "Submissions:Invoice")_
 
 
   
@@ -6,7 +6,7 @@ ___Invoice__ has [Category:OntologyElement](../../Category/OntologyElement.md "C
 
 
 
-[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif.md "Class")
+[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif "Class")
 __Name__: Invoice 
 
 
@@ -19,5 +19,5 @@ __Description__: An invoice (information object)
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Invoice/Invoice](../../Image/Invoice.jpg.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Invoice/Invoice](../../Image/Invoice.jpg)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

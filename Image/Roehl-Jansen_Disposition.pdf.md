@@ -1,8 +1,8 @@
-* [Image](../Image/Roehl-Jansen_Disposition.pdf.md#file)
-* [File history](../Image/Roehl-Jansen_Disposition.pdf.md#filehistory)
-* [Links](../Image/Roehl-Jansen_Disposition.pdf.md#filelinks)
+* [Image](../Image/Roehl-Jansen_Disposition.pdf#file)
+* [File history](../Image/Roehl-Jansen_Disposition.pdf#filehistory)
+* [Links](../Image/Roehl-Jansen_Disposition.pdf#filelinks)
 
-[![](../skins/common/images/icons/fileicon-pdf.png)](../Image/Roehl-Jansen_Disposition.pdf.md "Roehl-Jansen Disposition.pdf")
+[![](../skins/common/images/icons/fileicon-pdf.png)](../Image/Roehl-Jansen_Disposition.pdf "Roehl-Jansen Disposition.pdf")
 [Roehl-Jansen\_Disposition.pdf](../images/1/16/Roehl-Jansen_Disposition.pdf "Roehl-Jansen Disposition.pdf")‎  (file size: 32 KB, MIME type: application/pdf)
 
 
@@ -30,7 +30,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Submissions:Disposition](../Submissions/Disposition.md "Submissions:Disposition")
+* [Submissions:Disposition](../Submissions/Disposition "Submissions:Disposition")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Roehl-Jansen\_Disposition.pdf](../Image/Roehl-Jansen_Disposition.pdf.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Roehl-Jansen\_Disposition.pdf](../Image/Roehl-Jansen_Disposition.pdf)"

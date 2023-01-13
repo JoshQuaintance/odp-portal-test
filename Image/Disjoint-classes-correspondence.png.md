@@ -1,6 +1,6 @@
-* [Image](../Image/Disjoint-classes-correspondence.png.md#file)
-* [File history](../Image/Disjoint-classes-correspondence.png.md#filehistory)
-* [Links](../Image/Disjoint-classes-correspondence.png.md#filelinks)
+* [Image](../Image/Disjoint-classes-correspondence.png#file)
+* [File history](../Image/Disjoint-classes-correspondence.png#filehistory)
+* [Links](../Image/Disjoint-classes-correspondence.png#filelinks)
 
 [![Image:Disjoint-classes-correspondence.png](../images/0/06/Disjoint-classes-correspondence.png)](../images/0/06/Disjoint-classes-correspondence.png)  
 No higher resolution available.  
@@ -25,4 +25,4 @@ There are no pages that link to this file.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Disjoint-classes-correspondence.png](../Image/Disjoint-classes-correspondence.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Disjoint-classes-correspondence.png](../Image/Disjoint-classes-correspondence.png)"

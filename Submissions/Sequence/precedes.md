@@ -1,4 +1,4 @@
-___precedes__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [Sequence](../../Submissions/Sequence.md "Submissions:Sequence")_
+___precedes__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [Sequence](../../Submissions/Sequence "Submissions:Sequence")_
 
 
   
@@ -6,7 +6,7 @@ ___precedes__ has [Category:OntologyElement](../../Category/OntologyElement.md "
 
 
 
-[![ObjectProperty](../../images/thumb/c/c3/ObjectProperty.gif/45px-ObjectProperty.gif)](../../Image/ObjectProperty.gif.md "ObjectProperty")
+[![ObjectProperty](../../images/thumb/c/c3/ObjectProperty.gif/45px-ObjectProperty.gif)](../../Image/ObjectProperty.gif "ObjectProperty")
 __Name__: precedes 
 
 
@@ -28,5 +28,5 @@ Subproperties can be defined in order to distinguish the different uses.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Sequence/precedes](../../Submissions/An_Ontology_Design_Pattern_for_Activity_Reasoning/precedes.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Sequence/precedes](../../Submissions/An_Ontology_Design_Pattern_for_Activity_Reasoning/precedes)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

@@ -1,4 +1,4 @@
-___issuedate__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [Invoice](../../Submissions/Invoice.md "Submissions:Invoice")_
+___issuedate__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [Invoice](../../Submissions/Invoice "Submissions:Invoice")_
 
 
   
@@ -6,7 +6,7 @@ ___issuedate__ has [Category:OntologyElement](../../Category/OntologyElement.md 
 
 
 
-[![ObjectProperty](../../images/thumb/c/c3/ObjectProperty.gif/45px-ObjectProperty.gif)](../../Image/ObjectProperty.gif.md "ObjectProperty")
+[![ObjectProperty](../../images/thumb/c/c3/ObjectProperty.gif/45px-ObjectProperty.gif)](../../Image/ObjectProperty.gif "ObjectProperty")
 __Name__: issue date 
 
 
@@ -19,5 +19,5 @@ __Description__: A relation between an invoice and a date description, e.g. from
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Invoice/issuedate](../../Submissions/Invoice/issuedate.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Invoice/issuedate](../../Submissions/Invoice/issuedate)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

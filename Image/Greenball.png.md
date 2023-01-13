@@ -1,6 +1,6 @@
-* [Image](../Image/Greenball.png.md#file)
-* [File history](../Image/Greenball.png.md#filehistory)
-* [Links](../Image/Greenball.png.md#filelinks)
+* [Image](../Image/Greenball.png#file)
+* [File history](../Image/Greenball.png#filehistory)
+* [Links](../Image/Greenball.png#filelinks)
 
 [![Image:Greenball.png](../images/8/8e/Greenball.png)](../images/8/8e/Greenball.png)  
 No higher resolution available.  
@@ -23,7 +23,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Community:Images](../Community/Images.md "Community:Images")
+* [Community:Images](../Community/Images "Community:Images")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Greenball.png](../Image/Greenball.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Greenball.png](../Image/Greenball.png)"

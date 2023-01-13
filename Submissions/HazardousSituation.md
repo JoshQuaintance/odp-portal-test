@@ -1,4 +1,4 @@
-[![](../images/thumb/b/b5/Certified.png/70px-Certified.png)](../Image/Certified.png.md "Certified.png") __This pattern has been certified.__
+[![](../images/thumb/b/b5/Certified.png/70px-Certified.png)](../Image/Certified.png "Certified.png") __This pattern has been certified.__
 Related submission, with evaluation history, can be found __here__
 
 
@@ -13,7 +13,7 @@ __Diagram__
 
 
 
-[![Image:HazardousSituation ODP.png](../images/9/91/HazardousSituation_ODP.png)](../Image/HazardousSituation_ODP.png.md "Image:HazardousSituation ODP.png")
+[![Image:HazardousSituation ODP.png](../images/9/91/HazardousSituation_ODP.png)](../Image/HazardousSituation_ODP.png "Image:HazardousSituation ODP.png")
 
 
 
@@ -83,7 +83,7 @@ There is no Modeling issue related to this proposal.
 #  References
 
 
-[Add a reference](index.php@title=Odp%253AAdd_reference&subject=../Submissions/HazardousSituation.md "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_reference&subject=Submissions%3AHazardousSituation")
+[Add a reference](index.php@title=Odp%253AAdd_reference&subject=../Submissions/HazardousSituation "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_reference&subject=Submissions%3AHazardousSituation")
 
 
   
@@ -93,5 +93,5 @@ There is no Modeling issue related to this proposal.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:HazardousSituation](../Submissions/HazardousSituation.md)"
- [Categories](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ProposedContentOP](../Category/ProposedContentOP.md "Category:ProposedContentOP") | [Submitted to event](../Category/Submitted_to_event.md "Category:Submitted to event")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:HazardousSituation](../Submissions/HazardousSituation)"
+ [Categories](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ProposedContentOP](../Category/ProposedContentOP "Category:ProposedContentOP") | [Submitted to event](../Category/Submitted_to_event "Category:Submitted to event")

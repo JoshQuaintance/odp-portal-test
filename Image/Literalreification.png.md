@@ -1,6 +1,6 @@
-* [Image](../Image/Literalreification.png.md#file)
-* [File history](../Image/Literalreification.png.md#filehistory)
-* [Links](../Image/Literalreification.png.md#filelinks)
+* [Image](../Image/Literalreification.png#file)
+* [File history](../Image/Literalreification.png#filehistory)
+* [Links](../Image/Literalreification.png#filelinks)
 
 [![Image:Literalreification.png](../images/8/81/Literalreification.png)](../images/8/81/Literalreification.png)  
 No higher resolution available.  
@@ -28,4 +28,4 @@ There are no pages that link to this file.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Literalreification.png](../Image/Literalreification.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Literalreification.png](../Image/Literalreification.png)"

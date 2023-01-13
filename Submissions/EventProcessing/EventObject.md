@@ -1,4 +1,4 @@
-___EventObject__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [EventProcessing](../../Submissions/EventProcessing.md "Submissions:EventProcessing")_
+___EventObject__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [EventProcessing](../../Submissions/EventProcessing "Submissions:EventProcessing")_
 
 
   
@@ -6,7 +6,7 @@ ___EventObject__ has [Category:OntologyElement](../../Category/OntologyElement.m
 
 
 
-[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif.md "Class")
+[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif "Class")
 __Name__: EventObject 
 
 
@@ -40,5 +40,5 @@ An event object records information about an actual event, which is then by impl
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:EventProcessing/EventObject](../../Submissions/EventProcessing/ComplexEventObject.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:EventProcessing/EventObject](../../Submissions/EventProcessing/ComplexEventObject)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

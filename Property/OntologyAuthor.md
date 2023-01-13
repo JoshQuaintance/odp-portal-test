@@ -1,5 +1,5 @@
 __OntologyAuthor__
-Indicates who authored significant portions of the ontology. This is a property of type [String](../Type/String.md "Type:String").
+Indicates who authored significant portions of the ontology. This is a property of type [String](../Type/String "Type:String").
 
 
 

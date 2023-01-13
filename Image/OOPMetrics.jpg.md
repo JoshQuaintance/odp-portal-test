@@ -1,6 +1,6 @@
-* [Image](../Image/OOPMetrics.jpg.md#file)
-* [File history](../Image/OOPMetrics.jpg.md#filehistory)
-* [Links](../Image/OOPMetrics.jpg.md#filelinks)
+* [Image](../Image/OOPMetrics.jpg#file)
+* [File history](../Image/OOPMetrics.jpg#filehistory)
+* [Links](../Image/OOPMetrics.jpg#filelinks)
 
 [![Image:OOPMetrics.jpg](../images/thumb/c/cf/OOPMetrics.jpg/800px-OOPMetrics.jpg)](../images/c/cf/OOPMetrics.jpg)  
 Size of this preview: 800 × 314 pixels  
@@ -28,4 +28,4 @@ There are no pages that link to this file.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:OOPMetrics.jpg](../Image/OOPMetrics.jpg.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:OOPMetrics.jpg](../Image/OOPMetrics.jpg)"

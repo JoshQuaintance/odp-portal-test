@@ -1,4 +1,4 @@
-___SmartHomeGeoFeature__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [SmartHome Geometry](../../Submissions/SmartHome_Geometry.md "Submissions:SmartHome Geometry")_
+___SmartHomeGeoFeature__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [SmartHome Geometry](../../Submissions/SmartHome_Geometry "Submissions:SmartHome Geometry")_
 
 
   
@@ -6,7 +6,7 @@ ___SmartHomeGeoFeature__ has [Category:OntologyElement](../../Category/OntologyE
 
 
 
-[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif.md "Class")
+[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif "Class")
 __Name__: SmartHomeGeoFeature 
 
 
@@ -19,5 +19,5 @@ __Description__:
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:SmartHome\_Geometry/SmartHomeGeoFeature](../../Submissions/SmartHome_Geometry/SmartHomeGeoFeature.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:SmartHome\_Geometry/SmartHomeGeoFeature](../../Submissions/SmartHome_Geometry/SmartHomeGeoFeature)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

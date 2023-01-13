@@ -1,4 +1,4 @@
-[![Image:ODPUser.png](../images/a/a6/ODPUser.png)](../Image/ODPUser.png.md "Image:ODPUser.png")
+[![Image:ODPUser.png](../images/a/a6/ODPUser.png)](../Image/ODPUser.png "Image:ODPUser.png")
 
 
 
@@ -36,5 +36,5 @@ __How did I know about ODP:__ colleagues
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/User:BorisVillaz%C3%B3n-Terrazas](../User/BorisVillazón-Terrazas.md)"
- [Categories](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ODPUser](../Category/ODPUser.md "Category:ODPUser") | [EBMember](../Category/EBMember.md "Category:EBMember")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/User:BorisVillaz%C3%B3n-Terrazas](../User/BorisVillazón-Terrazas)"
+ [Categories](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ODPUser](../Category/ODPUser "Category:ODPUser") | [EBMember](../Category/EBMember "Category:EBMember")

@@ -1,6 +1,6 @@
-* [Image](../Image/Winstoncontextualized.png.md#file)
-* [File history](../Image/Winstoncontextualized.png.md#filehistory)
-* [Links](../Image/Winstoncontextualized.png.md#filelinks)
+* [Image](../Image/Winstoncontextualized.png#file)
+* [File history](../Image/Winstoncontextualized.png#filehistory)
+* [Links](../Image/Winstoncontextualized.png#filelinks)
 
 [![Image:Winstoncontextualized.png](../images/7/77/Winstoncontextualized.png)](../images/7/77/Winstoncontextualized.png)  
 No higher resolution available.  
@@ -23,7 +23,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Submissions:ContextualizedWinstonPartWhole](../Submissions/ContextualizedWinstonPartWhole.md "Submissions:ContextualizedWinstonPartWhole")
+* [Submissions:ContextualizedWinstonPartWhole](../Submissions/ContextualizedWinstonPartWhole "Submissions:ContextualizedWinstonPartWhole")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Winstoncontextualized.png](../Image/Winstoncontextualized.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Winstoncontextualized.png](../Image/Winstoncontextualized.png)"

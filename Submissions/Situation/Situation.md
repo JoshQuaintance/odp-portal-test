@@ -1,4 +1,4 @@
-___Situation__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [Situation](../../Submissions/Situation.md "Submissions:Situation")_
+___Situation__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [Situation](../../Submissions/Situation "Submissions:Situation")_
 
 
   
@@ -6,7 +6,7 @@ ___Situation__ has [Category:OntologyElement](../../Category/OntologyElement.md 
 
 
 
-[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif.md "Class")
+[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif "Class")
 __Name__: Situation 
 
 
@@ -31,5 +31,5 @@ Situation is also able to represent reified n-ary relations, where isSettingFor 
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Situation/Situation](../../Community/Situation_classification.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Situation/Situation](../../Community/Situation_classification)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

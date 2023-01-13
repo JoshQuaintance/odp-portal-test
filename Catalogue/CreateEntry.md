@@ -185,4 +185,4 @@ WinstonPartWhole
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Catalogue:CreateEntry](../Catalogue/CreateEntry.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Catalogue:CreateEntry](../Catalogue/CreateEntry)"

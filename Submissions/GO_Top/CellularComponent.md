@@ -1,4 +1,4 @@
-___CellularComponent__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [GO Top](../../Submissions/GO_Top.md "Submissions:GO Top")_
+___CellularComponent__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [GO Top](../../Submissions/GO_Top "Submissions:GO Top")_
 
 
   
@@ -6,7 +6,7 @@ ___CellularComponent__ has [Category:OntologyElement](../../Category/OntologyEle
 
 
 
-[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif.md "Class")
+[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif "Class")
 __Name__: Cellular component 
 
 
@@ -19,5 +19,5 @@ __Description__: The part of a cell or its extracellular environment in which a 
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:GO\_Top/CellularComponent](../../Submissions/GO_Top/CellularComponent.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:GO\_Top/CellularComponent](../../Submissions/GO_Top/CellularComponent)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

@@ -19,11 +19,11 @@ __Description:__ Right now there is no good way to sort the tutorials in the tut
 
 
 
-Go back to the  [Feedback main page](../Feedback/Main.md "Feedback:Main")
+Go back to the  [Feedback main page](../Feedback/Main "Feedback:Main")
 
 
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Feedback:Time\_or\_other\_sortable\_feature\_in\_Tutorials](../Feedback/Time_or_other_sortable_feature_in_Tutorials.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Feedback](../Category/Feedback.md "Category:Feedback")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Feedback:Time\_or\_other\_sortable\_feature\_in\_Tutorials](../Feedback/Time_or_other_sortable_feature_in_Tutorials)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Feedback](../Category/Feedback "Category:Feedback")

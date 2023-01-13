@@ -28,11 +28,11 @@ Attempting to upload an N3 or Turtle file using an .n3 or .ttl file extension pr
 
 
 
-Go back to the  [Feedback main page](../Feedback/Main.md "Feedback:Main")
+Go back to the  [Feedback main page](../Feedback/Main "Feedback:Main")
 
 
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Feedback:Upload\_file.\_Support\_for\_N3\_or\_Turtle\_file\_format\_extension.](../Feedback/Upload_file._Support_for_N3_or_Turtle_file_format_extension..md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Feedback](../Category/Feedback.md "Category:Feedback")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Feedback:Upload\_file.\_Support\_for\_N3\_or\_Turtle\_file\_format\_extension.](../Feedback/Upload_file._Support_for_N3_or_Turtle_file_format_extension.)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Feedback](../Category/Feedback "Category:Feedback")

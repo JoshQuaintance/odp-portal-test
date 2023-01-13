@@ -298,8 +298,8 @@ The following patterns have been accepted for discussion during the pattern writ
 
 
 
-* Rim Djedidi, Marie-Aude Aufaure:  [Define Hybrid Class Resolving Disjointness due to Subsumption](../../Submissions/Define_Hybrid_Class_Resolving_Disjointness_due_to_Subsumption.md "Submissions:Define Hybrid Class Resolving Disjointness due to Subsumption")
-* Catherine Roussey, Oscar Corcho:  [OnlynessIsLoneliness (OIL)](../../Submissions/OnlynessIsLoneliness_(OIL).md).md).html "Submissions:OnlynessIsLoneliness (OIL)")
+* Rim Djedidi, Marie-Aude Aufaure:  [Define Hybrid Class Resolving Disjointness due to Subsumption](../../Submissions/Define_Hybrid_Class_Resolving_Disjointness_due_to_Subsumption "Submissions:Define Hybrid Class Resolving Disjointness due to Subsumption")
+* Catherine Roussey, Oscar Corcho:  [OnlynessIsLoneliness (OIL)](../../Submissions/OnlynessIsLoneliness_(OIL)).md).md).html "Submissions:OnlynessIsLoneliness (OIL)")
 * Boris Villazón Terrazas:  [Term-based – record-based model – thesaurus to lightweight ontology](http://ontologydesignpatterns.org/wiki/Submissions:Term-based_thesaurus_to_lightweight_ontology_%E2%80%93_record-based_model "Submissions:Term-based thesaurus to lightweight ontology – record-based model")
 
 
@@ -309,11 +309,11 @@ The following patterns have been selected for poster presentation:
 
 
 
-* [Classification scheme - path enumeration model - to Taxonomy](../../Submissions/Classification_scheme_-_path_enumeration_model_-_to_Taxonomy.md "Submissions:Classification scheme - path enumeration model - to Taxonomy")
-* [Classification scheme - adjacency list model - to Taxonomy](../../Submissions/Classification_scheme_-_adjacency_list_model_-_to_Taxonomy.md "Submissions:Classification scheme - adjacency list model - to Taxonomy")
-* [NegativePropertyAssertions](../../Submissions/NegativePropertyAssertions.md "Submissions:NegativePropertyAssertions")
-* [ConceptTerms](../../Submissions/ConceptTerms.md "Submissions:ConceptTerms")
-* [Partition](../../Submissions/Partition.md "Submissions:Partition")
+* [Classification scheme - path enumeration model - to Taxonomy](../../Submissions/Classification_scheme_-_path_enumeration_model_-_to_Taxonomy "Submissions:Classification scheme - path enumeration model - to Taxonomy")
+* [Classification scheme - adjacency list model - to Taxonomy](../../Submissions/Classification_scheme_-_adjacency_list_model_-_to_Taxonomy "Submissions:Classification scheme - adjacency list model - to Taxonomy")
+* [NegativePropertyAssertions](../../Submissions/NegativePropertyAssertions "Submissions:NegativePropertyAssertions")
+* [ConceptTerms](../../Submissions/ConceptTerms "Submissions:ConceptTerms")
+* [Partition](../../Submissions/Partition "Submissions:Partition")
 
 
 ##   Social Dinner
@@ -325,5 +325,5 @@ The following patterns have been selected for poster presentation:
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/WOP:2009/Program](../../Submissions/Scorepart/hasMidiProgram.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [WOP2009](../../Category/WOP2009.md "Category:WOP2009")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/WOP:2009/Program](../../Submissions/Scorepart/hasMidiProgram)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [WOP2009](../../Category/WOP2009 "Category:WOP2009")

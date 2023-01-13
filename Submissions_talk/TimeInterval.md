@@ -16,4 +16,4 @@ However, being interested in interoperability, I will when my current project is
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions\_talk:TimeInterval](../Submissions_talk/TimeInterval.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions\_talk:TimeInterval](../Submissions_talk/TimeInterval)"

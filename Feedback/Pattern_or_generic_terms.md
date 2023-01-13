@@ -19,7 +19,7 @@ __Description:__ Having a first look at the pattern it's not clear to me when so
 
 
 
-Go back to the  [Feedback main page](../Feedback/Main.md "Feedback:Main")
+Go back to the  [Feedback main page](../Feedback/Main "Feedback:Main")
 
 
 so now that I've filled all the mandatory fields, let's try to post this feedback again...
@@ -28,5 +28,5 @@ so now that I've filled all the mandatory fields, let's try to post this feedbac
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Feedback:Pattern\_or\_generic\_terms](../Feedback/Pattern_or_generic_terms.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Feedback](../Category/Feedback.md "Category:Feedback")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Feedback:Pattern\_or\_generic\_terms](../Feedback/Pattern_or_generic_terms)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Feedback](../Category/Feedback "Category:Feedback")

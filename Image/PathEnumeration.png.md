@@ -1,6 +1,6 @@
-* [Image](../Image/PathEnumeration.png.md#file)
-* [File history](../Image/PathEnumeration.png.md#filehistory)
-* [Links](../Image/PathEnumeration.png.md#filelinks)
+* [Image](../Image/PathEnumeration.png#file)
+* [File history](../Image/PathEnumeration.png#filehistory)
+* [Links](../Image/PathEnumeration.png#filelinks)
 
 [![Image:PathEnumeration.png](../images/7/76/PathEnumeration.png)](../images/7/76/PathEnumeration.png)  
 No higher resolution available.  
@@ -23,13 +23,13 @@ Click on a date/time to view the file as it appeared at that time.
 The following file is a duplicate of this file:
 
 
-* [Image:PathEnumeration 1.png](../Image/PathEnumeration_1.png.md "Image:PathEnumeration 1.png")
+* [Image:PathEnumeration 1.png](../Image/PathEnumeration_1.png "Image:PathEnumeration 1.png")
 
 
 The following page links to this file:
 
 
-* [Submissions:Classification scheme - path enumeration model - to Taxonomy](../Submissions/Classification_scheme_-_path_enumeration_model_-_to_Taxonomy.md "Submissions:Classification scheme - path enumeration model - to Taxonomy")
+* [Submissions:Classification scheme - path enumeration model - to Taxonomy](../Submissions/Classification_scheme_-_path_enumeration_model_-_to_Taxonomy "Submissions:Classification scheme - path enumeration model - to Taxonomy")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:PathEnumeration.png](../Image/PathEnumeration.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:PathEnumeration.png](../Image/PathEnumeration.png)"

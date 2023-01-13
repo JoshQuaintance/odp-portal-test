@@ -1,6 +1,6 @@
-* [Image](../Image/Class-by-attribute-type.png.md#file)
-* [File history](../Image/Class-by-attribute-type.png.md#filehistory)
-* [Links](../Image/Class-by-attribute-type.png.md#filelinks)
+* [Image](../Image/Class-by-attribute-type.png#file)
+* [File history](../Image/Class-by-attribute-type.png#filehistory)
+* [Links](../Image/Class-by-attribute-type.png#filelinks)
 
 [![Image:Class-by-attribute-type.png](../images/d/d2/Class-by-attribute-type.png)](../images/d/d2/Class-by-attribute-type.png)  
 No higher resolution available.  
@@ -23,7 +23,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Submissions:Class by attribute type](../Submissions/Class_by_attribute_type.md "Submissions:Class by attribute type")
+* [Submissions:Class by attribute type](../Submissions/Class_by_attribute_type "Submissions:Class by attribute type")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Class-by-attribute-type.png](../Image/Class-by-attribute-type.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Class-by-attribute-type.png](../Image/Class-by-attribute-type.png)"

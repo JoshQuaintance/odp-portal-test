@@ -1,4 +1,4 @@
-___consistsOf__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [Move](../../Submissions/Move.md "Submissions:Move")_
+___consistsOf__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [Move](../../Submissions/Move "Submissions:Move")_
 
 
   
@@ -6,7 +6,7 @@ ___consistsOf__ has [Category:OntologyElement](../../Category/OntologyElement.md
 
 
 
-[![ObjectProperty](../../images/thumb/c/c3/ObjectProperty.gif/45px-ObjectProperty.gif)](../../Image/ObjectProperty.gif.md "ObjectProperty")
+[![ObjectProperty](../../images/thumb/c/c3/ObjectProperty.gif/45px-ObjectProperty.gif)](../../Image/ObjectProperty.gif "ObjectProperty")
 __Name__: consistsOf 
 
 
@@ -26,5 +26,5 @@ The sub-moves into which the move is decomposed form a logical whole, although t
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Move/consistsOf](../../Submissions/Move/consistsOf.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Move/consistsOf](../../Submissions/Move/consistsOf)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

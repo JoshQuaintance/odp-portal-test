@@ -1,4 +1,4 @@
-___Agent__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [ActingFor](../../Submissions/ActingFor.md "Submissions:ActingFor")_
+___Agent__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [ActingFor](../../Submissions/ActingFor "Submissions:ActingFor")_
 
 
   
@@ -6,7 +6,7 @@ ___Agent__ has [Category:OntologyElement](../../Category/OntologyElement.md "Cat
 
 
 
-[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif.md "Class")
+[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif "Class")
 __Name__: Agent 
 
 
@@ -26,5 +26,5 @@ Additional comment: a computational agent can be considered as a PhysicalAgent t
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:ActingFor/Agent](../../Image/Agentrole.jpg.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:ActingFor/Agent](../../Image/Agentrole.jpg)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

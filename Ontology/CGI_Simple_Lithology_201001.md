@@ -1,4 +1,4 @@
-Return to [Catalogue of Exemplary Ontologies](../Ontology/Main.md "Ontology:Main")
+Return to [Catalogue of Exemplary Ontologies](../Ontology/Main "Ontology:Main")
 
 
 
@@ -38,5 +38,5 @@ URI to identify ontology is urn:cgi:classifierScheme:CGI:LithologyOWL:201001
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Ontology:CGI\_Simple\_Lithology\_201001](../Ontology/CGI_Simple_Lithology_201001.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Ontology](../Category/Ontology.md "Category:Ontology")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Ontology:CGI\_Simple\_Lithology\_201001](../Ontology/CGI_Simple_Lithology_201001)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Ontology](../Category/Ontology "Category:Ontology")

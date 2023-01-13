@@ -1,4 +1,4 @@
-[<- Go back to K-CAP tutorial exercise page.](../../../../Training/Extreme_Design_(XD)/_Pattern-based_Ontology_Design.md)/_Pattern-based_Ontology_Design.md)/_Pattern-based_Ontology_Design.md)%253A_Pattern-based_Ontology_Design/Hands-on_session_K-CAP_tutorial.html "Training:Extreme Design (XD): Pattern-based Ontology Design/Hands-on session K-CAP tutorial")
+[<- Go back to K-CAP tutorial exercise page.](../../../../Training/Extreme_Design_(XD)/_Pattern-based_Ontology_Design)/_Pattern-based_Ontology_Design)/_Pattern-based_Ontology_Design.md)/_Pattern-based_Ontology_Design.md)/_Pattern-based_Ontology_Design.md)%253A_Pattern-based_Ontology_Design/Hands-on_session_K-CAP_tutorial.html "Training:Extreme Design (XD): Pattern-based Ontology Design/Hands-on session K-CAP tutorial")
 
 
 One possible set of CQs (remember that these should reflect what the customer wants to be able to do, rather than just a translation from the scenario)...
@@ -80,4 +80,4 @@ One possible set of CQs (remember that these should reflect what the customer wa
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Training:EXtreme\_Design\_%28XD%29:\_Pattern-based\_Ontology\_Design/Hands-on\_session\_K-CAP\_tutorial:CQs](../../../../Training/Extreme_Design_(XD)/_Pattern-based_Ontology_Design.md)/_Pattern-based_Ontology_Design.md)/_Pattern-based_Ontology_Design/Hands-on_session_K-CAP_tutorial/CQs.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Training:EXtreme\_Design\_%28XD%29:\_Pattern-based\_Ontology\_Design/Hands-on\_session\_K-CAP\_tutorial:CQs](../../../../Training/Extreme_Design_(XD)/_Pattern-based_Ontology_Design)/_Pattern-based_Ontology_Design)/_Pattern-based_Ontology_Design.md)/_Pattern-based_Ontology_Design.md)/_Pattern-based_Ontology_Design/Hands-on_session_K-CAP_tutorial/CQs.md)"

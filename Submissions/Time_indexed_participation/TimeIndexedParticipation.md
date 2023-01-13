@@ -1,4 +1,4 @@
-___TimeIndexedParticipation__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [Time indexed participation](../../Submissions/Time_indexed_participation.md "Submissions:Time indexed participation")_
+___TimeIndexedParticipation__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [Time indexed participation](../../Submissions/Time_indexed_participation "Submissions:Time indexed participation")_
 
 
   
@@ -6,7 +6,7 @@ ___TimeIndexedParticipation__ has [Category:OntologyElement](../../Category/Onto
 
 
 
-[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif.md "Class")
+[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif "Class")
 __Name__: TimeIndexedParticipation 
 
 
@@ -19,5 +19,5 @@ __Description__: A Situation that represents participation of Object(s) in Event
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Time\_indexed\_participation/TimeIndexedParticipation](../../Image/TimeIndexedParticipation.png.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Time\_indexed\_participation/TimeIndexedParticipation](../../Image/TimeIndexedParticipation.png)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

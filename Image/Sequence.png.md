@@ -1,6 +1,6 @@
-* [Image](../Image/Sequence.png.md#file)
-* [File history](../Image/Sequence.png.md#filehistory)
-* [Links](../Image/Sequence.png.md#filelinks)
+* [Image](../Image/Sequence.png#file)
+* [File history](../Image/Sequence.png#filehistory)
+* [Links](../Image/Sequence.png#filelinks)
 
 [![Image:Sequence.png](../images/b/b2/Sequence.png)](../images/b/b2/Sequence.png)  
 No higher resolution available.  
@@ -23,7 +23,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Submissions:Sequence](../Submissions/Sequence.md "Submissions:Sequence")
+* [Submissions:Sequence](../Submissions/Sequence "Submissions:Sequence")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Sequence.png](../Image/Sequence.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Sequence.png](../Image/Sequence.png)"

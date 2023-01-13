@@ -1,4 +1,4 @@
-___fax__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [CommunicationEvent](../../Submissions/CommunicationEvent.md "Submissions:CommunicationEvent")_
+___fax__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [CommunicationEvent](../../Submissions/CommunicationEvent "Submissions:CommunicationEvent")_
 
 
   
@@ -19,5 +19,5 @@ __Description__:
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:CommunicationEvent/fax](../../Submissions/CommunicationEvent/fax.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:CommunicationEvent/fax](../../Submissions/CommunicationEvent/fax)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

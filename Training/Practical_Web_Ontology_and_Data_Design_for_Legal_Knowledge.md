@@ -42,7 +42,7 @@ No exercises.
 
 
 
-[Create exercise for this tutorial](http://ontologydesignpatterns.org/wiki/Special:AddData/Form:Tutorial_Exercise_Form?Exercise_Description_Template[Tutorial]=Practical Web Ontology and Data Design for Legal Knowledge) | [Training area](../Training/Main.md "Training:Main")
+[Create exercise for this tutorial](http://ontologydesignpatterns.org/wiki/Special:AddData/Form:Tutorial_Exercise_Form?Exercise_Description_Template[Tutorial]=Practical Web Ontology and Data Design for Legal Knowledge) | [Training area](../Training/Main "Training:Main")
 
 Please refer to the [ICAIL 2013 page](http://icail2013.ittig.cnr.it/ "http://icail2013.ittig.cnr.it/") for details on location and registration for the tutorial.
 
@@ -50,11 +50,11 @@ Please refer to the [ICAIL 2013 page](http://icail2013.ittig.cnr.it/ "http://ica
 Tutors include:
 
 
-[Aldo Gangemi](../User/AldoGangemi.md "User:AldoGangemi") (Associate Researcher, CNR, Rome, and Full Professor, LIPN-Université Paris13-CNRS-Sorbonne Cité); aldo.gangemi@cnr.it; [web page](http://www.istc.cnr.it/people/aldo-gangemi "http://www.istc.cnr.it/people/aldo-gangemi").
+[Aldo Gangemi](../User/AldoGangemi "User:AldoGangemi") (Associate Researcher, CNR, Rome, and Full Professor, LIPN-Université Paris13-CNRS-Sorbonne Cité); aldo.gangemi@cnr.it; [web page](http://www.istc.cnr.it/people/aldo-gangemi "http://www.istc.cnr.it/people/aldo-gangemi").
 He is tutor on Ontology Design at the International Summer School on the Semantic Web (SSSW) since 2004 (cf. last edition at [1]), and at the LEX International Summer School since 2009 [2]. He's a designer for ontologies such as DOLCE and DnS [3] and the Core Legal Ontology [4], as well as software from STLab Tools [5].
 
 
-[Valentina Presutti](../User/ValentinaPresutti.md "User:ValentinaPresutti") (Researcher, CNR, Rome); valentina.presutti@cnr.it; [web page](http://www.istc.cnr.it/people/valentina-presutti "http://www.istc.cnr.it/people/valentina-presutti").
+[Valentina Presutti](../User/ValentinaPresutti "User:ValentinaPresutti") (Researcher, CNR, Rome); valentina.presutti@cnr.it; [web page](http://www.istc.cnr.it/people/valentina-presutti "http://www.istc.cnr.it/people/valentina-presutti").
 She is tutor on ontology engineering and semantic technologies at the International Summer School on the Semantic Web (SSSW) since 2009 (cf. last edition at [1]), and teaches the Knowledge Management course at the University of Bologna since 2010. She's a designer for many design patterns contained in [6] as well as for STLab Tools software [5].
 
 
@@ -86,5 +86,5 @@ He is completing his PhD on Knowledge Patterns at the University of Bologna, and
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Training:Practical\_Web\_Ontology\_and\_Data\_Design\_for\_Legal\_Knowledge](../Training/Practical_Web_Ontology_and_Data_Design_for_Legal_Knowledge.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Tutorial](../Category/Tutorial.md "Category:Tutorial")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Training:Practical\_Web\_Ontology\_and\_Data\_Design\_for\_Legal\_Knowledge](../Training/Practical_Web_Ontology_and_Data_Design_for_Legal_Knowledge)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Tutorial](../Category/Tutorial "Category:Tutorial")

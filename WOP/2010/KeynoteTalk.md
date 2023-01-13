@@ -1,12 +1,12 @@
 #   Data Archeology for Ontology Patterns
 
 
-__by  [Chris Welty](../../User/ChrisWelty.md "User:ChrisWelty")__  
+__by  [Chris Welty](../../User/ChrisWelty "User:ChrisWelty")__  
 
 __IBM Research__
 
 
-[![Image:Chris.jpg](../../images/d/dd/Chris.jpg)](../../Image/Chris.jpg.md "Image:Chris.jpg")
+[![Image:Chris.jpg](../../images/d/dd/Chris.jpg)](../../Image/Chris.jpg "Image:Chris.jpg")
 
 
 
@@ -26,4 +26,4 @@ Chris Welty is a Research Scientist at the IBM T.J. Watson Research Center in Ne
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/WOP:2010/KeynoteTalk](../../WOP/2010/KeynoteTalk.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/WOP:2010/KeynoteTalk](../../WOP/2010/KeynoteTalk)"

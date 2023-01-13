@@ -1,7 +1,7 @@
-This is a property of type [String](../Type/String.md "Type:String").
+This is a property of type [String](../Type/String "Type:String").
 
 
-This property is a subproperty of [Author](../Property/Author.md "Property:Author").
+This property is a subproperty of [Author](../Property/Author "Property:Author").
 
 
 
@@ -16,4 +16,4 @@ Showing 19 pages using this property.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Property:Lexico-SyntacticODPAuthor](../Property/Lexico-SyntacticODPAuthor.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Property:Lexico-SyntacticODPAuthor](../Property/Lexico-SyntacticODPAuthor)"

@@ -1,4 +1,4 @@
-__OntologyPurpose__ Brief description of what the ontology is for and what the intended benefits are to whom. This is a property of type [Text](../Type/Text.md "Type:Text").
+__OntologyPurpose__ Brief description of what the ontology is for and what the intended benefits are to whom. This is a property of type [Text](../Type/Text "Type:Text").
 
 
 

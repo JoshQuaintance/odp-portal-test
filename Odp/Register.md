@@ -7,4 +7,4 @@
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Odp:Register](../Odp/Register.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Odp:Register](../Odp/Register)"

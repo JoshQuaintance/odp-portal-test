@@ -1,7 +1,7 @@
-* [Image](../Image/ConceptTermsPattern.jpg.md#file)
-* [File history](../Image/ConceptTermsPattern.jpg.md#filehistory)
-* [Links](../Image/ConceptTermsPattern.jpg.md#filelinks)
-* [Metadata](../Image/ConceptTermsPattern.jpg.md#metadata)
+* [Image](../Image/ConceptTermsPattern.jpg#file)
+* [File history](../Image/ConceptTermsPattern.jpg#filehistory)
+* [Links](../Image/ConceptTermsPattern.jpg#filelinks)
+* [Metadata](../Image/ConceptTermsPattern.jpg#metadata)
 
 [![Image:ConceptTermsPattern.jpg](../images/0/09/ConceptTermsPattern.jpg)](../images/0/09/ConceptTermsPattern.jpg)  
 No higher resolution available.  
@@ -24,7 +24,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Submissions:ConceptTerms](../Submissions/ConceptTerms.md "Submissions:ConceptTerms")
+* [Submissions:ConceptTerms](../Submissions/ConceptTerms "Submissions:ConceptTerms")
 
 ## Metadata
 
@@ -35,4 +35,4 @@ If the file has been modified from its original state, some details may not full
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:ConceptTermsPattern.jpg](../Image/ConceptTermsPattern.jpg.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:ConceptTermsPattern.jpg](../Image/ConceptTermsPattern.jpg)"

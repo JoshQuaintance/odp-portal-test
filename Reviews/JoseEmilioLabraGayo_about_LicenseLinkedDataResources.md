@@ -1,5 +1,5 @@
-[![](../images/thumb/2/29/Reviewer.png/48px-Reviewer.png)](../Image/Reviewer.png.md "Reviewer.png")
-__[JoseEmilioLabraGayo](../User/JoseEmilioLabraGayo.md "User:JoseEmilioLabraGayo") about [LicenseLinkedDataResources](../Submissions/LicenseLinkedDataResources.md "Submissions:LicenseLinkedDataResources") (Revision ID: [11657](../Submissions/LicenseLinkedDataResources@oldid=11657.md "http://ontologydesignpatterns.org/wiki/Submissions:LicenseLinkedDataResources?oldid=11657"))__
+[![](../images/thumb/2/29/Reviewer.png/48px-Reviewer.png)](../Image/Reviewer.png "Reviewer.png")
+__[JoseEmilioLabraGayo](../User/JoseEmilioLabraGayo "User:JoseEmilioLabraGayo") about [LicenseLinkedDataResources](../Submissions/LicenseLinkedDataResources "Submissions:LicenseLinkedDataResources") (Revision ID: [11657](../Submissions/LicenseLinkedDataResources@oldid=11657 "http://ontologydesignpatterns.org/wiki/Submissions:LicenseLinkedDataResources?oldid=11657"))__
 Overall suggestion (score): 1 - needs minor revision
 
 
@@ -37,8 +37,8 @@ _Posted:_ 2013/8/8 _Last modified:_ 2013/8/8
 
 
 
-[All reviews](../Reviews/Main.md "Reviews:Main") | [Add a comment at the bottom of this page](index.php@title=Odp%253AAdd_comment&target=../Reviews/JoseEmilioLabraGayo_about_LicenseLinkedDataResources.md#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Reviews:JoseEmilioLabraGayo_about_LicenseLinkedDataResources#New_comment")
+[All reviews](../Reviews/Main "Reviews:Main") | [Add a comment at the bottom of this page](index.php@title=Odp%253AAdd_comment&target=../Reviews/JoseEmilioLabraGayo_about_LicenseLinkedDataResources#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Reviews:JoseEmilioLabraGayo_about_LicenseLinkedDataResources#New_comment")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Reviews:JoseEmilioLabraGayo\_about\_LicenseLinkedDataResources](../Reviews/JoseEmilioLabraGayo_about_LicenseLinkedDataResources.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [QCReview](../Category/QCReview.md "Category:QCReview")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Reviews:JoseEmilioLabraGayo\_about\_LicenseLinkedDataResources](../Reviews/JoseEmilioLabraGayo_about_LicenseLinkedDataResources)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [QCReview](../Category/QCReview "Category:QCReview")

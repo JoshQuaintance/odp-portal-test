@@ -1,4 +1,4 @@
-___InformationObject__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [EventCore](../../Submissions/EventCore.md "Submissions:EventCore")_
+___InformationObject__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [EventCore](../../Submissions/EventCore "Submissions:EventCore")_
 
 
   
@@ -6,7 +6,7 @@ ___InformationObject__ has [Category:OntologyElement](../../Category/OntologyEle
 
 
 
-[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif.md "Class")
+[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif "Class")
 __Name__: InformationObject 
 
 
@@ -19,5 +19,5 @@ __Description__: An entity that encapsulates all descriptive or non-defining inf
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:EventCore/InformationObject](../../Submissions/InformationObjectsAndRepresentationLanguages.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:EventCore/InformationObject](../../Submissions/InformationObjectsAndRepresentationLanguages)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

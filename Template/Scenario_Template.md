@@ -21,4 +21,4 @@ Edit the page to see the template text.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Template:Scenario\_Template](../Template/Scenario_Template.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Template:Scenario\_Template](../Template/Scenario_Template)"

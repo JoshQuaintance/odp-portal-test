@@ -1,7 +1,7 @@
 Formalization of the pattern using an extended version of the BNF notation.
 
 
-This is a property of type [Text](../Type/Text.md "Type:Text").
+This is a property of type [Text](../Type/Text "Type:Text").
 
 
 

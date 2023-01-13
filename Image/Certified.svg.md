@@ -1,6 +1,6 @@
-* [Image](../Image/Certified.svg.md#file)
-* [File history](../Image/Certified.svg.md#filehistory)
-* [Links](../Image/Certified.svg.md#filelinks)
+* [Image](../Image/Certified.svg#file)
+* [File history](../Image/Certified.svg#filehistory)
+* [Links](../Image/Certified.svg#filelinks)
 
 [![Image:Certified.svg](../images/thumb/c/ca/Certified.svg/60px-Certified.svg.png)](../images/c/ca/Certified.svg)  
 
@@ -27,7 +27,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Community:Images](../Community/Images.md "Community:Images")
+* [Community:Images](../Community/Images "Community:Images")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Certified.svg](../Image/Certified.svg.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Certified.svg](../Image/Certified.svg)"

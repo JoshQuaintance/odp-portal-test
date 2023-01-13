@@ -1,4 +1,4 @@
-___overlappingTopic__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [Topic](../../Submissions/Topic.md "Submissions:Topic")_
+___overlappingTopic__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [Topic](../../Submissions/Topic "Submissions:Topic")_
 
 
   
@@ -6,7 +6,7 @@ ___overlappingTopic__ has [Category:OntologyElement](../../Category/OntologyElem
 
 
 
-[![ObjectProperty](../../images/thumb/c/c3/ObjectProperty.gif/45px-ObjectProperty.gif)](../../Image/ObjectProperty.gif.md "ObjectProperty")
+[![ObjectProperty](../../images/thumb/c/c3/ObjectProperty.gif/45px-ObjectProperty.gif)](../../Image/ObjectProperty.gif "ObjectProperty")
 __Name__: overlappingTopic 
 
 
@@ -22,5 +22,5 @@ Overlap is typically established with reference to a threshold on the number of 
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Topic/overlappingTopic](../../Submissions/Topic/overlappingTopic.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Topic/overlappingTopic](../../Submissions/Topic/overlappingTopic)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

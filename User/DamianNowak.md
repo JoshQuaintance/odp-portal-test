@@ -1,4 +1,4 @@
-[![Image:ODPUser.png](../images/a/a6/ODPUser.png)](../Image/ODPUser.png.md "Image:ODPUser.png")
+[![Image:ODPUser.png](../images/a/a6/ODPUser.png)](../Image/ODPUser.png "Image:ODPUser.png")
 
 
 
@@ -19,12 +19,12 @@ __Domains of interest:__
 
 
 
-* [Academy](../Community/Academy.md "Community:Academy")
-* [Business](../Community/Business.md "Community:Business")
-* [General](../Community/General.md "Community:General")
-* [Ontology](../Community/Ontology-based_models.md "Community:Ontology")
-* [Organization](../Community/Organization.md "Community:Organization")
-* [Parts and Collections](../Community/Parts_and_Collections.md "Community:Parts and Collections")
+* [Academy](../Community/Academy "Community:Academy")
+* [Business](../Community/Business "Community:Business")
+* [General](../Community/General "Community:General")
+* [Ontology](../Community/Ontology-based_models "Community:Ontology")
+* [Organization](../Community/Organization "Community:Organization")
+* [Parts and Collections](../Community/Parts_and_Collections "Community:Parts and Collections")
 
 
 __Is expert of:__
@@ -39,5 +39,5 @@ __How did I know about ODP:__ surfing the web
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/User:DamianNowak](../User/DamianNowak.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ODPUser](../Category/ODPUser.md "Category:ODPUser")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/User:DamianNowak](../User/DamianNowak)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ODPUser](../Category/ODPUser "Category:ODPUser")

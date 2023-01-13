@@ -1,7 +1,7 @@
-This property is of type [Text](../Type/Text.md "Type:Text").
+This property is of type [Text](../Type/Text "Type:Text").
 
 
-This property is a subproperty of [PatternSolution](../Property/PatternSolution.md "Property:PatternSolution").
+This property is a subproperty of [PatternSolution](../Property/PatternSolution "Property:PatternSolution").
 
 
 

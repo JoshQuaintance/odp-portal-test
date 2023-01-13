@@ -1,6 +1,6 @@
-* [Image](../Image/PostReview.png.md#file)
-* [File history](../Image/PostReview.png.md#filehistory)
-* [Links](../Image/PostReview.png.md#filelinks)
+* [Image](../Image/PostReview.png#file)
+* [File history](../Image/PostReview.png#filehistory)
+* [Links](../Image/PostReview.png#filelinks)
 
 [![Image:PostReview.png](../images/7/73/PostReview.png)](../images/7/73/PostReview.png)  
 No higher resolution available.  
@@ -23,8 +23,8 @@ Click on a date/time to view the file as it appeared at that time.
 The following 2 pages link to this file:
 
 
-* [Ontology Design Patterns . org (ODP)](../Ontology_Design_Patterns_._org_(ODP).md).md).html "Ontology Design Patterns . org (ODP)")
-* [Template:MainPageMap](../Template/MainPageMap.md "Template:MainPageMap")
+* [Ontology Design Patterns . org (ODP)](../Ontology_Design_Patterns_._org_(ODP)).md).md).html "Ontology Design Patterns . org (ODP)")
+* [Template:MainPageMap](../Template/MainPageMap "Template:MainPageMap")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:PostReview.png](../Image/PostReview.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:PostReview.png](../Image/PostReview.png)"

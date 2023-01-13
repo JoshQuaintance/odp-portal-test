@@ -41,8 +41,8 @@ _(this article has no graphical representation)_
 
 
 
- [List of Modeling Issues](../Community/Main.md "Community:Main") | [Post a new modeling issue](../Community/PostModelingIssue.md "Community:PostModelingIssue") | [Add a comment in the discussion page](index.php@title=Odp%253AAdd_comment&target=Community_talk%253APattern_Based_Ontology_Transformation.html#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Community_talk:Pattern_Based_Ontology_Transformation#New_comment")
+ [List of Modeling Issues](../Community/Main "Community:Main") | [Post a new modeling issue](../Community/PostModelingIssue "Community:PostModelingIssue") | [Add a comment in the discussion page](index.php@title=Odp%253AAdd_comment&target=Community_talk%253APattern_Based_Ontology_Transformation.html#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Community_talk:Pattern_Based_Ontology_Transformation#New_comment")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Community:Pattern\_Based\_Ontology\_Transformation](../Community/Pattern_Based_Ontology_Transformation.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ModelingIssue](../Category/ModelingIssue.md "Category:ModelingIssue")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Community:Pattern\_Based\_Ontology\_Transformation](../Community/Pattern_Based_Ontology_Transformation)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ModelingIssue](../Category/ModelingIssue "Category:ModelingIssue")

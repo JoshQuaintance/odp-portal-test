@@ -1,6 +1,6 @@
-* [Image](../Image/Interest_all.png.md#file)
-* [File history](../Image/Interest_all.png.md#filehistory)
-* [Links](../Image/Interest_all.png.md#filelinks)
+* [Image](../Image/Interest_all.png#file)
+* [File history](../Image/Interest_all.png#filehistory)
+* [Links](../Image/Interest_all.png#filelinks)
 
 [![Image:Interest all.png](../images/thumb/8/8b/Interest_all.png/800px-Interest_all.png)](../images/8/8b/Interest_all.png)  
 Size of this preview: 800 × 374 pixels  
@@ -23,7 +23,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Submissions:Interest](../Submissions/Interest.md "Submissions:Interest")
+* [Submissions:Interest](../Submissions/Interest "Submissions:Interest")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Interest\_all.png](../Image/Interest_all.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Interest\_all.png](../Image/Interest_all.png)"

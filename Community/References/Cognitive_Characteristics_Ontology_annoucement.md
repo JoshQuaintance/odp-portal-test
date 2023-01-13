@@ -1,5 +1,5 @@
-[Go to the subject of this reference](../../Ontology/Cognitive_Characteristics_Ontology.md "Ontology:Cognitive Characteristics Ontology") | [All references](../../Community/References.1.md "Community:References") | [Add another reference to Ontology:Cognitive Characteristics Ontology](http://ontologydesignpatterns.org/wiki/Special:AddData/Reference?Reference[Subject]=Ontology:Cognitive Characteristics Ontology&subject=Ontology:Cognitive Characteristics Ontology)
+[Go to the subject of this reference](../../Ontology/Cognitive_Characteristics_Ontology "Ontology:Cognitive Characteristics Ontology") | [All references](../../Community/References.1 "Community:References") | [Add another reference to Ontology:Cognitive Characteristics Ontology](http://ontologydesignpatterns.org/wiki/Special:AddData/Reference?Reference[Subject]=Ontology:Cognitive Characteristics Ontology&subject=Ontology:Cognitive Characteristics Ontology)
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Community:References/Cognitive\_Characteristics\_Ontology\_annoucement](../../Community/References/Cognitive_Characteristics_Ontology_annoucement.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Reference](../../Category/Reference.md "Category:Reference")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Community:References/Cognitive\_Characteristics\_Ontology\_annoucement](../../Community/References/Cognitive_Characteristics_Ontology_annoucement)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Reference](../../Category/Reference "Category:Reference")

@@ -1,6 +1,6 @@
-* [Image](../Image/Invoice.jpg.md#file)
-* [File history](../Image/Invoice.jpg.md#filehistory)
-* [Links](../Image/Invoice.jpg.md#filelinks)
+* [Image](../Image/Invoice.jpg#file)
+* [File history](../Image/Invoice.jpg#filehistory)
+* [Links](../Image/Invoice.jpg#filelinks)
 
 [![Image:Invoice.jpg](../images/e/eb/Invoice.jpg)](../images/e/eb/Invoice.jpg)  
 No higher resolution available.  
@@ -23,8 +23,8 @@ Click on a date/time to view the file as it appeared at that time.
 The following 2 pages link to this file:
 
 
-* [Community:Images](../Community/Images.md "Community:Images")
-* [Submissions:Invoice](../Submissions/Invoice.md "Submissions:Invoice")
+* [Community:Images](../Community/Images "Community:Images")
+* [Submissions:Invoice](../Submissions/Invoice "Submissions:Invoice")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Invoice.jpg](../Image/Invoice.jpg.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Invoice.jpg](../Image/Invoice.jpg)"

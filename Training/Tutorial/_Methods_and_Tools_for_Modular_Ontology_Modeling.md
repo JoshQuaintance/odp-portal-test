@@ -20,7 +20,7 @@ No exercises.
 
 
 
-[Create exercise for this tutorial](http://ontologydesignpatterns.org/wiki/Special:AddData/Form:Tutorial_Exercise_Form?Exercise_Description_Template[Tutorial]=Tutorial: Methods and Tools for Modular Ontology Modeling) | [Training area](../../Training/Main.md "Training:Main")
+[Create exercise for this tutorial](http://ontologydesignpatterns.org/wiki/Special:AddData/Form:Tutorial_Exercise_Form?Exercise_Description_Template[Tutorial]=Tutorial: Methods and Tools for Modular Ontology Modeling) | [Training area](../../Training/Main "Training:Main")
 
 ##   Tutorial Schedule
 
@@ -126,5 +126,5 @@ Md Kamruzzaman Sarker is a PhD student at Wright State University. His current r
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Training:Tutorial:\_Methods\_and\_Tools\_for\_Modular\_Ontology\_Modeling](../../Training/Tutorial/_Methods_and_Tools_for_Modular_Ontology_Modeling.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Tutorial](../../Category/Tutorial.md "Category:Tutorial")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Training:Tutorial:\_Methods\_and\_Tools\_for\_Modular\_Ontology\_Modeling](../../Training/Tutorial/_Methods_and_Tools_for_Modular_Ontology_Modeling)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Tutorial](../../Category/Tutorial "Category:Tutorial")

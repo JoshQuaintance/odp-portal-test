@@ -1,4 +1,4 @@
-[![Image:ODPUser.png](../images/a/a6/ODPUser.png)](../Image/ODPUser.png.md "Image:ODPUser.png")
+[![Image:ODPUser.png](../images/a/a6/ODPUser.png)](../Image/ODPUser.png "Image:ODPUser.png")
 
 
 
@@ -19,11 +19,11 @@ __Domains of interest:__
 
 
 
-* [General](../Community/General.md "Community:General")
-* [Ontology](../Community/Ontology-based_models.md "Community:Ontology")
-* [Organization](../Community/Organization.md "Community:Organization")
-* [Time](../Community/Time.md "Community:Time")
-* [Workflow](../Community/Workflow.md "Community:Workflow")
+* [General](../Community/General "Community:General")
+* [Ontology](../Community/Ontology-based_models "Community:Ontology")
+* [Organization](../Community/Organization "Community:Organization")
+* [Time](../Community/Time "Community:Time")
+* [Workflow](../Community/Workflow "Community:Workflow")
 
 
 __Is expert of:__
@@ -38,5 +38,5 @@ __How did I know about ODP:__ surfing the web
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/User:JamesMiller](../User/JamesMiller.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ODPUser](../Category/ODPUser.md "Category:ODPUser")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/User:JamesMiller](../User/JamesMiller)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ODPUser](../Category/ODPUser "Category:ODPUser")

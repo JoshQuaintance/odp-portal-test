@@ -1,4 +1,4 @@
-This property is of type [Type:String](../Type/String.md "Type:String"). 
+This property is of type [Type:String](../Type/String "Type:String"). 
 
 
 

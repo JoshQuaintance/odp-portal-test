@@ -1,6 +1,6 @@
-* [Image](../Image/ODPEEP.jpg.md#file)
-* [File history](../Image/ODPEEP.jpg.md#filehistory)
-* [Links](../Image/ODPEEP.jpg.md#filelinks)
+* [Image](../Image/ODPEEP.jpg#file)
+* [File history](../Image/ODPEEP.jpg#filehistory)
+* [Links](../Image/ODPEEP.jpg#filelinks)
 
 [![Image:ODPEEP.jpg](../images/thumb/d/df/ODPEEP.jpg/800px-ODPEEP.jpg)](../images/d/df/ODPEEP.jpg)  
 Size of this preview: 800 × 550 pixels  
@@ -26,7 +26,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Submissions:EEP](../Submissions/EEP.md "Submissions:EEP")
+* [Submissions:EEP](../Submissions/EEP "Submissions:EEP")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:ODPEEP.jpg](../Image/ODPEEP.jpg.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:ODPEEP.jpg](../Image/ODPEEP.jpg)"

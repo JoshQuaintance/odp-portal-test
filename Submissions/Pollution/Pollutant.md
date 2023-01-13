@@ -1,4 +1,4 @@
-___Pollutant__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [Pollution](../../Submissions/Pollution.md "Submissions:Pollution")_
+___Pollutant__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [Pollution](../../Submissions/Pollution "Submissions:Pollution")_
 
 
   
@@ -6,7 +6,7 @@ ___Pollutant__ has [Category:OntologyElement](../../Category/OntologyElement.md 
 
 
 
-[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif.md "Class")
+[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif "Class")
 __Name__: Pollutant 
 
 
@@ -19,5 +19,5 @@ __Description__: Represents various pollutants which contaminate the environment
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Pollution/Pollutant](../../Submissions/Pollution/carriesPollutant.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Pollution/Pollutant](../../Submissions/Pollution/carriesPollutant)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

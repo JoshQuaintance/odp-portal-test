@@ -1,4 +1,4 @@
-___SensorOutput__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [EventProcessing](../../Submissions/EventProcessing.md "Submissions:EventProcessing")_
+___SensorOutput__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [EventProcessing](../../Submissions/EventProcessing "Submissions:EventProcessing")_
 
 
   
@@ -6,7 +6,7 @@ ___SensorOutput__ has [Category:OntologyElement](../../Category/OntologyElement.
 
 
 
-[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif.md "Class")
+[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif "Class")
 __Name__: SensorOutput 
 
 
@@ -19,5 +19,5 @@ __Description__: Class representing the alignement to ssn:SensorOutput, expressi
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:EventProcessing/SensorOutput](../../Submissions/EventProcessing/SensorOutput.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:EventProcessing/SensorOutput](../../Submissions/EventProcessing/SensorOutput)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

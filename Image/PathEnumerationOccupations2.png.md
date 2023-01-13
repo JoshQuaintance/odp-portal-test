@@ -1,6 +1,6 @@
-* [Image](../Image/PathEnumerationOccupations2.png.md#file)
-* [File history](../Image/PathEnumerationOccupations2.png.md#filehistory)
-* [Links](../Image/PathEnumerationOccupations2.png.md#filelinks)
+* [Image](../Image/PathEnumerationOccupations2.png#file)
+* [File history](../Image/PathEnumerationOccupations2.png#filehistory)
+* [Links](../Image/PathEnumerationOccupations2.png#filelinks)
 
 [![Image:PathEnumerationOccupations2.png](../images/b/bb/PathEnumerationOccupations2.png)](../images/b/bb/PathEnumerationOccupations2.png)  
 No higher resolution available.  
@@ -23,13 +23,13 @@ Click on a date/time to view the file as it appeared at that time.
 The following file is a duplicate of this file:
 
 
-* [Image:PathEnumerationOccupations.png](../Image/PathEnumerationOccupations.png.md "Image:PathEnumerationOccupations.png")
+* [Image:PathEnumerationOccupations.png](../Image/PathEnumerationOccupations.png "Image:PathEnumerationOccupations.png")
 
 
 The following page links to this file:
 
 
-* [Submissions:Pattern for re-engineering a classification scheme, which follows the path enumeration data model, into an ontology schema](../Submissions/Pattern_for_re-engineering_a_classification_scheme,_which_follows_the_path_enumeration_data_model,_into_an_ontology_schema.md "Submissions:Pattern for re-engineering a classification scheme, which follows the path enumeration data model, into an ontology schema")
+* [Submissions:Pattern for re-engineering a classification scheme, which follows the path enumeration data model, into an ontology schema](../Submissions/Pattern_for_re-engineering_a_classification_scheme,_which_follows_the_path_enumeration_data_model,_into_an_ontology_schema "Submissions:Pattern for re-engineering a classification scheme, which follows the path enumeration data model, into an ontology schema")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:PathEnumerationOccupations2.png](../Image/PathEnumerationOccupations2.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:PathEnumerationOccupations2.png](../Image/PathEnumerationOccupations2.png)"

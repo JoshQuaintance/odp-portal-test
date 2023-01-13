@@ -1,4 +1,4 @@
-[![](../images/thumb/7/70/Training2.png/70px-Training2.png)](../Image/Training2.png.md "Training2.png")
+[![](../images/thumb/7/70/Training2.png/70px-Training2.png)](../Image/Training2.png "Training2.png")
 
 
 This is the main page for training activities.
@@ -19,4 +19,4 @@ __Tutorials__:
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Training:Main](../Training/Main.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Training:Main](../Training/Main)"

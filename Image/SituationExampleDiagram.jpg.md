@@ -1,6 +1,6 @@
-* [Image](../Image/SituationExampleDiagram.jpg.md#file)
-* [File history](../Image/SituationExampleDiagram.jpg.md#filehistory)
-* [Links](../Image/SituationExampleDiagram.jpg.md#filelinks)
+* [Image](../Image/SituationExampleDiagram.jpg#file)
+* [File history](../Image/SituationExampleDiagram.jpg#filehistory)
+* [Links](../Image/SituationExampleDiagram.jpg#filelinks)
 
 [![Image:SituationExampleDiagram.jpg](../images/0/0e/SituationExampleDiagram.jpg)](../images/0/0e/SituationExampleDiagram.jpg)  
 No higher resolution available.  
@@ -23,9 +23,9 @@ Click on a date/time to view the file as it appeared at that time.
 The following 3 pages link to this file:
 
 
-* [Community:Images](../Community/Images.md "Community:Images")
-* [Template:Example](../Template/Example.md "Template:Example")
-* [Submissions:Situation/Scenario 1](../Submissions/Situation/Scenario_1.md "Submissions:Situation/Scenario 1")
+* [Community:Images](../Community/Images "Community:Images")
+* [Template:Example](../Template/Example "Template:Example")
+* [Submissions:Situation/Scenario 1](../Submissions/Situation/Scenario_1 "Submissions:Situation/Scenario 1")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:SituationExampleDiagram.jpg](../Image/SituationExampleDiagram.jpg.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:SituationExampleDiagram.jpg](../Image/SituationExampleDiagram.jpg)"

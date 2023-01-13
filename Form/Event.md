@@ -2,8 +2,8 @@ You must [log in](http://ontologydesignpatterns.org/wiki/index.php?title=Special
 
 
 
-Return to [Main Page](../Main_Page.md "Main Page").
+Return to [Main Page](../Main_Page "Main Page").
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Form:Event](../Form/Event.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Form:Event](../Form/Event)"

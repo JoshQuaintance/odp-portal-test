@@ -1,4 +1,4 @@
-___isCompatibleWith__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [Computer System](../../Submissions/Computer_System.md "Submissions:Computer System")_
+___isCompatibleWith__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [Computer System](../../Submissions/Computer_System "Submissions:Computer System")_
 
 
   
@@ -6,7 +6,7 @@ ___isCompatibleWith__ has [Category:OntologyElement](../../Category/OntologyElem
 
 
 
-[![ObjectProperty](../../images/thumb/c/c3/ObjectProperty.gif/45px-ObjectProperty.gif)](../../Image/ObjectProperty.gif.md "ObjectProperty")
+[![ObjectProperty](../../images/thumb/c/c3/ObjectProperty.gif/45px-ObjectProperty.gif)](../../Image/ObjectProperty.gif "ObjectProperty")
 __Name__: isCompatibleWith 
 
 
@@ -19,5 +19,5 @@ __Description__: Represents the relationship of compatibility between two compon
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Computer\_System/isCompatibleWith](../../Submissions/Computer_System/isCompatibleWith.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Computer\_System/isCompatibleWith](../../Submissions/Computer_System/isCompatibleWith)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

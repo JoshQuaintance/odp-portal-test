@@ -1,6 +1,6 @@
-* [Image](../Image/ServiceProviderSoA_v1.jpg.md#file)
-* [File history](../Image/ServiceProviderSoA_v1.jpg.md#filehistory)
-* [Links](../Image/ServiceProviderSoA_v1.jpg.md#filelinks)
+* [Image](../Image/ServiceProviderSoA_v1.jpg#file)
+* [File history](../Image/ServiceProviderSoA_v1.jpg#filehistory)
+* [Links](../Image/ServiceProviderSoA_v1.jpg#filelinks)
 
 [![Image:ServiceProviderSoA v1.jpg](../images/b/b7/ServiceProviderSoA_v1.jpg)](../images/b/b7/ServiceProviderSoA_v1.jpg)  
 No higher resolution available.  
@@ -23,7 +23,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Submissions:SimpleOrAggregated/Scenario 1](../Submissions/SimpleOrAggregated/Scenario_1.md "Submissions:SimpleOrAggregated/Scenario 1")
+* [Submissions:SimpleOrAggregated/Scenario 1](../Submissions/SimpleOrAggregated/Scenario_1 "Submissions:SimpleOrAggregated/Scenario 1")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:ServiceProviderSoA\_v1.jpg](../Image/ServiceProviderSoA_v1.jpg.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:ServiceProviderSoA\_v1.jpg](../Image/ServiceProviderSoA_v1.jpg)"

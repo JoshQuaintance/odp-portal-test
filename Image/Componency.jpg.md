@@ -1,6 +1,6 @@
-* [Image](../Image/Componency.jpg.md#file)
-* [File history](../Image/Componency.jpg.md#filehistory)
-* [Links](../Image/Componency.jpg.md#filelinks)
+* [Image](../Image/Componency.jpg#file)
+* [File history](../Image/Componency.jpg#filehistory)
+* [Links](../Image/Componency.jpg#filelinks)
 
 [![Image:Componency.jpg](../images/f/fc/Componency.jpg)](../images/f/fc/Componency.jpg)  
 No higher resolution available.  
@@ -23,8 +23,8 @@ Click on a date/time to view the file as it appeared at that time.
 The following 2 pages link to this file:
 
 
-* [Community:Images](../Community/Images.md "Community:Images")
-* [Submissions:Componency](../Submissions/Componency.md "Submissions:Componency")
+* [Community:Images](../Community/Images "Community:Images")
+* [Submissions:Componency](../Submissions/Componency "Submissions:Componency")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Componency.jpg](../Image/Componency.jpg.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Componency.jpg](../Image/Componency.jpg)"

@@ -1,4 +1,4 @@
-Return to [Catalogue of Exemplary Ontologies](../Ontology/Main.md "Ontology:Main")
+Return to [Catalogue of Exemplary Ontologies](../Ontology/Main "Ontology:Main")
 
 
 
@@ -81,5 +81,5 @@ Traditional sources do not include such a comprehensive taxonomy and do not expl
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Ontology:Foundational\_Model\_of\_Anatomy\_%28FMA%29](../Ontology/Foundational_Model_of_Anatomy_(FMA).md).md).html)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Ontology](../Category/Ontology.md "Category:Ontology")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Ontology:Foundational\_Model\_of\_Anatomy\_%28FMA%29](../Ontology/Foundational_Model_of_Anatomy_(FMA)).md).md).html)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Ontology](../Category/Ontology "Category:Ontology")

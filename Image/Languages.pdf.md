@@ -1,8 +1,8 @@
-* [Image](../Image/Languages.pdf.md#file)
-* [File history](../Image/Languages.pdf.md#filehistory)
-* [Links](../Image/Languages.pdf.md#filelinks)
+* [Image](../Image/Languages.pdf#file)
+* [File history](../Image/Languages.pdf#filehistory)
+* [Links](../Image/Languages.pdf#filelinks)
 
-[![](../skins/common/images/icons/fileicon-pdf.png)](../Image/Languages.pdf.md "Languages.pdf")
+[![](../skins/common/images/icons/fileicon-pdf.png)](../Image/Languages.pdf "Languages.pdf")
 [Languages.pdf](../images/d/d3/Languages.pdf "Languages.pdf")‎  (file size: 481 KB, MIME type: application/pdf)
 
 
@@ -26,7 +26,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Community:Images](../Community/Images.md "Community:Images")
+* [Community:Images](../Community/Images "Community:Images")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Languages.pdf](../Image/Languages.pdf.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Languages.pdf](../Image/Languages.pdf)"

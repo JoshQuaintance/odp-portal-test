@@ -1,6 +1,6 @@
-* [Image](../Image/Dir.png.md#file)
-* [File history](../Image/Dir.png.md#filehistory)
-* [Links](../Image/Dir.png.md#filelinks)
+* [Image](../Image/Dir.png#file)
+* [File history](../Image/Dir.png#filehistory)
+* [Links](../Image/Dir.png#filelinks)
 
 [![Image:Dir.png](../images/thumb/b/b4/Dir.png/800px-Dir.png)](../images/b/b4/Dir.png)  
 Size of this preview: 800 × 544 pixels  
@@ -23,7 +23,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Submissions:Description in Range](../Submissions/Description_in_Range.md "Submissions:Description in Range")
+* [Submissions:Description in Range](../Submissions/Description_in_Range "Submissions:Description in Range")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Dir.png](../Image/Dir.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Dir.png](../Image/Dir.png)"

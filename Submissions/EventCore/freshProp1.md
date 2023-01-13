@@ -1,4 +1,4 @@
-___freshProp1__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [EventCore](../../Submissions/EventCore.md "Submissions:EventCore")_
+___freshProp1__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [EventCore](../../Submissions/EventCore "Submissions:EventCore")_
 
 
   
@@ -6,7 +6,7 @@ ___freshProp1__ has [Category:OntologyElement](../../Category/OntologyElement.md
 
 
 
-[![ObjectProperty](../../images/thumb/c/c3/ObjectProperty.gif/45px-ObjectProperty.gif)](../../Image/ObjectProperty.gif.md "ObjectProperty")
+[![ObjectProperty](../../images/thumb/c/c3/ObjectProperty.gif/45px-ObjectProperty.gif)](../../Image/ObjectProperty.gif "ObjectProperty")
 __Name__: freshProp1 
 
 
@@ -28,5 +28,5 @@ The rule is translated into two axioms:
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:EventCore/freshProp1](../../Submissions/EventCore/freshProp1.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:EventCore/freshProp1](../../Submissions/EventCore/freshProp1)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

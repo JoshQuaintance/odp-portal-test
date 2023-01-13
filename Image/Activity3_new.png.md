@@ -1,6 +1,6 @@
-* [Image](../Image/Activity3_new.png.md#file)
-* [File history](../Image/Activity3_new.png.md#filehistory)
-* [Links](../Image/Activity3_new.png.md#filelinks)
+* [Image](../Image/Activity3_new.png#file)
+* [File history](../Image/Activity3_new.png#filehistory)
+* [Links](../Image/Activity3_new.png#filelinks)
 
 [![Image:Activity3 new.png](../images/thumb/3/39/Activity3_new.png/800px-Activity3_new.png)](../images/3/39/Activity3_new.png)  
 Size of this preview: 800 × 240 pixels  
@@ -25,4 +25,4 @@ There are no pages that link to this file.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Activity3\_new.png](../Image/Activity3_new.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Activity3\_new.png](../Image/Activity3_new.png)"

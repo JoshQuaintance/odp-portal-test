@@ -1,6 +1,6 @@
-* [Image](../Image/RelativeRelationshipPattern.jpg.md#file)
-* [File history](../Image/RelativeRelationshipPattern.jpg.md#filehistory)
-* [Links](../Image/RelativeRelationshipPattern.jpg.md#filelinks)
+* [Image](../Image/RelativeRelationshipPattern.jpg#file)
+* [File history](../Image/RelativeRelationshipPattern.jpg#filehistory)
+* [Links](../Image/RelativeRelationshipPattern.jpg#filelinks)
 
 [![Image:RelativeRelationshipPattern.jpg](../images/thumb/2/27/RelativeRelationshipPattern.jpg/800px-RelativeRelationshipPattern.jpg)](../images/2/27/RelativeRelationshipPattern.jpg)  
 Size of this preview: 800 × 383 pixels  
@@ -23,7 +23,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Submissions:RelativeRelationship](../Submissions/RelativeRelationship.md "Submissions:RelativeRelationship")
+* [Submissions:RelativeRelationship](../Submissions/RelativeRelationship "Submissions:RelativeRelationship")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:RelativeRelationshipPattern.jpg](../Image/RelativeRelationshipPattern.jpg.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:RelativeRelationshipPattern.jpg](../Image/RelativeRelationshipPattern.jpg)"

@@ -1,4 +1,4 @@
-___GoalSituation__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [BasicPlan](../../Submissions/BasicPlan.md "Submissions:BasicPlan")_
+___GoalSituation__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [BasicPlan](../../Submissions/BasicPlan "Submissions:BasicPlan")_
 
 
   
@@ -6,7 +6,7 @@ ___GoalSituation__ has [Category:OntologyElement](../../Category/OntologyElement
 
 
 
-[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif.md "Class")
+[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif "Class")
 __Name__: GoalSituation 
 
 
@@ -19,5 +19,5 @@ __Description__: A goal situation is a situation that satisfies a goal.Opposite 
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:BasicPlan/GoalSituation](../../Submissions/BasicPlan/GoalSituation.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:BasicPlan/GoalSituation](../../Submissions/BasicPlan/GoalSituation)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

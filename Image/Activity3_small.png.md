@@ -1,6 +1,6 @@
-* [Image](../Image/Activity3_small.png.md#file)
-* [File history](../Image/Activity3_small.png.md#filehistory)
-* [Links](../Image/Activity3_small.png.md#filelinks)
+* [Image](../Image/Activity3_small.png#file)
+* [File history](../Image/Activity3_small.png#filehistory)
+* [Links](../Image/Activity3_small.png#filelinks)
 
 [![Image:Activity3 small.png](../images/thumb/d/d9/Activity3_small.png/800px-Activity3_small.png)](../images/d/d9/Activity3_small.png)  
 Size of this preview: 800 × 241 pixels  
@@ -23,7 +23,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Submissions:An Ontology Design Pattern for Activity Reasoning](../Submissions/An_Ontology_Design_Pattern_for_Activity_Reasoning.md "Submissions:An Ontology Design Pattern for Activity Reasoning")
+* [Submissions:An Ontology Design Pattern for Activity Reasoning](../Submissions/An_Ontology_Design_Pattern_for_Activity_Reasoning "Submissions:An Ontology Design Pattern for Activity Reasoning")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Activity3\_small.png](../Image/Activity3_small.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Activity3\_small.png](../Image/Activity3_small.png)"

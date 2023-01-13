@@ -5,7 +5,7 @@ __Diagram__
 
 
 
-[![Image:ConceptTermsEurovocExample.jpg](../../images/9/9e/ConceptTermsEurovocExample.jpg)](../../Image/ConceptTermsEurovocExample.jpg.md "Image:ConceptTermsEurovocExample.jpg")
+[![Image:ConceptTermsEurovocExample.jpg](../../images/9/9e/ConceptTermsEurovocExample.jpg)](../../Image/ConceptTermsEurovocExample.jpg "Image:ConceptTermsEurovocExample.jpg")
 
 
 
@@ -16,5 +16,5 @@ __OWL file:__ [http://sites.google.com/site/pierreyvesvandenbussche/resources/Co
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:ConceptTerms/Scenario\_1](../../Submissions/AgentRole/Scenario_1.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Scenario](../../Category/Scenario.md "Category:Scenario")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:ConceptTerms/Scenario\_1](../../Submissions/AgentRole/Scenario_1)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Scenario](../../Category/Scenario "Category:Scenario")

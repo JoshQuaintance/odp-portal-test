@@ -1,8 +1,8 @@
-* [Image](../Image/Paper-09.pdf.md#file)
-* [File history](../Image/Paper-09.pdf.md#filehistory)
-* [Links](../Image/Paper-09.pdf.md#filelinks)
+* [Image](../Image/Paper-09.pdf#file)
+* [File history](../Image/Paper-09.pdf#filehistory)
+* [Links](../Image/Paper-09.pdf#filelinks)
 
-[![](../skins/common/images/icons/fileicon-pdf.png)](../Image/Paper-09.pdf.md "Paper-09.pdf")
+[![](../skins/common/images/icons/fileicon-pdf.png)](../Image/Paper-09.pdf "Paper-09.pdf")
 [Paper-09.pdf](../images/0/0a/Paper-09.pdf "Paper-09.pdf")‎  (file size: 488 KB, MIME type: application/pdf)
 
 
@@ -33,4 +33,4 @@ There are no pages that link to this file.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Paper-09.pdf](../Image/Paper-09.pdf.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Paper-09.pdf](../Image/Paper-09.pdf)"

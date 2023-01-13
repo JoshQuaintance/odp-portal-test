@@ -1,7 +1,7 @@
-* [Image](../Image/Johannes.jpg.md#file)
-* [File history](../Image/Johannes.jpg.md#filehistory)
-* [Links](../Image/Johannes.jpg.md#filelinks)
-* [Metadata](../Image/Johannes.jpg.md#metadata)
+* [Image](../Image/Johannes.jpg#file)
+* [File history](../Image/Johannes.jpg#filehistory)
+* [Links](../Image/Johannes.jpg#filelinks)
+* [Metadata](../Image/Johannes.jpg#metadata)
 
 [![Image:Johannes.jpg](../images/b/b6/Johannes.jpg)](../images/b/b6/Johannes.jpg)  
 No higher resolution available.  
@@ -27,7 +27,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [User:JohannesLipp](../User/JohannesLipp.md "User:JohannesLipp")
+* [User:JohannesLipp](../User/JohannesLipp "User:JohannesLipp")
 
 ## Metadata
 
@@ -38,4 +38,4 @@ If the file has been modified from its original state, some details may not full
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Johannes.jpg](../Image/Johannes.jpg.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Johannes.jpg](../Image/Johannes.jpg)"

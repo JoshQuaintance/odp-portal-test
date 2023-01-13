@@ -1,4 +1,4 @@
-[![](../images/thumb/b/b5/Certified.png/70px-Certified.png)](../Image/Certified.png.md "Certified.png") __This pattern has been certified.__
+[![](../images/thumb/b/b5/Certified.png/70px-Certified.png)](../Image/Certified.png "Certified.png") __This pattern has been certified.__
 Related submission, with evaluation history, can be found __here__
 
 
@@ -13,7 +13,7 @@ __Diagram__
 
 
 
-[![Image:Bag.jpg](../images/4/47/Bag.jpg)](../Image/Bag.jpg.md "Image:Bag.jpg")
+[![Image:Bag.jpg](../images/4/47/Bag.jpg)](../Image/Bag.jpg "Image:Bag.jpg")
 
 
 
@@ -33,18 +33,18 @@ _The __Bag__ Content OP locally defines the following ontology elements:_
 
 
 
-[![Class](../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __Item__ (owl:Class) Item - Element belonging to a Bag 
- [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[Item](../Submissions/Bag/Item.md "Submissions:Bag/Item") page_
-[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __itemContent__ (owl:ObjectProperty) itemContent - The link to the actual resource to which the item refers. 
- [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[itemContent](../Submissions/Bag/itemContent.md "Submissions:Bag/itemContent") page_
-[![Class](../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __Bag__ (owl:Class) Bag - Collection that can have a number of copies of each object 
- [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[Bag](../Submissions/Bag/Bag.md "Submissions:Bag/Bag") page_
-[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __itemOf__ (owl:ObjectProperty) item of - The link from an item to the Bag where it is contained 
- [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[itemOf](../Submissions/Bag/itemOf.md "Submissions:Bag/itemOf") page_
-[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __hasItem__ (owl:ObjectProperty) has item - The link to every item of the Bag 
- [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[hasItem](../Submissions/Bag/hasItem.md "Submissions:Bag/hasItem") page_
-[![DatatypeProperty](../images/thumb/a/a5/DatatypeProperty.gif/20px-DatatypeProperty.gif)](../Image/DatatypeProperty.gif.md "DatatypeProperty") __size__ (owl:DatatypeProperty) size - The number of items belonging to a collection 
- [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[size](../Submissions/Bag/size.md "Submissions:Bag/size") page_
+[![Class](../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif "Class") __Item__ (owl:Class) Item - Element belonging to a Bag 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif "ArrowRight.gif") _[Item](../Submissions/Bag/Item "Submissions:Bag/Item") page_
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif "ObjectProperty") __itemContent__ (owl:ObjectProperty) itemContent - The link to the actual resource to which the item refers. 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif "ArrowRight.gif") _[itemContent](../Submissions/Bag/itemContent "Submissions:Bag/itemContent") page_
+[![Class](../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif "Class") __Bag__ (owl:Class) Bag - Collection that can have a number of copies of each object 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif "ArrowRight.gif") _[Bag](../Submissions/Bag/Bag "Submissions:Bag/Bag") page_
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif "ObjectProperty") __itemOf__ (owl:ObjectProperty) item of - The link from an item to the Bag where it is contained 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif "ArrowRight.gif") _[itemOf](../Submissions/Bag/itemOf "Submissions:Bag/itemOf") page_
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif "ObjectProperty") __hasItem__ (owl:ObjectProperty) has item - The link to every item of the Bag 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif "ArrowRight.gif") _[hasItem](../Submissions/Bag/hasItem "Submissions:Bag/hasItem") page_
+[![DatatypeProperty](../images/thumb/a/a5/DatatypeProperty.gif/20px-DatatypeProperty.gif)](../Image/DatatypeProperty.gif "DatatypeProperty") __size__ (owl:DatatypeProperty) size - The number of items belonging to a collection 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif "ArrowRight.gif") _[size](../Submissions/Bag/size "Submissions:Bag/size") page_
 #  Additional information
 
 
@@ -104,7 +104,7 @@ There is no Modeling issue related to this proposal.
 #  References
 
 
-[Add a reference](index.php@title=Odp%253AAdd_reference&subject=../Submissions/Bag.md "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_reference&subject=Submissions%3ABag")
+[Add a reference](index.php@title=Odp%253AAdd_reference&subject=../Submissions/Bag "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_reference&subject=Submissions%3ABag")
 
 
   
@@ -114,5 +114,5 @@ There is no Modeling issue related to this proposal.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Bag](../Submissions/Bag.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ProposedContentOP](../Category/ProposedContentOP.md "Category:ProposedContentOP")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Bag](../Submissions/Bag)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ProposedContentOP](../Category/ProposedContentOP "Category:ProposedContentOP")

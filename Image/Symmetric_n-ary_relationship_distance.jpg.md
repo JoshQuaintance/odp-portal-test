@@ -1,6 +1,6 @@
-* [Image](../Image/Symmetric_n-ary_relationship_distance.jpg.md#file)
-* [File history](../Image/Symmetric_n-ary_relationship_distance.jpg.md#filehistory)
-* [Links](../Image/Symmetric_n-ary_relationship_distance.jpg.md#filelinks)
+* [Image](../Image/Symmetric_n-ary_relationship_distance.jpg#file)
+* [File history](../Image/Symmetric_n-ary_relationship_distance.jpg#filehistory)
+* [Links](../Image/Symmetric_n-ary_relationship_distance.jpg#filelinks)
 
 [![Image:Symmetric n-ary relationship distance.jpg](../images/b/bd/Symmetric_n-ary_relationship_distance.jpg)](../images/b/bd/Symmetric_n-ary_relationship_distance.jpg)  
 No higher resolution available.  
@@ -25,4 +25,4 @@ There are no pages that link to this file.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Symmetric\_n-ary\_relationship\_distance.jpg](../Image/Symmetric_n-ary_relationship_distance.jpg.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Symmetric\_n-ary\_relationship\_distance.jpg](../Image/Symmetric_n-ary_relationship_distance.jpg)"

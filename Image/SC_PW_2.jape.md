@@ -1,6 +1,6 @@
-* [Image](../Image/SC_PW_2.jape.md#file)
-* [File history](../Image/SC_PW_2.jape.md#filehistory)
-* [Links](../Image/SC_PW_2.jape.md#filelinks)
+* [Image](../Image/SC_PW_2.jape#file)
+* [File history](../Image/SC_PW_2.jape#filehistory)
+* [Links](../Image/SC_PW_2.jape#filelinks)
 
 
 [SC\_PW\_2.jape](../images/3/3b/SC_PW_2.jape "SC PW 2.jape")‎
@@ -36,4 +36,4 @@ The following 2 pages link to this file:
 * [Submissions:Lexico Syntactic ODPs corresponding to SubclassOf "or" Simple Part-Whole relation ODPs/2](Submissions%253ALexico_Syntactic_ODPs_corresponding_to_SubclassOf_%2522or%2522_Simple_Part-Whole_relation_ODPs/2.html "Submissions:Lexico Syntactic ODPs corresponding to SubclassOf \"or\" Simple Part-Whole relation ODPs/2")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:SC\_PW\_2.jape](../Image/SC_PW_2.jape.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:SC\_PW\_2.jape](../Image/SC_PW_2.jape)"

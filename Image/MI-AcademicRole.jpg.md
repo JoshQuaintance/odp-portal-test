@@ -1,6 +1,6 @@
-* [Image](../Image/MI-AcademicRole.jpg.md#file)
-* [File history](../Image/MI-AcademicRole.jpg.md#filehistory)
-* [Links](../Image/MI-AcademicRole.jpg.md#filelinks)
+* [Image](../Image/MI-AcademicRole.jpg#file)
+* [File history](../Image/MI-AcademicRole.jpg#filehistory)
+* [Links](../Image/MI-AcademicRole.jpg#filelinks)
 
 [![Image:MI-AcademicRole.jpg](../images/thumb/9/96/MI-AcademicRole.jpg/800px-MI-AcademicRole.jpg)](../images/9/96/MI-AcademicRole.jpg)  
 Size of this preview: 800 × 423 pixels  
@@ -26,7 +26,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Community:AcademicRoles](../Community/AcademicRoles.md "Community:AcademicRoles")
+* [Community:AcademicRoles](../Community/AcademicRoles "Community:AcademicRoles")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:MI-AcademicRole.jpg](../Image/MI-AcademicRole.jpg.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:MI-AcademicRole.jpg](../Image/MI-AcademicRole.jpg)"

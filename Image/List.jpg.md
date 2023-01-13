@@ -1,7 +1,7 @@
-* [Image](../Image/List.jpg.md#file)
-* [File history](../Image/List.jpg.md#filehistory)
-* [Links](../Image/List.jpg.md#filelinks)
-* [Metadata](../Image/List.jpg.md#metadata)
+* [Image](../Image/List.jpg#file)
+* [File history](../Image/List.jpg#filehistory)
+* [Links](../Image/List.jpg#filelinks)
+* [Metadata](../Image/List.jpg#metadata)
 
 [![Image:List.jpg](../images/d/d5/List.jpg)](../images/d/d5/List.jpg)  
 No higher resolution available.  
@@ -27,7 +27,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Submissions:List](../Submissions/List.md "Submissions:List")
+* [Submissions:List](../Submissions/List "Submissions:List")
 
 ## Metadata
 
@@ -38,4 +38,4 @@ If the file has been modified from its original state, some details may not full
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:List.jpg](../Image/List.jpg.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:List.jpg](../Image/List.jpg)"

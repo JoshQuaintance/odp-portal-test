@@ -1,6 +1,6 @@
-* [Image](../Image/VSElogo.png.md#file)
-* [File history](../Image/VSElogo.png.md#filehistory)
-* [Links](../Image/VSElogo.png.md#filelinks)
+* [Image](../Image/VSElogo.png#file)
+* [File history](../Image/VSElogo.png#filehistory)
+* [Links](../Image/VSElogo.png#filelinks)
 
 [![Image:VSElogo.png](../images/thumb/d/d2/VSElogo.png/590px-VSElogo.png)](../images/d/d2/VSElogo.png)  
 Size of this preview: 590 × 599 pixels  
@@ -23,8 +23,8 @@ Click on a date/time to view the file as it appeared at that time.
 The following 2 pages link to this file:
 
 
-* [Community:Images](../Community/Images.md "Community:Images")
-* [Odp:Partners](../Odp/Partners.md "Odp:Partners")
+* [Community:Images](../Community/Images "Community:Images")
+* [Odp:Partners](../Odp/Partners "Odp:Partners")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:VSElogo.png](../Image/VSElogo.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:VSElogo.png](../Image/VSElogo.png)"

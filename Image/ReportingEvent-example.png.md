@@ -1,6 +1,6 @@
-* [Image](../Image/ReportingEvent-example.png.md#file)
-* [File history](../Image/ReportingEvent-example.png.md#filehistory)
-* [Links](../Image/ReportingEvent-example.png.md#filelinks)
+* [Image](../Image/ReportingEvent-example.png#file)
+* [File history](../Image/ReportingEvent-example.png#filehistory)
+* [Links](../Image/ReportingEvent-example.png#filelinks)
 
 [![Image:ReportingEvent-example.png](../images/0/0a/ReportingEvent-example.png)](../images/0/0a/ReportingEvent-example.png)  
 No higher resolution available.  
@@ -25,4 +25,4 @@ There are no pages that link to this file.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:ReportingEvent-example.png](../Image/ReportingEvent-example.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:ReportingEvent-example.png](../Image/ReportingEvent-example.png)"

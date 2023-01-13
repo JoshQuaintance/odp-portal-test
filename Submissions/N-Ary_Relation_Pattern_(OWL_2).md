@@ -1,4 +1,4 @@
-[![](../images/thumb/b/b5/Certified.png/70px-Certified.png)](../Image/Certified.png.md "Certified.png") __This pattern has been certified.__
+[![](../images/thumb/b/b5/Certified.png/70px-Certified.png)](../Image/Certified.png "Certified.png") __This pattern has been certified.__
 Related submission, with evaluation history, can be found __here__
 
 
@@ -13,7 +13,7 @@ __Diagram__
 
 
 
-[![Image:Nary-relation.png](../images/0/04/Nary-relation.png)](../Image/Nary-relation.png.md "Image:Nary-relation.png")
+[![Image:Nary-relation.png](../images/0/04/Nary-relation.png)](../Image/Nary-relation.png "Image:Nary-relation.png")
 
 
 
@@ -112,5 +112,5 @@ There is no Modeling issue related to this proposal.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:N-Ary\_Relation\_Pattern\_%28OWL\_2%29](../Submissions/N-Ary_Relation_Pattern_(OWL_2).md).md).html)"
- [Categories](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [LogicalOP](../Category/LogicalOP.md "Category:LogicalOP") | [ProposedLogicalOP](../Category/ProposedLogicalOP.md "Category:ProposedLogicalOP") | [Waiting for review](../Category/Waiting_for_review.md "Category:Waiting for review")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:N-Ary\_Relation\_Pattern\_%28OWL\_2%29](../Submissions/N-Ary_Relation_Pattern_(OWL_2)).md).md).html)"
+ [Categories](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [LogicalOP](../Category/LogicalOP "Category:LogicalOP") | [ProposedLogicalOP](../Category/ProposedLogicalOP "Category:ProposedLogicalOP") | [Waiting for review](../Category/Waiting_for_review "Category:Waiting for review")

@@ -1,4 +1,4 @@
-[![Image:ODPUser.png](../images/a/a6/ODPUser.png)](../Image/ODPUser.png.md "Image:ODPUser.png")
+[![Image:ODPUser.png](../images/a/a6/ODPUser.png)](../Image/ODPUser.png "Image:ODPUser.png")
 
 
 
@@ -19,10 +19,10 @@ __Domains of interest:__
 
 
 
-* [General](../Community/General.md "Community:General")
-* [Ontology](../Community/Ontology-based_models.md "Community:Ontology")
-* [University](../Community/University.md "Community:University")
-* [Music](../Community/Music.md "Community:Music")
+* [General](../Community/General "Community:General")
+* [Ontology](../Community/Ontology-based_models "Community:Ontology")
+* [University](../Community/University "Community:University")
+* [Music](../Community/Music "Community:Music")
 
 
 __Is expert of:__
@@ -37,5 +37,5 @@ __How did I know about ODP:__ colleagues
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/User:FrancoisScharffe](../User/FrancoisScharffe.md)"
- [Categories](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ODPUser](../Category/ODPUser.md "Category:ODPUser") | [EBMember](../Category/EBMember.md "Category:EBMember")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/User:FrancoisScharffe](../User/FrancoisScharffe)"
+ [Categories](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ODPUser](../Category/ODPUser "Category:ODPUser") | [EBMember](../Category/EBMember "Category:EBMember")

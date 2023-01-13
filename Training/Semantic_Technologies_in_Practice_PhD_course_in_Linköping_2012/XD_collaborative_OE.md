@@ -26,7 +26,7 @@ Collaboratively develop an ontology from a set of customer stories by applying t
 __Resources__
 
 
-The Content ODP list: [http://ontologydesignpatterns.org/wiki/Submissions:ContentOPs](../../Submissions/ContentOPs.md "http://ontologydesignpatterns.org/wiki/Submissions:ContentOPs")
+The Content ODP list: [http://ontologydesignpatterns.org/wiki/Submissions:ContentOPs](../../Submissions/ContentOPs "http://ontologydesignpatterns.org/wiki/Submissions:ContentOPs")
 
 
 A shorter list of potentially useful patterns is at the bottom os this page: [http://www.ida.liu.se/~evabl45/part1.en.shtml](http://www.ida.liu.se/~evabl45/part1.en.shtml "http://www.ida.liu.se/~evabl45/part1.en.shtml")
@@ -41,15 +41,15 @@ __Solutions__:
 
 
 
-* [Group 1](../../Training/Semantic_Technologies_in_Practice_PhD_course_in_Linköping_2012/XD_collaborative_OE/G1.md "Training:Semantic Technologies in Practice PhD course in Linköping 2012/XD collaborative OE/G1")
-* [Group 2](../../Training/Semantic_Technologies_in_Practice_PhD_course_in_Linköping_2012/XD_collaborative_OE/G2.md "Training:Semantic Technologies in Practice PhD course in Linköping 2012/XD collaborative OE/G2")
-* [Group 3](../../Training/Semantic_Technologies_in_Practice_PhD_course_in_Linköping_2012/XD_collaborative_OE/G3.md "Training:Semantic Technologies in Practice PhD course in Linköping 2012/XD collaborative OE/G3")
-* [Group 4](../../Training/Semantic_Technologies_in_Practice_PhD_course_in_Linköping_2012/XD_collaborative_OE/G4.md "Training:Semantic Technologies in Practice PhD course in Linköping 2012/XD collaborative OE/G4")
-* [Group 5](../../Training/Semantic_Technologies_in_Practice_PhD_course_in_Linköping_2012/XD_collaborative_OE/G5.md "Training:Semantic Technologies in Practice PhD course in Linköping 2012/XD collaborative OE/G5")
+* [Group 1](../../Training/Semantic_Technologies_in_Practice_PhD_course_in_Linköping_2012/XD_collaborative_OE/G1 "Training:Semantic Technologies in Practice PhD course in Linköping 2012/XD collaborative OE/G1")
+* [Group 2](../../Training/Semantic_Technologies_in_Practice_PhD_course_in_Linköping_2012/XD_collaborative_OE/G2 "Training:Semantic Technologies in Practice PhD course in Linköping 2012/XD collaborative OE/G2")
+* [Group 3](../../Training/Semantic_Technologies_in_Practice_PhD_course_in_Linköping_2012/XD_collaborative_OE/G3 "Training:Semantic Technologies in Practice PhD course in Linköping 2012/XD collaborative OE/G3")
+* [Group 4](../../Training/Semantic_Technologies_in_Practice_PhD_course_in_Linköping_2012/XD_collaborative_OE/G4 "Training:Semantic Technologies in Practice PhD course in Linköping 2012/XD collaborative OE/G4")
+* [Group 5](../../Training/Semantic_Technologies_in_Practice_PhD_course_in_Linköping_2012/XD_collaborative_OE/G5 "Training:Semantic Technologies in Practice PhD course in Linköping 2012/XD collaborative OE/G5")
 * [Integrated ontology page](http://ontologydesignpatterns.org/wiki/index.php?title=Training:Semantic_Technologies_in_Practice_PhD_course_in_Link%C3%B6ping_2012/XD_collaborative_OE/Integration&action=edit&redlink=1 "Training:Semantic Technologies in Practice PhD course in Linköping 2012/XD collaborative OE/Integration (not yet written)")
 
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Training:Semantic\_Technologies\_in\_Practice\_PhD\_course\_in\_Link%C3%B6ping\_2012/XD\_collaborative\_OE](../../Training/Semantic_Technologies_in_Practice_PhD_course_in_Linköping_2012/XD_collaborative_OE.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Exercise](../../Category/Exercise.md "Category:Exercise")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Training:Semantic\_Technologies\_in\_Practice\_PhD\_course\_in\_Link%C3%B6ping\_2012/XD\_collaborative\_OE](../../Training/Semantic_Technologies_in_Practice_PhD_course_in_Linköping_2012/XD_collaborative_OE)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Exercise](../../Category/Exercise "Category:Exercise")

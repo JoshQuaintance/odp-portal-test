@@ -1,4 +1,4 @@
-Return to [Catalogue of Exemplary Ontologies](../Ontology/Main.md "Ontology:Main")
+Return to [Catalogue of Exemplary Ontologies](../Ontology/Main "Ontology:Main")
 
 
 
@@ -31,11 +31,11 @@ In order to retrieve and reuse non-textual media, media annotations must explain
 
 
 
-* Documentation, examples and download information. [Documentation](http://www.uni-koblenz.de/FB4/Institutes/IFI/AGStaab/Research/comm/Ontology/ "http://www.uni-koblenz.de/FB4/Institutes/IFI/AGStaab/Research/comm/Ontology/") | [reference page](../Community/References/COMM_General_information.md "Community:References/COMM General information")
-* COMM: A Core Ontology for Multimedia Annotation; Richard Arndt, Raphael Troncy, Steffen Staab, and Lynda Hardman [Paper](http://oai.cwi.nl/oai/asset/14512/14512A.pdf "http://oai.cwi.nl/oai/asset/14512/14512A.pdf") | [reference page](../Community/References/COMM_Paper.md "Community:References/COMM Paper")
+* Documentation, examples and download information. [Documentation](http://www.uni-koblenz.de/FB4/Institutes/IFI/AGStaab/Research/comm/Ontology/ "http://www.uni-koblenz.de/FB4/Institutes/IFI/AGStaab/Research/comm/Ontology/") | [reference page](../Community/References/COMM_General_information "Community:References/COMM General information")
+* COMM: A Core Ontology for Multimedia Annotation; Richard Arndt, Raphael Troncy, Steffen Staab, and Lynda Hardman [Paper](http://oai.cwi.nl/oai/asset/14512/14512A.pdf "http://oai.cwi.nl/oai/asset/14512/14512A.pdf") | [reference page](../Community/References/COMM_Paper "Community:References/COMM Paper")
 
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Ontology:COMM\_-\_Core\_ontology\_for\_Multimedia\_Annotation](../Ontology/COMM_-_Core_ontology_for_Multimedia_Annotation.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Ontology](../Category/Ontology.md "Category:Ontology")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Ontology:COMM\_-\_Core\_ontology\_for\_Multimedia\_Annotation](../Ontology/COMM_-_Core_ontology_for_Multimedia_Annotation)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Ontology](../Category/Ontology "Category:Ontology")

@@ -1,4 +1,4 @@
-___nearTopicTo__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [Topic](../../Submissions/Topic.md "Submissions:Topic")_
+___nearTopicTo__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [Topic](../../Submissions/Topic "Submissions:Topic")_
 
 
   
@@ -6,7 +6,7 @@ ___nearTopicTo__ has [Category:OntologyElement](../../Category/OntologyElement.m
 
 
 
-[![ObjectProperty](../../images/thumb/c/c3/ObjectProperty.gif/45px-ObjectProperty.gif)](../../Image/ObjectProperty.gif.md "ObjectProperty")
+[![ObjectProperty](../../images/thumb/c/c3/ObjectProperty.gif/45px-ObjectProperty.gif)](../../Image/ObjectProperty.gif "ObjectProperty")
 __Name__: nearTopicTo 
 
 
@@ -22,5 +22,5 @@ Vicinity is typically established with reference to a threshold on the number of
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Topic/nearTopicTo](../../Submissions/Topic/nearTopicTo.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Topic/nearTopicTo](../../Submissions/Topic/nearTopicTo)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

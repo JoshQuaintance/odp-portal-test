@@ -1,4 +1,4 @@
-[![Image:ODPUser.png](../images/a/a6/ODPUser.png)](../Image/ODPUser.png.md "Image:ODPUser.png")
+[![Image:ODPUser.png](../images/a/a6/ODPUser.png)](../Image/ODPUser.png "Image:ODPUser.png")
 
 
 
@@ -19,7 +19,7 @@ __Domains of interest:__
 
 
 
-* [Time](../Community/Time.md "Community:Time")
+* [Time](../Community/Time "Community:Time")
 
 
 __Is expert of:__
@@ -34,5 +34,5 @@ __How did I know about ODP:__ friends
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/User:GuidoVetere](../User/GuidoVetere.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ODPUser](../Category/ODPUser.md "Category:ODPUser")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/User:GuidoVetere](../User/GuidoVetere)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ODPUser](../Category/ODPUser "Category:ODPUser")

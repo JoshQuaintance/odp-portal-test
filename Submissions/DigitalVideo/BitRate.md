@@ -1,4 +1,4 @@
-___BitRate__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [DigitalVideo](../../Submissions/DigitalVideo.md "Submissions:DigitalVideo")_
+___BitRate__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [DigitalVideo](../../Submissions/DigitalVideo "Submissions:DigitalVideo")_
 
 
   
@@ -6,7 +6,7 @@ ___BitRate__ has [Category:OntologyElement](../../Category/OntologyElement.md "C
 
 
 
-[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif.md "Class")
+[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif "Class")
 __Name__: Bit Rate 
 
 
@@ -22,5 +22,5 @@ E.g. 2 MBits/s
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:DigitalVideo/BitRate](../../Submissions/DigitalVideo/BitRate.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:DigitalVideo/BitRate](../../Submissions/DigitalVideo/BitRate)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

@@ -1,6 +1,6 @@
-* [Image](../Image/Multimediadatasegmentdecomposition.jpg.md#file)
-* [File history](../Image/Multimediadatasegmentdecomposition.jpg.md#filehistory)
-* [Links](../Image/Multimediadatasegmentdecomposition.jpg.md#filelinks)
+* [Image](../Image/Multimediadatasegmentdecomposition.jpg#file)
+* [File history](../Image/Multimediadatasegmentdecomposition.jpg#filehistory)
+* [Links](../Image/Multimediadatasegmentdecomposition.jpg#filelinks)
 
 [![Image:Multimediadatasegmentdecomposition.jpg](../images/thumb/d/d8/Multimediadatasegmentdecomposition.jpg/800px-Multimediadatasegmentdecomposition.jpg)](../images/d/d8/Multimediadatasegmentdecomposition.jpg)  
 Size of this preview: 800 × 420 pixels  
@@ -23,7 +23,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Community:Images](../Community/Images.md "Community:Images")
+* [Community:Images](../Community/Images "Community:Images")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Multimediadatasegmentdecomposition.jpg](../Image/Multimediadatasegmentdecomposition.jpg.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Multimediadatasegmentdecomposition.jpg](../Image/Multimediadatasegmentdecomposition.jpg)"

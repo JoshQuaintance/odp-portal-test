@@ -1,6 +1,6 @@
-* [Image](../Image/List.png.md#file)
-* [File history](../Image/List.png.md#filehistory)
-* [Links](../Image/List.png.md#filelinks)
+* [Image](../Image/List.png#file)
+* [File history](../Image/List.png#filehistory)
+* [Links](../Image/List.png#filelinks)
 
 [![Image:List.png](../images/thumb/6/67/List.png/800px-List.png)](../images/6/67/List.png)  
 Size of this preview: 800 × 557 pixels  
@@ -26,7 +26,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Submissions:List 2](../Submissions/List_2.md "Submissions:List 2")
+* [Submissions:List 2](../Submissions/List_2 "Submissions:List 2")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:List.png](../Image/List.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:List.png](../Image/List.png)"

@@ -168,5 +168,5 @@ Check [here](http://stlab.istc.cnr.it/software/SSA14-ESWC/ScheduleWorkshop.png "
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/SemanticSentimentAnalysis2014](SemanticSentimentAnalysis2014.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Event](Category/Event.md "Category:Event")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/SemanticSentimentAnalysis2014](SemanticSentimentAnalysis2014)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Event](Category/Event "Category:Event")

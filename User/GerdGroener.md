@@ -1,4 +1,4 @@
-[![Image:ODPUser.png](../images/a/a6/ODPUser.png)](../Image/ODPUser.png.md "Image:ODPUser.png")
+[![Image:ODPUser.png](../images/a/a6/ODPUser.png)](../Image/ODPUser.png "Image:ODPUser.png")
 
 
 
@@ -19,14 +19,14 @@ __Domains of interest:__
 
 
 
-* [Workflow](../Community/Workflow.md "Community:Workflow")
+* [Workflow](../Community/Workflow "Community:Workflow")
 
 
 __Is expert of:__
 
 
 
-* [Software](../Community/Software.md "Community:Software")
+* [Software](../Community/Software "Community:Software")
 
 
 __How did I know about ODP:__ colleagues
@@ -36,5 +36,5 @@ __How did I know about ODP:__ colleagues
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/User:GerdGroener](../User/GerdGroener.md)"
- [Categories](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ODPUser](../Category/ODPUser.md "Category:ODPUser") | [EBMember](../Category/EBMember.md "Category:EBMember")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/User:GerdGroener](../User/GerdGroener)"
+ [Categories](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ODPUser](../Category/ODPUser "Category:ODPUser") | [EBMember](../Category/EBMember "Category:EBMember")

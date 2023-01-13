@@ -1,4 +1,4 @@
-___MathematicalNote__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [HistoricalMap](../../Submissions/HistoricalMap.md "Submissions:HistoricalMap")_
+___MathematicalNote__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [HistoricalMap](../../Submissions/HistoricalMap "Submissions:HistoricalMap")_
 
 
   
@@ -6,7 +6,7 @@ ___MathematicalNote__ has [Category:OntologyElement](../../Category/OntologyElem
 
 
 
-[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif.md "Class")
+[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif "Class")
 __Name__: MathematicalNote 
 
 
@@ -19,5 +19,5 @@ __Description__: Any note written on the map concerning mathematical information
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:HistoricalMap/MathematicalNote](../../Submissions/HistoricalMap/hasMathematicalNote.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:HistoricalMap/MathematicalNote](../../Submissions/HistoricalMap/hasMathematicalNote)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

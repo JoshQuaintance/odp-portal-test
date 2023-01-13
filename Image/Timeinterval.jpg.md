@@ -1,6 +1,6 @@
-* [Image](../Image/Timeinterval.jpg.md#file)
-* [File history](../Image/Timeinterval.jpg.md#filehistory)
-* [Links](../Image/Timeinterval.jpg.md#filelinks)
+* [Image](../Image/Timeinterval.jpg#file)
+* [File history](../Image/Timeinterval.jpg#filehistory)
+* [Links](../Image/Timeinterval.jpg#filelinks)
 
 [![Image:Timeinterval.jpg](../images/1/13/Timeinterval.jpg)](../images/1/13/Timeinterval.jpg)  
 No higher resolution available.  
@@ -23,8 +23,8 @@ Click on a date/time to view the file as it appeared at that time.
 The following 2 pages link to this file:
 
 
-* [Community:Images](../Community/Images.md "Community:Images")
-* [Submissions:TimeInterval](../Submissions/TimeInterval.md "Submissions:TimeInterval")
+* [Community:Images](../Community/Images "Community:Images")
+* [Submissions:TimeInterval](../Submissions/TimeInterval "Submissions:TimeInterval")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Timeinterval.jpg](../Image/Timeinterval.jpg.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Timeinterval.jpg](../Image/Timeinterval.jpg)"

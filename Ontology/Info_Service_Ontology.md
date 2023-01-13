@@ -1,4 +1,4 @@
-Return to [Catalogue of Exemplary Ontologies](../Ontology/Main.md "Ontology:Main")
+Return to [Catalogue of Exemplary Ontologies](../Ontology/Main "Ontology:Main")
 
 
 
@@ -37,10 +37,10 @@ Furthermore, I defined some is:InfoService individuals, especially isi:musicbrai
 
 
 
-* A blog post about the Info Service Ontology with examples and graphics. [Weblog post](http://infoserviceonto.smiy.org/2010/06/22/welcome/ "http://infoserviceonto.smiy.org/2010/06/22/welcome/") | [reference page](../Community/References/Info_Service_Ontology_announcement.md "Community:References/Info Service Ontology announcement")
+* A blog post about the Info Service Ontology with examples and graphics. [Weblog post](http://infoserviceonto.smiy.org/2010/06/22/welcome/ "http://infoserviceonto.smiy.org/2010/06/22/welcome/") | [reference page](../Community/References/Info_Service_Ontology_announcement "Community:References/Info Service Ontology announcement")
 
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Ontology:Info\_Service\_Ontology](../Ontology/Info_Service_Ontology.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Ontology](../Category/Ontology.md "Category:Ontology")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Ontology:Info\_Service\_Ontology](../Ontology/Info_Service_Ontology)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Ontology](../Category/Ontology "Category:Ontology")

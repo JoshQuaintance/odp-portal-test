@@ -1,7 +1,7 @@
-* [Image](../Image/Complaint_UML.jpg.md#file)
-* [File history](../Image/Complaint_UML.jpg.md#filehistory)
-* [Links](../Image/Complaint_UML.jpg.md#filelinks)
-* [Metadata](../Image/Complaint_UML.jpg.md#metadata)
+* [Image](../Image/Complaint_UML.jpg#file)
+* [File history](../Image/Complaint_UML.jpg#filehistory)
+* [Links](../Image/Complaint_UML.jpg#filelinks)
+* [Metadata](../Image/Complaint_UML.jpg#metadata)
 
 [![Image:Complaint UML.jpg](../images/1/1d/Complaint_UML.jpg)](../images/1/1d/Complaint_UML.jpg)  
 No higher resolution available.  
@@ -34,4 +34,4 @@ If the file has been modified from its original state, some details may not full
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Complaint\_UML.jpg](../Image/Complaint_UML.jpg.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Complaint\_UML.jpg](../Image/Complaint_UML.jpg)"

@@ -14,7 +14,7 @@ __Description:__ When viewing a task, it should be one click away to add a new t
 
 
 * __Type__: Improvement
-* __Posted by__: [MichaelUschold](../../User/MichaelUschold.md "User:MichaelUschold")
+* __Posted by__: [MichaelUschold](../../User/MichaelUschold "User:MichaelUschold")
 * __Status__: fixed
 
 
@@ -29,8 +29,8 @@ This task has no sub-tasks
 
 
 
-[Development](../../Odp/Development.md "Odp:Development") | [Create new task](http://ontologydesignpatterns.org/wiki/Special:AddData/Task_Form?Task Template[SubmittedBy]=93.34.113.67).| [Add sub-task](http://ontologydesignpatterns.org/wiki/Special:AddData/Task_Form?parenttask=Tasks/Add_Create_Task_option_to_Task_Toolbar&Task Template[ParentTask]=Tasks/Add_Create_Task_option_to_Task_Toolbar&Task Template[SubmittedBy]=93.34.113.67) | [Add a comment at the bottom of this page](../index.php@title=Odp%253AAdd_comment&target=Odp%253ATasks%252F../../Odp/Tasks/Add_Create_Task_option_to_Task_Toolbar.md#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Odp:Tasks/Add_Create_Task_option_to_Task_Toolbar#New_comment")
+[Development](../../Odp/Development "Odp:Development") | [Create new task](http://ontologydesignpatterns.org/wiki/Special:AddData/Task_Form?Task Template[SubmittedBy]=93.34.113.67).| [Add sub-task](http://ontologydesignpatterns.org/wiki/Special:AddData/Task_Form?parenttask=Tasks/Add_Create_Task_option_to_Task_Toolbar&Task Template[ParentTask]=Tasks/Add_Create_Task_option_to_Task_Toolbar&Task Template[SubmittedBy]=93.34.113.67) | [Add a comment at the bottom of this page](../index.php@title=Odp%253AAdd_comment&target=Odp%253ATasks%252F../../Odp/Tasks/Add_Create_Task_option_to_Task_Toolbar#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Odp:Tasks/Add_Create_Task_option_to_Task_Toolbar#New_comment")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Odp:Tasks/Add\_Create\_Task\_option\_to\_Task\_Toolbar](../../Odp/Tasks/Add_Create_Task_option_to_Task_Toolbar.md)"
- [Categories](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [RootTask](../../Category/RootTask.md "Category:RootTask") | [DevelopmentTask](../../Category/DevelopmentTask.md "Category:DevelopmentTask")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Odp:Tasks/Add\_Create\_Task\_option\_to\_Task\_Toolbar](../../Odp/Tasks/Add_Create_Task_option_to_Task_Toolbar)"
+ [Categories](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [RootTask](../../Category/RootTask "Category:RootTask") | [DevelopmentTask](../../Category/DevelopmentTask "Category:DevelopmentTask")

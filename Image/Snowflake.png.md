@@ -1,6 +1,6 @@
-* [Image](../Image/Snowflake.png.md#file)
-* [File history](../Image/Snowflake.png.md#filehistory)
-* [Links](../Image/Snowflake.png.md#filelinks)
+* [Image](../Image/Snowflake.png#file)
+* [File history](../Image/Snowflake.png#filehistory)
+* [Links](../Image/Snowflake.png#filelinks)
 
 [![Image:Snowflake.png](../images/2/27/Snowflake.png)](../images/2/27/Snowflake.png)  
 No higher resolution available.  
@@ -23,7 +23,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Submissions:Pattern for re-engineering a classification scheme, which follows the snowflake data model, into an ontology schema](../Submissions/Pattern_for_re-engineering_a_classification_scheme,_which_follows_the_snowflake_data_model,_into_an_ontology_schema.md "Submissions:Pattern for re-engineering a classification scheme, which follows the snowflake data model, into an ontology schema")
+* [Submissions:Pattern for re-engineering a classification scheme, which follows the snowflake data model, into an ontology schema](../Submissions/Pattern_for_re-engineering_a_classification_scheme,_which_follows_the_snowflake_data_model,_into_an_ontology_schema "Submissions:Pattern for re-engineering a classification scheme, which follows the snowflake data model, into an ontology schema")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Snowflake.png](../Image/Snowflake.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Snowflake.png](../Image/Snowflake.png)"

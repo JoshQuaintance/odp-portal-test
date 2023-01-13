@@ -1,6 +1,6 @@
-* [Image](../Image/Material-transformation.svg.md#file)
-* [File history](../Image/Material-transformation.svg.md#filehistory)
-* [Links](../Image/Material-transformation.svg.md#filelinks)
+* [Image](../Image/Material-transformation.svg#file)
+* [File history](../Image/Material-transformation.svg#filehistory)
+* [Links](../Image/Material-transformation.svg#filelinks)
 
 [![Image:Material-transformation.svg](../images/thumb/3/33/Material-transformation.svg/800px-Material-transformation.svg.png)](../images/3/33/Material-transformation.svg)  
 
@@ -33,4 +33,4 @@ There are no pages that link to this file.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Material-transformation.svg](../Image/Material-transformation.svg.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Material-transformation.svg](../Image/Material-transformation.svg)"

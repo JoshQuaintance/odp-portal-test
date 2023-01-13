@@ -1,4 +1,4 @@
-___SocialPerson__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [Persons](../../Submissions/Persons.md "Submissions:Persons")_
+___SocialPerson__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [Persons](../../Submissions/Persons "Submissions:Persons")_
 
 
   
@@ -6,7 +6,7 @@ ___SocialPerson__ has [Category:OntologyElement](../../Category/OntologyElement.
 
 
 
-[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif.md "Class")
+[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif "Class")
 __Name__: SocialPerson 
 
 
@@ -19,5 +19,5 @@ __Description__: A Person that needs the existence of a specific NaturalPerson i
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Persons/SocialPerson](../../Submissions/Persons/SocialPerson.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Persons/SocialPerson](../../Submissions/Persons/SocialPerson)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

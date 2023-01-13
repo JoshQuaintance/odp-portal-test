@@ -7,4 +7,4 @@
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Community:Ontology\_engineering](../Community/Ontology_engineering.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Community:Ontology\_engineering](../Community/Ontology_engineering)"

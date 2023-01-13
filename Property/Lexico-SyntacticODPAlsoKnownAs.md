@@ -1,7 +1,7 @@
-This is a property of type [String](../Type/String.md "Type:String").
+This is a property of type [String](../Type/String "Type:String").
 
 
-This property is a subproperty of [AlsoKnownAs](../Property/AlsoKnownAs.md "Property:AlsoKnownAs").
+This property is a subproperty of [AlsoKnownAs](../Property/AlsoKnownAs "Property:AlsoKnownAs").
 
 
 
@@ -16,4 +16,4 @@ Showing 20 pages using this property.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Property:Lexico-SyntacticODPAlsoKnownAs](../Property/Lexico-SyntacticODPAlsoKnownAs.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Property:Lexico-SyntacticODPAlsoKnownAs](../Property/Lexico-SyntacticODPAlsoKnownAs)"

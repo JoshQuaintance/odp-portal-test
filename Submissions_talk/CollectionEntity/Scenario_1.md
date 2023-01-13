@@ -7,4 +7,4 @@ should be:
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions\_talk:CollectionEntity/Scenario\_1](../../Submissions/AgentRole/Scenario_1.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions\_talk:CollectionEntity/Scenario\_1](../../Submissions/AgentRole/Scenario_1)"

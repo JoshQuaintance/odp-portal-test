@@ -1,4 +1,4 @@
-[![Image:Valentina.jpg](../images/8/88/Valentina.jpg)](../Image/Valentina.jpg.md "Image:Valentina.jpg")
+[![Image:Valentina.jpg](../images/8/88/Valentina.jpg)](../Image/Valentina.jpg "Image:Valentina.jpg")
 
 
 
@@ -34,5 +34,5 @@ __How did I know about ODP:__
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/User:ValentinaPresutti](../User/ValentinaPresutti.md)"
- [Categories](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ODPUser](../Category/ODPUser.md "Category:ODPUser") | [QCMember](../Category/QCMember.md "Category:QCMember")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/User:ValentinaPresutti](../User/ValentinaPresutti)"
+ [Categories](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ODPUser](../Category/ODPUser "Category:ODPUser") | [QCMember](../Category/QCMember "Category:QCMember")

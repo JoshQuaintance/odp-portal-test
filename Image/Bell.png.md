@@ -1,6 +1,6 @@
-* [Image](../Image/Bell.png.md#file)
-* [File history](../Image/Bell.png.md#filehistory)
-* [Links](../Image/Bell.png.md#filelinks)
+* [Image](../Image/Bell.png#file)
+* [File history](../Image/Bell.png#filehistory)
+* [Links](../Image/Bell.png#filelinks)
 
 [![Image:Bell.png](../images/6/6e/Bell.png)](../images/6/6e/Bell.png)  
 No higher resolution available.  
@@ -25,4 +25,4 @@ There are no pages that link to this file.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Bell.png](../Image/Bell.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Bell.png](../Image/Bell.png)"

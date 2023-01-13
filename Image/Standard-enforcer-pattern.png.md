@@ -1,6 +1,6 @@
-* [Image](../Image/Standard-enforcer-pattern.png.md#file)
-* [File history](../Image/Standard-enforcer-pattern.png.md#filehistory)
-* [Links](../Image/Standard-enforcer-pattern.png.md#filelinks)
+* [Image](../Image/Standard-enforcer-pattern.png#file)
+* [File history](../Image/Standard-enforcer-pattern.png#filehistory)
+* [Links](../Image/Standard-enforcer-pattern.png#filelinks)
 
 [![Image:Standard-enforcer-pattern.png](../images/thumb/d/df/Standard-enforcer-pattern.png/800px-Standard-enforcer-pattern.png)](../images/d/df/Standard-enforcer-pattern.png)  
 Size of this preview: 800 × 349 pixels  
@@ -23,7 +23,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Submissions:Standard Enforcer Pattern](../Submissions/Standard_Enforcer_Pattern.md "Submissions:Standard Enforcer Pattern")
+* [Submissions:Standard Enforcer Pattern](../Submissions/Standard_Enforcer_Pattern "Submissions:Standard Enforcer Pattern")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Standard-enforcer-pattern.png](../Image/Standard-enforcer-pattern.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Standard-enforcer-pattern.png](../Image/Standard-enforcer-pattern.png)"

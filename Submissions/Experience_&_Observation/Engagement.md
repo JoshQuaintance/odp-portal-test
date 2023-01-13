@@ -1,4 +1,4 @@
-___Engagement__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [Experience & Observation](../../Submissions/Experience_&_Observation.md "Submissions:Experience & Observation")_
+___Engagement__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [Experience & Observation](../../Submissions/Experience_&_Observation "Submissions:Experience & Observation")_
 
 
   
@@ -6,7 +6,7 @@ ___Engagement__ has [Category:OntologyElement](../../Category/OntologyElement.md
 
 
 
-[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif.md "Class")
+[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif "Class")
 __Name__: Engagement 
 
 
@@ -19,5 +19,5 @@ __Description__: The product of a reflection upon an observation, which embodies
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Experience\_%26\_Observation/Engagement](../../Submissions/Experience_&_Observation/Engagement.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Experience\_%26\_Observation/Engagement](../../Submissions/Experience_&_Observation/Engagement)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

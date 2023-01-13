@@ -1,4 +1,4 @@
-This is a property of type [String](../Type/String.md "Type:String").
+This is a property of type [String](../Type/String "Type:String").
 
 
 
@@ -13,4 +13,4 @@ Showing 3 pages using this property.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Property:ArchitecturalODPAuthor](../Property/ArchitecturalODPAuthor.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Property:ArchitecturalODPAuthor](../Property/ArchitecturalODPAuthor)"

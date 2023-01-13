@@ -1,6 +1,6 @@
-* [Image](../Image/Property-partition-by-value.png.md#file)
-* [File history](../Image/Property-partition-by-value.png.md#filehistory)
-* [Links](../Image/Property-partition-by-value.png.md#filelinks)
+* [Image](../Image/Property-partition-by-value.png#file)
+* [File history](../Image/Property-partition-by-value.png#filehistory)
+* [Links](../Image/Property-partition-by-value.png#filelinks)
 
 [![Image:Property-partition-by-value.png](../images/4/48/Property-partition-by-value.png)](../images/4/48/Property-partition-by-value.png)  
 No higher resolution available.  
@@ -25,4 +25,4 @@ There are no pages that link to this file.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Property-partition-by-value.png](../Image/Property-partition-by-value.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Property-partition-by-value.png](../Image/Property-partition-by-value.png)"

@@ -1,6 +1,6 @@
-* [Image](../Image/CybersecOnotology.xml.md#file)
-* [File history](../Image/CybersecOnotology.xml.md#filehistory)
-* [Links](../Image/CybersecOnotology.xml.md#filelinks)
+* [Image](../Image/CybersecOnotology.xml#file)
+* [File history](../Image/CybersecOnotology.xml#filehistory)
+* [Links](../Image/CybersecOnotology.xml#filelinks)
 
 
 [CybersecOnotology.xml](../images/f/f5/CybersecOnotology.xml "CybersecOnotology.xml")‎
@@ -38,4 +38,4 @@ There are no pages that link to this file.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:CybersecOnotology.xml](../Image/CybersecOnotology.xml.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:CybersecOnotology.xml](../Image/CybersecOnotology.xml)"

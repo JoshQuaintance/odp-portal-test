@@ -31,5 +31,5 @@ __Solutions__:
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Training:NeOn\_2008\_Tutorial\_on\_Computational\_Ontologies/The\_male\_nurse\_union\_representative](../../Training/NeOn_2008_Tutorial_on_Computational_Ontologies/The_male_nurse_union_representative.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Exercise](../../Category/Exercise.md "Category:Exercise")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Training:NeOn\_2008\_Tutorial\_on\_Computational\_Ontologies/The\_male\_nurse\_union\_representative](../../Training/NeOn_2008_Tutorial_on_Computational_Ontologies/The_male_nurse_union_representative)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Exercise](../../Category/Exercise "Category:Exercise")

@@ -1,4 +1,4 @@
-___TimeInterval__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [TimeInterval](../../Submissions/TimeInterval.md "Submissions:TimeInterval")_
+___TimeInterval__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [TimeInterval](../../Submissions/TimeInterval "Submissions:TimeInterval")_
 
 
   
@@ -6,7 +6,7 @@ ___TimeInterval__ has [Category:OntologyElement](../../Category/OntologyElement.
 
 
 
-[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif.md "Class")
+[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif "Class")
 __Name__: Time Interval 
 
 
@@ -19,5 +19,5 @@ __Description__: Any region in a dimensional space that represents time.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:TimeInterval/TimeInterval](../../Submissions/SmartHome_TimeInterval.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:TimeInterval/TimeInterval](../../Submissions/SmartHome_TimeInterval)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

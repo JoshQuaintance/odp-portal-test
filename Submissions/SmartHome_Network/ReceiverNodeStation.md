@@ -1,4 +1,4 @@
-___ReceiverNodeStation__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [SmartHome Network](../../Submissions/SmartHome_Network.md "Submissions:SmartHome Network")_
+___ReceiverNodeStation__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [SmartHome Network](../../Submissions/SmartHome_Network "Submissions:SmartHome Network")_
 
 
   
@@ -6,7 +6,7 @@ ___ReceiverNodeStation__ has [Category:OntologyElement](../../Category/OntologyE
 
 
 
-[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif.md "Class")
+[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif "Class")
 __Name__: ReceiverNodeStation 
 
 
@@ -19,5 +19,5 @@ __Description__:
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:SmartHome\_Network/ReceiverNodeStation](../../Submissions/SmartHome_Network/ReceiverNodeStation.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:SmartHome\_Network/ReceiverNodeStation](../../Submissions/SmartHome_Network/ReceiverNodeStation)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

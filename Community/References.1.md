@@ -9,10 +9,10 @@ References can be also created from the _References_ section at the bottom of th
 
 
 
-* [Patterns](../Submissions/Main.md "Submissions:Main")
-* [Exemplary Ontologies](../Ontology/Main.md "Ontology:Main")
-* [Modeling issues](../Community/Main.md "Community:Main")
-* [Domains](../Community/Domain.md "Community:Domain")
+* [Patterns](../Submissions/Main "Submissions:Main")
+* [Exemplary Ontologies](../Ontology/Main "Ontology:Main")
+* [Modeling issues](../Community/Main "Community:Main")
+* [Domains](../Community/Domain "Community:Domain")
 
 
 ##  Tables of references
@@ -252,4 +252,4 @@ References can be also created from the _References_ section at the bottom of th
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Community:References](../Community/References.1.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Community:References](../Community/References.1)"

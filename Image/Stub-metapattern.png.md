@@ -1,6 +1,6 @@
-* [Image](../Image/Stub-metapattern.png.md#file)
-* [File history](../Image/Stub-metapattern.png.md#filehistory)
-* [Links](../Image/Stub-metapattern.png.md#filelinks)
+* [Image](../Image/Stub-metapattern.png#file)
+* [File history](../Image/Stub-metapattern.png#filehistory)
+* [Links](../Image/Stub-metapattern.png#filelinks)
 
 [![Image:Stub-metapattern.png](../images/c/cd/Stub-metapattern.png)](../images/c/cd/Stub-metapattern.png)  
 No higher resolution available.  
@@ -23,7 +23,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Submissions:Stub Metapattern](../Submissions/Stub_Metapattern.md "Submissions:Stub Metapattern")
+* [Submissions:Stub Metapattern](../Submissions/Stub_Metapattern "Submissions:Stub Metapattern")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Stub-metapattern.png](../Image/Stub-metapattern.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Stub-metapattern.png](../Image/Stub-metapattern.png)"

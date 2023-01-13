@@ -1,7 +1,7 @@
-* [Image](../Image/Set.jpg.md#file)
-* [File history](../Image/Set.jpg.md#filehistory)
-* [Links](../Image/Set.jpg.md#filelinks)
-* [Metadata](../Image/Set.jpg.md#metadata)
+* [Image](../Image/Set.jpg#file)
+* [File history](../Image/Set.jpg#filehistory)
+* [Links](../Image/Set.jpg#filelinks)
+* [Metadata](../Image/Set.jpg#metadata)
 
 [![Image:Set.jpg](../images/1/15/Set.jpg)](../images/1/15/Set.jpg)  
 No higher resolution available.  
@@ -27,7 +27,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Submissions:Set](../Submissions/Set.md "Submissions:Set")
+* [Submissions:Set](../Submissions/Set "Submissions:Set")
 
 ## Metadata
 
@@ -38,4 +38,4 @@ If the file has been modified from its original state, some details may not full
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Set.jpg](../Image/Set.jpg.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Set.jpg](../Image/Set.jpg)"

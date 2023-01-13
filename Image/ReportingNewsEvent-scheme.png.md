@@ -1,6 +1,6 @@
-* [Image](../Image/ReportingNewsEvent-scheme.png.md#file)
-* [File history](../Image/ReportingNewsEvent-scheme.png.md#filehistory)
-* [Links](../Image/ReportingNewsEvent-scheme.png.md#filelinks)
+* [Image](../Image/ReportingNewsEvent-scheme.png#file)
+* [File history](../Image/ReportingNewsEvent-scheme.png#filehistory)
+* [Links](../Image/ReportingNewsEvent-scheme.png#filelinks)
 
 [![Image:ReportingNewsEvent-scheme.png](../images/d/d9/ReportingNewsEvent-scheme.png)](../images/d/d9/ReportingNewsEvent-scheme.png)  
 No higher resolution available.  
@@ -23,8 +23,8 @@ Click on a date/time to view the file as it appeared at that time.
 The following 2 pages link to this file:
 
 
-* [Submissions:ReportingNewsEvent](../Submissions/ReportingNewsEvent.md "Submissions:ReportingNewsEvent")
-* [Submissions:NewsReportingEvent](../Submissions/NewsReportingEvent.md "Submissions:NewsReportingEvent")
+* [Submissions:ReportingNewsEvent](../Submissions/ReportingNewsEvent "Submissions:ReportingNewsEvent")
+* [Submissions:NewsReportingEvent](../Submissions/NewsReportingEvent "Submissions:NewsReportingEvent")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:ReportingNewsEvent-scheme.png](../Image/ReportingNewsEvent-scheme.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:ReportingNewsEvent-scheme.png](../Image/ReportingNewsEvent-scheme.png)"

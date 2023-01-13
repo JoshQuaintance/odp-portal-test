@@ -1,4 +1,4 @@
-This category uses the form [Feedback Form](../Form/Feedback_Form.md "Form:Feedback Form").
+This category uses the form [Feedback Form](../Form/Feedback_Form "Form:Feedback Form").
 
 
 
@@ -12,4 +12,4 @@ The following 36 pages are in this category, out of 36 total.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Category:Feedback](../Category/Feedback.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Category:Feedback](../Category/Feedback)"

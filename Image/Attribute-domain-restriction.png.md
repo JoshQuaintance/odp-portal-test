@@ -1,6 +1,6 @@
-* [Image](../Image/Attribute-domain-restriction.png.md#file)
-* [File history](../Image/Attribute-domain-restriction.png.md#filehistory)
-* [Links](../Image/Attribute-domain-restriction.png.md#filelinks)
+* [Image](../Image/Attribute-domain-restriction.png#file)
+* [File history](../Image/Attribute-domain-restriction.png#filehistory)
+* [Links](../Image/Attribute-domain-restriction.png#filelinks)
 
 [![Image:Attribute-domain-restriction.png](../images/4/4e/Attribute-domain-restriction.png)](../images/4/4e/Attribute-domain-restriction.png)  
 No higher resolution available.  
@@ -25,4 +25,4 @@ There are no pages that link to this file.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Attribute-domain-restriction.png](../Image/Attribute-domain-restriction.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Attribute-domain-restriction.png](../Image/Attribute-domain-restriction.png)"

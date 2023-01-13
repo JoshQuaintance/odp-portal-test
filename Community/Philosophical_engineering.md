@@ -25,8 +25,8 @@ So we could say we want the Web to reflect a vision of the world where everythin
 
 
 
-[Domain list](../Community/Domain.md "Community:Domain") | [Modeling issues](../Community/Main.md "Community:Main")
+[Domain list](../Community/Domain "Community:Domain") | [Modeling issues](../Community/Main "Community:Main")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Community:Philosophical\_engineering](../Community/Philosophical_engineering.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Domain](../Category/Domain.md "Category:Domain")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Community:Philosophical\_engineering](../Community/Philosophical_engineering)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Domain](../Category/Domain "Category:Domain")

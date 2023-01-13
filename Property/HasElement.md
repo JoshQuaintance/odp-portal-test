@@ -1,8 +1,8 @@
 __HasElement__. This property relates the Content OP to its ontology elements i.e., classes, object properties, and datatype properties.
-The value of this property is of type [OntologyElement](../Category/OntologyElement.md "Category:OntologyElement"). 
+The value of this property is of type [OntologyElement](../Category/OntologyElement "Category:OntologyElement"). 
 
 
-This property has type [Page](../Type/Page.md "Type:Page").
+This property has type [Page](../Type/Page "Type:Page").
 The object of this property [Form:Ontology Element Form](http://ontologydesignpatterns.org/wiki/Form:Ontology_Element_Form "Form:Ontology Element Form").
 
 

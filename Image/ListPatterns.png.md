@@ -1,6 +1,6 @@
-* [Image](../Image/ListPatterns.png.md#file)
-* [File history](../Image/ListPatterns.png.md#filehistory)
-* [Links](../Image/ListPatterns.png.md#filelinks)
+* [Image](../Image/ListPatterns.png#file)
+* [File history](../Image/ListPatterns.png#filehistory)
+* [Links](../Image/ListPatterns.png#filelinks)
 
 [![Image:ListPatterns.png](../images/7/7c/ListPatterns.png)](../images/7/7c/ListPatterns.png)  
 No higher resolution available.  
@@ -23,11 +23,11 @@ Click on a date/time to view the file as it appeared at that time.
 The following 5 pages link to this file:
 
 
-* [Ontology Design Patterns . org (ODP)](../Ontology_Design_Patterns_._org_(ODP).md).md).html "Ontology Design Patterns . org (ODP)")
-* [Submissions:Main](../Submissions/Main.md "Submissions:Main")
-* [Community:Images](../Community/Images.md "Community:Images")
-* [Template:MainPageMap](../Template/MainPageMap.md "Template:MainPageMap")
-* [Community:ListPatterns](../Community/ListPatterns.md "Community:ListPatterns")
+* [Ontology Design Patterns . org (ODP)](../Ontology_Design_Patterns_._org_(ODP)).md).md).html "Ontology Design Patterns . org (ODP)")
+* [Submissions:Main](../Submissions/Main "Submissions:Main")
+* [Community:Images](../Community/Images "Community:Images")
+* [Template:MainPageMap](../Template/MainPageMap "Template:MainPageMap")
+* [Community:ListPatterns](../Community/ListPatterns "Community:ListPatterns")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:ListPatterns.png](../Image/ListPatterns.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:ListPatterns.png](../Image/ListPatterns.png)"

@@ -1,4 +1,4 @@
-___Policy__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [Policy](../../Submissions/Policy.md "Submissions:Policy")_
+___Policy__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [Policy](../../Submissions/Policy "Submissions:Policy")_
 
 
   
@@ -6,7 +6,7 @@ ___Policy__ has [Category:OntologyElement](../../Category/OntologyElement.md "Ca
 
 
 
-[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif.md "Class")
+[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif "Class")
 __Name__: Policy 
 
 
@@ -19,5 +19,5 @@ __Description__: A deliberate system of principles to guide decisions and achiev
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Policy/Policy](../../Submissions/Policy.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Policy/Policy](../../Submissions/Policy)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

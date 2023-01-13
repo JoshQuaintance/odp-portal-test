@@ -1,4 +1,4 @@
-___AquaticSpecies__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [SpeciesNames](../../Submissions/SpeciesNames.md "Submissions:SpeciesNames")_
+___AquaticSpecies__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [SpeciesNames](../../Submissions/SpeciesNames "Submissions:SpeciesNames")_
 
 
   
@@ -6,7 +6,7 @@ ___AquaticSpecies__ has [Category:OntologyElement](../../Category/OntologyElemen
 
 
 
-[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif.md "Class")
+[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif "Class")
 __Name__: AquaticSpecies 
 
 
@@ -25,5 +25,5 @@ It has related axioms from FIGIS Schema that are included in the classes linked 
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:SpeciesNames/AquaticSpecies](../../Submissions/AquaticResources/AquaticSpecies.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:SpeciesNames/AquaticSpecies](../../Submissions/AquaticResources/AquaticSpecies)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

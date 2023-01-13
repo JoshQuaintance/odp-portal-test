@@ -1,5 +1,5 @@
-[![](../images/thumb/2/29/Reviewer.png/48px-Reviewer.png)](../Image/Reviewer.png.md "Reviewer.png")
-__[LuigiIannone](../User/LuigiIannone.md "User:LuigiIannone") about [Partition](../Submissions/Partition.md "Submissions:Partition") (Revision ID: [5616](../Submissions/Partition@oldid=5616.md "http://ontologydesignpatterns.org/wiki/Submissions:Partition?oldid=5616"))__
+[![](../images/thumb/2/29/Reviewer.png/48px-Reviewer.png)](../Image/Reviewer.png "Reviewer.png")
+__[LuigiIannone](../User/LuigiIannone "User:LuigiIannone") about [Partition](../Submissions/Partition "Submissions:Partition") (Revision ID: [5616](../Submissions/Partition@oldid=5616 "http://ontologydesignpatterns.org/wiki/Submissions:Partition?oldid=5616"))__
 Overall suggestion (score): 1 - needs minor revision
 
 
@@ -22,8 +22,8 @@ _Posted:_ 2009/9/7 _Last modified:_ 2009/9/7
 
 
 
-[All reviews](../Reviews/Main.md "Reviews:Main") | [Add a comment at the bottom of this page](index.php@title=Odp%253AAdd_comment&target=../Reviews/LuigiIannone_about_Partition.md#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Reviews:LuigiIannone_about_Partition#New_comment")
+[All reviews](../Reviews/Main "Reviews:Main") | [Add a comment at the bottom of this page](index.php@title=Odp%253AAdd_comment&target=../Reviews/LuigiIannone_about_Partition#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Reviews:LuigiIannone_about_Partition#New_comment")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Reviews:LuigiIannone\_about\_Partition](../Reviews/LuigiIannone_about_Partition.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [QCReview](../Category/QCReview.md "Category:QCReview")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Reviews:LuigiIannone\_about\_Partition](../Reviews/LuigiIannone_about_Partition)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [QCReview](../Category/QCReview "Category:QCReview")

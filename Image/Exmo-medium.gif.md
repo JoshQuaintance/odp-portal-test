@@ -1,6 +1,6 @@
-* [Image](../Image/Exmo-medium.gif.md#file)
-* [File history](../Image/Exmo-medium.gif.md#filehistory)
-* [Links](../Image/Exmo-medium.gif.md#filelinks)
+* [Image](../Image/Exmo-medium.gif#file)
+* [File history](../Image/Exmo-medium.gif#filehistory)
+* [Links](../Image/Exmo-medium.gif#filelinks)
 
 [![Image:Exmo-medium.gif](../images/0/09/Exmo-medium.gif)](../images/0/09/Exmo-medium.gif)  
 No higher resolution available.  
@@ -23,7 +23,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Odp:Partners](../Odp/Partners.md "Odp:Partners")
+* [Odp:Partners](../Odp/Partners "Odp:Partners")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Exmo-medium.gif](../Image/Exmo-medium.gif.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Exmo-medium.gif](../Image/Exmo-medium.gif)"

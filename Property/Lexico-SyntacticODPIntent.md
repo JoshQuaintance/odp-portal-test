@@ -1,7 +1,7 @@
-This is a property of type [Text](../Type/Text.md "Type:Text").
+This is a property of type [Text](../Type/Text "Type:Text").
 
 
-This property is a subproperty of [HasIntent](../Property/HasIntent.md "Property:HasIntent").
+This property is a subproperty of [HasIntent](../Property/HasIntent "Property:HasIntent").
 
 
 
@@ -16,4 +16,4 @@ Showing 20 pages using this property.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Property:Lexico-SyntacticODPIntent](../Property/Lexico-SyntacticODPIntent.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Property:Lexico-SyntacticODPIntent](../Property/Lexico-SyntacticODPIntent)"

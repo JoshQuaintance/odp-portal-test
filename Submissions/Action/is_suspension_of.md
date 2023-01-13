@@ -1,4 +1,4 @@
-___is suspension of__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [Action](../../Submissions/Action.md "Submissions:Action")_
+___is suspension of__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [Action](../../Submissions/Action "Submissions:Action")_
 
 
   
@@ -6,7 +6,7 @@ ___is suspension of__ has [Category:OntologyElement](../../Category/OntologyElem
 
 
 
-[![ObjectProperty](../../images/thumb/c/c3/ObjectProperty.gif/45px-ObjectProperty.gif)](../../Image/ObjectProperty.gif.md "ObjectProperty")
+[![ObjectProperty](../../images/thumb/c/c3/ObjectProperty.gif/45px-ObjectProperty.gif)](../../Image/ObjectProperty.gif "ObjectProperty")
 __Name__: is\_suspension\_of 
 
 
@@ -19,5 +19,5 @@ __Description__: Property that can be used to relate a suspension period of susp
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Action/is\_suspension\_of](../../Submissions/Action/is_suspension_of.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Action/is\_suspension\_of](../../Submissions/Action/is_suspension_of)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

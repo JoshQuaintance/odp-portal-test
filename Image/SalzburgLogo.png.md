@@ -1,6 +1,6 @@
-* [Image](../Image/SalzburgLogo.png.md#file)
-* [File history](../Image/SalzburgLogo.png.md#filehistory)
-* [Links](../Image/SalzburgLogo.png.md#filelinks)
+* [Image](../Image/SalzburgLogo.png#file)
+* [File history](../Image/SalzburgLogo.png#filehistory)
+* [Links](../Image/SalzburgLogo.png#filelinks)
 
 [![Image:SalzburgLogo.png](../images/thumb/0/0f/SalzburgLogo.png/800px-SalzburgLogo.png)](../images/0/0f/SalzburgLogo.png)  
 Size of this preview: 800 × 167 pixels  
@@ -23,8 +23,8 @@ Click on a date/time to view the file as it appeared at that time.
 The following 2 pages link to this file:
 
 
-* [Community:Images](../Community/Images.md "Community:Images")
-* [Odp:Partners](../Odp/Partners.md "Odp:Partners")
+* [Community:Images](../Community/Images "Community:Images")
+* [Odp:Partners](../Odp/Partners "Odp:Partners")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:SalzburgLogo.png](../Image/SalzburgLogo.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:SalzburgLogo.png](../Image/SalzburgLogo.png)"

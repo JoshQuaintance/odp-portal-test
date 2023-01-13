@@ -1,4 +1,4 @@
-___hasDirectHigherRank__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [LinnaeanTaxonomy](../../Submissions/LinnaeanTaxonomy.md "Submissions:LinnaeanTaxonomy")_
+___hasDirectHigherRank__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [LinnaeanTaxonomy](../../Submissions/LinnaeanTaxonomy "Submissions:LinnaeanTaxonomy")_
 
 
   
@@ -6,7 +6,7 @@ ___hasDirectHigherRank__ has [Category:OntologyElement](../../Category/OntologyE
 
 
 
-[![ObjectProperty](../../images/thumb/c/c3/ObjectProperty.gif/45px-ObjectProperty.gif)](../../Image/ObjectProperty.gif.md "ObjectProperty")
+[![ObjectProperty](../../images/thumb/c/c3/ObjectProperty.gif/45px-ObjectProperty.gif)](../../Image/ObjectProperty.gif "ObjectProperty")
 __Name__: hasDirectHigherRank 
 
 
@@ -19,5 +19,5 @@ __Description__: This property relates two taxa, where the first is more specifi
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:LinnaeanTaxonomy/hasDirectHigherRank](../../Submissions/LinnaeanTaxonomy/hasDirectHigherRank.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:LinnaeanTaxonomy/hasDirectHigherRank](../../Submissions/LinnaeanTaxonomy/hasDirectHigherRank)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

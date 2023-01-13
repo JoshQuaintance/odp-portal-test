@@ -1,4 +1,4 @@
-[![](../images/thumb/b/b5/Certified.png/70px-Certified.png)](../Image/Certified.png.md "Certified.png") __This pattern has been certified.__
+[![](../images/thumb/b/b5/Certified.png/70px-Certified.png)](../Image/Certified.png "Certified.png") __This pattern has been certified.__
 Related submission, with evaluation history, can be found __here__
 
 
@@ -13,7 +13,7 @@ __Diagram__
 
 
 
-[Image:Pattern.pdf](../Image/Pattern.pdf.md "Image:Pattern.pdf")
+[Image:Pattern.pdf](../Image/Pattern.pdf "Image:Pattern.pdf")
 
 
 
@@ -105,5 +105,5 @@ There is no Modeling issue related to this proposal.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Device-Interface-Link\_Pattern](../Submissions/Device-Interface-Link_Pattern.md)"
- [Categories](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ArrchitecturalOP](http://ontologydesignpatterns.org/wiki/index.php?title=Category:ArrchitecturalOP&action=edit&redlink=1 "Category:ArrchitecturalOP (not yet written)") | [ProposedArchitecturalOP](../Category/ProposedArchitecturalOP.md "Category:ProposedArchitecturalOP")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Device-Interface-Link\_Pattern](../Submissions/Device-Interface-Link_Pattern)"
+ [Categories](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ArrchitecturalOP](http://ontologydesignpatterns.org/wiki/index.php?title=Category:ArrchitecturalOP&action=edit&redlink=1 "Category:ArrchitecturalOP (not yet written)") | [ProposedArchitecturalOP](../Category/ProposedArchitecturalOP "Category:ProposedArchitecturalOP")

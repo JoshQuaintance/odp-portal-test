@@ -1,4 +1,4 @@
-___Segment__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [Trajectory](../../Submissions/Trajectory.md "Submissions:Trajectory")_
+___Segment__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [Trajectory](../../Submissions/Trajectory "Submissions:Trajectory")_
 
 
   
@@ -6,7 +6,7 @@ ___Segment__ has [Category:OntologyElement](../../Category/OntologyElement.md "C
 
 
 
-[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif.md "Class")
+[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif "Class")
 __Name__: Segment 
 
 
@@ -19,5 +19,5 @@ __Description__: The Segment class captures the "connection" between two consecu
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Trajectory/Segment](../../Submissions/Pollution/hasSegment.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Trajectory/Segment](../../Submissions/Pollution/hasSegment)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

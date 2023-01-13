@@ -38,8 +38,8 @@ This problem arose in the context of representing knowledge in a Biology textboo
 
 
 
- [List of Modeling Issues](../Community/Main.md "Community:Main") | [Post a new modeling issue](../Community/PostModelingIssue.md "Community:PostModelingIssue") | [Add a comment in the discussion page](index.php@title=Odp%253AAdd_comment&target=Community_talk%253AParts_that_create_compartments_in_an_entity.html#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Community_talk:Parts_that_create_compartments_in_an_entity#New_comment")
+ [List of Modeling Issues](../Community/Main "Community:Main") | [Post a new modeling issue](../Community/PostModelingIssue "Community:PostModelingIssue") | [Add a comment in the discussion page](index.php@title=Odp%253AAdd_comment&target=Community_talk%253AParts_that_create_compartments_in_an_entity.html#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Community_talk:Parts_that_create_compartments_in_an_entity#New_comment")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Community:Parts\_that\_create\_compartments\_in\_an\_entity](../Community/Parts_that_create_compartments_in_an_entity.md)"
- [Categories](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ModelingIssue](../Category/ModelingIssue.md "Category:ModelingIssue") | [Submitted to event](../Category/Submitted_to_event.md "Category:Submitted to event")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Community:Parts\_that\_create\_compartments\_in\_an\_entity](../Community/Parts_that_create_compartments_in_an_entity)"
+ [Categories](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ModelingIssue](../Category/ModelingIssue "Category:ModelingIssue") | [Submitted to event](../Category/Submitted_to_event "Category:Submitted to event")

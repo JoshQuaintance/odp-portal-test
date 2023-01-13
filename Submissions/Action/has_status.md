@@ -1,4 +1,4 @@
-___has status__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [Action](../../Submissions/Action.md "Submissions:Action")_
+___has status__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [Action](../../Submissions/Action "Submissions:Action")_
 
 
   
@@ -6,7 +6,7 @@ ___has status__ has [Category:OntologyElement](../../Category/OntologyElement.md
 
 
 
-[![ObjectProperty](../../images/thumb/c/c3/ObjectProperty.gif/45px-ObjectProperty.gif)](../../Image/ObjectProperty.gif.md "ObjectProperty")
+[![ObjectProperty](../../images/thumb/c/c3/ObjectProperty.gif/45px-ObjectProperty.gif)](../../Image/ObjectProperty.gif "ObjectProperty")
 __Name__: has\_status 
 
 
@@ -19,5 +19,5 @@ __Description__: A property that can be used to relate an action instance to its
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Action/has\_status](../../Submissions/Action/has_status.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Action/has\_status](../../Submissions/Action/has_status)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

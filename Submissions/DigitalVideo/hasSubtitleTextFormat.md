@@ -1,4 +1,4 @@
-___hasSubtitleTextFormat__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [DigitalVideo](../../Submissions/DigitalVideo.md "Submissions:DigitalVideo")_
+___hasSubtitleTextFormat__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [DigitalVideo](../../Submissions/DigitalVideo "Submissions:DigitalVideo")_
 
 
   
@@ -6,7 +6,7 @@ ___hasSubtitleTextFormat__ has [Category:OntologyElement](../../Category/Ontolog
 
 
 
-[![ObjectProperty](../../images/thumb/c/c3/ObjectProperty.gif/45px-ObjectProperty.gif)](../../Image/ObjectProperty.gif.md "ObjectProperty")
+[![ObjectProperty](../../images/thumb/c/c3/ObjectProperty.gif/45px-ObjectProperty.gif)](../../Image/ObjectProperty.gif "ObjectProperty")
 __Name__: hasSubtitleTextFormat 
 
 
@@ -19,5 +19,5 @@ __Description__: Associates a subtitle stream with a subtitle text format.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:DigitalVideo/hasSubtitleTextFormat](../../Submissions/DigitalVideo/hasSubtitleTextFormat.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:DigitalVideo/hasSubtitleTextFormat](../../Submissions/DigitalVideo/hasSubtitleTextFormat)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

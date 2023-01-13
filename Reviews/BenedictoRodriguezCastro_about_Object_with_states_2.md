@@ -1,5 +1,5 @@
-[![](../images/thumb/2/29/Reviewer.png/48px-Reviewer.png)](../Image/Reviewer.png.md "Reviewer.png")
-__[BenedictoRodriguezCastro](../User/BenedictoRodriguezCastro.md "User:BenedictoRodriguezCastro") about [Object with states](../Submissions/Object_with_states.md "Submissions:Object with states") (Revision ID: [with states?oldid=11667 11667](../Submissions/Object.md "http://ontologydesignpatterns.org/wiki/Submissions:Object"))__
+[![](../images/thumb/2/29/Reviewer.png/48px-Reviewer.png)](../Image/Reviewer.png "Reviewer.png")
+__[BenedictoRodriguezCastro](../User/BenedictoRodriguezCastro "User:BenedictoRodriguezCastro") about [Object with states](../Submissions/Object_with_states "Submissions:Object with states") (Revision ID: [with states?oldid=11667 11667](../Submissions/Object "http://ontologydesignpatterns.org/wiki/Submissions:Object"))__
 Overall suggestion (score): 1 - needs minor revision
 
 
@@ -118,8 +118,8 @@ _Posted:_ 2013/8/8 _Last modified:_ 2013/8/8
 
 
 
-[All reviews](../Reviews/Main.md "Reviews:Main") | [Add a comment at the bottom of this page](index.php@title=Odp%253AAdd_comment&target=../Reviews/BenedictoRodriguezCastro_about_Object_with_states_2.md#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Reviews:BenedictoRodriguezCastro_about_Object_with_states_2#New_comment")
+[All reviews](../Reviews/Main "Reviews:Main") | [Add a comment at the bottom of this page](index.php@title=Odp%253AAdd_comment&target=../Reviews/BenedictoRodriguezCastro_about_Object_with_states_2#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Reviews:BenedictoRodriguezCastro_about_Object_with_states_2#New_comment")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Reviews:BenedictoRodriguezCastro\_about\_Object\_with\_states\_2](../Reviews/BenedictoRodriguezCastro_about_Object_with_states_2.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [QCReview](../Category/QCReview.md "Category:QCReview")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Reviews:BenedictoRodriguezCastro\_about\_Object\_with\_states\_2](../Reviews/BenedictoRodriguezCastro_about_Object_with_states_2)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [QCReview](../Category/QCReview "Category:QCReview")

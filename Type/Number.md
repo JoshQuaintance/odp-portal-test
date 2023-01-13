@@ -23,15 +23,15 @@ Showing 4 properties using this type.
 ### H
 
 
-* [HasDecision](../Property/HasDecision.md "Property:HasDecision")
-* [HasDownloadNumber](../Property/HasDownloadNumber.md "Property:HasDownloadNumber")
-* [HasReviewScore](../Property/HasReviewScore.md "Property:HasReviewScore")
+* [HasDecision](../Property/HasDecision "Property:HasDecision")
+* [HasDownloadNumber](../Property/HasDownloadNumber "Property:HasDownloadNumber")
+* [HasReviewScore](../Property/HasReviewScore "Property:HasReviewScore")
 
 ### R
 
 
-* [ReviewAboutVersion](../Property/ReviewAboutVersion.md "Property:ReviewAboutVersion")
+* [ReviewAboutVersion](../Property/ReviewAboutVersion "Property:ReviewAboutVersion")
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Type:Number](../Type/Number.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Type:Number](../Type/Number)"

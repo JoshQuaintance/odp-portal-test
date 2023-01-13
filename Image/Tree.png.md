@@ -1,6 +1,6 @@
-* [Image](../Image/Tree.png.md#file)
-* [File history](../Image/Tree.png.md#filehistory)
-* [Links](../Image/Tree.png.md#filelinks)
+* [Image](../Image/Tree.png#file)
+* [File history](../Image/Tree.png#filehistory)
+* [Links](../Image/Tree.png#filelinks)
 
 [![Image:Tree.png](../images/thumb/a/ac/Tree.png/800px-Tree.png)](../images/a/ac/Tree.png)  
 Size of this preview: 800 × 389 pixels  
@@ -23,7 +23,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Submissions:Tree Pattern](../Submissions/Tree_Pattern.md "Submissions:Tree Pattern")
+* [Submissions:Tree Pattern](../Submissions/Tree_Pattern "Submissions:Tree Pattern")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Tree.png](../Image/Tree.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Tree.png](../Image/Tree.png)"

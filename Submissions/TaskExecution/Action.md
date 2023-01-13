@@ -1,4 +1,4 @@
-___Action__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [TaskExecution](../../Submissions/TaskExecution.md "Submissions:TaskExecution")_
+___Action__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [TaskExecution](../../Submissions/TaskExecution "Submissions:TaskExecution")_
 
 
   
@@ -6,7 +6,7 @@ ___Action__ has [Category:OntologyElement](../../Category/OntologyElement.md "Ca
 
 
 
-[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif.md "Class")
+[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif "Class")
 __Name__: Action 
 
 
@@ -19,5 +19,5 @@ __Description__: An Event with at least one Agent that isParticipantIn it, and t
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:TaskExecution/Action](../../Image/Action.jpg.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:TaskExecution/Action](../../Image/Action.jpg)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

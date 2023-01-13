@@ -1,4 +1,4 @@
-Return to [Catalogue of Exemplary Ontologies](../Ontology/Main.md "Ontology:Main")
+Return to [Catalogue of Exemplary Ontologies](../Ontology/Main "Ontology:Main")
 
 
 
@@ -23,7 +23,7 @@ Return to [Catalogue of Exemplary Ontologies](../Ontology/Main.md "Ontology:Main
 #  References
 
 
-[Add a reference](index.php@title=Odp%253AAdd_reference&subject=../Ontology/OWL-S.md "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_reference&subject=Ontology%3AOWL-S")
+[Add a reference](index.php@title=Odp%253AAdd_reference&subject=../Ontology/OWL-S "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_reference&subject=Ontology%3AOWL-S")
 
 
   
@@ -33,5 +33,5 @@ Return to [Catalogue of Exemplary Ontologies](../Ontology/Main.md "Ontology:Main
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Ontology:OWL-S](../Ontology/OWL-S.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Ontology](../Category/Ontology.md "Category:Ontology")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Ontology:OWL-S](../Ontology/OWL-S)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Ontology](../Category/Ontology "Category:Ontology")

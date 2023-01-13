@@ -1,4 +1,4 @@
-___Region__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [Region](../../Submissions/Region.md "Submissions:Region")_
+___Region__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [Region](../../Submissions/Region "Submissions:Region")_
 
 
   
@@ -6,7 +6,7 @@ ___Region__ has [Category:OntologyElement](../../Category/OntologyElement.md "Ca
 
 
 
-[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif.md "Class")
+[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif "Class")
 __Name__: Region 
 
 
@@ -22,5 +22,5 @@ Regions are not data values in the ordinary knowledge representation sense; in o
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Region/Region](../../Image/Region.jpg.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Region/Region](../../Image/Region.jpg)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

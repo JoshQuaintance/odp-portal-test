@@ -1,6 +1,6 @@
-* [Image](../Image/Imagen3.jpg.md#file)
-* [File history](../Image/Imagen3.jpg.md#filehistory)
-* [Links](../Image/Imagen3.jpg.md#filelinks)
+* [Image](../Image/Imagen3.jpg#file)
+* [File history](../Image/Imagen3.jpg#filehistory)
+* [Links](../Image/Imagen3.jpg#filelinks)
 
 [![Image:Imagen3.jpg](../images/b/b4/Imagen3.jpg)](../images/b/b4/Imagen3.jpg)  
 No higher resolution available.  
@@ -23,8 +23,8 @@ Click on a date/time to view the file as it appeared at that time.
 The following 2 pages link to this file:
 
 
-* [Community:Images](../Community/Images.md "Community:Images")
-* [Submissions:PharmaInnova](../Submissions/PharmaInnova.md "Submissions:PharmaInnova")
+* [Community:Images](../Community/Images "Community:Images")
+* [Submissions:PharmaInnova](../Submissions/PharmaInnova "Submissions:PharmaInnova")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Imagen3.jpg](../Image/Imagen3.jpg.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Imagen3.jpg](../Image/Imagen3.jpg)"

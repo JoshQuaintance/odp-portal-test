@@ -1,4 +1,4 @@
-___IconicLanguage__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [InformationObjectsAndRepresentationLanguages](../../Submissions/InformationObjectsAndRepresentationLanguages.md "Submissions:InformationObjectsAndRepresentationLanguages")_
+___IconicLanguage__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [InformationObjectsAndRepresentationLanguages](../../Submissions/InformationObjectsAndRepresentationLanguages "Submissions:InformationObjectsAndRepresentationLanguages")_
 
 
   
@@ -6,7 +6,7 @@ ___IconicLanguage__ has [Category:OntologyElement](../../Category/OntologyElemen
 
 
 
-[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif.md "Class")
+[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif "Class")
 __Name__: IconicLanguage 
 
 
@@ -19,5 +19,5 @@ __Description__: A language made up of graphical elements. It can be natural, ar
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:InformationObjectsAndRepresentationLanguages/IconicLanguage](../../Submissions/InformationObjectsAndRepresentationLanguages/IconicLanguage.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:InformationObjectsAndRepresentationLanguages/IconicLanguage](../../Submissions/InformationObjectsAndRepresentationLanguages/IconicLanguage)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

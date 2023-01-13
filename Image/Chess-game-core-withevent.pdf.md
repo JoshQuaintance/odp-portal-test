@@ -1,8 +1,8 @@
-* [Image](../Image/Chess-game-core-withevent.pdf.md#file)
-* [File history](../Image/Chess-game-core-withevent.pdf.md#filehistory)
-* [Links](../Image/Chess-game-core-withevent.pdf.md#filelinks)
+* [Image](../Image/Chess-game-core-withevent.pdf#file)
+* [File history](../Image/Chess-game-core-withevent.pdf#filehistory)
+* [Links](../Image/Chess-game-core-withevent.pdf#filelinks)
 
-[![](../skins/common/images/icons/fileicon-pdf.png)](../Image/Chess-game-core-withevent.pdf.md "Chess-game-core-withevent.pdf")
+[![](../skins/common/images/icons/fileicon-pdf.png)](../Image/Chess-game-core-withevent.pdf "Chess-game-core-withevent.pdf")
 [Chess-game-core-withevent.pdf](../images/1/1c/Chess-game-core-withevent.pdf "Chess-game-core-withevent.pdf")‎  (file size: 155 KB, MIME type: application/pdf)
 
 
@@ -32,4 +32,4 @@ There are no pages that link to this file.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Chess-game-core-withevent.pdf](../Image/Chess-game-core-withevent.pdf.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Chess-game-core-withevent.pdf](../Image/Chess-game-core-withevent.pdf)"

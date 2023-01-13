@@ -1,8 +1,8 @@
-* [Image](../Image/Djedidi_LOP2_WOP09.pdf.md#file)
-* [File history](../Image/Djedidi_LOP2_WOP09.pdf.md#filehistory)
-* [Links](../Image/Djedidi_LOP2_WOP09.pdf.md#filelinks)
+* [Image](../Image/Djedidi_LOP2_WOP09.pdf#file)
+* [File history](../Image/Djedidi_LOP2_WOP09.pdf#filehistory)
+* [Links](../Image/Djedidi_LOP2_WOP09.pdf#filelinks)
 
-[![](../skins/common/images/icons/fileicon-pdf.png)](../Image/Djedidi_LOP2_WOP09.pdf.md "Djedidi LOP2 WOP09.pdf")
+[![](../skins/common/images/icons/fileicon-pdf.png)](../Image/Djedidi_LOP2_WOP09.pdf "Djedidi LOP2 WOP09.pdf")
 [Djedidi\_LOP2\_WOP09.pdf](../images/e/e1/Djedidi_LOP2_WOP09.pdf "Djedidi LOP2 WOP09.pdf")‎  (file size: 8 KB, MIME type: application/pdf)
 
 
@@ -30,7 +30,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Submissions:Enlarge Class Definition for Resolving Disjointness due to Subsomption](../Submissions/Enlarge_Class_Definition_for_Resolving_Disjointness_due_to_Subsomption.md "Submissions:Enlarge Class Definition for Resolving Disjointness due to Subsomption")
+* [Submissions:Enlarge Class Definition for Resolving Disjointness due to Subsomption](../Submissions/Enlarge_Class_Definition_for_Resolving_Disjointness_due_to_Subsomption "Submissions:Enlarge Class Definition for Resolving Disjointness due to Subsomption")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Djedidi\_LOP2\_WOP09.pdf](../Image/Djedidi_LOP2_WOP09.pdf.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Djedidi\_LOP2\_WOP09.pdf](../Image/Djedidi_LOP2_WOP09.pdf)"

@@ -1,4 +1,4 @@
-___Parameter__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [Observation](../../Submissions/Observation.md "Submissions:Observation")_
+___Parameter__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [Observation](../../Submissions/Observation "Submissions:Observation")_
 
 
   
@@ -6,7 +6,7 @@ ___Parameter__ has [Category:OntologyElement](../../Category/OntologyElement.md 
 
 
 
-[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif.md "Class")
+[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif "Class")
 __Name__: Parameter 
 
 
@@ -19,5 +19,5 @@ __Description__: The parameters of an observation describe the context and conte
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Observation/Parameter](../../Image/Parameter.jpg.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Observation/Parameter](../../Image/Parameter.jpg)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

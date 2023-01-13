@@ -1,6 +1,6 @@
-* [Image](../Image/OP_1.jape.md#file)
-* [File history](../Image/OP_1.jape.md#filehistory)
-* [Links](../Image/OP_1.jape.md#filelinks)
+* [Image](../Image/OP_1.jape#file)
+* [File history](../Image/OP_1.jape#filehistory)
+* [Links](../Image/OP_1.jape#filelinks)
 
 
 [OP\_1.jape](../images/9/99/OP_1.jape "OP 1.jape")‎
@@ -32,8 +32,8 @@ Click on a date/time to view the file as it appeared at that time.
 The following 2 pages link to this file:
 
 
-* [Submissions:Lexico Syntactic ODP corresponding to Object Property ODP](../Submissions/Lexico_Syntactic_ODP_corresponding_to_Object_Property_ODP.md "Submissions:Lexico Syntactic ODP corresponding to Object Property ODP")
-* [Submissions:Lexico Syntactic ODP corresponding to Object Property ODP/1](../Submissions/Lexico_Syntactic_ODP_corresponding_to_Object_Property_ODP/1.md "Submissions:Lexico Syntactic ODP corresponding to Object Property ODP/1")
+* [Submissions:Lexico Syntactic ODP corresponding to Object Property ODP](../Submissions/Lexico_Syntactic_ODP_corresponding_to_Object_Property_ODP "Submissions:Lexico Syntactic ODP corresponding to Object Property ODP")
+* [Submissions:Lexico Syntactic ODP corresponding to Object Property ODP/1](../Submissions/Lexico_Syntactic_ODP_corresponding_to_Object_Property_ODP/1 "Submissions:Lexico Syntactic ODP corresponding to Object Property ODP/1")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:OP\_1.jape](../Image/OP_1.jape.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:OP\_1.jape](../Image/OP_1.jape)"

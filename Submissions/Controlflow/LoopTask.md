@@ -1,4 +1,4 @@
-___LoopTask__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [Controlflow](../../Submissions/Controlflow.md "Submissions:Controlflow")_
+___LoopTask__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [Controlflow](../../Submissions/Controlflow "Submissions:Controlflow")_
 
 
   
@@ -6,7 +6,7 @@ ___LoopTask__ has [Category:OntologyElement](../../Category/OntologyElement.md "
 
 
 
-[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif.md "Class")
+[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif "Class")
 __Name__: LoopTask 
 
 
@@ -22,5 +22,5 @@ Some relations typically hold for loop tasks. Exit condition can be used to stat
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Controlflow/LoopTask](../../Submissions/Controlflow/LoopTask.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Controlflow/LoopTask](../../Submissions/Controlflow/LoopTask)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

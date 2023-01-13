@@ -1,4 +1,4 @@
-___SmartHomeSensor__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [SmartHome Sensing](../../Submissions/SmartHome_Sensing.md "Submissions:SmartHome Sensing")_
+___SmartHomeSensor__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [SmartHome Sensing](../../Submissions/SmartHome_Sensing "Submissions:SmartHome Sensing")_
 
 
   
@@ -6,7 +6,7 @@ ___SmartHomeSensor__ has [Category:OntologyElement](../../Category/OntologyEleme
 
 
 
-[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif.md "Class")
+[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif "Class")
 __Name__: SmartHomeSensor 
 
 
@@ -19,5 +19,5 @@ __Description__:
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:SmartHome\_Sensing/SmartHomeSensor](../../Submissions/SmartHome_Sensing/SmartHomeSensor.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:SmartHome\_Sensing/SmartHomeSensor](../../Submissions/SmartHome_Sensing/SmartHomeSensor)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

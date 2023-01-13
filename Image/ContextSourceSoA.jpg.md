@@ -1,6 +1,6 @@
-* [Image](../Image/ContextSourceSoA.jpg.md#file)
-* [File history](../Image/ContextSourceSoA.jpg.md#filehistory)
-* [Links](../Image/ContextSourceSoA.jpg.md#filelinks)
+* [Image](../Image/ContextSourceSoA.jpg#file)
+* [File history](../Image/ContextSourceSoA.jpg#filehistory)
+* [Links](../Image/ContextSourceSoA.jpg#filelinks)
 
 [![Image:ContextSourceSoA.jpg](../images/9/98/ContextSourceSoA.jpg)](../images/9/98/ContextSourceSoA.jpg)  
 No higher resolution available.  
@@ -23,7 +23,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Submissions:SimpleOrAggregated/Scenario 2](../Submissions/SimpleOrAggregated/Scenario_2.md "Submissions:SimpleOrAggregated/Scenario 2")
+* [Submissions:SimpleOrAggregated/Scenario 2](../Submissions/SimpleOrAggregated/Scenario_2 "Submissions:SimpleOrAggregated/Scenario 2")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:ContextSourceSoA.jpg](../Image/ContextSourceSoA.jpg.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:ContextSourceSoA.jpg](../Image/ContextSourceSoA.jpg)"

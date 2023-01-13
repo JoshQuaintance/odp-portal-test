@@ -1,6 +1,6 @@
-* [Image](../Image/DataTransformation.jpg.md#file)
-* [File history](../Image/DataTransformation.jpg.md#filehistory)
-* [Links](../Image/DataTransformation.jpg.md#filelinks)
+* [Image](../Image/DataTransformation.jpg#file)
+* [File history](../Image/DataTransformation.jpg#filehistory)
+* [Links](../Image/DataTransformation.jpg#filelinks)
 
 [![Image:DataTransformation.jpg](../images/thumb/d/d4/DataTransformation.jpg/800px-DataTransformation.jpg)](../images/d/d4/DataTransformation.jpg)  
 Size of this preview: 800 × 216 pixels  
@@ -23,7 +23,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Submissions:DataTransformationPattern](../Submissions/DataTransformationPattern.md "Submissions:DataTransformationPattern")
+* [Submissions:DataTransformationPattern](../Submissions/DataTransformationPattern "Submissions:DataTransformationPattern")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:DataTransformation.jpg](../Image/DataTransformation.jpg.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:DataTransformation.jpg](../Image/DataTransformation.jpg)"

@@ -1,6 +1,6 @@
-* [Image](../Image/Activityspec_op.png.md#file)
-* [File history](../Image/Activityspec_op.png.md#filehistory)
-* [Links](../Image/Activityspec_op.png.md#filelinks)
+* [Image](../Image/Activityspec_op.png#file)
+* [File history](../Image/Activityspec_op.png#filehistory)
+* [Links](../Image/Activityspec_op.png#filelinks)
 
 [![Image:Activityspec op.png](../images/2/21/Activityspec_op.png)](../images/2/21/Activityspec_op.png)  
 No higher resolution available.  
@@ -23,7 +23,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Submissions:ActivitySpecification](../Submissions/ActivitySpecification.md "Submissions:ActivitySpecification")
+* [Submissions:ActivitySpecification](../Submissions/ActivitySpecification "Submissions:ActivitySpecification")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Activityspec\_op.png](../Image/Activityspec_op.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Activityspec\_op.png](../Image/Activityspec_op.png)"

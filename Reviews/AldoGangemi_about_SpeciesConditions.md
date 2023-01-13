@@ -1,5 +1,5 @@
-[![](../images/thumb/2/29/Reviewer.png/48px-Reviewer.png)](../Image/Reviewer.png.md "Reviewer.png")
-__[AldoGangemi](../User/AldoGangemi.md "User:AldoGangemi") about [SpeciesConditions](../Submissions/SpeciesConditions.md "Submissions:SpeciesConditions") (Revision ID: [3676](../Submissions/SpeciesConditions@oldid=3676.md "http://ontologydesignpatterns.org/wiki/Submissions:SpeciesConditions?oldid=3676"))__
+[![](../images/thumb/2/29/Reviewer.png/48px-Reviewer.png)](../Image/Reviewer.png "Reviewer.png")
+__[AldoGangemi](../User/AldoGangemi "User:AldoGangemi") about [SpeciesConditions](../Submissions/SpeciesConditions "Submissions:SpeciesConditions") (Revision ID: [3676](../Submissions/SpeciesConditions@oldid=3676 "http://ontologydesignpatterns.org/wiki/Submissions:SpeciesConditions?oldid=3676"))__
 Overall suggestion (score): 1 - to reject
 
 
@@ -22,8 +22,8 @@ _Posted:_ 2009/3/17 _Last modified:_ 2009/8/5
 
 
 
-[All reviews](../Reviews/Main.md "Reviews:Main") | [Add a comment at the bottom of this page](index.php@title=Odp%253AAdd_comment&target=../Reviews/AldoGangemi_about_SpeciesConditions.md#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Reviews:AldoGangemi_about_SpeciesConditions#New_comment")
+[All reviews](../Reviews/Main "Reviews:Main") | [Add a comment at the bottom of this page](index.php@title=Odp%253AAdd_comment&target=../Reviews/AldoGangemi_about_SpeciesConditions#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Reviews:AldoGangemi_about_SpeciesConditions#New_comment")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Reviews:AldoGangemi\_about\_SpeciesConditions](../Reviews/AldoGangemi_about_SpeciesConditions.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [QCReview](../Category/QCReview.md "Category:QCReview")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Reviews:AldoGangemi\_about\_SpeciesConditions](../Reviews/AldoGangemi_about_SpeciesConditions)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [QCReview](../Category/QCReview "Category:QCReview")

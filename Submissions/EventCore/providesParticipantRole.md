@@ -1,4 +1,4 @@
-___providesParticipantRole__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [EventCore](../../Submissions/EventCore.md "Submissions:EventCore")_
+___providesParticipantRole__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [EventCore](../../Submissions/EventCore "Submissions:EventCore")_
 
 
   
@@ -6,7 +6,7 @@ ___providesParticipantRole__ has [Category:OntologyElement](../../Category/Ontol
 
 
 
-[![ObjectProperty](../../images/thumb/c/c3/ObjectProperty.gif/45px-ObjectProperty.gif)](../../Image/ObjectProperty.gif.md "ObjectProperty")
+[![ObjectProperty](../../images/thumb/c/c3/ObjectProperty.gif/45px-ObjectProperty.gif)](../../Image/ObjectProperty.gif "ObjectProperty")
 __Name__: providesParticipantRole 
 
 
@@ -19,5 +19,5 @@ __Description__: Property relating Event to ParticipantRole in this pattern. The
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:EventCore/providesParticipantRole](../../Submissions/EventCore/providesParticipantRole.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:EventCore/providesParticipantRole](../../Submissions/EventCore/providesParticipantRole)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

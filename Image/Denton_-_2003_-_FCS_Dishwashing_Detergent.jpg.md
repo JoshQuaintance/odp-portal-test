@@ -1,6 +1,6 @@
-* [Image](../Image/Denton_-_2003_-_FCS_Dishwashing_Detergent.jpg.md#file)
-* [File history](../Image/Denton_-_2003_-_FCS_Dishwashing_Detergent.jpg.md#filehistory)
-* [Links](../Image/Denton_-_2003_-_FCS_Dishwashing_Detergent.jpg.md#filelinks)
+* [Image](../Image/Denton_-_2003_-_FCS_Dishwashing_Detergent.jpg#file)
+* [File history](../Image/Denton_-_2003_-_FCS_Dishwashing_Detergent.jpg#filehistory)
+* [Links](../Image/Denton_-_2003_-_FCS_Dishwashing_Detergent.jpg#filelinks)
 
 [![Image:Denton - 2003 - FCS Dishwashing Detergent.jpg](../images/9/94/Denton_-_2003_-_FCS_Dishwashing_Detergent.jpg)](../images/9/94/Denton_-_2003_-_FCS_Dishwashing_Detergent.jpg)  
 No higher resolution available.  
@@ -26,8 +26,8 @@ Click on a date/time to view the file as it appeared at that time.
 The following 2 pages link to this file:
 
 
-* [Community:Multiple Alternative Classification Criteria](../Community/Multiple_Alternative_Classification_Criteria.md "Community:Multiple Alternative Classification Criteria")
-* [Submissions:Faceted Classification Scheme](../Submissions/Faceted_Classification_Scheme.md "Submissions:Faceted Classification Scheme")
+* [Community:Multiple Alternative Classification Criteria](../Community/Multiple_Alternative_Classification_Criteria "Community:Multiple Alternative Classification Criteria")
+* [Submissions:Faceted Classification Scheme](../Submissions/Faceted_Classification_Scheme "Submissions:Faceted Classification Scheme")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Denton\_-\_2003\_-\_FCS\_Dishwashing\_Detergent.jpg](../Image/Denton_-_2003_-_FCS_Dishwashing_Detergent.jpg.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Denton\_-\_2003\_-\_FCS\_Dishwashing\_Detergent.jpg](../Image/Denton_-_2003_-_FCS_Dishwashing_Detergent.jpg)"

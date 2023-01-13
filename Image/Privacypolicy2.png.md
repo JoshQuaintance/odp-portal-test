@@ -1,6 +1,6 @@
-* [Image](../Image/Privacypolicy2.png.md#file)
-* [File history](../Image/Privacypolicy2.png.md#filehistory)
-* [Links](../Image/Privacypolicy2.png.md#filelinks)
+* [Image](../Image/Privacypolicy2.png#file)
+* [File history](../Image/Privacypolicy2.png#filehistory)
+* [Links](../Image/Privacypolicy2.png#filelinks)
 
 [![Image:Privacypolicy2.png](../images/thumb/1/14/Privacypolicy2.png/800px-Privacypolicy2.png)](../images/1/14/Privacypolicy2.png)  
 Size of this preview: 800 × 541 pixels  
@@ -25,4 +25,4 @@ There are no pages that link to this file.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Privacypolicy2.png](../Image/Privacypolicy2.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Privacypolicy2.png](../Image/Privacypolicy2.png)"

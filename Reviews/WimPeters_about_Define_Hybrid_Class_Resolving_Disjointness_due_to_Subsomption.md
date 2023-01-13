@@ -1,5 +1,5 @@
-[![](../images/thumb/2/29/Reviewer.png/48px-Reviewer.png)](../Image/Reviewer.png.md "Reviewer.png")
-__[WimPeters](../User/WimPeters.md "User:WimPeters") about [Define Hybrid Class Resolving Disjointness due to Subsomption](../Submissions/Define_Hybrid_Class_Resolving_Disjointness_due_to_Subsomption.md "Submissions:Define Hybrid Class Resolving Disjointness due to Subsomption") (Revision ID: [Hybrid Class Resolving Disjointness due to Subsomption?oldid=5753 5753](../Submissions/Define.md "http://ontologydesignpatterns.org/wiki/Submissions:Define"))__
+[![](../images/thumb/2/29/Reviewer.png/48px-Reviewer.png)](../Image/Reviewer.png "Reviewer.png")
+__[WimPeters](../User/WimPeters "User:WimPeters") about [Define Hybrid Class Resolving Disjointness due to Subsomption](../Submissions/Define_Hybrid_Class_Resolving_Disjointness_due_to_Subsomption "Submissions:Define Hybrid Class Resolving Disjointness due to Subsomption") (Revision ID: [Hybrid Class Resolving Disjointness due to Subsomption?oldid=5753 5753](../Submissions/Define "http://ontologydesignpatterns.org/wiki/Submissions:Define"))__
 Overall suggestion (score): 1 - needs minor revision
 
 
@@ -38,8 +38,8 @@ _Posted:_ 2009/9/9 _Last modified:_ 2009/9/9
 
 
 
-[All reviews](../Reviews/Main.md "Reviews:Main") | [Add a comment at the bottom of this page](index.php@title=Odp%253AAdd_comment&target=../Reviews/WimPeters_about_Define_Hybrid_Class_Resolving_Disjointness_due_to_Subsomption.md#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Reviews:WimPeters_about_Define_Hybrid_Class_Resolving_Disjointness_due_to_Subsomption#New_comment")
+[All reviews](../Reviews/Main "Reviews:Main") | [Add a comment at the bottom of this page](index.php@title=Odp%253AAdd_comment&target=../Reviews/WimPeters_about_Define_Hybrid_Class_Resolving_Disjointness_due_to_Subsomption#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Reviews:WimPeters_about_Define_Hybrid_Class_Resolving_Disjointness_due_to_Subsomption#New_comment")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Reviews:WimPeters\_about\_Define\_Hybrid\_Class\_Resolving\_Disjointness\_due\_to\_Subsomption](../Reviews/WimPeters_about_Define_Hybrid_Class_Resolving_Disjointness_due_to_Subsomption.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [QCReview](../Category/QCReview.md "Category:QCReview")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Reviews:WimPeters\_about\_Define\_Hybrid\_Class\_Resolving\_Disjointness\_due\_to\_Subsomption](../Reviews/WimPeters_about_Define_Hybrid_Class_Resolving_Disjointness_due_to_Subsomption)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [QCReview](../Category/QCReview "Category:QCReview")

@@ -1,4 +1,4 @@
-[![](../images/thumb/b/b5/Certified.png/70px-Certified.png)](../Image/Certified.png.md "Certified.png") __This pattern has been certified.__
+[![](../images/thumb/b/b5/Certified.png/70px-Certified.png)](../Image/Certified.png "Certified.png") __This pattern has been certified.__
 Related submission, with evaluation history, can be found __here__
 
 
@@ -13,7 +13,7 @@ __Diagram__
 
 
 
-[![Image:PeriodicIntervalv0.jpg](../images/6/60/PeriodicIntervalv0.jpg)](../Image/PeriodicIntervalv0.jpg.md "Image:PeriodicIntervalv0.jpg")
+[![Image:PeriodicIntervalv0.jpg](../images/6/60/PeriodicIntervalv0.jpg)](../Image/PeriodicIntervalv0.jpg "Image:PeriodicIntervalv0.jpg")
 
 
 
@@ -33,12 +33,12 @@ _The __PeriodicInterval__ Content OP locally defines the following ontology elem
 
 
 
-[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __hasIntervalDurationPerPeriod__ (owl:ObjectProperty) 
- [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[hasIntervalDurationPerPeriod](../Submissions/PeriodicInterval/hasIntervalDurationPerPeriod.md "Submissions:PeriodicInterval/hasIntervalDurationPerPeriod") page_
-[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __hasPeriod__ (owl:ObjectProperty) 
- [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[hasPeriod](../Submissions/PeriodicInterval/hasPeriod.md "Submissions:PeriodicInterval/hasPeriod") page_
-[![Class](../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __PeriodicInterval__ (owl:Class) 
- [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[PeriodicInterval](../Submissions/PeriodicInterval/PeriodicInterval.md "Submissions:PeriodicInterval/PeriodicInterval") page_
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif "ObjectProperty") __hasIntervalDurationPerPeriod__ (owl:ObjectProperty) 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif "ArrowRight.gif") _[hasIntervalDurationPerPeriod](../Submissions/PeriodicInterval/hasIntervalDurationPerPeriod "Submissions:PeriodicInterval/hasIntervalDurationPerPeriod") page_
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif "ObjectProperty") __hasPeriod__ (owl:ObjectProperty) 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif "ArrowRight.gif") _[hasPeriod](../Submissions/PeriodicInterval/hasPeriod "Submissions:PeriodicInterval/hasPeriod") page_
+[![Class](../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif "Class") __PeriodicInterval__ (owl:Class) 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif "ArrowRight.gif") _[PeriodicInterval](../Submissions/PeriodicInterval/PeriodicInterval "Submissions:PeriodicInterval/PeriodicInterval") page_
 #  Additional information
 
 
@@ -92,7 +92,7 @@ There is no Modeling issue related to this proposal.
 #  References
 
 
-[Add a reference](index.php@title=Odp%253AAdd_reference&subject=../Submissions/PeriodicInterval.md "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_reference&subject=Submissions%3APeriodicInterval")
+[Add a reference](index.php@title=Odp%253AAdd_reference&subject=../Submissions/PeriodicInterval "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_reference&subject=Submissions%3APeriodicInterval")
 
 
   
@@ -102,5 +102,5 @@ There is no Modeling issue related to this proposal.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:PeriodicInterval](../Submissions/PeriodicInterval.md)"
- [Categories](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ProposedContentOP](../Category/ProposedContentOP.md "Category:ProposedContentOP") | [Waiting for review](../Category/Waiting_for_review.md "Category:Waiting for review") | [Submitted to event](../Category/Submitted_to_event.md "Category:Submitted to event") | [Review assigned](../Category/Review_assigned.md "Category:Review assigned")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:PeriodicInterval](../Submissions/PeriodicInterval)"
+ [Categories](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ProposedContentOP](../Category/ProposedContentOP "Category:ProposedContentOP") | [Waiting for review](../Category/Waiting_for_review "Category:Waiting for review") | [Submitted to event](../Category/Submitted_to_event "Category:Submitted to event") | [Review assigned](../Category/Review_assigned "Category:Review assigned")

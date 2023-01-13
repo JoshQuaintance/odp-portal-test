@@ -1,4 +1,4 @@
-[![](../images/thumb/b/b5/Certified.png/70px-Certified.png)](../Image/Certified.png.md "Certified.png") __This pattern has been certified.__
+[![](../images/thumb/b/b5/Certified.png/70px-Certified.png)](../Image/Certified.png "Certified.png") __This pattern has been certified.__
 Related submission, with evaluation history, can be found __here__
 
 
@@ -13,7 +13,7 @@ __Diagram__
 
 
 
-[![Image:Timeindexedpersonrole.jpg](../images/d/d2/Timeindexedpersonrole.jpg)](../Image/Timeindexedpersonrole.jpg.md "Image:Timeindexedpersonrole.jpg")
+[![Image:Timeindexedpersonrole.jpg](../images/d/d2/Timeindexedpersonrole.jpg)](../Image/Timeindexedpersonrole.jpg "Image:Timeindexedpersonrole.jpg")
 
 
 
@@ -33,10 +33,10 @@ _The __Time indexed person role__ Content OP locally defines the following ontol
 
 
 
-[![Class](../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __Person__ (owl:Class) Persons in commonsense intuition, i.e. either as physical agents (humans) or social persons. 
- [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[Person](../Submissions/Time_indexed_person_role/Person.md "Submissions:Time indexed person role/Person") page_
-[![Class](../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __TimeIndexedPersonRole__ (owl:Class) A situation that expresses time indexing for the relation between persons and roles they play. 
- [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[TimeIndexedPersonRole](../Submissions/Time_indexed_person_role/TimeIndexedPersonRole.md "Submissions:Time indexed person role/TimeIndexedPersonRole") page_
+[![Class](../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif "Class") __Person__ (owl:Class) Persons in commonsense intuition, i.e. either as physical agents (humans) or social persons. 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif "ArrowRight.gif") _[Person](../Submissions/Time_indexed_person_role/Person "Submissions:Time indexed person role/Person") page_
+[![Class](../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif "Class") __TimeIndexedPersonRole__ (owl:Class) A situation that expresses time indexing for the relation between persons and roles they play. 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif "ArrowRight.gif") _[TimeIndexedPersonRole](../Submissions/Time_indexed_person_role/TimeIndexedPersonRole "Submissions:Time indexed person role/TimeIndexedPersonRole") page_
 #  Additional information
 
 
@@ -119,5 +119,5 @@ There is no Modeling issue related to this proposal.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Time\_indexed\_person\_role](../Submissions/Time_indexed_person_role.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ProposedContentOP](../Category/ProposedContentOP.md "Category:ProposedContentOP")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Time\_indexed\_person\_role](../Submissions/Time_indexed_person_role)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ProposedContentOP](../Category/ProposedContentOP "Category:ProposedContentOP")

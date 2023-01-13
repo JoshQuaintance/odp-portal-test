@@ -1,6 +1,6 @@
-* [Image](../Image/Criterion.png.md#file)
-* [File history](../Image/Criterion.png.md#filehistory)
-* [Links](../Image/Criterion.png.md#filelinks)
+* [Image](../Image/Criterion.png#file)
+* [File history](../Image/Criterion.png#filehistory)
+* [Links](../Image/Criterion.png#filelinks)
 
 [![Image:Criterion.png](../images/a/aa/Criterion.png)](../images/a/aa/Criterion.png)  
 No higher resolution available.  
@@ -23,7 +23,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Submissions:Criterion](../Submissions/Criterion.md "Submissions:Criterion")
+* [Submissions:Criterion](../Submissions/Criterion "Submissions:Criterion")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Criterion.png](../Image/Criterion.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Criterion.png](../Image/Criterion.png)"

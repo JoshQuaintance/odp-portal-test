@@ -1,4 +1,4 @@
-[![Image:ODPUser.png](../images/a/a6/ODPUser.png)](../Image/ODPUser.png.md "Image:ODPUser.png")
+[![Image:ODPUser.png](../images/a/a6/ODPUser.png)](../Image/ODPUser.png "Image:ODPUser.png")
 
 
 
@@ -19,10 +19,10 @@ __Domains of interest:__
 
 
 
-* [Business](../Community/Business.md "Community:Business")
-* [Ontology](../Community/Ontology-based_models.md "Community:Ontology")
-* [Semiotics](../Community/Semiotics.md "Community:Semiotics")
-* [Workflow](../Community/Workflow.md "Community:Workflow")
+* [Business](../Community/Business "Community:Business")
+* [Ontology](../Community/Ontology-based_models "Community:Ontology")
+* [Semiotics](../Community/Semiotics "Community:Semiotics")
+* [Workflow](../Community/Workflow "Community:Workflow")
 * [business processes](http://ontologydesignpatterns.org/wiki/index.php?title=Community:Business_processes&action=edit&redlink=1 "Community:Business processes (not yet written)")
 
 
@@ -38,5 +38,5 @@ __How did I know about ODP:__ colleagues
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/User:VioletaDamjanovic](../User/VioletaDamjanovic.md)"
- [Categories](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ODPUser](../Category/ODPUser.md "Category:ODPUser") | [EBMember](../Category/EBMember.md "Category:EBMember")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/User:VioletaDamjanovic](../User/VioletaDamjanovic)"
+ [Categories](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ODPUser](../Category/ODPUser "Category:ODPUser") | [EBMember](../Category/EBMember "Category:EBMember")

@@ -1,6 +1,6 @@
-* [Image](../Image/Aquaticresourceobservation.jpg.md#file)
-* [File history](../Image/Aquaticresourceobservation.jpg.md#filehistory)
-* [Links](../Image/Aquaticresourceobservation.jpg.md#filelinks)
+* [Image](../Image/Aquaticresourceobservation.jpg#file)
+* [File history](../Image/Aquaticresourceobservation.jpg#filehistory)
+* [Links](../Image/Aquaticresourceobservation.jpg#filelinks)
 
 [![Image:Aquaticresourceobservation.jpg](../images/thumb/1/13/Aquaticresourceobservation.jpg/800px-Aquaticresourceobservation.jpg)](../images/1/13/Aquaticresourceobservation.jpg)  
 Size of this preview: 800 × 205 pixels  
@@ -23,7 +23,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Community:Images](../Community/Images.md "Community:Images")
+* [Community:Images](../Community/Images "Community:Images")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Aquaticresourceobservation.jpg](../Image/Aquaticresourceobservation.jpg.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Aquaticresourceobservation.jpg](../Image/Aquaticresourceobservation.jpg)"

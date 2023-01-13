@@ -1,4 +1,4 @@
-[![](../images/thumb/b/b5/Certified.png/70px-Certified.png)](../Image/Certified.png.md "Certified.png") __This pattern has been certified.__
+[![](../images/thumb/b/b5/Certified.png/70px-Certified.png)](../Image/Certified.png "Certified.png") __This pattern has been certified.__
 Related submission, with evaluation history, can be found __here__
 
 
@@ -13,7 +13,7 @@ __Diagram__
 
 
 
-[![Image:naryparticipation.jpg](../images/e/e2/Naryparticipation.jpg)](../Image/Naryparticipation.jpg.md "Image:naryparticipation.jpg")
+[![Image:naryparticipation.jpg](../images/e/e2/Naryparticipation.jpg)](../Image/Naryparticipation.jpg "Image:naryparticipation.jpg")
 
 
 
@@ -34,23 +34,23 @@ _The __Nary Participation__ Content OP locally defines the following ontology el
 
 
 
-[![Class](../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __NaryParticipation__ (owl:Class) The reified class of n-ary participation relations, e.g. "prepare a coffee with coffee pot". 
+[![Class](../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif "Class") __NaryParticipation__ (owl:Class) The reified class of n-ary participation relations, e.g. "prepare a coffee with coffee pot". 
 
 
 
- [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[NaryParticipation](../Submissions/Nary_Participation/NaryParticipation.md "Submissions:Nary Participation/NaryParticipation") page_
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif "ArrowRight.gif") _[NaryParticipation](../Submissions/Nary_Participation/NaryParticipation "Submissions:Nary Participation/NaryParticipation") page_
 
-[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __participationIncludes__ (owl:ObjectProperty) The relation holding between an  [NaryParticipation](../Submissions/Nary_Participation/NaryParticipation.md "Submissions:Nary Participation/NaryParticipation") and any  [Entity](../Submissions/Situation/Entity.md "Submissions:Situation/Entity"). 
-
-
-
- [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[participationIncludes](../Submissions/Nary_Participation/participationIncludes.md "Submissions:Nary Participation/participationIncludes") page_
-
-[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __isIncludedInParticipation__ (owl:ObjectProperty) The relation holding between any  [Entity](../Submissions/Situation/Entity.md "Submissions:Situation/Entity") and a  [NaryParticipation](../Submissions/Nary_Participation/NaryParticipation.md "Submissions:Nary Participation/NaryParticipation"). 
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif "ObjectProperty") __participationIncludes__ (owl:ObjectProperty) The relation holding between an  [NaryParticipation](../Submissions/Nary_Participation/NaryParticipation "Submissions:Nary Participation/NaryParticipation") and any  [Entity](../Submissions/Situation/Entity "Submissions:Situation/Entity"). 
 
 
 
- [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[isIncludedInParticipation](../Submissions/Nary_Participation/isIncludedInParticipation.md "Submissions:Nary Participation/isIncludedInParticipation") page_
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif "ArrowRight.gif") _[participationIncludes](../Submissions/Nary_Participation/participationIncludes "Submissions:Nary Participation/participationIncludes") page_
+
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif "ObjectProperty") __isIncludedInParticipation__ (owl:ObjectProperty) The relation holding between any  [Entity](../Submissions/Situation/Entity "Submissions:Situation/Entity") and a  [NaryParticipation](../Submissions/Nary_Participation/NaryParticipation "Submissions:Nary Participation/NaryParticipation"). 
+
+
+
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif "ArrowRight.gif") _[isIncludedInParticipation](../Submissions/Nary_Participation/isIncludedInParticipation "Submissions:Nary Participation/isIncludedInParticipation") page_
 #  Additional information
 
 
@@ -111,5 +111,5 @@ There is no Modeling issue related to this proposal.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Nary\_Participation](../Submissions/Nary_Participation.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ProposedContentOP](../Category/ProposedContentOP.md "Category:ProposedContentOP")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Nary\_Participation](../Submissions/Nary_Participation)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ProposedContentOP](../Category/ProposedContentOP "Category:ProposedContentOP")

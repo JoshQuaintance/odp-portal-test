@@ -1,6 +1,6 @@
-* [Image](../Image/Class-by-path-attribute-value.png.md#file)
-* [File history](../Image/Class-by-path-attribute-value.png.md#filehistory)
-* [Links](../Image/Class-by-path-attribute-value.png.md#filelinks)
+* [Image](../Image/Class-by-path-attribute-value.png#file)
+* [File history](../Image/Class-by-path-attribute-value.png#filehistory)
+* [Links](../Image/Class-by-path-attribute-value.png#filelinks)
 
 [![Image:Class-by-path-attribute-value.png](../images/f/f8/Class-by-path-attribute-value.png)](../images/f/f8/Class-by-path-attribute-value.png)  
 No higher resolution available.  
@@ -23,7 +23,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Submissions:Class by path attribute value](../Submissions/Class_by_path_attribute_value.md "Submissions:Class by path attribute value")
+* [Submissions:Class by path attribute value](../Submissions/Class_by_path_attribute_value "Submissions:Class by path attribute value")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Class-by-path-attribute-value.png](../Image/Class-by-path-attribute-value.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Class-by-path-attribute-value.png](../Image/Class-by-path-attribute-value.png)"

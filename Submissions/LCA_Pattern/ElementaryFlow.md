@@ -1,4 +1,4 @@
-___ElementaryFlow__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [LCA Pattern](../../Submissions/LCA_Pattern.md "Submissions:LCA Pattern")_
+___ElementaryFlow__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [LCA Pattern](../../Submissions/LCA_Pattern "Submissions:LCA Pattern")_
 
 
   
@@ -6,7 +6,7 @@ ___ElementaryFlow__ has [Category:OntologyElement](../../Category/OntologyElemen
 
 
 
-[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif.md "Class")
+[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif "Class")
 __Name__: ElementaryFlow 
 
 
@@ -19,5 +19,5 @@ __Description__: It describes material or energy that is entering the system fro
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:LCA\_Pattern/ElementaryFlow](../../Submissions/LCA_Pattern/ElementaryFlow.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:LCA\_Pattern/ElementaryFlow](../../Submissions/LCA_Pattern/ElementaryFlow)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

@@ -1,6 +1,6 @@
-* [Image](../Image/SHEvent.png.md#file)
-* [File history](../Image/SHEvent.png.md#filehistory)
-* [Links](../Image/SHEvent.png.md#filelinks)
+* [Image](../Image/SHEvent.png#file)
+* [File history](../Image/SHEvent.png#filehistory)
+* [Links](../Image/SHEvent.png#filelinks)
 
 [![Image:SHEvent.png](../images/5/5b/SHEvent.png)](../images/5/5b/SHEvent.png)  
 No higher resolution available.  
@@ -23,7 +23,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Submissions:SmartHome Event](../Submissions/SmartHome_Event.md "Submissions:SmartHome Event")
+* [Submissions:SmartHome Event](../Submissions/SmartHome_Event "Submissions:SmartHome Event")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:SHEvent.png](../Image/SHEvent.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:SHEvent.png](../Image/SHEvent.png)"

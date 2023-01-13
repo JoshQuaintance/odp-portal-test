@@ -1,4 +1,4 @@
-Even if you are a ODP official reviewer ([quality committee](../QualityCommittee.md "QualityCommittee") member) or not you can contribute to ODP proposal's evaluation posting your review.
+Even if you are a ODP official reviewer ([quality committee](../QualityCommittee "QualityCommittee") member) or not you can contribute to ODP proposal's evaluation posting your review.
 
 
 Post your review:
@@ -248,7 +248,7 @@ Xsd:sequence embedding
 
 
 
-If you are member of the [Quality Committee](../QualityCommittee.md "QualityCommittee") you can
+If you are member of the [Quality Committee](../QualityCommittee "QualityCommittee") you can
 
 
 
@@ -509,4 +509,4 @@ Pending reviews for 93.34.113.67: none.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Reviews:PostReview](../Reviews/PostReview.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Reviews:PostReview](../Reviews/PostReview)"

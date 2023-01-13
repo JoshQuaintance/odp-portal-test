@@ -1,6 +1,6 @@
-* [Image](../Image/PathEnumerationOccupations.png.md#file)
-* [File history](../Image/PathEnumerationOccupations.png.md#filehistory)
-* [Links](../Image/PathEnumerationOccupations.png.md#filelinks)
+* [Image](../Image/PathEnumerationOccupations.png#file)
+* [File history](../Image/PathEnumerationOccupations.png#filehistory)
+* [Links](../Image/PathEnumerationOccupations.png#filelinks)
 
 [![Image:PathEnumerationOccupations.png](../images/5/56/PathEnumerationOccupations.png)](../images/5/56/PathEnumerationOccupations.png)  
 No higher resolution available.  
@@ -23,7 +23,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following file is a duplicate of this file:
 
 
-* [Image:PathEnumerationOccupations2.png](../Image/PathEnumerationOccupations2.png.md "Image:PathEnumerationOccupations2.png")
+* [Image:PathEnumerationOccupations2.png](../Image/PathEnumerationOccupations2.png "Image:PathEnumerationOccupations2.png")
 
 
 There are no pages that link to this file.
@@ -31,4 +31,4 @@ There are no pages that link to this file.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:PathEnumerationOccupations.png](../Image/PathEnumerationOccupations.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:PathEnumerationOccupations.png](../Image/PathEnumerationOccupations.png)"

@@ -5,7 +5,7 @@ Welcome to the main page of the Association for Ontology Design & Patterns (ODPA
 
 
 
-1. runs an annual workshop on ontology design and patterns ([WOP](WOP/Main.md "WOP:Main")),
+1. runs an annual workshop on ontology design and patterns ([WOP](WOP/Main "WOP:Main")),
 2. maintains the ontologydesignpatterns.org portal ([this site](http://ontologydesignpatterns.org/ "http://ontologydesignpatterns.org/")),
 3. runs a public mailing list related to ontology design and patterns ([a Google group](https://groups.google.com/forum/?fromgroups#!forum/ontology-design-patterns "https://groups.google.com/forum/?fromgroups#!forum/ontology-design-patterns")), and
 4. engages in additional activities to promote ontology design & patterns, including the provision of dissemination materials, educational activities, and engagement with researchers and practitioners.
@@ -14,23 +14,23 @@ Welcome to the main page of the Association for Ontology Design & Patterns (ODPA
 ###   WOP - workshop series
 
 
-For an overview see the  [WOP main page](WOP/Main.md "WOP:Main"), or go directly to the individual WOP instances:
+For an overview see the  [WOP main page](WOP/Main "WOP:Main"), or go directly to the individual WOP instances:
 
 
 
-* [WOP 2022](WOP/2022.1.md "WOP:2022")
-* [WOP 2021](WOP/2021.1.md "WOP:2021")
-* [WOP 2020](WOP/2020.1.md "WOP:2020")
-* [WOP 2019](WOP/2019.1.md "WOP:2019")
-* [WOP 2018](WOP/2018.1.md "WOP:2018")
-* [WOP 2017](WOP/2017.1.md "WOP:2017")
-* [WOP 2016](WOP/2016.1.md "WOP:2016")
-* [WOP 2015](WOP/2015.md "WOP:2015")
-* [WOP 2014](WOP/2014.md "WOP:2014")
-* [WOP 2013](WOP/2013.md "WOP:2013")
-* [WOP 2012](WOP/2012.md "WOP:2012")
-* [WOP 2010](WOP/2010.md "WOP:2010")
-* [WOP 2009](WOP/2009.md "WOP:2009")
+* [WOP 2022](WOP/2022.1 "WOP:2022")
+* [WOP 2021](WOP/2021.1 "WOP:2021")
+* [WOP 2020](WOP/2020.1 "WOP:2020")
+* [WOP 2019](WOP/2019.1 "WOP:2019")
+* [WOP 2018](WOP/2018.1 "WOP:2018")
+* [WOP 2017](WOP/2017.1 "WOP:2017")
+* [WOP 2016](WOP/2016.1 "WOP:2016")
+* [WOP 2015](WOP/2015 "WOP:2015")
+* [WOP 2014](WOP/2014 "WOP:2014")
+* [WOP 2013](WOP/2013 "WOP:2013")
+* [WOP 2012](WOP/2012 "WOP:2012")
+* [WOP 2010](WOP/2010 "WOP:2010")
+* [WOP 2009](WOP/2009 "WOP:2009")
 
 
 ###   Organisation
@@ -46,7 +46,7 @@ Yearly meetings:
 
 
 
-* The latest yearly meeting took place on September 14th 2020, 5pm CET. Minutes can be found [here](ODPA/ODPA-board-meeting-2020-notes.md "ODPA:ODPA-board-meeting-2020-notes").
+* The latest yearly meeting took place on September 14th 2020, 5pm CET. Minutes can be found [here](ODPA/ODPA-board-meeting-2020-notes "ODPA:ODPA-board-meeting-2020-notes").
 * Yearly meeting of 2018 took place on February 13th 2018, 5pm CET. Minutes can be found [here](images/0/01/YearlyMeeting_2018.txt "YearlyMeeting 2018.txt").
 * Yearly meeting of 2017 took place on 23rd 2017, 7pm CET. Minutes of this meeting can be found [here](images/2/27/Minutes170223_short.txt "Minutes170223 short.txt").
 
@@ -92,4 +92,4 @@ Yearly meetings:
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/ODPA](ODPA.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/ODPA](ODPA)"

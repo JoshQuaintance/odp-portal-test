@@ -1,4 +1,4 @@
-[![](../images/thumb/6/6f/Definition.gif/70px-Definition.gif)](../Image/Definition.gif.md "Definition.gif")
+[![](../images/thumb/6/6f/Definition.gif/70px-Definition.gif)](../Image/Definition.gif "Definition.gif")
 __Logical Ontology Design Patterns (Logical OPs)__
 
 A Logical OP is a formal expression, whose only parts are expressions from a logical vocabulary, e.g. OWL DL, that solves a problem of expressivity.
@@ -50,12 +50,12 @@ This category has the following 2 subcategories, out of 2 total.
 ### C
 
 
-* [CertifiedLogicalOP](../Category/CertifiedLogicalOP.md "Category:CertifiedLogicalOP")
+* [CertifiedLogicalOP](../Category/CertifiedLogicalOP "Category:CertifiedLogicalOP")
 
 ### P
 
 
-* [ProposedLogicalOP](../Category/ProposedLogicalOP.md "Category:ProposedLogicalOP")
+* [ProposedLogicalOP](../Category/ProposedLogicalOP "Category:ProposedLogicalOP")
 
 
 
@@ -67,5 +67,5 @@ The following 18 pages are in this category, out of 18 total.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Category:LogicalOP](../Category/LogicalOP.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [StructuralOP](../Category/StructuralOP.md "Category:StructuralOP")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Category:LogicalOP](../Category/LogicalOP)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [StructuralOP](../Category/StructuralOP "Category:StructuralOP")

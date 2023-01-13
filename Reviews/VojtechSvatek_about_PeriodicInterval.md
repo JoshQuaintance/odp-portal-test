@@ -1,5 +1,5 @@
-[![](../images/thumb/2/29/Reviewer.png/48px-Reviewer.png)](../Image/Reviewer.png.md "Reviewer.png")
-__[VojtechSvatek](../User/VojtechSvatek.md "User:VojtechSvatek") about [PeriodicInterval](../Submissions/PeriodicInterval.md "Submissions:PeriodicInterval") (Revision ID: [11172](../Submissions/PeriodicInterval@oldid=11172.md "http://ontologydesignpatterns.org/wiki/Submissions:PeriodicInterval?oldid=11172"))__
+[![](../images/thumb/2/29/Reviewer.png/48px-Reviewer.png)](../Image/Reviewer.png "Reviewer.png")
+__[VojtechSvatek](../User/VojtechSvatek "User:VojtechSvatek") about [PeriodicInterval](../Submissions/PeriodicInterval "Submissions:PeriodicInterval") (Revision ID: [11172](../Submissions/PeriodicInterval@oldid=11172 "http://ontologydesignpatterns.org/wiki/Submissions:PeriodicInterval?oldid=11172"))__
 Overall suggestion (score): 0 - needs major revision
 
 
@@ -27,8 +27,8 @@ _Posted:_ 2012/8/31 _Last modified:_ 2012/8/31
 
 
 
-[All reviews](../Reviews/Main.md "Reviews:Main") | [Add a comment at the bottom of this page](index.php@title=Odp%253AAdd_comment&target=../Reviews/VojtechSvatek_about_PeriodicInterval.md#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Reviews:VojtechSvatek_about_PeriodicInterval#New_comment")
+[All reviews](../Reviews/Main "Reviews:Main") | [Add a comment at the bottom of this page](index.php@title=Odp%253AAdd_comment&target=../Reviews/VojtechSvatek_about_PeriodicInterval#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Reviews:VojtechSvatek_about_PeriodicInterval#New_comment")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Reviews:VojtechSvatek\_about\_PeriodicInterval](../Reviews/VojtechSvatek_about_PeriodicInterval.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [QCReview](../Category/QCReview.md "Category:QCReview")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Reviews:VojtechSvatek\_about\_PeriodicInterval](../Reviews/VojtechSvatek_about_PeriodicInterval)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [QCReview](../Category/QCReview "Category:QCReview")

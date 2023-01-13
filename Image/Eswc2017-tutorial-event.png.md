@@ -1,6 +1,6 @@
-* [Image](../Image/Eswc2017-tutorial-event.png.md#file)
-* [File history](../Image/Eswc2017-tutorial-event.png.md#filehistory)
-* [Links](../Image/Eswc2017-tutorial-event.png.md#filelinks)
+* [Image](../Image/Eswc2017-tutorial-event.png#file)
+* [File history](../Image/Eswc2017-tutorial-event.png#filehistory)
+* [Links](../Image/Eswc2017-tutorial-event.png#filelinks)
 
 [![Image:Eswc2017-tutorial-event.png](../images/6/64/Eswc2017-tutorial-event.png)](../images/6/64/Eswc2017-tutorial-event.png)  
 No higher resolution available.  
@@ -28,4 +28,4 @@ There are no pages that link to this file.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Eswc2017-tutorial-event.png](../Image/Eswc2017-tutorial-event.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Eswc2017-tutorial-event.png](../Image/Eswc2017-tutorial-event.png)"

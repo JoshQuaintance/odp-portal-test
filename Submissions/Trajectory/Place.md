@@ -1,4 +1,4 @@
-___Place__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [Trajectory](../../Submissions/Trajectory.md "Submissions:Trajectory")_
+___Place__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [Trajectory](../../Submissions/Trajectory "Submissions:Trajectory")_
 
 
   
@@ -6,7 +6,7 @@ ___Place__ has [Category:OntologyElement](../../Category/OntologyElement.md "Cat
 
 
 
-[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif.md "Class")
+[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif "Class")
 __Name__: Place 
 
 
@@ -19,5 +19,5 @@ __Description__: This is the hook to other pattern/ontology that describes the n
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Trajectory/Place](../../Image/Place.png.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Trajectory/Place](../../Image/Place.png)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

@@ -1,4 +1,4 @@
-[![Image:ODPUser.png](../images/a/a6/ODPUser.png)](../Image/ODPUser.png.md "Image:ODPUser.png")
+[![Image:ODPUser.png](../images/a/a6/ODPUser.png)](../Image/ODPUser.png "Image:ODPUser.png")
 
 
 
@@ -21,7 +21,7 @@ __Domains of interest:__
 
 
 
-* [Business](../Community/Business.md "Community:Business")
+* [Business](../Community/Business "Community:Business")
 * [Insurance](http://ontologydesignpatterns.org/wiki/index.php?title=Community:Insurance&action=edit&redlink=1 "Community:Insurance (not yet written)")
 * [Legislation](http://ontologydesignpatterns.org/wiki/index.php?title=Community:Legislation&action=edit&redlink=1 "Community:Legislation (not yet written)")
 * [Finance](http://ontologydesignpatterns.org/wiki/index.php?title=Community:Finance&action=edit&redlink=1 "Community:Finance (not yet written)")
@@ -40,5 +40,5 @@ __How did I know about ODP:__ conference/public events
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/User:Ronaldheller](../User/Ronaldheller.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ODPUser](../Category/ODPUser.md "Category:ODPUser")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/User:Ronaldheller](../User/Ronaldheller)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ODPUser](../Category/ODPUser "Category:ODPUser")

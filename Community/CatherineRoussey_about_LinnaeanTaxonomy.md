@@ -1,5 +1,5 @@
-[![](../images/thumb/a/a6/ODPUser.png/48px-ODPUser.png)](../Image/ODPUser.png.md "ODPUser.png")
-__[CatherineRoussey](../User/CatherineRoussey.md "User:CatherineRoussey") about [LinnaeanTaxonomy](../Submissions/LinnaeanTaxonomy.md "Submissions:LinnaeanTaxonomy") (Revision ID: [9097](../Submissions/LinnaeanTaxonomy@oldid=9097.md "http://ontologydesignpatterns.org/wiki/Submissions:LinnaeanTaxonomy?oldid=9097"))__
+[![](../images/thumb/a/a6/ODPUser.png/48px-ODPUser.png)](../Image/ODPUser.png "ODPUser.png")
+__[CatherineRoussey](../User/CatherineRoussey "User:CatherineRoussey") about [LinnaeanTaxonomy](../Submissions/LinnaeanTaxonomy "Submissions:LinnaeanTaxonomy") (Revision ID: [9097](../Submissions/LinnaeanTaxonomy@oldid=9097 "http://ontologydesignpatterns.org/wiki/Submissions:LinnaeanTaxonomy?oldid=9097"))__
 Overall suggestion (score): 1 - needs minor revision
 
 
@@ -29,8 +29,8 @@ _Posted:_ 2013-05-22 _Last modified:_ 2013/5/22
 
 
 
-[All reviews](../Reviews/Main.md "Reviews:Main") | [Add a comment at the bottom of this page](index.php@title=Odp%253AAdd_comment&target=../Community/CatherineRoussey_about_LinnaeanTaxonomy.md#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Community:CatherineRoussey_about_LinnaeanTaxonomy#New_comment")
+[All reviews](../Reviews/Main "Reviews:Main") | [Add a comment at the bottom of this page](index.php@title=Odp%253AAdd_comment&target=../Community/CatherineRoussey_about_LinnaeanTaxonomy#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Community:CatherineRoussey_about_LinnaeanTaxonomy#New_comment")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Community:CatherineRoussey\_about\_LinnaeanTaxonomy](../Community/CatherineRoussey_about_LinnaeanTaxonomy.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OpenReview](../Category/OpenReview.md "Category:OpenReview")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Community:CatherineRoussey\_about\_LinnaeanTaxonomy](../Community/CatherineRoussey_about_LinnaeanTaxonomy)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OpenReview](../Category/OpenReview "Category:OpenReview")

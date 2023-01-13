@@ -1,4 +1,4 @@
-___hasProcessScope__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [Standard Enforcer Pattern](../../Submissions/Standard_Enforcer_Pattern.md "Submissions:Standard Enforcer Pattern")_
+___hasProcessScope__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [Standard Enforcer Pattern](../../Submissions/Standard_Enforcer_Pattern "Submissions:Standard Enforcer Pattern")_
 
 
   
@@ -6,7 +6,7 @@ ___hasProcessScope__ has [Category:OntologyElement](../../Category/OntologyEleme
 
 
 
-[![ObjectProperty](../../images/thumb/c/c3/ObjectProperty.gif/45px-ObjectProperty.gif)](../../Image/ObjectProperty.gif.md "ObjectProperty")
+[![ObjectProperty](../../images/thumb/c/c3/ObjectProperty.gif/45px-ObjectProperty.gif)](../../Image/ObjectProperty.gif "ObjectProperty")
 __Name__: hasProcessScope 
 
 
@@ -19,5 +19,5 @@ __Description__:
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Standard\_Enforcer\_Pattern/hasProcessScope](../../Submissions/Standard_Enforcer_Pattern/hasProcessScope.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Standard\_Enforcer\_Pattern/hasProcessScope](../../Submissions/Standard_Enforcer_Pattern/hasProcessScope)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

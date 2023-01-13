@@ -1,7 +1,7 @@
-* [Image](../Image/Xsd-embedding2.JPG.md#file)
-* [File history](../Image/Xsd-embedding2.JPG.md#filehistory)
-* [Links](../Image/Xsd-embedding2.JPG.md#filelinks)
-* [Metadata](../Image/Xsd-embedding2.JPG.md#metadata)
+* [Image](../Image/Xsd-embedding2.JPG#file)
+* [File history](../Image/Xsd-embedding2.JPG#filehistory)
+* [Links](../Image/Xsd-embedding2.JPG#filelinks)
+* [Metadata](../Image/Xsd-embedding2.JPG#metadata)
 
 [![Image:Xsd-embedding2.JPG](../images/d/dd/Xsd-embedding2.JPG)](../images/d/dd/Xsd-embedding2.JPG)  
 No higher resolution available.  
@@ -27,7 +27,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Submissions:Xsd:sequence embedding](../Submissions/Xsd/sequence_embedding.md "Submissions:Xsd:sequence embedding")
+* [Submissions:Xsd:sequence embedding](../Submissions/Xsd/sequence_embedding "Submissions:Xsd:sequence embedding")
 
 ## Metadata
 
@@ -38,4 +38,4 @@ If the file has been modified from its original state, some details may not full
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Xsd-embedding2.JPG](../Image/Xsd-embedding2.JPG.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Xsd-embedding2.JPG](../Image/Xsd-embedding2.JPG)"

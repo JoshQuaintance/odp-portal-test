@@ -1,6 +1,6 @@
-* [Image](../Image/Recurrent-event-series.jpg.md#file)
-* [File history](../Image/Recurrent-event-series.jpg.md#filehistory)
-* [Links](../Image/Recurrent-event-series.jpg.md#filelinks)
+* [Image](../Image/Recurrent-event-series.jpg#file)
+* [File history](../Image/Recurrent-event-series.jpg#filehistory)
+* [Links](../Image/Recurrent-event-series.jpg#filelinks)
 
 [![Image:Recurrent-event-series.jpg](../images/thumb/d/d1/Recurrent-event-series.jpg/800px-Recurrent-event-series.jpg)](../images/d/d1/Recurrent-event-series.jpg)  
 Size of this preview: 800 × 548 pixels  
@@ -26,7 +26,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Submissions:RecurrentEventSeries](../Submissions/RecurrentEventSeries.md "Submissions:RecurrentEventSeries")
+* [Submissions:RecurrentEventSeries](../Submissions/RecurrentEventSeries "Submissions:RecurrentEventSeries")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Recurrent-event-series.jpg](../Image/Recurrent-event-series.jpg.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Recurrent-event-series.jpg](../Image/Recurrent-event-series.jpg)"

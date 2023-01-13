@@ -1,5 +1,5 @@
-[![](../images/thumb/2/29/Reviewer.png/48px-Reviewer.png)](../Image/Reviewer.png.md "Reviewer.png")
-__[AldoGangemi](../User/AldoGangemi.md "User:AldoGangemi") about [VesselWaterArea](../Submissions/VesselWaterArea.md "Submissions:VesselWaterArea") (Revision ID: [3687](../Submissions/VesselWaterArea@oldid=3687.md "http://ontologydesignpatterns.org/wiki/Submissions:VesselWaterArea?oldid=3687"))__
+[![](../images/thumb/2/29/Reviewer.png/48px-Reviewer.png)](../Image/Reviewer.png "Reviewer.png")
+__[AldoGangemi](../User/AldoGangemi "User:AldoGangemi") about [VesselWaterArea](../Submissions/VesselWaterArea "Submissions:VesselWaterArea") (Revision ID: [3687](../Submissions/VesselWaterArea@oldid=3687 "http://ontologydesignpatterns.org/wiki/Submissions:VesselWaterArea?oldid=3687"))__
 Overall suggestion (score): 2 - need major revision
 
 
@@ -27,8 +27,8 @@ _Posted:_ 2009/3/17 _Last modified:_ 2009/8/5
 
 
 
-[All reviews](../Reviews/Main.md "Reviews:Main") | [Add a comment at the bottom of this page](index.php@title=Odp%253AAdd_comment&target=../Reviews/AldoGangemi_about_VesselWaterArea.md#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Reviews:AldoGangemi_about_VesselWaterArea#New_comment")
+[All reviews](../Reviews/Main "Reviews:Main") | [Add a comment at the bottom of this page](index.php@title=Odp%253AAdd_comment&target=../Reviews/AldoGangemi_about_VesselWaterArea#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Reviews:AldoGangemi_about_VesselWaterArea#New_comment")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Reviews:AldoGangemi\_about\_VesselWaterArea](../Reviews/AldoGangemi_about_VesselWaterArea.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [QCReview](../Category/QCReview.md "Category:QCReview")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Reviews:AldoGangemi\_about\_VesselWaterArea](../Reviews/AldoGangemi_about_VesselWaterArea)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [QCReview](../Category/QCReview "Category:QCReview")

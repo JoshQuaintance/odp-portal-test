@@ -34,14 +34,14 @@ __Exercises__:
 
 
 
-* [PhD Course on Computational Ontologies @ University of Bologna 2011/Collaborative eXtreme Design](../Training/PhD_Course_on_Computational_Ontologies_@_University_of_Bologna_2011/Collaborative_eXtreme_Design.md "Training:PhD Course on Computational Ontologies @ University of Bologna 2011/Collaborative eXtreme Design")
-* [PhD Course on Computational Ontologies @ University of Bologna 2011/Creating CQs](../Training/PhD_Course_on_Computational_Ontologies_@_University_of_Bologna_2011/Creating_CQs.md "Training:PhD Course on Computational Ontologies @ University of Bologna 2011/Creating CQs")
-* [PhD Course on Computational Ontologies @ University of Bologna 2011/Nurse representative](../Training/PhD_Course_on_Computational_Ontologies_@_University_of_Bologna_2011/Nurse_representative.md "Training:PhD Course on Computational Ontologies @ University of Bologna 2011/Nurse representative")
-* [PhD Course on Computational Ontologies @ University of Bologna 2011/Ontology Testing](../Training/PhD_Course_on_Computational_Ontologies_@_University_of_Bologna_2011/Ontology_Testing.md "Training:PhD Course on Computational Ontologies @ University of Bologna 2011/Ontology Testing")
-* [PhD Course on Computational Ontologies @ University of Bologna 2011/Toys and dolls](../Training/PhD_Course_on_Computational_Ontologies_@_University_of_Bologna_2011/Toys_and_dolls.md "Training:PhD Course on Computational Ontologies @ University of Bologna 2011/Toys and dolls")
+* [PhD Course on Computational Ontologies @ University of Bologna 2011/Collaborative eXtreme Design](../Training/PhD_Course_on_Computational_Ontologies_@_University_of_Bologna_2011/Collaborative_eXtreme_Design "Training:PhD Course on Computational Ontologies @ University of Bologna 2011/Collaborative eXtreme Design")
+* [PhD Course on Computational Ontologies @ University of Bologna 2011/Creating CQs](../Training/PhD_Course_on_Computational_Ontologies_@_University_of_Bologna_2011/Creating_CQs "Training:PhD Course on Computational Ontologies @ University of Bologna 2011/Creating CQs")
+* [PhD Course on Computational Ontologies @ University of Bologna 2011/Nurse representative](../Training/PhD_Course_on_Computational_Ontologies_@_University_of_Bologna_2011/Nurse_representative "Training:PhD Course on Computational Ontologies @ University of Bologna 2011/Nurse representative")
+* [PhD Course on Computational Ontologies @ University of Bologna 2011/Ontology Testing](../Training/PhD_Course_on_Computational_Ontologies_@_University_of_Bologna_2011/Ontology_Testing "Training:PhD Course on Computational Ontologies @ University of Bologna 2011/Ontology Testing")
+* [PhD Course on Computational Ontologies @ University of Bologna 2011/Toys and dolls](../Training/PhD_Course_on_Computational_Ontologies_@_University_of_Bologna_2011/Toys_and_dolls "Training:PhD Course on Computational Ontologies @ University of Bologna 2011/Toys and dolls")
 
 
-[Create exercise for this tutorial](http://ontologydesignpatterns.org/wiki/Special:AddData/Form:Tutorial_Exercise_Form?Exercise_Description_Template[Tutorial]=PhD Course on Computational Ontologies @ University of Bologna 2011) | [Training area](../Training/Main.md "Training:Main")
+[Create exercise for this tutorial](http://ontologydesignpatterns.org/wiki/Special:AddData/Form:Tutorial_Exercise_Form?Exercise_Description_Template[Tutorial]=PhD Course on Computational Ontologies @ University of Bologna 2011) | [Training area](../Training/Main "Training:Main")
 
 ##   Venue
 
@@ -155,5 +155,5 @@ __[Eva Blomqvist](http://stlab.istc.cnr/User:EvaBlomqvist "http://stlab.istc.cnr
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Training:PhD\_Course\_on\_Computational\_Ontologies\_%40\_University\_of\_Bologna\_2011](../Training/PhD_Course_on_Computational_Ontologies_@_University_of_Bologna_2011.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Tutorial](../Category/Tutorial.md "Category:Tutorial")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Training:PhD\_Course\_on\_Computational\_Ontologies\_%40\_University\_of\_Bologna\_2011](../Training/PhD_Course_on_Computational_Ontologies_@_University_of_Bologna_2011)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Tutorial](../Category/Tutorial "Category:Tutorial")

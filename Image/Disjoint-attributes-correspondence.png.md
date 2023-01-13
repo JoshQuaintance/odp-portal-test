@@ -1,6 +1,6 @@
-* [Image](../Image/Disjoint-attributes-correspondence.png.md#file)
-* [File history](../Image/Disjoint-attributes-correspondence.png.md#filehistory)
-* [Links](../Image/Disjoint-attributes-correspondence.png.md#filelinks)
+* [Image](../Image/Disjoint-attributes-correspondence.png#file)
+* [File history](../Image/Disjoint-attributes-correspondence.png#filehistory)
+* [Links](../Image/Disjoint-attributes-correspondence.png#filelinks)
 
 [![Image:Disjoint-attributes-correspondence.png](../images/9/94/Disjoint-attributes-correspondence.png)](../images/9/94/Disjoint-attributes-correspondence.png)  
 No higher resolution available.  
@@ -25,4 +25,4 @@ There are no pages that link to this file.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Disjoint-attributes-correspondence.png](../Image/Disjoint-attributes-correspondence.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Disjoint-attributes-correspondence.png](../Image/Disjoint-attributes-correspondence.png)"

@@ -1,4 +1,4 @@
-This property is of type [Type:Page](../Type/Page.md "Type:Page"). 
+This property is of type [Type:Page](../Type/Page "Type:Page"). 
 
 
 

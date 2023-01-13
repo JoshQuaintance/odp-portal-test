@@ -1,4 +1,4 @@
-[![](../images/thumb/b/b5/Certified.png/70px-Certified.png)](../Image/Certified.png.md "Certified.png") __This pattern has been certified.__
+[![](../images/thumb/b/b5/Certified.png/70px-Certified.png)](../Image/Certified.png "Certified.png") __This pattern has been certified.__
 Related submission, with evaluation history, can be found __here__
 
 
@@ -25,22 +25,22 @@ _The __DescriptionAndSituation__ Content OP locally defines the following ontolo
 
 
 
-[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __describes__ (owl:ObjectProperty) The relation between a Description and an Entity : a Description gives a unity to a Collection of parts (the components), or constituents, by assigning a Role to each of them in the context of a whole Object (the system).
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif "ObjectProperty") __describes__ (owl:ObjectProperty) The relation between a Description and an Entity : a Description gives a unity to a Collection of parts (the components), or constituents, by assigning a Role to each of them in the context of a whole Object (the system).
 A same Entity can be given different descriptions, for example, an old cradle can be given a unifying Description based on the original aesthetic design, the functionality it was built for, or a new aesthetic functionality in which it can be used as a flower pot. 
 
 
 
- [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[describes](../Submissions/DescriptionAndSituation/describes.md "Submissions:DescriptionAndSituation/describes") page_
-[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __isDescribedBy__ (owl:ObjectProperty) The relation between any Thing and a Description: a Description gives a unity to a Collection of parts (the components), or constituents, by assigning a Role to each of them in the context of a whole Object (the system).
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif "ArrowRight.gif") _[describes](../Submissions/DescriptionAndSituation/describes "Submissions:DescriptionAndSituation/describes") page_
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif "ObjectProperty") __isDescribedBy__ (owl:ObjectProperty) The relation between any Thing and a Description: a Description gives a unity to a Collection of parts (the components), or constituents, by assigning a Role to each of them in the context of a whole Object (the system).
 A same Thing can be given different descriptions, for example, an old cradle can be given a unifying Description based on the original aesthetic design, the functionality it was built for, or a new aesthetic functionality in which it can be used as a flower pot. 
 
 
 
- [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[isDescribedBy](../Submissions/DescriptionAndSituation/isDescribedBy.md "Submissions:DescriptionAndSituation/isDescribedBy") page_
-[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __isSatisfiedBy__ (owl:ObjectProperty) A relation between a Situation and a Description, e.g. the execution of a Plan satisfies that plan. 
- [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[isSatisfiedBy](../Submissions/DescriptionAndSituation/isSatisfiedBy.md "Submissions:DescriptionAndSituation/isSatisfiedBy") page_
-[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __satisfies__ (owl:ObjectProperty) A relation between a Situation and a Description, e.g. the execution of a Plan satisfies that plan. 
- [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[satisfies](../Submissions/DescriptionAndSituation/satisfies.md "Submissions:DescriptionAndSituation/satisfies") page_
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif "ArrowRight.gif") _[isDescribedBy](../Submissions/DescriptionAndSituation/isDescribedBy "Submissions:DescriptionAndSituation/isDescribedBy") page_
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif "ObjectProperty") __isSatisfiedBy__ (owl:ObjectProperty) A relation between a Situation and a Description, e.g. the execution of a Plan satisfies that plan. 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif "ArrowRight.gif") _[isSatisfiedBy](../Submissions/DescriptionAndSituation/isSatisfiedBy "Submissions:DescriptionAndSituation/isSatisfiedBy") page_
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif "ObjectProperty") __satisfies__ (owl:ObjectProperty) A relation between a Situation and a Description, e.g. the execution of a Plan satisfies that plan. 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif "ArrowRight.gif") _[satisfies](../Submissions/DescriptionAndSituation/satisfies "Submissions:DescriptionAndSituation/satisfies") page_
   
 
 
@@ -82,5 +82,5 @@ The Description and Situation content ontology design pattern. This CP represent
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:DescriptionAndSituation](../Submissions/DescriptionAndSituation.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ProposedContentOP](../Category/ProposedContentOP.md "Category:ProposedContentOP")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:DescriptionAndSituation](../Submissions/DescriptionAndSituation)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ProposedContentOP](../Category/ProposedContentOP "Category:ProposedContentOP")

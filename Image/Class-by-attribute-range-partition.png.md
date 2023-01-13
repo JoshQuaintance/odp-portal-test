@@ -1,6 +1,6 @@
-* [Image](../Image/Class-by-attribute-range-partition.png.md#file)
-* [File history](../Image/Class-by-attribute-range-partition.png.md#filehistory)
-* [Links](../Image/Class-by-attribute-range-partition.png.md#filelinks)
+* [Image](../Image/Class-by-attribute-range-partition.png#file)
+* [File history](../Image/Class-by-attribute-range-partition.png#filehistory)
+* [Links](../Image/Class-by-attribute-range-partition.png#filelinks)
 
 [![Image:Class-by-attribute-range-partition.png](../images/thumb/c/c5/Class-by-attribute-range-partition.png/651px-Class-by-attribute-range-partition.png)](../images/c/c5/Class-by-attribute-range-partition.png)  
 Size of this preview: 651 × 600 pixels  
@@ -25,4 +25,4 @@ There are no pages that link to this file.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Class-by-attribute-range-partition.png](../Image/Class-by-attribute-range-partition.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Class-by-attribute-range-partition.png](../Image/Class-by-attribute-range-partition.png)"

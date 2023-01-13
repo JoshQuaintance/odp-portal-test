@@ -1,6 +1,6 @@
-* [Image](../Image/Experience_and_observation.png.md#file)
-* [File history](../Image/Experience_and_observation.png.md#filehistory)
-* [Links](../Image/Experience_and_observation.png.md#filelinks)
+* [Image](../Image/Experience_and_observation.png#file)
+* [File history](../Image/Experience_and_observation.png#filehistory)
+* [Links](../Image/Experience_and_observation.png#filelinks)
 
 [![Image:Experience and observation.png](../images/thumb/a/a0/Experience_and_observation.png/800px-Experience_and_observation.png)](../images/a/a0/Experience_and_observation.png)  
 Size of this preview: 800 × 266 pixels  
@@ -26,7 +26,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Submissions:Experience & Observation](../Submissions/Experience_&_Observation.md "Submissions:Experience & Observation")
+* [Submissions:Experience & Observation](../Submissions/Experience_&_Observation "Submissions:Experience & Observation")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Experience\_and\_observation.png](../Image/Experience_and_observation.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Experience\_and\_observation.png](../Image/Experience_and_observation.png)"

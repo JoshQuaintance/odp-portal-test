@@ -1,1 +1,1 @@
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Template:All\_scenarios](../Template/All_scenarios.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Template:All\_scenarios](../Template/All_scenarios)"

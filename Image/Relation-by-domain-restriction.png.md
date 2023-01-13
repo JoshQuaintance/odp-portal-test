@@ -1,6 +1,6 @@
-* [Image](../Image/Relation-by-domain-restriction.png.md#file)
-* [File history](../Image/Relation-by-domain-restriction.png.md#filehistory)
-* [Links](../Image/Relation-by-domain-restriction.png.md#filelinks)
+* [Image](../Image/Relation-by-domain-restriction.png#file)
+* [File history](../Image/Relation-by-domain-restriction.png#filehistory)
+* [Links](../Image/Relation-by-domain-restriction.png#filelinks)
 
 [![Image:Relation-by-domain-restriction.png](../images/1/15/Relation-by-domain-restriction.png)](../images/1/15/Relation-by-domain-restriction.png)  
 No higher resolution available.  
@@ -25,4 +25,4 @@ There are no pages that link to this file.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Relation-by-domain-restriction.png](../Image/Relation-by-domain-restriction.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Relation-by-domain-restriction.png](../Image/Relation-by-domain-restriction.png)"

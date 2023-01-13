@@ -33,7 +33,7 @@ _(this article has no graphical representation)_
 #  References
 
 
-[Add a reference](index.php@title=Odp%253AAdd_reference&subject=../Community/SnomedCTToOWL.md "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_reference&subject=Community%3ASnomedCTToOWL")
+[Add a reference](index.php@title=Odp%253AAdd_reference&subject=../Community/SnomedCTToOWL "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_reference&subject=Community%3ASnomedCTToOWL")
 
 
   
@@ -41,8 +41,8 @@ _(this article has no graphical representation)_
 
 
 
- [List of Modeling Issues](../Community/Main.md "Community:Main") | [Post a new modeling issue](../Community/PostModelingIssue.md "Community:PostModelingIssue") | [Add a comment in the discussion page](index.php@title=Odp%253AAdd_comment&target=Community_talk%253ASnomedCTToOWL.html#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Community_talk:SnomedCTToOWL#New_comment")
+ [List of Modeling Issues](../Community/Main "Community:Main") | [Post a new modeling issue](../Community/PostModelingIssue "Community:PostModelingIssue") | [Add a comment in the discussion page](index.php@title=Odp%253AAdd_comment&target=Community_talk%253ASnomedCTToOWL.html#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Community_talk:SnomedCTToOWL#New_comment")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Community:SnomedCTToOWL](../Community/SnomedCTToOWL.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ModelingIssue](../Category/ModelingIssue.md "Category:ModelingIssue")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Community:SnomedCTToOWL](../Community/SnomedCTToOWL)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ModelingIssue](../Category/ModelingIssue "Category:ModelingIssue")

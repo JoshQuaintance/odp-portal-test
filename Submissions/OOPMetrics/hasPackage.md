@@ -1,4 +1,4 @@
-___hasPackage__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [OOPMetrics](../../Submissions/OOPMetrics.md "Submissions:OOPMetrics")_
+___hasPackage__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [OOPMetrics](../../Submissions/OOPMetrics "Submissions:OOPMetrics")_
 
 
   
@@ -6,7 +6,7 @@ ___hasPackage__ has [Category:OntologyElement](../../Category/OntologyElement.md
 
 
 
-[![ObjectProperty](../../images/thumb/c/c3/ObjectProperty.gif/45px-ObjectProperty.gif)](../../Image/ObjectProperty.gif.md "ObjectProperty")
+[![ObjectProperty](../../images/thumb/c/c3/ObjectProperty.gif/45px-ObjectProperty.gif)](../../Image/ObjectProperty.gif "ObjectProperty")
 __Name__: hasPackage 
 
 
@@ -26,5 +26,5 @@ Se refera la un OOPPackage dintr-un OOPProject.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:OOPMetrics/hasPackage](../../Submissions/OOPMetrics/hasPackage.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:OOPMetrics/hasPackage](../../Submissions/OOPMetrics/hasPackage)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

@@ -1,7 +1,7 @@
 Relates a Lexico-Syntactic ODP to a Lexico-Syntactic ODP Case.
 
 
-This is a property of type [Page](../Type/Page.md "Type:Page").
+This is a property of type [Page](../Type/Page "Type:Page").
 
 
 

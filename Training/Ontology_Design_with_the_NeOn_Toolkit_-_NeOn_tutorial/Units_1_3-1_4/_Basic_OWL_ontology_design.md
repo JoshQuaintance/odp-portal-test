@@ -292,5 +292,5 @@ __Solutions__:
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Training:Ontology\_Design\_with\_the\_NeOn\_Toolkit\_-\_NeOn\_tutorial/Units\_1\_3-1\_4:\_Basic\_OWL\_ontology\_design](../../../Training/Ontology_Design_with_the_NeOn_Toolkit_-_NeOn_tutorial/Units_1_3-1_4/_Basic_OWL_ontology_design.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Exercise](../../../Category/Exercise.md "Category:Exercise")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Training:Ontology\_Design\_with\_the\_NeOn\_Toolkit\_-\_NeOn\_tutorial/Units\_1\_3-1\_4:\_Basic\_OWL\_ontology\_design](../../../Training/Ontology_Design_with_the_NeOn_Toolkit_-_NeOn_tutorial/Units_1_3-1_4/_Basic_OWL_ontology_design)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Exercise](../../../Category/Exercise "Category:Exercise")

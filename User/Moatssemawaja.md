@@ -1,4 +1,4 @@
-[![Image:ODPUser.png](../images/a/a6/ODPUser.png)](../Image/ODPUser.png.md "Image:ODPUser.png")
+[![Image:ODPUser.png](../images/a/a6/ODPUser.png)](../Image/ODPUser.png "Image:ODPUser.png")
 
 
 
@@ -19,7 +19,7 @@ __Domains of interest:__
 
 
 
-* [ontology](../Community/Ontology-based_models.md "Community:Ontology")
+* [ontology](../Community/Ontology-based_models "Community:Ontology")
 * [swrl](http://ontologydesignpatterns.org/wiki/Special:AddData/Domain Form/Community:Swrl "Community:Swrl (not yet written)")
 
 
@@ -35,5 +35,5 @@ __How did I know about ODP:__ surfing the web
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/User:Moatssemawaja](../User/Moatssemawaja.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ODPUser](../Category/ODPUser.md "Category:ODPUser")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/User:Moatssemawaja](../User/Moatssemawaja)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ODPUser](../Category/ODPUser "Category:ODPUser")

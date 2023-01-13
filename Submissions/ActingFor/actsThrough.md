@@ -1,4 +1,4 @@
-___actsThrough__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [ActingFor](../../Submissions/ActingFor.md "Submissions:ActingFor")_
+___actsThrough__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [ActingFor](../../Submissions/ActingFor "Submissions:ActingFor")_
 
 
   
@@ -6,7 +6,7 @@ ___actsThrough__ has [Category:OntologyElement](../../Category/OntologyElement.m
 
 
 
-[![ObjectProperty](../../images/thumb/c/c3/ObjectProperty.gif/45px-ObjectProperty.gif)](../../Image/ObjectProperty.gif.md "ObjectProperty")
+[![ObjectProperty](../../images/thumb/c/c3/ObjectProperty.gif/45px-ObjectProperty.gif)](../../Image/ObjectProperty.gif "ObjectProperty")
 __Name__: actsThrough 
 
 
@@ -19,5 +19,5 @@ __Description__: The relation holding between a PhysicalAgent and a SocialAgent.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:ActingFor/actsThrough](../../Submissions/ActingFor/actsThrough.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:ActingFor/actsThrough](../../Submissions/ActingFor/actsThrough)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

@@ -1,4 +1,4 @@
-[string](../Type/String.md "Type:String")
+[string](../Type/String "Type:String")
 
 
 
@@ -13,4 +13,4 @@ Showing 14 pages using this property.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Property:HasName](../Property/HasName.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Property:HasName](../Property/HasName)"

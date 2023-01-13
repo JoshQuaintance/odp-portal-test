@@ -1,6 +1,6 @@
-* [Image](../Image/Simple_ex.png.md#file)
-* [File history](../Image/Simple_ex.png.md#filehistory)
-* [Links](../Image/Simple_ex.png.md#filelinks)
+* [Image](../Image/Simple_ex.png#file)
+* [File history](../Image/Simple_ex.png#filehistory)
+* [Links](../Image/Simple_ex.png#filelinks)
 
 [![Image:Simple ex.png](../images/8/83/Simple_ex.png)](../images/8/83/Simple_ex.png)  
 No higher resolution available.  
@@ -28,4 +28,4 @@ There are no pages that link to this file.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Simple\_ex.png](../Image/Simple_ex.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Simple\_ex.png](../Image/Simple_ex.png)"

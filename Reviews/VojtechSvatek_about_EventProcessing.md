@@ -1,5 +1,5 @@
-[![](../images/thumb/2/29/Reviewer.png/48px-Reviewer.png)](../Image/Reviewer.png.md "Reviewer.png")
-__[VojtechSvatek](../User/VojtechSvatek.md "User:VojtechSvatek") about [EventProcessing](../Submissions/EventProcessing.md "Submissions:EventProcessing") (Revision ID: [11646](../Submissions/EventProcessing@oldid=11646.md "http://ontologydesignpatterns.org/wiki/Submissions:EventProcessing?oldid=11646"))__
+[![](../images/thumb/2/29/Reviewer.png/48px-Reviewer.png)](../Image/Reviewer.png "Reviewer.png")
+__[VojtechSvatek](../User/VojtechSvatek "User:VojtechSvatek") about [EventProcessing](../Submissions/EventProcessing "Submissions:EventProcessing") (Revision ID: [11646](../Submissions/EventProcessing@oldid=11646 "http://ontologydesignpatterns.org/wiki/Submissions:EventProcessing?oldid=11646"))__
 Overall suggestion (score): 1 - needs minor revision
 
 
@@ -23,8 +23,8 @@ _Posted:_ 2013/8/7 _Last modified:_ 2013/8/7
 
 
 
-[All reviews](../Reviews/Main.md "Reviews:Main") | [Add a comment at the bottom of this page](index.php@title=Odp%253AAdd_comment&target=../Reviews/VojtechSvatek_about_EventProcessing.md#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Reviews:VojtechSvatek_about_EventProcessing#New_comment")
+[All reviews](../Reviews/Main "Reviews:Main") | [Add a comment at the bottom of this page](index.php@title=Odp%253AAdd_comment&target=../Reviews/VojtechSvatek_about_EventProcessing#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Reviews:VojtechSvatek_about_EventProcessing#New_comment")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Reviews:VojtechSvatek\_about\_EventProcessing](../Reviews/VojtechSvatek_about_EventProcessing.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [QCReview](../Category/QCReview.md "Category:QCReview")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Reviews:VojtechSvatek\_about\_EventProcessing](../Reviews/VojtechSvatek_about_EventProcessing)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [QCReview](../Category/QCReview "Category:QCReview")

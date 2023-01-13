@@ -1,6 +1,6 @@
-* [Image](../Image/Property-data-transformation.png.md#file)
-* [File history](../Image/Property-data-transformation.png.md#filehistory)
-* [Links](../Image/Property-data-transformation.png.md#filelinks)
+* [Image](../Image/Property-data-transformation.png#file)
+* [File history](../Image/Property-data-transformation.png#filehistory)
+* [Links](../Image/Property-data-transformation.png#filelinks)
 
 [![Image:Property-data-transformation.png](../images/8/8b/Property-data-transformation.png)](../images/8/8b/Property-data-transformation.png)  
 No higher resolution available.  
@@ -25,4 +25,4 @@ There are no pages that link to this file.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Property-data-transformation.png](../Image/Property-data-transformation.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Property-data-transformation.png](../Image/Property-data-transformation.png)"

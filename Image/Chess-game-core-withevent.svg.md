@@ -1,6 +1,6 @@
-* [Image](../Image/Chess-game-core-withevent.svg.md#file)
-* [File history](../Image/Chess-game-core-withevent.svg.md#filehistory)
-* [Links](../Image/Chess-game-core-withevent.svg.md#filelinks)
+* [Image](../Image/Chess-game-core-withevent.svg#file)
+* [File history](../Image/Chess-game-core-withevent.svg#filehistory)
+* [Links](../Image/Chess-game-core-withevent.svg#filelinks)
 
 [![Image:Chess-game-core-withevent.svg](../images/thumb/d/de/Chess-game-core-withevent.svg/800px-Chess-game-core-withevent.svg.png)](../images/d/de/Chess-game-core-withevent.svg)  
 
@@ -33,4 +33,4 @@ There are no pages that link to this file.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Chess-game-core-withevent.svg](../Image/Chess-game-core-withevent.svg.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Chess-game-core-withevent.svg](../Image/Chess-game-core-withevent.svg)"

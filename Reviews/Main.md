@@ -1,9 +1,9 @@
-[![](../images/thumb/c/c5/ListReviews.png/70px-ListReviews.png)](../Image/ListReviews.png.md "ListReviews.png")
+[![](../images/thumb/c/c5/ListReviews.png/70px-ListReviews.png)](../Image/ListReviews.png "ListReviews.png")
 
 
   
 
-This area aims at collecting all the reviews provided by experts from the ODP  [Quality Committee](../QualityCommittee.md "QualityCommittee").
+This area aims at collecting all the reviews provided by experts from the ODP  [Quality Committee](../QualityCommittee "QualityCommittee").
 
 
 Reviews are a community asset: they express ideas and rationales that can be (re)used as good practices for ontology evaluation by those who want to submit Content OP proposals or to evaluate their ontology. 
@@ -12,14 +12,14 @@ Reviews are a community asset: they express ideas and rationales that can be (re
 Below is a list of already available reviews.
 
 
-If you want to contribute or you have been assigned a review, and you are a member of the  [Quality Committee](../QualityCommittee.md "QualityCommittee"), you can  [submit your review](../Reviews/PostReview.md "Reviews:PostReview"). 
+If you want to contribute or you have been assigned a review, and you are a member of the  [Quality Committee](../QualityCommittee "QualityCommittee"), you can  [submit your review](../Reviews/PostReview "Reviews:PostReview"). 
 
 
 
 ###   Content OP Proposals Reviews
 
 
-Reviews submitted by [quality committee](../QualityCommittee.md "QualityCommittee") member:
+Reviews submitted by [quality committee](../QualityCommittee "QualityCommittee") member:
 
 
 
@@ -31,4 +31,4 @@ Open reviews:
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Reviews:Main](../Reviews/Main.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Reviews:Main](../Reviews/Main)"

@@ -1,6 +1,6 @@
-* [Image](../Image/DetectorFinalState-pattern.png.md#file)
-* [File history](../Image/DetectorFinalState-pattern.png.md#filehistory)
-* [Links](../Image/DetectorFinalState-pattern.png.md#filelinks)
+* [Image](../Image/DetectorFinalState-pattern.png#file)
+* [File history](../Image/DetectorFinalState-pattern.png#filehistory)
+* [Links](../Image/DetectorFinalState-pattern.png#filelinks)
 
 [![Image:DetectorFinalState-pattern.png](../images/thumb/5/51/DetectorFinalState-pattern.png/800px-DetectorFinalState-pattern.png)](../images/5/51/DetectorFinalState-pattern.png)  
 Size of this preview: 800 × 516 pixels  
@@ -26,7 +26,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Submissions:DetectorFinalState](../Submissions/DetectorFinalState.md "Submissions:DetectorFinalState")
+* [Submissions:DetectorFinalState](../Submissions/DetectorFinalState "Submissions:DetectorFinalState")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:DetectorFinalState-pattern.png](../Image/DetectorFinalState-pattern.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:DetectorFinalState-pattern.png](../Image/DetectorFinalState-pattern.png)"

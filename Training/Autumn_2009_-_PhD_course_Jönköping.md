@@ -23,12 +23,12 @@ __Exercises__:
 
 
 
-* [Autumn 2009 - PhD course Jönköping/Creating CQs and SPARQL queries](../Training/Autumn_2009_-_PhD_course_Jönköping/Creating_CQs_and_SPARQL_queries.md "Training:Autumn 2009 - PhD course Jönköping/Creating CQs and SPARQL queries")
-* [Autumn 2009 - PhD course Jönköping/Mini-project 1: Hospital employees](../Training/Autumn_2009_-_PhD_course_Jönköping/Mini-project_1/_Hospital_employees.md "Training:Autumn 2009 - PhD course Jönköping/Mini-project 1: Hospital employees")
-* [Autumn 2009 - PhD course Jönköping/Mini-project 2: Theater productions](../Training/Autumn_2009_-_PhD_course_Jönköping/Mini-project_2/_Theater_productions.md "Training:Autumn 2009 - PhD course Jönköping/Mini-project 2: Theater productions")
+* [Autumn 2009 - PhD course Jönköping/Creating CQs and SPARQL queries](../Training/Autumn_2009_-_PhD_course_Jönköping/Creating_CQs_and_SPARQL_queries "Training:Autumn 2009 - PhD course Jönköping/Creating CQs and SPARQL queries")
+* [Autumn 2009 - PhD course Jönköping/Mini-project 1: Hospital employees](../Training/Autumn_2009_-_PhD_course_Jönköping/Mini-project_1/_Hospital_employees "Training:Autumn 2009 - PhD course Jönköping/Mini-project 1: Hospital employees")
+* [Autumn 2009 - PhD course Jönköping/Mini-project 2: Theater productions](../Training/Autumn_2009_-_PhD_course_Jönköping/Mini-project_2/_Theater_productions "Training:Autumn 2009 - PhD course Jönköping/Mini-project 2: Theater productions")
 
 
-[Create exercise for this tutorial](http://ontologydesignpatterns.org/wiki/Special:AddData/Form:Tutorial_Exercise_Form?Exercise_Description_Template[Tutorial]=Autumn 2009 - PhD course Jönköping) | [Training area](../Training/Main.md "Training:Main")
+[Create exercise for this tutorial](http://ontologydesignpatterns.org/wiki/Special:AddData/Form:Tutorial_Exercise_Form?Exercise_Description_Template[Tutorial]=Autumn 2009 - PhD course Jönköping) | [Training area](../Training/Main "Training:Main")
 
 __Schedule:__
 
@@ -82,5 +82,5 @@ __Schedule:__
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Training:Autumn\_2009\_-\_PhD\_course\_J%C3%B6nk%C3%B6ping](../Training/Autumn_2009_-_PhD_course_Jönköping.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Tutorial](../Category/Tutorial.md "Category:Tutorial")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Training:Autumn\_2009\_-\_PhD\_course\_J%C3%B6nk%C3%B6ping](../Training/Autumn_2009_-_PhD_course_Jönköping)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Tutorial](../Category/Tutorial "Category:Tutorial")

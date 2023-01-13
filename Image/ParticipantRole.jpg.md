@@ -1,7 +1,7 @@
-* [Image](../Image/ParticipantRole.jpg.md#file)
-* [File history](../Image/ParticipantRole.jpg.md#filehistory)
-* [Links](../Image/ParticipantRole.jpg.md#filelinks)
-* [Metadata](../Image/ParticipantRole.jpg.md#metadata)
+* [Image](../Image/ParticipantRole.jpg#file)
+* [File history](../Image/ParticipantRole.jpg#filehistory)
+* [Links](../Image/ParticipantRole.jpg#filelinks)
+* [Metadata](../Image/ParticipantRole.jpg#metadata)
 
 [![Image:ParticipantRole.jpg](../images/thumb/3/34/ParticipantRole.jpg/800px-ParticipantRole.jpg)](../images/3/34/ParticipantRole.jpg)  
 Size of this preview: 800 × 301 pixels  
@@ -27,7 +27,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Submissions:ParticipantRole](../Submissions/ParticipantRole.md "Submissions:ParticipantRole")
+* [Submissions:ParticipantRole](../Submissions/ParticipantRole "Submissions:ParticipantRole")
 
 ## Metadata
 
@@ -38,4 +38,4 @@ If the file has been modified from its original state, some details may not full
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:ParticipantRole.jpg](../Image/ParticipantRole.jpg.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:ParticipantRole.jpg](../Image/ParticipantRole.jpg)"

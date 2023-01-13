@@ -1,6 +1,6 @@
-* [Image](../Image/Speciesnames.jpg.md#file)
-* [File history](../Image/Speciesnames.jpg.md#filehistory)
-* [Links](../Image/Speciesnames.jpg.md#filelinks)
+* [Image](../Image/Speciesnames.jpg#file)
+* [File history](../Image/Speciesnames.jpg#filehistory)
+* [Links](../Image/Speciesnames.jpg#filelinks)
 
 [![Image:Speciesnames.jpg](../images/3/32/Speciesnames.jpg)](../images/3/32/Speciesnames.jpg)  
 No higher resolution available.  
@@ -23,8 +23,8 @@ Click on a date/time to view the file as it appeared at that time.
 The following 2 pages link to this file:
 
 
-* [Community:Images](../Community/Images.md "Community:Images")
-* [Submissions:SpeciesNames](../Submissions/SpeciesNames.md "Submissions:SpeciesNames")
+* [Community:Images](../Community/Images "Community:Images")
+* [Submissions:SpeciesNames](../Submissions/SpeciesNames "Submissions:SpeciesNames")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Speciesnames.jpg](../Image/Speciesnames.jpg.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Speciesnames.jpg](../Image/Speciesnames.jpg)"

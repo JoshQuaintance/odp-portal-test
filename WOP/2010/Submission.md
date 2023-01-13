@@ -41,7 +41,7 @@ __Submission guidelines__
 
 
 
-* Go to the ODP portal  [pattern submission page](../../Submissions/SubmitAPattern.md "Submissions:SubmitAPattern").
+* Go to the ODP portal  [pattern submission page](../../Submissions/SubmitAPattern "Submissions:SubmitAPattern").
 * Submit your pattern by following the instructions, and make sure you enter as much information about your pattern as possible (clarity and completeness of the information will be review criteria for patterns), i.e. fill out __all__ applicable fields.
 * Once created, edit your pattern page (edit tab at the top of the page) and under the "Submit for event" tab enter "WOP:2010".
 * Go back to  [this page](../../index.php@title=Odp/Add_reference&subject=Submissions/Lexico+Syntactic+ODPs+corresponding+to+Simple+Part-Whole+relation+&quot;or&quot;+Constituency+&quot;or&quot;+Componency+&quot;or&quot;+Collection-Entity+ODPs.md#Pattern_Submissions "WOP:2010/Submission") and check that your pattern appears in the table below.
@@ -53,7 +53,7 @@ __Submission guidelines__
 ---
 
 
-We invite the submission of research results in the form of ontology design patterns (ODPs). Patterns submitted should have a general relevance to the ontology engineering field, or specific interest within a knowledge domain. Patterns should solve some particular problem, and be of significant interest for discussion at the workshop poster session. Patterns should be original, in the sense that they are the intellectual product of the author, however they may still be based on the collective experience of a community. Pattern submissions for the pattern part of the poster session will be collected through the ODP portal, and templates for submission are provided for the following types of patterns (see general  [typology](../../OPTypes.md "OPTypes") for explanation of the types):
+We invite the submission of research results in the form of ontology design patterns (ODPs). Patterns submitted should have a general relevance to the ontology engineering field, or specific interest within a knowledge domain. Patterns should solve some particular problem, and be of significant interest for discussion at the workshop poster session. Patterns should be original, in the sense that they are the intellectual product of the author, however they may still be based on the collective experience of a community. Pattern submissions for the pattern part of the poster session will be collected through the ODP portal, and templates for submission are provided for the following types of patterns (see general  [typology](../../OPTypes "OPTypes") for explanation of the types):
 
 
 
@@ -69,7 +69,7 @@ We invite the submission of research results in the form of ontology design patt
 For other types of patterns, or if the author wishes to elaborate on theoretical rather than practical aspects, a pattern description may be submitted as either a research paper or poster paper. A paper submission can thereby be accompanied by a pattern submission, however the submissions will be reviewed separately.
 
 
-To submit a pattern, go to the  [pattern submission page](../../Submissions/SubmitAPattern.md "Submissions:SubmitAPattern"), then read and follow the instructions on the page related to the type of pattern you want to submit. Once you have submitted your pattern, and before the final submission deadline (September 1st), edit the pattern page. Choose the "Submit for event" tab, and enter "WOP:2010" as the event, by doing this you notify the workshop chairs of your submission and it will be included in the review process. You can check that you correctly submitted your pattern by verifying that it now appear in the list of submissions below. If you are experiencing any problems, or have questions about how to submit patterns, please contact [Eva Blomqvist](http://stlab.istc.cnr.it/stlab/User:EvaBlomqvist "http://stlab.istc.cnr.it/stlab/User:EvaBlomqvist").
+To submit a pattern, go to the  [pattern submission page](../../Submissions/SubmitAPattern "Submissions:SubmitAPattern"), then read and follow the instructions on the page related to the type of pattern you want to submit. Once you have submitted your pattern, and before the final submission deadline (September 1st), edit the pattern page. Choose the "Submit for event" tab, and enter "WOP:2010" as the event, by doing this you notify the workshop chairs of your submission and it will be included in the review process. You can check that you correctly submitted your pattern by verifying that it now appear in the list of submissions below. If you are experiencing any problems, or have questions about how to submit patterns, please contact [Eva Blomqvist](http://stlab.istc.cnr.it/stlab/User:EvaBlomqvist "http://stlab.istc.cnr.it/stlab/User:EvaBlomqvist").
 
 
 Each submission will be reviewed by at least two members of the Pattern PC, consisting mainly of members of the ODP portal Quality Committee (in case of disagreement a third reviewer will be assigned). Note that all reviews an discussions are __public__ and __not__ anonymous, hence, all visitors of the portal can see the reviews and any subsequent discussion. Your pattern will be reviewed based on the following set of criteria:
@@ -108,7 +108,7 @@ __Current list of received pattern submissions__
 
 
 
-* Go to the ODP portal  [page for posting modeling issues](../../Community/PostModelingIssue.md "Community:PostModelingIssue").
+* Go to the ODP portal  [page for posting modeling issues](../../Community/PostModelingIssue "Community:PostModelingIssue").
 * Submit your modeling issue by following the instructions, and make sure you enter as much information about the problem as possible in the "description"-field. Please, keep it brief and concise (this is not a paper!), but at a minimum you should describe:
 	+ What is the problem, e.g. what do you want to model/represent/transform/match/reengineer/...
 	+ Why is this an important problem? Have you encountered this problem in some "real-world" setting and does it belong to a certain knowledge domain or is it more general?
@@ -127,7 +127,7 @@ __Current list of received pattern submissions__
 We invite submissions of interesting problems for the "pattern writing" sessions. Problems should be in the scope of “ontology engineering problems” (in a broad sense), i.e., problems where currently no ODP exist. The most interesting problem proposals will be selected through a voting process, and at the workshop the participants will be divided into groups based on interests and background, where each group will be assigned one proposed problem. The goal is to develop and propose an initial pattern candidate corresponding to that issue, which is presented to the rest of the participants at the end of the session and can then be posted in the ODP portal for revision and scrutiny. If the problem is selected, the person who proposed the problem is required to register for the workshop and be present, to provide background information about the problem for the candidate ODP to be created and participate in the discussion as the "problem owner".
 
 
-Problem proposals can be general or related to some specific domain, but the envisioned solution should correspond to an ODP of one of the types listed  [here](../../OPTypes.md "OPTypes"). The voting process will vote on problem proposals based on the following criteria:
+Problem proposals can be general or related to some specific domain, but the envisioned solution should correspond to an ODP of one of the types listed  [here](../../OPTypes "OPTypes"). The voting process will vote on problem proposals based on the following criteria:
 
 
 
@@ -135,7 +135,7 @@ Problem proposals can be general or related to some specific domain, but the env
 * Feasibility to arrive at a draft solution within the time frame of the workshop.
 
 
-To submit a problem proposal, visit the " [Post a modeling issue](../../Community/PostModelingIssue.md "Community:PostModelingIssue")" page before the submission deadline (October 1st). Describe your problem as carefully as possible, by editing the page of the modeling issue. At a minimum you should describe:
+To submit a problem proposal, visit the " [Post a modeling issue](../../Community/PostModelingIssue "Community:PostModelingIssue")" page before the submission deadline (October 1st). Describe your problem as carefully as possible, by editing the page of the modeling issue. At a minimum you should describe:
 
 
 

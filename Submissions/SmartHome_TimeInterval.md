@@ -1,4 +1,4 @@
-[![](../images/thumb/b/b5/Certified.png/70px-Certified.png)](../Image/Certified.png.md "Certified.png") __This pattern has been certified.__
+[![](../images/thumb/b/b5/Certified.png/70px-Certified.png)](../Image/Certified.png "Certified.png") __This pattern has been certified.__
 Related submission, with evaluation history, can be found __here__
 
 
@@ -28,14 +28,14 @@ _The __SmartHome TimeInterval__ Content OP locally defines the following ontolog
 
 
 
-[![DatatypeProperty](../images/thumb/a/a5/DatatypeProperty.gif/20px-DatatypeProperty.gif)](../Image/DatatypeProperty.gif.md "DatatypeProperty") __hasLowerTimestampValue__ (owl:DatatypeProperty) 
- [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[hasLowerTimestampValue](../Submissions/SmartHome_TimeInterval/hasLowerTimestampValue.md "Submissions:SmartHome TimeInterval/hasLowerTimestampValue") page_
-[![DatatypeProperty](../images/thumb/a/a5/DatatypeProperty.gif/20px-DatatypeProperty.gif)](../Image/DatatypeProperty.gif.md "DatatypeProperty") __hasUpperTimestampValue__ (owl:DatatypeProperty) 
- [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[hasUpperTimestampValue](../Submissions/SmartHome_TimeInterval/hasUpperTimestampValue.md "Submissions:SmartHome TimeInterval/hasUpperTimestampValue") page_
-[![Class](../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __SmartHomeTemporalDistance__ (owl:Class) 
- [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[SmartHomeTemporalDistance](../Submissions/SmartHome_TimeInterval/SmartHomeTemporalDistance.md "Submissions:SmartHome TimeInterval/SmartHomeTemporalDistance") page_
-[![Class](../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __SmartHomeTimeInterval__ (owl:Class) 
- [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[SmartHomeTimeInterval](../Submissions/SmartHome_TimeInterval/SmartHomeTimeInterval.md "Submissions:SmartHome TimeInterval/SmartHomeTimeInterval") page_
+[![DatatypeProperty](../images/thumb/a/a5/DatatypeProperty.gif/20px-DatatypeProperty.gif)](../Image/DatatypeProperty.gif "DatatypeProperty") __hasLowerTimestampValue__ (owl:DatatypeProperty) 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif "ArrowRight.gif") _[hasLowerTimestampValue](../Submissions/SmartHome_TimeInterval/hasLowerTimestampValue "Submissions:SmartHome TimeInterval/hasLowerTimestampValue") page_
+[![DatatypeProperty](../images/thumb/a/a5/DatatypeProperty.gif/20px-DatatypeProperty.gif)](../Image/DatatypeProperty.gif "DatatypeProperty") __hasUpperTimestampValue__ (owl:DatatypeProperty) 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif "ArrowRight.gif") _[hasUpperTimestampValue](../Submissions/SmartHome_TimeInterval/hasUpperTimestampValue "Submissions:SmartHome TimeInterval/hasUpperTimestampValue") page_
+[![Class](../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif "Class") __SmartHomeTemporalDistance__ (owl:Class) 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif "ArrowRight.gif") _[SmartHomeTemporalDistance](../Submissions/SmartHome_TimeInterval/SmartHomeTemporalDistance "Submissions:SmartHome TimeInterval/SmartHomeTemporalDistance") page_
+[![Class](../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif "Class") __SmartHomeTimeInterval__ (owl:Class) 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif "ArrowRight.gif") _[SmartHomeTimeInterval](../Submissions/SmartHome_TimeInterval/SmartHomeTimeInterval "Submissions:SmartHome TimeInterval/SmartHomeTimeInterval") page_
 #  Additional information
 
 
@@ -96,5 +96,5 @@ There is no Modeling issue related to this proposal.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:SmartHome\_TimeInterval](../Submissions/SmartHome_TimeInterval.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ProposedContentOP](../Category/ProposedContentOP.md "Category:ProposedContentOP")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:SmartHome\_TimeInterval](../Submissions/SmartHome_TimeInterval)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ProposedContentOP](../Category/ProposedContentOP "Category:ProposedContentOP")

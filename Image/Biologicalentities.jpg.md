@@ -1,6 +1,6 @@
-* [Image](../Image/Biologicalentities.jpg.md#file)
-* [File history](../Image/Biologicalentities.jpg.md#filehistory)
-* [Links](../Image/Biologicalentities.jpg.md#filelinks)
+* [Image](../Image/Biologicalentities.jpg#file)
+* [File history](../Image/Biologicalentities.jpg#filehistory)
+* [Links](../Image/Biologicalentities.jpg#filelinks)
 
 [![Image:Biologicalentities.jpg](../images/3/34/Biologicalentities.jpg)](../images/3/34/Biologicalentities.jpg)  
 No higher resolution available.  
@@ -23,8 +23,8 @@ Click on a date/time to view the file as it appeared at that time.
 The following 2 pages link to this file:
 
 
-* [Community:Images](../Community/Images.md "Community:Images")
-* [Submissions:Biological Entities](../Submissions/Biological_Entities.md "Submissions:Biological Entities")
+* [Community:Images](../Community/Images "Community:Images")
+* [Submissions:Biological Entities](../Submissions/Biological_Entities "Submissions:Biological Entities")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Biologicalentities.jpg](../Image/Biologicalentities.jpg.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Biologicalentities.jpg](../Image/Biologicalentities.jpg)"

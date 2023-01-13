@@ -32,9 +32,9 @@ __Solutions__:
 
 
 * Distributed integration - wiki pages where design pairs put stories and their associated competency questions \*\* \*\*
-	+ [Pair D1 - Giulio and Yadary](../../Training/PhD_Course_on_Computational_Ontologies_@_University_of_Bologna_2011/Collaborative_eXtreme_Design/D1Pair.md "Training:PhD Course on Computational Ontologies @ University of Bologna 2011/Collaborative eXtreme Design/D1Pair")
-	+ [Pair D2 - Andrea and Antonio](../../Training/PhD_Course_on_Computational_Ontologies_@_University_of_Bologna_2011/Collaborative_eXtreme_Design/D2Pair.md "Training:PhD Course on Computational Ontologies @ University of Bologna 2011/Collaborative eXtreme Design/D2Pair")
-	+ [Pair D3 - Maria Gabriella and Alberto](../../Training/PhD_Course_on_Computational_Ontologies_@_University_of_Bologna_2011/Collaborative_eXtreme_Design/D3Pair.md "Training:PhD Course on Computational Ontologies @ University of Bologna 2011/Collaborative eXtreme Design/D3Pair")
+	+ [Pair D1 - Giulio and Yadary](../../Training/PhD_Course_on_Computational_Ontologies_@_University_of_Bologna_2011/Collaborative_eXtreme_Design/D1Pair "Training:PhD Course on Computational Ontologies @ University of Bologna 2011/Collaborative eXtreme Design/D1Pair")
+	+ [Pair D2 - Andrea and Antonio](../../Training/PhD_Course_on_Computational_Ontologies_@_University_of_Bologna_2011/Collaborative_eXtreme_Design/D2Pair "Training:PhD Course on Computational Ontologies @ University of Bologna 2011/Collaborative eXtreme Design/D2Pair")
+	+ [Pair D3 - Maria Gabriella and Alberto](../../Training/PhD_Course_on_Computational_Ontologies_@_University_of_Bologna_2011/Collaborative_eXtreme_Design/D3Pair "Training:PhD Course on Computational Ontologies @ University of Bologna 2011/Collaborative eXtreme Design/D3Pair")
 
 
   
@@ -43,12 +43,12 @@ __Solutions__:
 
 
 * Integration pair - wiki pages where design pairs put stories and their associated competency questions
-	+ [Pair I1 - Nicolò and Armir (Integration Pair)](../../Training/PhD_Course_on_Computational_Ontologies_@_University_of_Bologna_2011/Collaborative_eXtreme_Design/I1Pair.md "Training:PhD Course on Computational Ontologies @ University of Bologna 2011/Collaborative eXtreme Design/I1Pair")
-	+ [Pair I2 - Ornela and Alessandro](../../Training/PhD_Course_on_Computational_Ontologies_@_University_of_Bologna_2011/Collaborative_eXtreme_Design/I2Pair.md "Training:PhD Course on Computational Ontologies @ University of Bologna 2011/Collaborative eXtreme Design/I2Pair")
-	+ [Pair I3 Isabella and Michele](../../Training/PhD_Course_on_Computational_Ontologies_@_University_of_Bologna_2011/Collaborative_eXtreme_Design/I3Pair.md "Training:PhD Course on Computational Ontologies @ University of Bologna 2011/Collaborative eXtreme Design/I3Pair")
+	+ [Pair I1 - Nicolò and Armir (Integration Pair)](../../Training/PhD_Course_on_Computational_Ontologies_@_University_of_Bologna_2011/Collaborative_eXtreme_Design/I1Pair "Training:PhD Course on Computational Ontologies @ University of Bologna 2011/Collaborative eXtreme Design/I1Pair")
+	+ [Pair I2 - Ornela and Alessandro](../../Training/PhD_Course_on_Computational_Ontologies_@_University_of_Bologna_2011/Collaborative_eXtreme_Design/I2Pair "Training:PhD Course on Computational Ontologies @ University of Bologna 2011/Collaborative eXtreme Design/I2Pair")
+	+ [Pair I3 Isabella and Michele](../../Training/PhD_Course_on_Computational_Ontologies_@_University_of_Bologna_2011/Collaborative_eXtreme_Design/I3Pair "Training:PhD Course on Computational Ontologies @ University of Bologna 2011/Collaborative eXtreme Design/I3Pair")
 
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Training:PhD\_Course\_on\_Computational\_Ontologies\_%40\_University\_of\_Bologna\_2011/Collaborative\_eXtreme\_Design](../../Training/PhD_Course_on_Computational_Ontologies_@_University_of_Bologna_2011/Collaborative_eXtreme_Design.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Exercise](../../Category/Exercise.md "Category:Exercise")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Training:PhD\_Course\_on\_Computational\_Ontologies\_%40\_University\_of\_Bologna\_2011/Collaborative\_eXtreme\_Design](../../Training/PhD_Course_on_Computational_Ontologies_@_University_of_Bologna_2011/Collaborative_eXtreme_Design)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Exercise](../../Category/Exercise "Category:Exercise")

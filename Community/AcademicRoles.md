@@ -12,7 +12,7 @@ __Diagram__
 
 
 
-[![Image:MI-AcademicRole.jpg](../images/9/96/MI-AcademicRole.jpg)](../Image/MI-AcademicRole.jpg.md "Image:MI-AcademicRole.jpg")
+[![Image:MI-AcademicRole.jpg](../images/9/96/MI-AcademicRole.jpg)](../Image/MI-AcademicRole.jpg "Image:MI-AcademicRole.jpg")
 
 
 
@@ -120,7 +120,7 @@ NB: probably this pattern should be renamed to be something like 'RoleInContext'
 #  References
 
 
-[Add a reference](index.php@title=Odp%253AAdd_reference&subject=../Community/AcademicRoles.md "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_reference&subject=Community%3AAcademicRoles")
+[Add a reference](index.php@title=Odp%253AAdd_reference&subject=../Community/AcademicRoles "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_reference&subject=Community%3AAcademicRoles")
 
 
   
@@ -128,8 +128,8 @@ NB: probably this pattern should be renamed to be something like 'RoleInContext'
 
 
 
- [List of Modeling Issues](../Community/Main.md "Community:Main") | [Post a new modeling issue](../Community/PostModelingIssue.md "Community:PostModelingIssue") | [Add a comment in the discussion page](index.php@title=Odp%253AAdd_comment&target=Community_talk%253AAcademicRoles.html#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Community_talk:AcademicRoles#New_comment")
+ [List of Modeling Issues](../Community/Main "Community:Main") | [Post a new modeling issue](../Community/PostModelingIssue "Community:PostModelingIssue") | [Add a comment in the discussion page](index.php@title=Odp%253AAdd_comment&target=Community_talk%253AAcademicRoles.html#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Community_talk:AcademicRoles#New_comment")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Community:AcademicRoles](../Community/AcademicRoles.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ModelingIssue](../Category/ModelingIssue.md "Category:ModelingIssue")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Community:AcademicRoles](../Community/AcademicRoles)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ModelingIssue](../Category/ModelingIssue "Category:ModelingIssue")

@@ -1,2 +1,2 @@
-Retrieved from "[http://ontologydesignpatterns.org/wiki/User:EvaBlomqvist](../User/EvaBlomqvist.md)"
- [Categories](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ODPUser](../Category/ODPUser.md "Category:ODPUser") | [QCMember](../Category/QCMember.md "Category:QCMember")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/User:EvaBlomqvist](../User/EvaBlomqvist)"
+ [Categories](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ODPUser](../Category/ODPUser "Category:ODPUser") | [QCMember](../Category/QCMember "Category:QCMember")

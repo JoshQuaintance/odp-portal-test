@@ -40,7 +40,7 @@ Content of the Text field
 
 
 
-[![Image:SituationExampleDiagram.jpg](../images/0/0e/SituationExampleDiagram.jpg)](../Image/SituationExampleDiagram.jpg.md "Image:SituationExampleDiagram.jpg")
+[![Image:SituationExampleDiagram.jpg](../images/0/0e/SituationExampleDiagram.jpg)](../Image/SituationExampleDiagram.jpg "Image:SituationExampleDiagram.jpg")
 
 
 
@@ -53,4 +53,4 @@ Content of the Text field
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Template:Example](../Template/Example.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Template:Example](../Template/Example)"

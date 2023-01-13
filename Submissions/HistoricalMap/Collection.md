@@ -1,4 +1,4 @@
-___Collection__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [HistoricalMap](../../Submissions/HistoricalMap.md "Submissions:HistoricalMap")_
+___Collection__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [HistoricalMap](../../Submissions/HistoricalMap "Submissions:HistoricalMap")_
 
 
   
@@ -6,7 +6,7 @@ ___Collection__ has [Category:OntologyElement](../../Category/OntologyElement.md
 
 
 
-[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif.md "Class")
+[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif "Class")
 __Name__: Collection 
 
 
@@ -19,5 +19,5 @@ __Description__: Several things (historical maps) grouped together or considered
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:HistoricalMap/Collection](../../Community/Parts_and_Collections.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:HistoricalMap/Collection](../../Community/Parts_and_Collections)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

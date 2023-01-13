@@ -1,6 +1,6 @@
-* [Image](../Image/RelationbasedtermbasedAgrovoc.png.md#file)
-* [File history](../Image/RelationbasedtermbasedAgrovoc.png.md#filehistory)
-* [Links](../Image/RelationbasedtermbasedAgrovoc.png.md#filelinks)
+* [Image](../Image/RelationbasedtermbasedAgrovoc.png#file)
+* [File history](../Image/RelationbasedtermbasedAgrovoc.png#filehistory)
+* [Links](../Image/RelationbasedtermbasedAgrovoc.png#filelinks)
 
 [![Image:RelationbasedtermbasedAgrovoc.png](../images/8/8f/RelationbasedtermbasedAgrovoc.png)](../images/8/8f/RelationbasedtermbasedAgrovoc.png)  
 No higher resolution available.  
@@ -25,4 +25,4 @@ There are no pages that link to this file.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:RelationbasedtermbasedAgrovoc.png](../Image/RelationbasedtermbasedAgrovoc.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:RelationbasedtermbasedAgrovoc.png](../Image/RelationbasedtermbasedAgrovoc.png)"

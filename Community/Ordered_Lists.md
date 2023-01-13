@@ -36,11 +36,11 @@ _(this article has no graphical representation)_
 
 
 
-* A blog post about the Ordered List Ontology with examples and graphics. [Weblog post](http://smiy.org/2010/07/15/the-ordered-list-ontology/ "http://smiy.org/2010/07/15/the-ordered-list-ontology/") | [reference page](../Community/References/Ordered_List_Ontology_announcement_2.md "Community:References/Ordered List Ontology announcement 2")
+* A blog post about the Ordered List Ontology with examples and graphics. [Weblog post](http://smiy.org/2010/07/15/the-ordered-list-ontology/ "http://smiy.org/2010/07/15/the-ordered-list-ontology/") | [reference page](../Community/References/Ordered_List_Ontology_announcement_2 "Community:References/Ordered List Ontology announcement 2")
 
 
- [List of Modeling Issues](../Community/Main.md "Community:Main") | [Post a new modeling issue](../Community/PostModelingIssue.md "Community:PostModelingIssue") | [Add a comment in the discussion page](index.php@title=Odp%253AAdd_comment&target=Community_talk%253AOrdered_Lists.html#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Community_talk:Ordered_Lists#New_comment")
+ [List of Modeling Issues](../Community/Main "Community:Main") | [Post a new modeling issue](../Community/PostModelingIssue "Community:PostModelingIssue") | [Add a comment in the discussion page](index.php@title=Odp%253AAdd_comment&target=Community_talk%253AOrdered_Lists.html#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Community_talk:Ordered_Lists#New_comment")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Community:Ordered\_Lists](../Community/Ordered_Lists.md)"
- [Categories](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ModelingIssue](../Category/ModelingIssue.md "Category:ModelingIssue") | [Submitted to event](../Category/Submitted_to_event.md "Category:Submitted to event")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Community:Ordered\_Lists](../Community/Ordered_Lists)"
+ [Categories](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ModelingIssue](../Category/ModelingIssue "Category:ModelingIssue") | [Submitted to event](../Category/Submitted_to_event "Category:Submitted to event")

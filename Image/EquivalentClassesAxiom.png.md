@@ -1,6 +1,6 @@
-* [Image](../Image/EquivalentClassesAxiom.png.md#file)
-* [File history](../Image/EquivalentClassesAxiom.png.md#filehistory)
-* [Links](../Image/EquivalentClassesAxiom.png.md#filelinks)
+* [Image](../Image/EquivalentClassesAxiom.png#file)
+* [File history](../Image/EquivalentClassesAxiom.png#filehistory)
+* [Links](../Image/EquivalentClassesAxiom.png#filelinks)
 
 [![Image:EquivalentClassesAxiom.png](../images/e/e0/EquivalentClassesAxiom.png)](../images/e/e0/EquivalentClassesAxiom.png)  
 No higher resolution available.  
@@ -23,7 +23,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Submissions:CyclicSubClassOf](../Submissions/CyclicSubClassOf.md "Submissions:CyclicSubClassOf")
+* [Submissions:CyclicSubClassOf](../Submissions/CyclicSubClassOf "Submissions:CyclicSubClassOf")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:EquivalentClassesAxiom.png](../Image/EquivalentClassesAxiom.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:EquivalentClassesAxiom.png](../Image/EquivalentClassesAxiom.png)"

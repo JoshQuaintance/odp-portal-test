@@ -2,7 +2,7 @@ Below you will find the currently proposed Lexico-syntactic ODPs (LSPs).
 
 
 New proposals of LPs are very welcome.
-Please  [post a new proposal](../Submissions/ProposeLSP.md "Submissions:ProposeLSP") if you want to contribute.
+Please  [post a new proposal](../Submissions/ProposeLSP "Submissions:ProposeLSP") if you want to contribute.
 
 
   
@@ -15,4 +15,4 @@ Please  [post a new proposal](../Submissions/ProposeLSP.md "Submissions:ProposeL
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:LexicoSyntacticODPs](../Submissions/LexicoSyntacticODPs.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:LexicoSyntacticODPs](../Submissions/LexicoSyntacticODPs)"

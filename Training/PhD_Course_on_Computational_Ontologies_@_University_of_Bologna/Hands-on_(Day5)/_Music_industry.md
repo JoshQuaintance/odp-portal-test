@@ -77,7 +77,7 @@ Relevant tasks for the exercise are in bold face.
 * Task 3 – Select a story
 * Task 4 – Transform the story into CQs
 * __Task 5 – Select a CQ__
-* __Task 6 – Match CQs to GUCs of [Content ODPs](../../../Submissions/ContentOPs.md "Submissions:ContentOPs")__
+* __Task 6 – Match CQs to GUCs of [Content ODPs](../../../Submissions/ContentOPs "Submissions:ContentOPs")__
 * __Task 7 – Select the Content ODPs to reuse__
 * __Task 8 – Reuse and integrate selected Content ODPs__
 
@@ -104,5 +104,5 @@ __Solutions__:
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Training:PhD\_Course\_on\_Computational\_Ontologies\_%40\_University\_of\_Bologna/Hands-on\_%28Day5%29:\_Music\_industry](../../../Training/PhD_Course_on_Computational_Ontologies_@_University_of_Bologna/Hands-on_(Day5)/_Music_industry.md)/_Music_industry.md)%253A_Music_industry.html)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Exercise](../../../Category/Exercise.md "Category:Exercise")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Training:PhD\_Course\_on\_Computational\_Ontologies\_%40\_University\_of\_Bologna/Hands-on\_%28Day5%29:\_Music\_industry](../../../Training/PhD_Course_on_Computational_Ontologies_@_University_of_Bologna/Hands-on_(Day5)/_Music_industry)/_Music_industry.md)/_Music_industry.md)%253A_Music_industry.html)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Exercise](../../../Category/Exercise "Category:Exercise")

@@ -1,6 +1,6 @@
-* [Image](../Image/KarlHammar.jpg.md#file)
-* [File history](../Image/KarlHammar.jpg.md#filehistory)
-* [Links](../Image/KarlHammar.jpg.md#filelinks)
+* [Image](../Image/KarlHammar.jpg#file)
+* [File history](../Image/KarlHammar.jpg#filehistory)
+* [Links](../Image/KarlHammar.jpg#filelinks)
 
 [![Image:KarlHammar.jpg](../images/0/05/KarlHammar.jpg)](../images/0/05/KarlHammar.jpg)  
 No higher resolution available.  
@@ -23,7 +23,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [User:KarlHammar](../User/KarlHammar.md "User:KarlHammar")
+* [User:KarlHammar](../User/KarlHammar "User:KarlHammar")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:KarlHammar.jpg](../Image/KarlHammar.jpg.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:KarlHammar.jpg](../Image/KarlHammar.jpg)"

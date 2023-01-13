@@ -1,6 +1,6 @@
-* [Image](../Image/Agentrole.jpg.md#file)
-* [File history](../Image/Agentrole.jpg.md#filehistory)
-* [Links](../Image/Agentrole.jpg.md#filelinks)
+* [Image](../Image/Agentrole.jpg#file)
+* [File history](../Image/Agentrole.jpg#filehistory)
+* [Links](../Image/Agentrole.jpg#filelinks)
 
 [![Image:Agentrole.jpg](../images/1/1d/Agentrole.jpg)](../images/1/1d/Agentrole.jpg)  
 No higher resolution available.  
@@ -23,8 +23,8 @@ Click on a date/time to view the file as it appeared at that time.
 The following 2 pages link to this file:
 
 
-* [Community:Images](../Community/Images.md "Community:Images")
-* [Submissions:AgentRole](../Submissions/AgentRole.md "Submissions:AgentRole")
+* [Community:Images](../Community/Images "Community:Images")
+* [Submissions:AgentRole](../Submissions/AgentRole "Submissions:AgentRole")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Agentrole.jpg](../Image/Agentrole.jpg.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Agentrole.jpg](../Image/Agentrole.jpg)"

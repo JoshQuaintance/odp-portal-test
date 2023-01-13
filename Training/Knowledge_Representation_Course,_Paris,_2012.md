@@ -1,7 +1,7 @@
 __Goal__:
 
 
-An introductory course to Knowledge Representation, centered on patterns at different levels. It includes novel and existing ODP material by Aldo Gangemi ([Computational Ontology Course](../Training/PhD_Course_on_Computational_Ontologies_@_University_of_Bologna_2011.md "http://ontologydesignpatterns.org/wiki/Training:PhD_Course_on_Computational_Ontologies_%40_University_of_Bologna_2011") for ontology design on the semantic web, NL to KR representation), open source material by Johan van Benthem's group ([Logic in Action course](http://staff.science.uva.nl/~jaspars/logicinaction/ "http://staff.science.uva.nl/~jaspars/logicinaction/") for propositional, syllogistic, and predicate logic), by Pascal Hitzler ([KR for the Semantic Web course](http://www.semantic-web-book.org/page/KR4SW-12 "http://www.semantic-web-book.org/page/KR4SW-12") for description logics and OWL), and by Sean Bechhofer ([SSSW OWL session](http://mowl-power.cs.man.ac.uk/2011/07/sssw/ "http://mowl-power.cs.man.ac.uk/2011/07/sssw/") for practical OWL exercises).
+An introductory course to Knowledge Representation, centered on patterns at different levels. It includes novel and existing ODP material by Aldo Gangemi ([Computational Ontology Course](../Training/PhD_Course_on_Computational_Ontologies_@_University_of_Bologna_2011 "http://ontologydesignpatterns.org/wiki/Training:PhD_Course_on_Computational_Ontologies_%40_University_of_Bologna_2011") for ontology design on the semantic web, NL to KR representation), open source material by Johan van Benthem's group ([Logic in Action course](http://staff.science.uva.nl/~jaspars/logicinaction/ "http://staff.science.uva.nl/~jaspars/logicinaction/") for propositional, syllogistic, and predicate logic), by Pascal Hitzler ([KR for the Semantic Web course](http://www.semantic-web-book.org/page/KR4SW-12 "http://www.semantic-web-book.org/page/KR4SW-12") for description logics and OWL), and by Sean Bechhofer ([SSSW OWL session](http://mowl-power.cs.man.ac.uk/2011/07/sssw/ "http://mowl-power.cs.man.ac.uk/2011/07/sssw/") for practical OWL exercises).
 
 
 __Brief description__
@@ -51,9 +51,9 @@ No exercises.
 
 
 
-[Create exercise for this tutorial](http://ontologydesignpatterns.org/wiki/Special:AddData/Form:Tutorial_Exercise_Form?Exercise_Description_Template[Tutorial]=Knowledge Representation Course, Paris, 2012) | [Training area](../Training/Main.md "Training:Main")
+[Create exercise for this tutorial](http://ontologydesignpatterns.org/wiki/Special:AddData/Form:Tutorial_Exercise_Form?Exercise_Description_Template[Tutorial]=Knowledge Representation Course, Paris, 2012) | [Training area](../Training/Main "Training:Main")
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Training:Knowledge\_Representation\_Course%2C\_Paris%2C\_2012](../Training/Knowledge_Representation_Course,_Paris,_2012.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Tutorial](../Category/Tutorial.md "Category:Tutorial")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Training:Knowledge\_Representation\_Course%2C\_Paris%2C\_2012](../Training/Knowledge_Representation_Course,_Paris,_2012)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Tutorial](../Category/Tutorial "Category:Tutorial")

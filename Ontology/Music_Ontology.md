@@ -1,4 +1,4 @@
-Return to [Catalogue of Exemplary Ontologies](../Ontology/Main.md "Ontology:Main")
+Return to [Catalogue of Exemplary Ontologies](../Ontology/Main "Ontology:Main")
 
 
 
@@ -46,12 +46,12 @@ We develop a formal ontology for the music domain. This ontology allows us to pu
 
 
 
-* A distributed music information system. Yves Raimond [PhD Thesis](http://moustaki.org/phd/ "http://moustaki.org/phd/") | [reference page](../Community/References/Music_Ontology_PHD.md "Community:References/Music Ontology PHD")
-* Music Ontology Specification [Project Home Page](http://musicontology.com/ "http://musicontology.com/") | [reference page](../Community/References/Music_Ontology_Specification.md "Community:References/Music Ontology Specification")
-* Music Ontology Wiki [Wiki](http://wiki.musicontology.com/index.php/Main_Page "http://wiki.musicontology.com/index.php/Main_Page") | [reference page](../Community/References/Music_Ontology_Wiki.md "Community:References/Music Ontology Wiki")
+* A distributed music information system. Yves Raimond [PhD Thesis](http://moustaki.org/phd/ "http://moustaki.org/phd/") | [reference page](../Community/References/Music_Ontology_PHD "Community:References/Music Ontology PHD")
+* Music Ontology Specification [Project Home Page](http://musicontology.com/ "http://musicontology.com/") | [reference page](../Community/References/Music_Ontology_Specification "Community:References/Music Ontology Specification")
+* Music Ontology Wiki [Wiki](http://wiki.musicontology.com/index.php/Main_Page "http://wiki.musicontology.com/index.php/Main_Page") | [reference page](../Community/References/Music_Ontology_Wiki "Community:References/Music Ontology Wiki")
 
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Ontology:Music\_Ontology](../Ontology/Music_Ontology.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Ontology](../Category/Ontology.md "Category:Ontology")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Ontology:Music\_Ontology](../Ontology/Music_Ontology)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Ontology](../Category/Ontology "Category:Ontology")

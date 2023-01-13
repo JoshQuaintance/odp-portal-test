@@ -1,7 +1,7 @@
 ##   Best Pattern
 
 
- __[OIL, by Oscar Corcho and Catherine Roussey, receives best pattern award!](../../Submissions/OnlynessIsLoneliness_(OIL).md).md).html "Submissions:OnlynessIsLoneliness (OIL)")__
+ __[OIL, by Oscar Corcho and Catherine Roussey, receives best pattern award!](../../Submissions/OnlynessIsLoneliness_(OIL)).md).md).html "Submissions:OnlynessIsLoneliness (OIL)")__
 
 
   
@@ -23,5 +23,5 @@ The best pattern award will be presented to the winner at the closing of the wor
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/WOP:2009/Awards](../../WOP/2009/Awards.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [WOP2009](../../Category/WOP2009.md "Category:WOP2009")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/WOP:2009/Awards](../../WOP/2009/Awards)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [WOP2009](../../Category/WOP2009 "Category:WOP2009")

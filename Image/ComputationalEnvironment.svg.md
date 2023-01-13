@@ -1,6 +1,6 @@
-* [Image](../Image/ComputationalEnvironment.svg.md#file)
-* [File history](../Image/ComputationalEnvironment.svg.md#filehistory)
-* [Links](../Image/ComputationalEnvironment.svg.md#filelinks)
+* [Image](../Image/ComputationalEnvironment.svg#file)
+* [File history](../Image/ComputationalEnvironment.svg#filehistory)
+* [Links](../Image/ComputationalEnvironment.svg#filelinks)
 
 [![Image:ComputationalEnvironment.svg](../images/thumb/2/26/ComputationalEnvironment.svg/800px-ComputationalEnvironment.svg.png)](../images/2/26/ComputationalEnvironment.svg)  
 
@@ -33,4 +33,4 @@ There are no pages that link to this file.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:ComputationalEnvironment.svg](../Image/ComputationalEnvironment.svg.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:ComputationalEnvironment.svg](../Image/ComputationalEnvironment.svg)"

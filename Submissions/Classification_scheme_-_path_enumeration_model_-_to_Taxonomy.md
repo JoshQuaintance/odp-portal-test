@@ -1,4 +1,4 @@
-[![](../images/thumb/b/b5/Certified.png/70px-Certified.png)](../Image/Certified.png.md "Certified.png") __This pattern has been certified.__
+[![](../images/thumb/b/b5/Certified.png/70px-Certified.png)](../Image/Certified.png "Certified.png") __This pattern has been certified.__
 Related submission, with evaluation history, can be found __here__
 
 
@@ -131,5 +131,5 @@ There is no Modeling issue related to this proposal.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Classification\_scheme\_-\_path\_enumeration\_model\_-\_to\_Taxonomy](../Submissions/Classification_scheme_-_path_enumeration_model_-_to_Taxonomy.md)"
- [Categories](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ProposedReengineeringOP](../Category/ProposedReengineeringOP.md "Category:ProposedReengineeringOP") | [Review assigned](../Category/Review_assigned.md "Category:Review assigned") | [Submitted to event](../Category/Submitted_to_event.md "Category:Submitted to event")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Classification\_scheme\_-\_path\_enumeration\_model\_-\_to\_Taxonomy](../Submissions/Classification_scheme_-_path_enumeration_model_-_to_Taxonomy)"
+ [Categories](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ProposedReengineeringOP](../Category/ProposedReengineeringOP "Category:ProposedReengineeringOP") | [Review assigned](../Category/Review_assigned "Category:Review assigned") | [Submitted to event](../Category/Submitted_to_event "Category:Submitted to event")

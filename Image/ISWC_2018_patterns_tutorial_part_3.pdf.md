@@ -1,14 +1,14 @@
-* [Image](../Image/ISWC_2018_patterns_tutorial_part_3.pdf.md#file)
-* [File history](../Image/ISWC_2018_patterns_tutorial_part_3.pdf.md#filehistory)
-* [Links](../Image/ISWC_2018_patterns_tutorial_part_3.pdf.md#filelinks)
+* [Image](../Image/ISWC_2018_patterns_tutorial_part_3.pdf#file)
+* [File history](../Image/ISWC_2018_patterns_tutorial_part_3.pdf#filehistory)
+* [Links](../Image/ISWC_2018_patterns_tutorial_part_3.pdf#filelinks)
 
-[![](../skins/common/images/icons/fileicon-pdf.png)](../Image/ISWC_2018_patterns_tutorial_part_3.pdf.md "ISWC 2018 patterns tutorial part 3.pdf")
+[![](../skins/common/images/icons/fileicon-pdf.png)](../Image/ISWC_2018_patterns_tutorial_part_3.pdf "ISWC 2018 patterns tutorial part 3.pdf")
 [ISWC\_2018\_patterns\_tutorial\_part\_3.pdf](../images/4/4e/ISWC_2018_patterns_tutorial_part_3.pdf "ISWC 2018 patterns tutorial part 3.pdf")‎  (file size: 433 KB, MIME type: application/pdf)
 
 
 
 
-Presentation given at [http://ontologydesignpatterns.org/wiki/Training:Tutorial:\_Methods\_and\_Tools\_for\_Modular\_Ontology\_Modeling](../Training/Tutorial/_Methods_and_Tools_for_Modular_Ontology_Modeling.md "http://ontologydesignpatterns.org/wiki/Training:Tutorial:_Methods_and_Tools_for_Modular_Ontology_Modeling")
+Presentation given at [http://ontologydesignpatterns.org/wiki/Training:Tutorial:\_Methods\_and\_Tools\_for\_Modular\_Ontology\_Modeling](../Training/Tutorial/_Methods_and_Tools_for_Modular_Ontology_Modeling "http://ontologydesignpatterns.org/wiki/Training:Tutorial:_Methods_and_Tools_for_Modular_Ontology_Modeling")
 
 
 
@@ -30,7 +30,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Training:Tutorial: Methods and Tools for Modular Ontology Modeling](../Training/Tutorial/_Methods_and_Tools_for_Modular_Ontology_Modeling.md "Training:Tutorial: Methods and Tools for Modular Ontology Modeling")
+* [Training:Tutorial: Methods and Tools for Modular Ontology Modeling](../Training/Tutorial/_Methods_and_Tools_for_Modular_Ontology_Modeling "Training:Tutorial: Methods and Tools for Modular Ontology Modeling")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:ISWC\_2018\_patterns\_tutorial\_part\_3.pdf](../Image/ISWC_2018_patterns_tutorial_part_3.pdf.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:ISWC\_2018\_patterns\_tutorial\_part\_3.pdf](../Image/ISWC_2018_patterns_tutorial_part_3.pdf)"

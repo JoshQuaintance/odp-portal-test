@@ -1,6 +1,6 @@
-* [Image](../Image/Relation-by-range-restriction.png.md#file)
-* [File history](../Image/Relation-by-range-restriction.png.md#filehistory)
-* [Links](../Image/Relation-by-range-restriction.png.md#filelinks)
+* [Image](../Image/Relation-by-range-restriction.png#file)
+* [File history](../Image/Relation-by-range-restriction.png#filehistory)
+* [Links](../Image/Relation-by-range-restriction.png#filelinks)
 
 [![Image:Relation-by-range-restriction.png](../images/2/2b/Relation-by-range-restriction.png)](../images/2/2b/Relation-by-range-restriction.png)  
 No higher resolution available.  
@@ -25,4 +25,4 @@ There are no pages that link to this file.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Relation-by-range-restriction.png](../Image/Relation-by-range-restriction.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Relation-by-range-restriction.png](../Image/Relation-by-range-restriction.png)"

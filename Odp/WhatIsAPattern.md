@@ -61,4 +61,4 @@ Gangemi A. Ontology Design Patterns for Semantic Web Content. M. Musen et al. (e
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Odp:WhatIsAPattern](../Odp/WhatIsAPattern.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Odp:WhatIsAPattern](../Odp/WhatIsAPattern)"

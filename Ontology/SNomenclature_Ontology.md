@@ -1,4 +1,4 @@
-Return to [Catalogue of Exemplary Ontologies](../Ontology/Main.md "Ontology:Main")
+Return to [Catalogue of Exemplary Ontologies](../Ontology/Main "Ontology:Main")
 
 
 
@@ -37,5 +37,5 @@ The Semantic Nomenclature Application Ontology is the core of the ontology netwo
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Ontology:SNomenclature\_Ontology](../Ontology/SNomenclature_Ontology.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Ontology](../Category/Ontology.md "Category:Ontology")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Ontology:SNomenclature\_Ontology](../Ontology/SNomenclature_Ontology)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Ontology](../Category/Ontology "Category:Ontology")

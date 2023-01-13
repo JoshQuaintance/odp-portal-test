@@ -1,4 +1,4 @@
-This is a property of type [Page](../Type/Page.md "Type:Page").
+This is a property of type [Page](../Type/Page "Type:Page").
 
 
 
@@ -13,4 +13,4 @@ Showing 2 pages using this property.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Property:PertinentFeedback](../Property/PertinentFeedback.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Property:PertinentFeedback](../Property/PertinentFeedback)"

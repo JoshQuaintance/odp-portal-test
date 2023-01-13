@@ -1,6 +1,6 @@
-* [Image](../Image/Blueball.png.md#file)
-* [File history](../Image/Blueball.png.md#filehistory)
-* [Links](../Image/Blueball.png.md#filelinks)
+* [Image](../Image/Blueball.png#file)
+* [File history](../Image/Blueball.png#filehistory)
+* [Links](../Image/Blueball.png#filelinks)
 
 [![Image:Blueball.png](../images/b/bd/Blueball.png)](../images/b/bd/Blueball.png)  
 No higher resolution available.  
@@ -23,10 +23,10 @@ Click on a date/time to view the file as it appeared at that time.
 The following 4 pages link to this file:
 
 
-* [Ontology Design Patterns . org (ODP)](../Ontology_Design_Patterns_._org_(ODP).md).md).html "Ontology Design Patterns . org (ODP)")
-* [Community:Images](../Community/Images.md "Community:Images")
-* [Template:MainPageMap](../Template/MainPageMap.md "Template:MainPageMap")
-* [Submissions:HowToSubmitAnExemplaryOntology](../Submissions/HowToSubmitAnExemplaryOntology.md "Submissions:HowToSubmitAnExemplaryOntology")
+* [Ontology Design Patterns . org (ODP)](../Ontology_Design_Patterns_._org_(ODP)).md).md).html "Ontology Design Patterns . org (ODP)")
+* [Community:Images](../Community/Images "Community:Images")
+* [Template:MainPageMap](../Template/MainPageMap "Template:MainPageMap")
+* [Submissions:HowToSubmitAnExemplaryOntology](../Submissions/HowToSubmitAnExemplaryOntology "Submissions:HowToSubmitAnExemplaryOntology")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Blueball.png](../Image/Blueball.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Blueball.png](../Image/Blueball.png)"

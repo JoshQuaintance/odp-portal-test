@@ -59,7 +59,7 @@ __Submission guidelines__
 	+ Re-engineering ODPs
 	+ Alignment ODPs
 * Patterns must be fully annotated, using the templates provided in the portal for each category.
-* Submit the pattern through the  [ODP submission for the specific pattern type](../../Submissions/SubmitAPattern.md "Submissions:SubmitAPattern") and don't forget to tell us that you are submitting for WOP'09 (i.e. when you edit the pattern page, write WOP2009 in the "event" field).
+* Submit the pattern through the  [ODP submission for the specific pattern type](../../Submissions/SubmitAPattern "Submissions:SubmitAPattern") and don't forget to tell us that you are submitting for WOP'09 (i.e. when you edit the pattern page, write WOP2009 in the "event" field).
 
 
 __Process__
@@ -105,4 +105,4 @@ __Current list of received pattern submissions__
 
 
 Retrieved from "[http://ontologydesignpatterns.org/wiki/WOP:2009/Submission](../../index.php@title=Odp/Add_reference&subject=Submissions/Lexico+Syntactic+ODPs+corresponding+to+Simple+Part-Whole+relation+&quot;or&quot;+Constituency+&quot;or&quot;+Componency+&quot;or&quot;+Collection-Entity+ODPs.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [WOP2009](../../Category/WOP2009.md "Category:WOP2009")
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [WOP2009](../../Category/WOP2009 "Category:WOP2009")

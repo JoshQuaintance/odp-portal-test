@@ -1,6 +1,6 @@
-* [Image](../Image/Ontology_strategy_design.png.md#file)
-* [File history](../Image/Ontology_strategy_design.png.md#filehistory)
-* [Links](../Image/Ontology_strategy_design.png.md#filelinks)
+* [Image](../Image/Ontology_strategy_design.png#file)
+* [File history](../Image/Ontology_strategy_design.png#filehistory)
+* [Links](../Image/Ontology_strategy_design.png#filelinks)
 
 [![Image:Ontology strategy design.png](../images/0/0c/Ontology_strategy_design.png)](../images/0/0c/Ontology_strategy_design.png)  
 No higher resolution available.  
@@ -26,7 +26,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Submissions:Smart City Strategy Design](../Submissions/Smart_City_Strategy_Design.md "Submissions:Smart City Strategy Design")
+* [Submissions:Smart City Strategy Design](../Submissions/Smart_City_Strategy_Design "Submissions:Smart City Strategy Design")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Ontology\_strategy\_design.png](../Image/Ontology_strategy_design.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Ontology\_strategy\_design.png](../Image/Ontology_strategy_design.png)"

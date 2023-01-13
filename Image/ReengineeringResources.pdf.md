@@ -1,8 +1,8 @@
-* [Image](../Image/ReengineeringResources.pdf.md#file)
-* [File history](../Image/ReengineeringResources.pdf.md#filehistory)
-* [Links](../Image/ReengineeringResources.pdf.md#filelinks)
+* [Image](../Image/ReengineeringResources.pdf#file)
+* [File history](../Image/ReengineeringResources.pdf#filehistory)
+* [Links](../Image/ReengineeringResources.pdf#filelinks)
 
-[![](../skins/common/images/icons/fileicon-pdf.png)](../Image/ReengineeringResources.pdf.md "ReengineeringResources.pdf")
+[![](../skins/common/images/icons/fileicon-pdf.png)](../Image/ReengineeringResources.pdf "ReengineeringResources.pdf")
 [ReengineeringResources.pdf](../images/4/4e/ReengineeringResources.pdf "ReengineeringResources.pdf")‎  (file size: 2.07 MB, MIME type: application/pdf)
 
 
@@ -26,7 +26,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Community:Images](../Community/Images.md "Community:Images")
+* [Community:Images](../Community/Images "Community:Images")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:ReengineeringResources.pdf](../Image/ReengineeringResources.pdf.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:ReengineeringResources.pdf](../Image/ReengineeringResources.pdf)"

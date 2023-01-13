@@ -1,4 +1,4 @@
-__Title__. This property assigns a title to the ODP wiki page. Typically titles are used for facilitating the identification of a page of interest. Hence, titles should be enough to provide the reader with an idea of the content of the page. The value of this property is of type [Text](../Type/Text.md "Type:Text").
+__Title__. This property assigns a title to the ODP wiki page. Typically titles are used for facilitating the identification of a page of interest. Hence, titles should be enough to provide the reader with an idea of the content of the page. The value of this property is of type [Text](../Type/Text "Type:Text").
 
 
 

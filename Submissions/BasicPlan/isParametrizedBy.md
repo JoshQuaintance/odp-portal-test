@@ -1,4 +1,4 @@
-___isParametrizedBy__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [BasicPlan](../../Submissions/BasicPlan.md "Submissions:BasicPlan")_
+___isParametrizedBy__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [BasicPlan](../../Submissions/BasicPlan "Submissions:BasicPlan")_
 
 
   
@@ -6,7 +6,7 @@ ___isParametrizedBy__ has [Category:OntologyElement](../../Category/OntologyElem
 
 
 
-[![ObjectProperty](../../images/thumb/c/c3/ObjectProperty.gif/45px-ObjectProperty.gif)](../../Image/ObjectProperty.gif.md "ObjectProperty")
+[![ObjectProperty](../../images/thumb/c/c3/ObjectProperty.gif/45px-ObjectProperty.gif)](../../Image/ObjectProperty.gif "ObjectProperty")
 __Name__: isParametrizedBy 
 
 
@@ -19,5 +19,5 @@ __Description__: The relation between a Parameter, e.g. 'MajorAge', and a Region
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:BasicPlan/isParametrizedBy](../../Submissions/BasicPlan/isParametrizedBy.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:BasicPlan/isParametrizedBy](../../Submissions/BasicPlan/isParametrizedBy)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

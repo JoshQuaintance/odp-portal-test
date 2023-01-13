@@ -1,6 +1,6 @@
-* [Image](../Image/Complex_ex.png.md#file)
-* [File history](../Image/Complex_ex.png.md#filehistory)
-* [Links](../Image/Complex_ex.png.md#filelinks)
+* [Image](../Image/Complex_ex.png#file)
+* [File history](../Image/Complex_ex.png#filehistory)
+* [Links](../Image/Complex_ex.png#filelinks)
 
 [![Image:Complex ex.png](../images/thumb/f/f3/Complex_ex.png/800px-Complex_ex.png)](../images/f/f3/Complex_ex.png)  
 Size of this preview: 800 × 510 pixels  
@@ -28,4 +28,4 @@ There are no pages that link to this file.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Complex\_ex.png](../Image/Complex_ex.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Complex\_ex.png](../Image/Complex_ex.png)"

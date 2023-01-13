@@ -1,6 +1,6 @@
-* [Image](../Image/TemplatePatternBeforeAndAfter.png.md#file)
-* [File history](../Image/TemplatePatternBeforeAndAfter.png.md#filehistory)
-* [Links](../Image/TemplatePatternBeforeAndAfter.png.md#filelinks)
+* [Image](../Image/TemplatePatternBeforeAndAfter.png#file)
+* [File history](../Image/TemplatePatternBeforeAndAfter.png#filehistory)
+* [Links](../Image/TemplatePatternBeforeAndAfter.png#filelinks)
 
 [![Image:TemplatePatternBeforeAndAfter.png](../images/thumb/4/4c/TemplatePatternBeforeAndAfter.png/800px-TemplatePatternBeforeAndAfter.png)](../images/4/4c/TemplatePatternBeforeAndAfter.png)  
 Size of this preview: 800 × 277 pixels  
@@ -23,7 +23,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Submissions:Template Instance](../Submissions/Template_Instance.md "Submissions:Template Instance")
+* [Submissions:Template Instance](../Submissions/Template_Instance "Submissions:Template Instance")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:TemplatePatternBeforeAndAfter.png](../Image/TemplatePatternBeforeAndAfter.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:TemplatePatternBeforeAndAfter.png](../Image/TemplatePatternBeforeAndAfter.png)"

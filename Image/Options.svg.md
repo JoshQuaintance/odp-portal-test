@@ -1,6 +1,6 @@
-* [Image](../Image/Options.svg.md#file)
-* [File history](../Image/Options.svg.md#filehistory)
-* [Links](../Image/Options.svg.md#filelinks)
+* [Image](../Image/Options.svg#file)
+* [File history](../Image/Options.svg#filehistory)
+* [Links](../Image/Options.svg#filelinks)
 
 [![Image:Options.svg](../images/thumb/d/d7/Options.svg/128px-Options.svg.png)](../images/d/d7/Options.svg)  
 
@@ -27,7 +27,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Community:Images](../Community/Images.md "Community:Images")
+* [Community:Images](../Community/Images "Community:Images")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Options.svg](../Image/Options.svg.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Options.svg](../Image/Options.svg)"

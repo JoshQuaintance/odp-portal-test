@@ -1,4 +1,4 @@
-___hasValidationProcess__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [Policy](../../Submissions/Policy.md "Submissions:Policy")_
+___hasValidationProcess__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [Policy](../../Submissions/Policy "Submissions:Policy")_
 
 
   
@@ -6,7 +6,7 @@ ___hasValidationProcess__ has [Category:OntologyElement](../../Category/Ontology
 
 
 
-[![ObjectProperty](../../images/thumb/c/c3/ObjectProperty.gif/45px-ObjectProperty.gif)](../../Image/ObjectProperty.gif.md "ObjectProperty")
+[![ObjectProperty](../../images/thumb/c/c3/ObjectProperty.gif/45px-ObjectProperty.gif)](../../Image/ObjectProperty.gif "ObjectProperty")
 __Name__: hasValidationProcess 
 
 
@@ -19,5 +19,5 @@ __Description__: Associates a policy with a process that is used to validate the
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Policy/hasValidationProcess](../../Submissions/Policy/hasValidationProcess.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Policy/hasValidationProcess](../../Submissions/Policy/hasValidationProcess)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

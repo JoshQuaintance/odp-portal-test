@@ -1,6 +1,6 @@
-* [Image](../Image/ResidentPattern.png.md#file)
-* [File history](../Image/ResidentPattern.png.md#filehistory)
-* [Links](../Image/ResidentPattern.png.md#filelinks)
+* [Image](../Image/ResidentPattern.png#file)
+* [File history](../Image/ResidentPattern.png#filehistory)
+* [Links](../Image/ResidentPattern.png#filelinks)
 
 [![Image:ResidentPattern.png](../images/thumb/e/ea/ResidentPattern.png/614px-ResidentPattern.png)](../images/e/ea/ResidentPattern.png)  
 Size of this preview: 614 × 599 pixels  
@@ -25,4 +25,4 @@ There are no pages that link to this file.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:ResidentPattern.png](../Image/ResidentPattern.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:ResidentPattern.png](../Image/ResidentPattern.png)"

@@ -1,6 +1,6 @@
-* [Image](../Image/Property-relation.png.md#file)
-* [File history](../Image/Property-relation.png.md#filehistory)
-* [Links](../Image/Property-relation.png.md#filelinks)
+* [Image](../Image/Property-relation.png#file)
+* [File history](../Image/Property-relation.png#filehistory)
+* [Links](../Image/Property-relation.png#filelinks)
 
 [![Image:Property-relation.png](../images/b/be/Property-relation.png)](../images/b/be/Property-relation.png)  
 No higher resolution available.  
@@ -25,4 +25,4 @@ There are no pages that link to this file.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Property-relation.png](../Image/Property-relation.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Property-relation.png](../Image/Property-relation.png)"

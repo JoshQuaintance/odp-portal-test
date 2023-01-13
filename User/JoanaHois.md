@@ -1,4 +1,4 @@
-[![Image:ODPUser.png](../images/a/a6/ODPUser.png)](../Image/ODPUser.png.md "Image:ODPUser.png")
+[![Image:ODPUser.png](../images/a/a6/ODPUser.png)](../Image/ODPUser.png "Image:ODPUser.png")
 
 
 
@@ -19,9 +19,9 @@ __Domains of interest:__
 
 
 
-* [Ontology](../Community/Ontology-based_models.md "Community:Ontology")
-* [Linguistic](../Community/Linguistic.md "Community:Linguistic")
-* [Ontology\_Alignment](../Community/Ontology_Alignment.md "Community:Ontology Alignment")
+* [Ontology](../Community/Ontology-based_models "Community:Ontology")
+* [Linguistic](../Community/Linguistic "Community:Linguistic")
+* [Ontology\_Alignment](../Community/Ontology_Alignment "Community:Ontology Alignment")
 
 
 __Is expert of:__
@@ -36,5 +36,5 @@ __How did I know about ODP:__ colleagues
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/User:JoanaHois](../User/JoanaHois.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ODPUser](../Category/ODPUser.md "Category:ODPUser")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/User:JoanaHois](../User/JoanaHois)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ODPUser](../Category/ODPUser "Category:ODPUser")

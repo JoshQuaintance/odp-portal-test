@@ -1,6 +1,6 @@
-* [Image](../Image/PW_5.jape.md#file)
-* [File history](../Image/PW_5.jape.md#filehistory)
-* [Links](../Image/PW_5.jape.md#filelinks)
+* [Image](../Image/PW_5.jape#file)
+* [File history](../Image/PW_5.jape#filehistory)
+* [Links](../Image/PW_5.jape#filelinks)
 
 
 [PW\_5.jape](../images/7/7a/PW_5.jape "PW 5.jape")‎
@@ -36,4 +36,4 @@ The following 2 pages link to this file:
 * [Submissions:Lexico Syntactic ODPs corresponding to Simple Part-Whole relation "or" Constituency "or" Componency "or" Collection-Entity ODPs/5](Submissions%253ALexico_Syntactic_ODPs_corresponding_to_Simple_Part-Whole_relation_%2522or%2522_Constituency_%2522or%2522_Componency_%2522or%2522_Collection-Entity_ODPs/5.html "Submissions:Lexico Syntactic ODPs corresponding to Simple Part-Whole relation \"or\" Constituency \"or\" Componency \"or\" Collection-Entity ODPs/5")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:PW\_5.jape](../Image/PW_5.jape.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:PW\_5.jape](../Image/PW_5.jape)"

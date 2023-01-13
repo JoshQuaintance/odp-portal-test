@@ -1,6 +1,6 @@
-* [Image](../Image/HasSymptoms.JPG.md#file)
-* [File history](../Image/HasSymptoms.JPG.md#filehistory)
-* [Links](../Image/HasSymptoms.JPG.md#filelinks)
+* [Image](../Image/HasSymptoms.JPG#file)
+* [File history](../Image/HasSymptoms.JPG#filehistory)
+* [Links](../Image/HasSymptoms.JPG#filelinks)
 
 [![Image:HasSymptoms.JPG](../images/thumb/7/75/HasSymptoms.JPG/800px-HasSymptoms.JPG)](../images/7/75/HasSymptoms.JPG)  
 Size of this preview: 800 × 514 pixels  
@@ -26,7 +26,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Community:Images](../Community/Images.md "Community:Images")
+* [Community:Images](../Community/Images "Community:Images")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:HasSymptoms.JPG](../Image/HasSymptoms.JPG.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:HasSymptoms.JPG](../Image/HasSymptoms.JPG)"

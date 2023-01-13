@@ -1,6 +1,6 @@
-* [Image](../Image/Bene-rodriguez-profile-pic.jpeg.md#file)
-* [File history](../Image/Bene-rodriguez-profile-pic.jpeg.md#filehistory)
-* [Links](../Image/Bene-rodriguez-profile-pic.jpeg.md#filelinks)
+* [Image](../Image/Bene-rodriguez-profile-pic.jpeg#file)
+* [File history](../Image/Bene-rodriguez-profile-pic.jpeg#filehistory)
+* [Links](../Image/Bene-rodriguez-profile-pic.jpeg#filelinks)
 
 [![Image:Bene-rodriguez-profile-pic.jpeg](../images/5/58/Bene-rodriguez-profile-pic.jpeg)](../images/5/58/Bene-rodriguez-profile-pic.jpeg)  
 No higher resolution available.  
@@ -23,7 +23,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [User:BenedictoRodriguezCastro](../User/BenedictoRodriguezCastro.md "User:BenedictoRodriguezCastro")
+* [User:BenedictoRodriguezCastro](../User/BenedictoRodriguezCastro "User:BenedictoRodriguezCastro")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Bene-rodriguez-profile-pic.jpeg](../Image/Bene-rodriguez-profile-pic.jpeg.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Bene-rodriguez-profile-pic.jpeg](../Image/Bene-rodriguez-profile-pic.jpeg)"

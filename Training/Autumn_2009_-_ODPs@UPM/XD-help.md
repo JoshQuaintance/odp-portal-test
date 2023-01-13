@@ -35,4 +35,4 @@ When you select "next", you get a summary of what you have created. If it looks 
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Training:Autumn\_2009\_-\_ODPs%40UPM/XD-help](../../Training/Autumn_2009_-_ODPs@UPM/XD-help.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Training:Autumn\_2009\_-\_ODPs%40UPM/XD-help](../../Training/Autumn_2009_-_ODPs@UPM/XD-help)"

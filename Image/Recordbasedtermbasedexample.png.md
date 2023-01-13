@@ -1,6 +1,6 @@
-* [Image](../Image/Recordbasedtermbasedexample.png.md#file)
-* [File history](../Image/Recordbasedtermbasedexample.png.md#filehistory)
-* [Links](../Image/Recordbasedtermbasedexample.png.md#filelinks)
+* [Image](../Image/Recordbasedtermbasedexample.png#file)
+* [File history](../Image/Recordbasedtermbasedexample.png#filehistory)
+* [Links](../Image/Recordbasedtermbasedexample.png#filelinks)
 
 [![Image:Recordbasedtermbasedexample.png](../images/5/55/Recordbasedtermbasedexample.png)](../images/5/55/Recordbasedtermbasedexample.png)  
 No higher resolution available.  
@@ -26,4 +26,4 @@ The following page links to this file:
 * [Submissions:Term-based – record-based model – thesaurus to lightweight ontology](http://ontologydesignpatterns.org/wiki/Submissions:Term-based_%E2%80%93_record-based_model_%E2%80%93_thesaurus_to_lightweight_ontology "Submissions:Term-based – record-based model – thesaurus to lightweight ontology")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Recordbasedtermbasedexample.png](../Image/Recordbasedtermbasedexample.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Recordbasedtermbasedexample.png](../Image/Recordbasedtermbasedexample.png)"

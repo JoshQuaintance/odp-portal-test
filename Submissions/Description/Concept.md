@@ -1,4 +1,4 @@
-___Concept__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [Description](../../Submissions/Description.md "Submissions:Description")_
+___Concept__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [Description](../../Submissions/Description "Submissions:Description")_
 
 
   
@@ -6,7 +6,7 @@ ___Concept__ has [Category:OntologyElement](../../Category/OntologyElement.md "C
 
 
 
-[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif.md "Class")
+[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif "Class")
 __Name__: Concept 
 
 
@@ -20,5 +20,5 @@ Once defined, a concept can be used in other descriptions.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Description/Concept](../../Community/FrancoisScharffe_about_ConceptGroup.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Description/Concept](../../Community/FrancoisScharffe_about_ConceptGroup)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

@@ -1,6 +1,6 @@
-* [Image](../Image/HistoricalMap.jpg.md#file)
-* [File history](../Image/HistoricalMap.jpg.md#filehistory)
-* [Links](../Image/HistoricalMap.jpg.md#filelinks)
+* [Image](../Image/HistoricalMap.jpg#file)
+* [File history](../Image/HistoricalMap.jpg#filehistory)
+* [Links](../Image/HistoricalMap.jpg#filelinks)
 
 [![Image:HistoricalMap.jpg](../images/3/3a/HistoricalMap.jpg)](../images/3/3a/HistoricalMap.jpg)  
 No higher resolution available.  
@@ -23,7 +23,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Submissions:HistoricalMap](../Submissions/HistoricalMap.md "Submissions:HistoricalMap")
+* [Submissions:HistoricalMap](../Submissions/HistoricalMap "Submissions:HistoricalMap")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:HistoricalMap.jpg](../Image/HistoricalMap.jpg.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:HistoricalMap.jpg](../Image/HistoricalMap.jpg)"

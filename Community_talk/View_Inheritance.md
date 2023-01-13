@@ -1,4 +1,4 @@
-##   --[MichaelUschold](../User/MichaelUschold.md "User:MichaelUschold") 20:05, 26 February 2010 (UTC)
+##   --[MichaelUschold](../User/MichaelUschold "User:MichaelUschold") 20:05, 26 February 2010 (UTC)
 
 
 Can you give a bit more detail here?
@@ -10,7 +10,7 @@ Can you give a bit more detail here?
 * Can you express your needs as one or more competency questions?
 
 
-##   --[BenedictoRodriguezCastro](../User/BenedictoRodriguezCastro.md "User:BenedictoRodriguezCastro") 17:45, 3 March 2010 (UTC)
+##   --[BenedictoRodriguezCastro](../User/BenedictoRodriguezCastro "User:BenedictoRodriguezCastro") 17:45, 3 March 2010 (UTC)
 
 
 __Note:__ 
@@ -109,7 +109,7 @@ It seems that there is a strong correlation across different disciplines regardi
 
 
 
-##   --[MichaelUschold](../User/MichaelUschold.md "User:MichaelUschold") 05 March 2010
+##   --[MichaelUschold](../User/MichaelUschold "User:MichaelUschold") 05 March 2010
 
 
 This is a response to the comment left by Bene Rodriguez-Castro in the discussion tab.
@@ -124,4 +124,4 @@ The elaboration you gave is a very good continuation of this issue. You may wish
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Community\_talk:View\_Inheritance](../Community_talk/View_Inheritance.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Community\_talk:View\_Inheritance](../Community_talk/View_Inheritance)"

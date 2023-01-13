@@ -1,6 +1,6 @@
-* [Image](../Image/LiteralReificationExample_revised.png.md#file)
-* [File history](../Image/LiteralReificationExample_revised.png.md#filehistory)
-* [Links](../Image/LiteralReificationExample_revised.png.md#filelinks)
+* [Image](../Image/LiteralReificationExample_revised.png#file)
+* [File history](../Image/LiteralReificationExample_revised.png#filehistory)
+* [Links](../Image/LiteralReificationExample_revised.png#filelinks)
 
 [![Image:LiteralReificationExample revised.png](../images/thumb/6/68/LiteralReificationExample_revised.png/627px-LiteralReificationExample_revised.png)](../images/6/68/LiteralReificationExample_revised.png)  
 Size of this preview: 627 × 600 pixels  
@@ -23,7 +23,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Submissions:Literal Reification/Scenario 2](../Submissions/Literal_Reification/Scenario_2.md "Submissions:Literal Reification/Scenario 2")
+* [Submissions:Literal Reification/Scenario 2](../Submissions/Literal_Reification/Scenario_2 "Submissions:Literal Reification/Scenario 2")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:LiteralReificationExample\_revised.png](../Image/LiteralReificationExample_revised.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:LiteralReificationExample\_revised.png](../Image/LiteralReificationExample_revised.png)"

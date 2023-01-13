@@ -1,6 +1,6 @@
-* [Image](../Image/NormalizationGenericStructure2.png.md#file)
-* [File history](../Image/NormalizationGenericStructure2.png.md#filehistory)
-* [Links](../Image/NormalizationGenericStructure2.png.md#filelinks)
+* [Image](../Image/NormalizationGenericStructure2.png#file)
+* [File history](../Image/NormalizationGenericStructure2.png#filehistory)
+* [Links](../Image/NormalizationGenericStructure2.png#filelinks)
 
 [![Image:NormalizationGenericStructure2.png](../images/a/ae/NormalizationGenericStructure2.png)](../images/a/ae/NormalizationGenericStructure2.png)  
 No higher resolution available.  
@@ -26,7 +26,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Submissions:Faceted Classification Scheme](../Submissions/Faceted_Classification_Scheme.md "Submissions:Faceted Classification Scheme")
+* [Submissions:Faceted Classification Scheme](../Submissions/Faceted_Classification_Scheme "Submissions:Faceted Classification Scheme")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:NormalizationGenericStructure2.png](../Image/NormalizationGenericStructure2.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:NormalizationGenericStructure2.png](../Image/NormalizationGenericStructure2.png)"

@@ -1,4 +1,4 @@
-___isConstituentOf__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [Constituency](../../Submissions/Constituency.md "Submissions:Constituency")_
+___isConstituentOf__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [Constituency](../../Submissions/Constituency "Submissions:Constituency")_
 
 
   
@@ -6,18 +6,18 @@ ___isConstituentOf__ has [Category:OntologyElement](../../Category/OntologyEleme
 
 
 
-[![ObjectProperty](../../images/thumb/c/c3/ObjectProperty.gif/45px-ObjectProperty.gif)](../../Image/ObjectProperty.gif.md "ObjectProperty")
+[![ObjectProperty](../../images/thumb/c/c3/ObjectProperty.gif/45px-ObjectProperty.gif)](../../Image/ObjectProperty.gif "ObjectProperty")
 __Name__: isConstituentOf 
 
 
 __Type:__ owl:ObjectProperty 
 
 
-__Description__: The inverse of the  [hasConstituent](../../Submissions/Constituency/hasConstituent.md "Submissions:Constituency/hasConstituent") object property. 
+__Description__: The inverse of the  [hasConstituent](../../Submissions/Constituency/hasConstituent "Submissions:Constituency/hasConstituent") object property. 
 
 
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Constituency/isConstituentOf](../../Submissions/Constituency/isConstituentOf.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Constituency/isConstituentOf](../../Submissions/Constituency/isConstituentOf)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

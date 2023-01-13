@@ -1,6 +1,6 @@
-* [Image](../Image/HDGI-pattern.jpg.md#file)
-* [File history](../Image/HDGI-pattern.jpg.md#filehistory)
-* [Links](../Image/HDGI-pattern.jpg.md#filelinks)
+* [Image](../Image/HDGI-pattern.jpg#file)
+* [File history](../Image/HDGI-pattern.jpg#filehistory)
+* [Links](../Image/HDGI-pattern.jpg#filelinks)
 
 [![Image:HDGI-pattern.jpg](../images/thumb/c/c9/HDGI-pattern.jpg/800px-HDGI-pattern.jpg)](../images/c/c9/HDGI-pattern.jpg)  
 Size of this preview: 800 × 395 pixels  
@@ -25,4 +25,4 @@ There are no pages that link to this file.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:HDGI-pattern.jpg](../Image/HDGI-pattern.jpg.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:HDGI-pattern.jpg](../Image/HDGI-pattern.jpg)"

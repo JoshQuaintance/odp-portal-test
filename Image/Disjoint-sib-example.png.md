@@ -1,6 +1,6 @@
-* [Image](../Image/Disjoint-sib-example.png.md#file)
-* [File history](../Image/Disjoint-sib-example.png.md#filehistory)
-* [Links](../Image/Disjoint-sib-example.png.md#filelinks)
+* [Image](../Image/Disjoint-sib-example.png#file)
+* [File history](../Image/Disjoint-sib-example.png#filehistory)
+* [Links](../Image/Disjoint-sib-example.png#filelinks)
 
 [![Image:Disjoint-sib-example.png](../images/thumb/7/7e/Disjoint-sib-example.png/800px-Disjoint-sib-example.png)](../images/7/7e/Disjoint-sib-example.png)  
 Size of this preview: 800 × 597 pixels  
@@ -26,7 +26,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Submissions:Create Disjoint Siblings](../Submissions/Create_Disjoint_Siblings.md "Submissions:Create Disjoint Siblings")
+* [Submissions:Create Disjoint Siblings](../Submissions/Create_Disjoint_Siblings "Submissions:Create Disjoint Siblings")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Disjoint-sib-example.png](../Image/Disjoint-sib-example.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Disjoint-sib-example.png](../Image/Disjoint-sib-example.png)"

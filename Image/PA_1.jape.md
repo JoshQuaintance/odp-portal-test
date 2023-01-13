@@ -1,6 +1,6 @@
-* [Image](../Image/PA_1.jape.md#file)
-* [File history](../Image/PA_1.jape.md#filehistory)
-* [Links](../Image/PA_1.jape.md#filelinks)
+* [Image](../Image/PA_1.jape#file)
+* [File history](../Image/PA_1.jape#filehistory)
+* [Links](../Image/PA_1.jape#filelinks)
 
 
 [PA\_1.jape](../images/d/dc/PA_1.jape "PA 1.jape")‎
@@ -32,8 +32,8 @@ Click on a date/time to view the file as it appeared at that time.
 The following 2 pages link to this file:
 
 
-* [Submissions:Lexico Syntactic ODP corresponding to Participation ODP](../Submissions/Lexico_Syntactic_ODP_corresponding_to_Participation_ODP.md "Submissions:Lexico Syntactic ODP corresponding to Participation ODP")
-* [Submissions:Lexico Syntactic ODP corresponding to Participation ODP/1](../Submissions/Lexico_Syntactic_ODP_corresponding_to_Participation_ODP/1.md "Submissions:Lexico Syntactic ODP corresponding to Participation ODP/1")
+* [Submissions:Lexico Syntactic ODP corresponding to Participation ODP](../Submissions/Lexico_Syntactic_ODP_corresponding_to_Participation_ODP "Submissions:Lexico Syntactic ODP corresponding to Participation ODP")
+* [Submissions:Lexico Syntactic ODP corresponding to Participation ODP/1](../Submissions/Lexico_Syntactic_ODP_corresponding_to_Participation_ODP/1 "Submissions:Lexico Syntactic ODP corresponding to Participation ODP/1")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:PA\_1.jape](../Image/PA_1.jape.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:PA\_1.jape](../Image/PA_1.jape)"

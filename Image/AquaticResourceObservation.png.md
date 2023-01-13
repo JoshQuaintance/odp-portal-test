@@ -1,6 +1,6 @@
-* [Image](../Image/AquaticResourceObservation.png.md#file)
-* [File history](../Image/AquaticResourceObservation.png.md#filehistory)
-* [Links](../Image/AquaticResourceObservation.png.md#filelinks)
+* [Image](../Image/AquaticResourceObservation.png#file)
+* [File history](../Image/AquaticResourceObservation.png#filehistory)
+* [Links](../Image/AquaticResourceObservation.png#filelinks)
 
 [![Image:AquaticResourceObservation.png](../images/0/0a/AquaticResourceObservation.png)](../images/0/0a/AquaticResourceObservation.png)  
 No higher resolution available.  
@@ -23,7 +23,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Submissions:AquaticResourceObservation](../Submissions/AquaticResourceObservation.md "Submissions:AquaticResourceObservation")
+* [Submissions:AquaticResourceObservation](../Submissions/AquaticResourceObservation "Submissions:AquaticResourceObservation")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:AquaticResourceObservation.png](../Image/AquaticResourceObservation.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:AquaticResourceObservation.png](../Image/AquaticResourceObservation.png)"

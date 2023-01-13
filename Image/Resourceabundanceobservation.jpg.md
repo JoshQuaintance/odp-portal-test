@@ -1,6 +1,6 @@
-* [Image](../Image/Resourceabundanceobservation.jpg.md#file)
-* [File history](../Image/Resourceabundanceobservation.jpg.md#filehistory)
-* [Links](../Image/Resourceabundanceobservation.jpg.md#filelinks)
+* [Image](../Image/Resourceabundanceobservation.jpg#file)
+* [File history](../Image/Resourceabundanceobservation.jpg#filehistory)
+* [Links](../Image/Resourceabundanceobservation.jpg#filelinks)
 
 [![Image:Resourceabundanceobservation.jpg](../images/thumb/7/7a/Resourceabundanceobservation.jpg/800px-Resourceabundanceobservation.jpg)](../images/7/7a/Resourceabundanceobservation.jpg)  
 Size of this preview: 800 × 236 pixels  
@@ -23,8 +23,8 @@ Click on a date/time to view the file as it appeared at that time.
 The following 2 pages link to this file:
 
 
-* [Community:Images](../Community/Images.md "Community:Images")
-* [Submissions:ResourceAbundanceObservation](../Submissions/ResourceAbundanceObservation.md "Submissions:ResourceAbundanceObservation")
+* [Community:Images](../Community/Images "Community:Images")
+* [Submissions:ResourceAbundanceObservation](../Submissions/ResourceAbundanceObservation "Submissions:ResourceAbundanceObservation")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Resourceabundanceobservation.jpg](../Image/Resourceabundanceobservation.jpg.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Resourceabundanceobservation.jpg](../Image/Resourceabundanceobservation.jpg)"

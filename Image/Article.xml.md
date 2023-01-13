@@ -1,6 +1,6 @@
-* [Image](../Image/Article.xml.md#file)
-* [File history](../Image/Article.xml.md#filehistory)
-* [Links](../Image/Article.xml.md#filelinks)
+* [Image](../Image/Article.xml#file)
+* [File history](../Image/Article.xml#filehistory)
+* [Links](../Image/Article.xml#filelinks)
 
 
 [Article.xml](../images/0/05/Article.xml "Article.xml")‎
@@ -34,4 +34,4 @@ There are no pages that link to this file.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Article.xml](../Image/Article.xml.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Article.xml](../Image/Article.xml)"

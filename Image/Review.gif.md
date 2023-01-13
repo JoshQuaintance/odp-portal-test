@@ -1,6 +1,6 @@
-* [Image](../Image/Review.gif.md#file)
-* [File history](../Image/Review.gif.md#filehistory)
-* [Links](../Image/Review.gif.md#filelinks)
+* [Image](../Image/Review.gif#file)
+* [File history](../Image/Review.gif#filehistory)
+* [Links](../Image/Review.gif#filelinks)
 
 [![Image:Review.gif](../images/c/ce/Review.gif)](../images/c/ce/Review.gif)  
 No higher resolution available.  
@@ -23,7 +23,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Community:Images](../Community/Images.md "Community:Images")
+* [Community:Images](../Community/Images "Community:Images")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Review.gif](../Image/Review.gif.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Review.gif](../Image/Review.gif)"

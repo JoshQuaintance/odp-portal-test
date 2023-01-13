@@ -136,7 +136,7 @@ ImageMap extension is installed. ~~BUT IT DOES NOT WORK ALREADY~~
 
 
 
-![picture of a foo](../../images/c/c2/Warning.gif)[![About this image](../../extensions/ImageMap/desc-20.png)](../../Image/Warning.gif.md "About this image")
+![picture of a foo](../../images/c/c2/Warning.gif)[![About this image](../../extensions/ImageMap/desc-20.png)](../../Image/Warning.gif "About this image")
 ###  Testing Variables extension
 
 
@@ -165,11 +165,11 @@ Value of A is __value of A__ and value of B is __1000__
 
 
 
-###  Testing template [Definition](../../Template/Definition.md "Template:Definition")
+###  Testing template [Definition](../../Template/Definition "Template:Definition")
 
 
 
-[![](../../images/thumb/6/6f/Definition.gif/70px-Definition.gif)](../../Image/Definition.gif.md "Definition.gif")
+[![](../../images/thumb/6/6f/Definition.gif/70px-Definition.gif)](../../Image/Definition.gif "Definition.gif")
 __Title of definition__
 
 Of example:
@@ -193,4 +193,4 @@ We test if the second paramenter of the _template_ allows use of wikitext.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Odp:Development/Tests](../../Odp/Development/Tests.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Odp:Development/Tests](../../Odp/Development/Tests)"

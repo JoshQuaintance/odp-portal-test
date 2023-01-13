@@ -1,5 +1,5 @@
-* [Visit the catalogue of Exemplary Ontologies](../Ontology/Main.md "Ontology:Main")
-* [Exemplary Ontologies FAQ](../Odp/Exemplary_ontology_FAQ.md "Odp:Exemplary ontology FAQ")
+* [Visit the catalogue of Exemplary Ontologies](../Ontology/Main "Ontology:Main")
+* [Exemplary Ontologies FAQ](../Odp/Exemplary_ontology_FAQ "Odp:Exemplary ontology FAQ")
 
 
 ##  What is an Exemplary Ontology?
@@ -34,4 +34,4 @@ The reason for the ontology meeting _only_ the intended requirements is to keep 
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Odp:WhatIsAnExemplaryOntology](../Odp/WhatIsAnExemplaryOntology.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Odp:WhatIsAnExemplaryOntology](../Odp/WhatIsAnExemplaryOntology)"

@@ -1,8 +1,8 @@
-* [Image](../Image/Paper_14.pdf.md#file)
-* [File history](../Image/Paper_14.pdf.md#filehistory)
-* [Links](../Image/Paper_14.pdf.md#filelinks)
+* [Image](../Image/Paper_14.pdf#file)
+* [File history](../Image/Paper_14.pdf#filehistory)
+* [Links](../Image/Paper_14.pdf#filelinks)
 
-[![](../skins/common/images/icons/fileicon-pdf.png)](../Image/Paper_14.pdf.md "Paper 14.pdf")
+[![](../skins/common/images/icons/fileicon-pdf.png)](../Image/Paper_14.pdf "Paper 14.pdf")
 [Paper\_14.pdf](../images/9/98/Paper_14.pdf "Paper 14.pdf")‎  (file size: 198 KB, MIME type: application/pdf)
 
 
@@ -26,7 +26,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [WOP:2014](../WOP/2014.md "WOP:2014")
+* [WOP:2014](../WOP/2014 "WOP:2014")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Paper\_14.pdf](../Image/Paper_14.pdf.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Paper\_14.pdf](../Image/Paper_14.pdf)"

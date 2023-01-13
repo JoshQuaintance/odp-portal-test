@@ -13,7 +13,7 @@ This category has only the following subcategory.
 ### R
 
 
-* [RootTask](../Category/RootTask.md "Category:RootTask")
+* [RootTask](../Category/RootTask "Category:RootTask")
 
 
 
@@ -25,4 +25,4 @@ The following 60 pages are in this category, out of 60 total.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Category:DevelopmentTask](../Category/DevelopmentTask.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Category:DevelopmentTask](../Category/DevelopmentTask)"

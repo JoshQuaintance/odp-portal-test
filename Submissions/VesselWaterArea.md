@@ -1,4 +1,4 @@
-[![](../images/thumb/b/b5/Certified.png/70px-Certified.png)](../Image/Certified.png.md "Certified.png") __This pattern has been certified.__
+[![](../images/thumb/b/b5/Certified.png/70px-Certified.png)](../Image/Certified.png "Certified.png") __This pattern has been certified.__
 Related submission, with evaluation history, can be found __here__
 
 
@@ -13,7 +13,7 @@ __Diagram__
 
 
 
-[![Image:Vesselwaterarea.jpg](../images/d/db/Vesselwaterarea.jpg)](../Image/Vesselwaterarea.jpg.md "Image:Vesselwaterarea.jpg")
+[![Image:Vesselwaterarea.jpg](../images/d/db/Vesselwaterarea.jpg)](../Image/Vesselwaterarea.jpg "Image:Vesselwaterarea.jpg")
 
 
 
@@ -33,18 +33,18 @@ _The __VesselWaterArea__ Content OP locally defines the following ontology eleme
 
 
 
-[![Class](../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __VesselType__ (owl:Class) Vessel types are conceptual entities. 
+[![Class](../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif "Class") __VesselType__ (owl:Class) Vessel types are conceptual entities. 
 Mappable to fi:VesseltypeRef 
 
 
 
- [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[VesselType](../Submissions/VesselWaterArea/VesselType.md "Submissions:VesselWaterArea/VesselType") page_
-[![Class](../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __WaterArea__ (owl:Class) A physical water area. Mappable to fi:WaterAreaRef 
- [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[WaterArea](../Submissions/VesselWaterArea/WaterArea.md "Submissions:VesselWaterArea/WaterArea") page_
-[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __canCrossWaterArea__ (owl:ObjectProperty) 
- [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[canCrossWaterArea](../Submissions/VesselWaterArea/canCrossWaterArea.md "Submissions:VesselWaterArea/canCrossWaterArea") page_
-[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __canBeCrossedByVesselType__ (owl:ObjectProperty) A physical water area. Mappable to fi:WaterAreaRef 
- [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[canBeCrossedByVesselType](../Submissions/VesselWaterArea/canBeCrossedByVesselType.md "Submissions:VesselWaterArea/canBeCrossedByVesselType") page_
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif "ArrowRight.gif") _[VesselType](../Submissions/VesselWaterArea/VesselType "Submissions:VesselWaterArea/VesselType") page_
+[![Class](../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif "Class") __WaterArea__ (owl:Class) A physical water area. Mappable to fi:WaterAreaRef 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif "ArrowRight.gif") _[WaterArea](../Submissions/VesselWaterArea/WaterArea "Submissions:VesselWaterArea/WaterArea") page_
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif "ObjectProperty") __canCrossWaterArea__ (owl:ObjectProperty) 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif "ArrowRight.gif") _[canCrossWaterArea](../Submissions/VesselWaterArea/canCrossWaterArea "Submissions:VesselWaterArea/canCrossWaterArea") page_
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif "ObjectProperty") __canBeCrossedByVesselType__ (owl:ObjectProperty) A physical water area. Mappable to fi:WaterAreaRef 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif "ArrowRight.gif") _[canBeCrossedByVesselType](../Submissions/VesselWaterArea/canBeCrossedByVesselType "Submissions:VesselWaterArea/canBeCrossedByVesselType") page_
 #  Additional information
 
 
@@ -107,7 +107,7 @@ There is no Modeling issue related to this proposal.
 #  References
 
 
-[Add a reference](index.php@title=Odp%253AAdd_reference&subject=../Submissions/VesselWaterArea.md "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_reference&subject=Submissions%3AVesselWaterArea")
+[Add a reference](index.php@title=Odp%253AAdd_reference&subject=../Submissions/VesselWaterArea "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_reference&subject=Submissions%3AVesselWaterArea")
 
 
   
@@ -117,5 +117,5 @@ There is no Modeling issue related to this proposal.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:VesselWaterArea](../Submissions/VesselWaterArea.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ProposedContentOP](../Category/ProposedContentOP.md "Category:ProposedContentOP")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:VesselWaterArea](../Submissions/VesselWaterArea)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ProposedContentOP](../Category/ProposedContentOP "Category:ProposedContentOP")

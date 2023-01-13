@@ -14,7 +14,7 @@ The allowed values for this property are:
 * Obsolete
 
 
-This is a property of type [String](../Type/String.md "Type:String")
+This is a property of type [String](../Type/String "Type:String")
 
 
 

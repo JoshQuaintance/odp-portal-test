@@ -1,4 +1,4 @@
-[![](../images/thumb/b/b5/Certified.png/70px-Certified.png)](../Image/Certified.png.md "Certified.png") __This pattern has been certified.__
+[![](../images/thumb/b/b5/Certified.png/70px-Certified.png)](../Image/Certified.png "Certified.png") __This pattern has been certified.__
 Related submission, with evaluation history, can be found __here__
 
 
@@ -28,12 +28,12 @@ _The __SmartHome Sensing__ Content OP locally defines the following ontology ele
 
 
 
-[![Class](../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __SensingProcess__ (owl:Class) 
- [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[SensingProcess](../Submissions/SmartHome_Sensing/SensingProcess.md "Submissions:SmartHome Sensing/SensingProcess") page_
-[![Class](../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __SmartHomeSensor__ (owl:Class) 
- [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[SmartHomeSensor](../Submissions/SmartHome_Sensing/SmartHomeSensor.md "Submissions:SmartHome Sensing/SmartHomeSensor") page_
-[![Class](../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __SmartHomeSensorOutput__ (owl:Class) 
- [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[SmartHomeSensorOutput](../Submissions/SmartHome_Sensing/SmartHomeSensorOutput.md "Submissions:SmartHome Sensing/SmartHomeSensorOutput") page_
+[![Class](../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif "Class") __SensingProcess__ (owl:Class) 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif "ArrowRight.gif") _[SensingProcess](../Submissions/SmartHome_Sensing/SensingProcess "Submissions:SmartHome Sensing/SensingProcess") page_
+[![Class](../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif "Class") __SmartHomeSensor__ (owl:Class) 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif "ArrowRight.gif") _[SmartHomeSensor](../Submissions/SmartHome_Sensing/SmartHomeSensor "Submissions:SmartHome Sensing/SmartHomeSensor") page_
+[![Class](../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif "Class") __SmartHomeSensorOutput__ (owl:Class) 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif "ArrowRight.gif") _[SmartHomeSensorOutput](../Submissions/SmartHome_Sensing/SmartHomeSensorOutput "Submissions:SmartHome Sensing/SmartHomeSensorOutput") page_
 #  Additional information
 
 
@@ -84,5 +84,5 @@ There is no Modeling issue related to this proposal.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:SmartHome\_Sensing](../Submissions/SmartHome_Sensing.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ProposedContentOP](../Category/ProposedContentOP.md "Category:ProposedContentOP")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:SmartHome\_Sensing](../Submissions/SmartHome_Sensing)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ProposedContentOP](../Category/ProposedContentOP "Category:ProposedContentOP")

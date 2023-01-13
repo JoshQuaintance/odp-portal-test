@@ -1,4 +1,4 @@
-___incidentallyCatchesSpecies__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [GearSpecies](../../Submissions/GearSpecies.md "Submissions:GearSpecies")_
+___incidentallyCatchesSpecies__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [GearSpecies](../../Submissions/GearSpecies "Submissions:GearSpecies")_
 
 
   
@@ -6,7 +6,7 @@ ___incidentallyCatchesSpecies__ has [Category:OntologyElement](../../Category/On
 
 
 
-[![ObjectProperty](../../images/thumb/c/c3/ObjectProperty.gif/45px-ObjectProperty.gif)](../../Image/ObjectProperty.gif.md "ObjectProperty")
+[![ObjectProperty](../../images/thumb/c/c3/ObjectProperty.gif/45px-ObjectProperty.gif)](../../Image/ObjectProperty.gif "ObjectProperty")
 __Name__: incidentallyCatchesSpecies 
 
 
@@ -19,5 +19,5 @@ __Description__:
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:GearSpecies/incidentallyCatchesSpecies](../../Submissions/GearSpecies/incidentallyCatchesSpecies.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:GearSpecies/incidentallyCatchesSpecies](../../Submissions/GearSpecies/incidentallyCatchesSpecies)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

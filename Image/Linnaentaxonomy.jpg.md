@@ -1,6 +1,6 @@
-* [Image](../Image/Linnaentaxonomy.jpg.md#file)
-* [File history](../Image/Linnaentaxonomy.jpg.md#filehistory)
-* [Links](../Image/Linnaentaxonomy.jpg.md#filelinks)
+* [Image](../Image/Linnaentaxonomy.jpg#file)
+* [File history](../Image/Linnaentaxonomy.jpg#filehistory)
+* [Links](../Image/Linnaentaxonomy.jpg#filelinks)
 
 [![Image:Linnaentaxonomy.jpg](../images/thumb/0/0c/Linnaentaxonomy.jpg/800px-Linnaentaxonomy.jpg)](../images/0/0c/Linnaentaxonomy.jpg)  
 Size of this preview: 800 × 408 pixels  
@@ -23,7 +23,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Community:Images](../Community/Images.md "Community:Images")
+* [Community:Images](../Community/Images "Community:Images")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Linnaentaxonomy.jpg](../Image/Linnaentaxonomy.jpg.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Linnaentaxonomy.jpg](../Image/Linnaentaxonomy.jpg)"

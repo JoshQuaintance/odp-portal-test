@@ -184,7 +184,7 @@ Hassan Saif is currently a PhD student and a part-time research assistant at the
 ##  Previous editions of this workshop
 
 
-[Semantic Sentiment Analysis 2014](SemanticSentimentAnalysis2014.md "http://ontologydesignpatterns.org/wiki/SemanticSentimentAnalysis2014")
+[Semantic Sentiment Analysis 2014](SemanticSentimentAnalysis2014 "http://ontologydesignpatterns.org/wiki/SemanticSentimentAnalysis2014")
 
 
 
@@ -226,5 +226,5 @@ Please send any inquiries to
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/SEMOD2015](SEMOD2015.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Event](Category/Event.md "Category:Event")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/SEMOD2015](SEMOD2015)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Event](Category/Event "Category:Event")

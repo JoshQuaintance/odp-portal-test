@@ -1,4 +1,4 @@
-This is a property of type [Number](../Type/Number.md "Type:Number").
+This is a property of type [Number](../Type/Number "Type:Number").
 
 
 

@@ -1,6 +1,6 @@
-* [Image](../Image/2ndCFPatterns.txt.md#file)
-* [File history](../Image/2ndCFPatterns.txt.md#filehistory)
-* [Links](../Image/2ndCFPatterns.txt.md#filelinks)
+* [Image](../Image/2ndCFPatterns.txt#file)
+* [File history](../Image/2ndCFPatterns.txt#filehistory)
+* [Links](../Image/2ndCFPatterns.txt#filelinks)
 
 
 [2ndCFPatterns.txt](../images/4/48/2ndCFPatterns.txt "2ndCFPatterns.txt")‎
@@ -38,4 +38,4 @@ There are no pages that link to this file.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:2ndCFPatterns.txt](../Image/2ndCFPatterns.txt.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:2ndCFPatterns.txt](../Image/2ndCFPatterns.txt)"

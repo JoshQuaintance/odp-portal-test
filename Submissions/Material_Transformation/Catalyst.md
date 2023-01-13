@@ -1,4 +1,4 @@
-___Catalyst__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [Material Transformation](../../Submissions/Material_Transformation.md "Submissions:Material Transformation")_
+___Catalyst__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [Material Transformation](../../Submissions/Material_Transformation "Submissions:Material Transformation")_
 
 
   
@@ -6,7 +6,7 @@ ___Catalyst__ has [Category:OntologyElement](../../Category/OntologyElement.md "
 
 
 
-[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif.md "Class")
+[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif "Class")
 __Name__: Catalyst 
 
 
@@ -19,5 +19,5 @@ __Description__:
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Material\_Transformation/Catalyst](../../Submissions/Material_Transformation/Catalyst.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Material\_Transformation/Catalyst](../../Submissions/Material_Transformation/Catalyst)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

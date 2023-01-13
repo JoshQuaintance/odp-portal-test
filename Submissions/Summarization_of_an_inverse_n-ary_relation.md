@@ -1,4 +1,4 @@
-[![](../images/thumb/b/b5/Certified.png/70px-Certified.png)](../Image/Certified.png.md "Certified.png") __This pattern has been certified.__
+[![](../images/thumb/b/b5/Certified.png/70px-Certified.png)](../Image/Certified.png "Certified.png") __This pattern has been certified.__
 Related submission, with evaluation history, can be found __here__
 
 
@@ -13,7 +13,7 @@ __Diagram__
 
 
 
-[![Image:LP-IN-01v1_general.jpg](../images/d/d1/LP-IN-01v1_general.jpg)](../Image/LP-IN-01v1_general.jpg.md "Image:LP-IN-01v1_general.jpg")
+[![Image:LP-IN-01v1_general.jpg](../images/d/d1/LP-IN-01v1_general.jpg)](../Image/LP-IN-01v1_general.jpg "Image:LP-IN-01v1_general.jpg")
 
 
 
@@ -104,5 +104,5 @@ There is no Modeling issue related to this proposal.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Summarization\_of\_an\_inverse\_n-ary\_relation](../Submissions/Summarization_of_an_inverse_n-ary_relation.md)"
- [Categories](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [LogicalOP](../Category/LogicalOP.md "Category:LogicalOP") | [ProposedLogicalOP](../Category/ProposedLogicalOP.md "Category:ProposedLogicalOP") | [Review assigned](../Category/Review_assigned.md "Category:Review assigned") | [Submitted to event](../Category/Submitted_to_event.md "Category:Submitted to event")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Summarization\_of\_an\_inverse\_n-ary\_relation](../Submissions/Summarization_of_an_inverse_n-ary_relation)"
+ [Categories](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [LogicalOP](../Category/LogicalOP "Category:LogicalOP") | [ProposedLogicalOP](../Category/ProposedLogicalOP "Category:ProposedLogicalOP") | [Review assigned](../Category/Review_assigned "Category:Review assigned") | [Submitted to event](../Category/Submitted_to_event "Category:Submitted to event")

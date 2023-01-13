@@ -1,6 +1,6 @@
-* [Image](../Image/Neonlogo.jpg.md#file)
-* [File history](../Image/Neonlogo.jpg.md#filehistory)
-* [Links](../Image/Neonlogo.jpg.md#filelinks)
+* [Image](../Image/Neonlogo.jpg#file)
+* [File history](../Image/Neonlogo.jpg#filehistory)
+* [Links](../Image/Neonlogo.jpg#filelinks)
 
 [![Image:Neonlogo.jpg](../images/d/db/Neonlogo.jpg)](../images/d/db/Neonlogo.jpg)  
 No higher resolution available.  
@@ -23,10 +23,10 @@ Click on a date/time to view the file as it appeared at that time.
 The following 4 pages link to this file:
 
 
-* [Ontology Design Patterns . org (ODP)](../Ontology_Design_Patterns_._org_(ODP).md).md).html "Ontology Design Patterns . org (ODP)")
-* [Community:Images](../Community/Images.md "Community:Images")
-* [Training:NeOn 2008 Tutorial on Computational Ontologies](../Training/NeOn_2008_Tutorial_on_Computational_Ontologies.md "Training:NeOn 2008 Tutorial on Computational Ontologies")
-* [Odp:About](../Odp/About.md "Odp:About")
+* [Ontology Design Patterns . org (ODP)](../Ontology_Design_Patterns_._org_(ODP)).md).md).html "Ontology Design Patterns . org (ODP)")
+* [Community:Images](../Community/Images "Community:Images")
+* [Training:NeOn 2008 Tutorial on Computational Ontologies](../Training/NeOn_2008_Tutorial_on_Computational_Ontologies "Training:NeOn 2008 Tutorial on Computational Ontologies")
+* [Odp:About](../Odp/About "Odp:About")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Neonlogo.jpg](../Image/Neonlogo.jpg.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Neonlogo.jpg](../Image/Neonlogo.jpg)"

@@ -87,5 +87,5 @@ __Solutions__:
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Training:Autumn\_2009\_-\_PhD\_course\_J%C3%B6nk%C3%B6ping/Mini-project\_2:\_Theater\_productions](../../../Training/Autumn_2009_-_PhD_course_Jönköping/Mini-project_2/_Theater_productions.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Exercise](../../../Category/Exercise.md "Category:Exercise")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Training:Autumn\_2009\_-\_PhD\_course\_J%C3%B6nk%C3%B6ping/Mini-project\_2:\_Theater\_productions](../../../Training/Autumn_2009_-_PhD_course_Jönköping/Mini-project_2/_Theater_productions)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Exercise](../../../Category/Exercise "Category:Exercise")

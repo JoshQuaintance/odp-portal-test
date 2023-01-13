@@ -1,6 +1,6 @@
-* [Image](../Image/ListFeedback.png.md#file)
-* [File history](../Image/ListFeedback.png.md#filehistory)
-* [Links](../Image/ListFeedback.png.md#filelinks)
+* [Image](../Image/ListFeedback.png#file)
+* [File history](../Image/ListFeedback.png#filehistory)
+* [Links](../Image/ListFeedback.png#filelinks)
 
 [![Image:ListFeedback.png](../images/0/0c/ListFeedback.png)](../images/0/0c/ListFeedback.png)  
 No higher resolution available.  
@@ -23,10 +23,10 @@ Click on a date/time to view the file as it appeared at that time.
 The following 4 pages link to this file:
 
 
-* [Ontology Design Patterns . org (ODP)](../Ontology_Design_Patterns_._org_(ODP).md).md).html "Ontology Design Patterns . org (ODP)")
-* [Feedback:Main](../Feedback/Main.md "Feedback:Main")
-* [Community:Images](../Community/Images.md "Community:Images")
-* [Template:MainPageMap](../Template/MainPageMap.md "Template:MainPageMap")
+* [Ontology Design Patterns . org (ODP)](../Ontology_Design_Patterns_._org_(ODP)).md).md).html "Ontology Design Patterns . org (ODP)")
+* [Feedback:Main](../Feedback/Main "Feedback:Main")
+* [Community:Images](../Community/Images "Community:Images")
+* [Template:MainPageMap](../Template/MainPageMap "Template:MainPageMap")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:ListFeedback.png](../Image/ListFeedback.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:ListFeedback.png](../Image/ListFeedback.png)"

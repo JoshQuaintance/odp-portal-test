@@ -1,4 +1,4 @@
-This property is of type [Page](../Type/Page.md "Type:Page").
+This property is of type [Page](../Type/Page "Type:Page").
 
 
 
@@ -13,4 +13,4 @@ Showing 0 pages using this property.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Property:PatternSolutionExample](../Property/PatternSolutionExample.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Property:PatternSolutionExample](../Property/PatternSolutionExample)"

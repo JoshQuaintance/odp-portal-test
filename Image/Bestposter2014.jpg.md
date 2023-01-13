@@ -1,7 +1,7 @@
-* [Image](../Image/Bestposter2014.jpg.md#file)
-* [File history](../Image/Bestposter2014.jpg.md#filehistory)
-* [Links](../Image/Bestposter2014.jpg.md#filelinks)
-* [Metadata](../Image/Bestposter2014.jpg.md#metadata)
+* [Image](../Image/Bestposter2014.jpg#file)
+* [File history](../Image/Bestposter2014.jpg#filehistory)
+* [Links](../Image/Bestposter2014.jpg#filelinks)
+* [Metadata](../Image/Bestposter2014.jpg#metadata)
 
 [![Image:Bestposter2014.jpg](../images/thumb/b/bb/Bestposter2014.jpg/450px-Bestposter2014.jpg)](../images/b/bb/Bestposter2014.jpg)  
 Size of this preview: 450 × 600 pixels  
@@ -27,7 +27,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [WOP:2014](../WOP/2014.md "WOP:2014")
+* [WOP:2014](../WOP/2014 "WOP:2014")
 
 ## Metadata
 
@@ -38,4 +38,4 @@ If the file has been modified from its original state, some details may not full
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Bestposter2014.jpg](../Image/Bestposter2014.jpg.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Bestposter2014.jpg](../Image/Bestposter2014.jpg)"

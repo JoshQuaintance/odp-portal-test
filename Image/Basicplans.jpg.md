@@ -1,6 +1,6 @@
-* [Image](../Image/Basicplans.jpg.md#file)
-* [File history](../Image/Basicplans.jpg.md#filehistory)
-* [Links](../Image/Basicplans.jpg.md#filelinks)
+* [Image](../Image/Basicplans.jpg#file)
+* [File history](../Image/Basicplans.jpg#filehistory)
+* [Links](../Image/Basicplans.jpg#filelinks)
 
 [![Image:Basicplans.jpg](../images/e/e5/Basicplans.jpg)](../images/e/e5/Basicplans.jpg)  
 No higher resolution available.  
@@ -23,7 +23,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Community:Images](../Community/Images.md "Community:Images")
+* [Community:Images](../Community/Images "Community:Images")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Basicplans.jpg](../Image/Basicplans.jpg.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Basicplans.jpg](../Image/Basicplans.jpg)"

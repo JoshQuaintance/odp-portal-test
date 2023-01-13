@@ -1,5 +1,5 @@
-[![](../images/thumb/2/29/Reviewer.png/48px-Reviewer.png)](../Image/Reviewer.png.md "Reviewer.png")
-__[AldoGangemi](../User/AldoGangemi.md "User:AldoGangemi") about [ConceptGroup](../Submissions/ConceptGroup.md "Submissions:ConceptGroup") (Revision ID: [5807](../Submissions/ConceptGroup@oldid=5807.md "http://ontologydesignpatterns.org/wiki/Submissions:ConceptGroup?oldid=5807"))__
+[![](../images/thumb/2/29/Reviewer.png/48px-Reviewer.png)](../Image/Reviewer.png "Reviewer.png")
+__[AldoGangemi](../User/AldoGangemi "User:AldoGangemi") about [ConceptGroup](../Submissions/ConceptGroup "Submissions:ConceptGroup") (Revision ID: [5807](../Submissions/ConceptGroup@oldid=5807 "http://ontologydesignpatterns.org/wiki/Submissions:ConceptGroup?oldid=5807"))__
 Overall suggestion (score): 0 - needs major revision
 
 
@@ -42,8 +42,8 @@ _Posted:_ 2009/9/12 _Last modified:_ 2009/9/12
 
 
 
-[All reviews](../Reviews/Main.md "Reviews:Main") | [Add a comment at the bottom of this page](index.php@title=Odp%253AAdd_comment&target=../Reviews/AldoGangemi_about_ConceptGroup.md#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Reviews:AldoGangemi_about_ConceptGroup#New_comment")
+[All reviews](../Reviews/Main "Reviews:Main") | [Add a comment at the bottom of this page](index.php@title=Odp%253AAdd_comment&target=../Reviews/AldoGangemi_about_ConceptGroup#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Reviews:AldoGangemi_about_ConceptGroup#New_comment")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Reviews:AldoGangemi\_about\_ConceptGroup](../Reviews/AldoGangemi_about_ConceptGroup.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [QCReview](../Category/QCReview.md "Category:QCReview")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Reviews:AldoGangemi\_about\_ConceptGroup](../Reviews/AldoGangemi_about_ConceptGroup)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [QCReview](../Category/QCReview "Category:QCReview")

@@ -1,4 +1,4 @@
-___Habitat__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [SpeciesConditions](../../Submissions/SpeciesConditions.md "Submissions:SpeciesConditions")_
+___Habitat__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [SpeciesConditions](../../Submissions/SpeciesConditions "Submissions:SpeciesConditions")_
 
 
   
@@ -6,7 +6,7 @@ ___Habitat__ has [Category:OntologyElement](../../Category/OntologyElement.md "C
 
 
 
-[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif.md "Class")
+[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif "Class")
 __Name__: Habitat 
 
 
@@ -19,5 +19,5 @@ __Description__: Habitat is the biological and ecological context of a species i
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:SpeciesConditions/Habitat](../../Community/HasHabitat.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:SpeciesConditions/Habitat](../../Community/HasHabitat)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

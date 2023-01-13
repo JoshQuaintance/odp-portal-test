@@ -1,6 +1,6 @@
-* [Image](../Image/EventCore.png.md#file)
-* [File history](../Image/EventCore.png.md#filehistory)
-* [Links](../Image/EventCore.png.md#filelinks)
+* [Image](../Image/EventCore.png#file)
+* [File history](../Image/EventCore.png#filehistory)
+* [Links](../Image/EventCore.png#filelinks)
 
 [![Image:EventCore.png](../images/9/98/EventCore.png)](../images/9/98/EventCore.png)  
 No higher resolution available.  
@@ -23,7 +23,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Submissions:EventCore](../Submissions/EventCore.md "Submissions:EventCore")
+* [Submissions:EventCore](../Submissions/EventCore "Submissions:EventCore")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:EventCore.png](../Image/EventCore.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:EventCore.png](../Image/EventCore.png)"

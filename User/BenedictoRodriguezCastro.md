@@ -1,4 +1,4 @@
-[![Image:Bene-rodriguez-profile-pic.jpeg](../images/5/58/Bene-rodriguez-profile-pic.jpeg)](../Image/Bene-rodriguez-profile-pic.jpeg.md "Image:Bene-rodriguez-profile-pic.jpeg")
+[![Image:Bene-rodriguez-profile-pic.jpeg](../images/5/58/Bene-rodriguez-profile-pic.jpeg)](../Image/Bene-rodriguez-profile-pic.jpeg "Image:Bene-rodriguez-profile-pic.jpeg")
 
 
 
@@ -19,7 +19,7 @@ __Domains of interest:__
 
 
 
-* [University](../Community/University.md "Community:University")
+* [University](../Community/University "Community:University")
 
 
 __Is expert of:__
@@ -36,5 +36,5 @@ __How did I know about ODP:__ conference/public events
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/User:BenedictoRodriguezCastro](../User/BenedictoRodriguezCastro.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ODPUser](../Category/ODPUser.md "Category:ODPUser")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/User:BenedictoRodriguezCastro](../User/BenedictoRodriguezCastro)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ODPUser](../Category/ODPUser "Category:ODPUser")

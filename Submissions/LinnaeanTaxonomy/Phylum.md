@@ -1,4 +1,4 @@
-___Phylum__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [LinnaeanTaxonomy](../../Submissions/LinnaeanTaxonomy.md "Submissions:LinnaeanTaxonomy")_
+___Phylum__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [LinnaeanTaxonomy](../../Submissions/LinnaeanTaxonomy "Submissions:LinnaeanTaxonomy")_
 
 
   
@@ -6,7 +6,7 @@ ___Phylum__ has [Category:OntologyElement](../../Category/OntologyElement.md "Ca
 
 
 
-[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif.md "Class")
+[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif "Class")
 __Name__: Phylum 
 
 
@@ -19,5 +19,5 @@ __Description__: Phylum is the second highest traditional taxon. E.g., in the ca
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:LinnaeanTaxonomy/Phylum](../../Submissions/LinnaeanTaxonomy/Phylum.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:LinnaeanTaxonomy/Phylum](../../Submissions/LinnaeanTaxonomy/Phylum)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

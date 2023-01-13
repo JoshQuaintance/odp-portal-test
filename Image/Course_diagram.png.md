@@ -1,6 +1,6 @@
-* [Image](../Image/Course_diagram.png.md#file)
-* [File history](../Image/Course_diagram.png.md#filehistory)
-* [Links](../Image/Course_diagram.png.md#filelinks)
+* [Image](../Image/Course_diagram.png#file)
+* [File history](../Image/Course_diagram.png#filehistory)
+* [Links](../Image/Course_diagram.png#filelinks)
 
 [![Image:Course diagram.png](../images/c/c8/Course_diagram.png)](../images/c/c8/Course_diagram.png)  
 No higher resolution available.  
@@ -23,7 +23,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Submissions:Course](../Submissions/Course.md "Submissions:Course")
+* [Submissions:Course](../Submissions/Course "Submissions:Course")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Course\_diagram.png](../Image/Course_diagram.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Course\_diagram.png](../Image/Course_diagram.png)"

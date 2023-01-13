@@ -49,4 +49,4 @@ Problems in musicindustry.owl
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Training:Advanced\_Ontology\_Engineering\_at\_FOI\_-\_2011/Ontology\_Testing/Testing\_Solution](../../../Training/Advanced_Ontology_Engineering_at_FOI_-_2011/Ontology_Testing/Testing_Solution.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Training:Advanced\_Ontology\_Engineering\_at\_FOI\_-\_2011/Ontology\_Testing/Testing\_Solution](../../../Training/Advanced_Ontology_Engineering_at_FOI_-_2011/Ontology_Testing/Testing_Solution)"

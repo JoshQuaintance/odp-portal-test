@@ -1,6 +1,6 @@
-* [Image](../Image/Wftbthrelloexample.png.md#file)
-* [File history](../Image/Wftbthrelloexample.png.md#filehistory)
-* [Links](../Image/Wftbthrelloexample.png.md#filelinks)
+* [Image](../Image/Wftbthrelloexample.png#file)
+* [File history](../Image/Wftbthrelloexample.png#filehistory)
+* [Links](../Image/Wftbthrelloexample.png#filelinks)
 
 [![Image:Wftbthrelloexample.png](../images/e/e5/Wftbthrelloexample.png)](../images/e/e5/Wftbthrelloexample.png)  
 No higher resolution available.  
@@ -23,7 +23,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Submissions:Pattern for re-engineering a term-based thesaurus, which follows the relationbased data model, into an ontology schema](../Submissions/Pattern_for_re-engineering_a_term-based_thesaurus,_which_follows_the_relationbased_data_model,_into_an_ontology_schema.md "Submissions:Pattern for re-engineering a term-based thesaurus, which follows the relationbased data model, into an ontology schema")
+* [Submissions:Pattern for re-engineering a term-based thesaurus, which follows the relationbased data model, into an ontology schema](../Submissions/Pattern_for_re-engineering_a_term-based_thesaurus,_which_follows_the_relationbased_data_model,_into_an_ontology_schema "Submissions:Pattern for re-engineering a term-based thesaurus, which follows the relationbased data model, into an ontology schema")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Wftbthrelloexample.png](../Image/Wftbthrelloexample.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Wftbthrelloexample.png](../Image/Wftbthrelloexample.png)"

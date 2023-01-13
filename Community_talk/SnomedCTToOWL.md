@@ -25,10 +25,10 @@ Finally, to make it easier for people to help you:
 2. say what you have thought about already and why it does not appear to be adequate.
 
 
---[MichaelUschold](../User/MichaelUschold.md "User:MichaelUschold") 20:27, 26 February 2010 (UTC)
+--[MichaelUschold](../User/MichaelUschold "User:MichaelUschold") 20:27, 26 February 2010 (UTC)
 
 
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Community\_talk:SnomedCTToOWL](../Community_talk/SnomedCTToOWL.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Community\_talk:SnomedCTToOWL](../Community_talk/SnomedCTToOWL)"

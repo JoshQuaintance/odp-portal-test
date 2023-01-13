@@ -1,6 +1,6 @@
-* [Image](../Image/Timeindexedpersonrole.jpg.md#file)
-* [File history](../Image/Timeindexedpersonrole.jpg.md#filehistory)
-* [Links](../Image/Timeindexedpersonrole.jpg.md#filelinks)
+* [Image](../Image/Timeindexedpersonrole.jpg#file)
+* [File history](../Image/Timeindexedpersonrole.jpg#filehistory)
+* [Links](../Image/Timeindexedpersonrole.jpg#filelinks)
 
 [![Image:Timeindexedpersonrole.jpg](../images/d/d2/Timeindexedpersonrole.jpg)](../images/d/d2/Timeindexedpersonrole.jpg)  
 No higher resolution available.  
@@ -23,8 +23,8 @@ Click on a date/time to view the file as it appeared at that time.
 The following 2 pages link to this file:
 
 
-* [Community:Images](../Community/Images.md "Community:Images")
-* [Submissions:Time indexed person role](../Submissions/Time_indexed_person_role.md "Submissions:Time indexed person role")
+* [Community:Images](../Community/Images "Community:Images")
+* [Submissions:Time indexed person role](../Submissions/Time_indexed_person_role "Submissions:Time indexed person role")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Timeindexedpersonrole.jpg](../Image/Timeindexedpersonrole.jpg.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Timeindexedpersonrole.jpg](../Image/Timeindexedpersonrole.jpg)"

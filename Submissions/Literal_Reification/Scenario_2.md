@@ -4,7 +4,7 @@ __Diagram__
 
 
 
-[![Image:LiteralReificationExample_revised.png](../../images/6/68/LiteralReificationExample_revised.png)](../../Image/LiteralReificationExample_revised.png.md "Image:LiteralReificationExample_revised.png")
+[![Image:LiteralReificationExample_revised.png](../../images/6/68/LiteralReificationExample_revised.png)](../../Image/LiteralReificationExample_revised.png "Image:LiteralReificationExample_revised.png")
 
 
 
@@ -15,5 +15,5 @@ __OWL file:__ [http://www.essepuntato.it/2010/06/sc2.ttl](http://www.essepuntato
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Literal\_Reification/Scenario\_2](../../Community/FSDAS_Scenario_2.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Scenario](../../Category/Scenario.md "Category:Scenario")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Literal\_Reification/Scenario\_2](../../Community/FSDAS_Scenario_2)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Scenario](../../Category/Scenario "Category:Scenario")

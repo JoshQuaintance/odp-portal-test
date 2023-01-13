@@ -1,5 +1,5 @@
-[![](../images/thumb/2/29/Reviewer.png/48px-Reviewer.png)](../Image/Reviewer.png.md "Reviewer.png")
-__[BorisVillazón-Terrazas](../User/BorisVillazón-Terrazas.md "User:BorisVillazón-Terrazas") about [Template Instance](../Submissions/Template_Instance.md "Submissions:Template Instance") (Revision ID: [Instance?oldid=11178 11178](../Submissions/Template.md "http://ontologydesignpatterns.org/wiki/Submissions:Template"))__
+[![](../images/thumb/2/29/Reviewer.png/48px-Reviewer.png)](../Image/Reviewer.png "Reviewer.png")
+__[BorisVillazón-Terrazas](../User/BorisVillazón-Terrazas "User:BorisVillazón-Terrazas") about [Template Instance](../Submissions/Template_Instance "Submissions:Template Instance") (Revision ID: [Instance?oldid=11178 11178](../Submissions/Template "http://ontologydesignpatterns.org/wiki/Submissions:Template"))__
 Overall suggestion (score): 1 - needs minor revision
 
 
@@ -11,7 +11,7 @@ __Problems:__ The pattern is very useful when we need to avoid the unnecessary r
 __Community Relevance:__ The pattern is very relevant to the community.
 __Relation to Best Practices:__ 
 __Reusability:__ 
-__Relations to Other Patterns:__ Relation to the "Literal Reification" pattern -[http://ontologydesignpatterns.org/wiki/Submissions:Literal\_Reification](../Submissions/Literal_Reification.md "http://ontologydesignpatterns.org/wiki/Submissions:Literal_Reification")
+__Relations to Other Patterns:__ Relation to the "Literal Reification" pattern -[http://ontologydesignpatterns.org/wiki/Submissions:Literal\_Reification](../Submissions/Literal_Reification "http://ontologydesignpatterns.org/wiki/Submissions:Literal_Reification")
 __Overall Understandability:__ 
 __Clear Problem Description:__ 
 __Clear Relevance and Consequences:__ 
@@ -22,8 +22,8 @@ _Posted:_ 2012/9/4 _Last modified:_ 2012/9/3
 
 
 
-[All reviews](../Reviews/Main.md "Reviews:Main") | [Add a comment at the bottom of this page](index.php@title=Odp%253AAdd_comment&target=../Reviews/BorisVillazón-Terrazas_about_Template_Instance.md#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Reviews:BorisVillaz%C3%B3n-Terrazas_about_Template_Instance#New_comment")
+[All reviews](../Reviews/Main "Reviews:Main") | [Add a comment at the bottom of this page](index.php@title=Odp%253AAdd_comment&target=../Reviews/BorisVillazón-Terrazas_about_Template_Instance#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Reviews:BorisVillaz%C3%B3n-Terrazas_about_Template_Instance#New_comment")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Reviews:BorisVillaz%C3%B3n-Terrazas\_about\_Template\_Instance](../Reviews/BorisVillazón-Terrazas_about_Template_Instance.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [QCReview](../Category/QCReview.md "Category:QCReview")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Reviews:BorisVillaz%C3%B3n-Terrazas\_about\_Template\_Instance](../Reviews/BorisVillazón-Terrazas_about_Template_Instance)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [QCReview](../Category/QCReview "Category:QCReview")

@@ -1,6 +1,6 @@
-* [Image](../Image/Tagging.png.md#file)
-* [File history](../Image/Tagging.png.md#filehistory)
-* [Links](../Image/Tagging.png.md#filelinks)
+* [Image](../Image/Tagging.png#file)
+* [File history](../Image/Tagging.png#filehistory)
+* [Links](../Image/Tagging.png#filelinks)
 
 [![Image:Tagging.png](../images/0/00/Tagging.png)](../images/0/00/Tagging.png)  
 No higher resolution available.  
@@ -23,7 +23,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Submissions:Tagging](../Submissions/Tagging.md "Submissions:Tagging")
+* [Submissions:Tagging](../Submissions/Tagging "Submissions:Tagging")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Tagging.png](../Image/Tagging.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Tagging.png](../Image/Tagging.png)"

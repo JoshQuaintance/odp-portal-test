@@ -1,4 +1,4 @@
-[![Image:ODPUser.png](../images/a/a6/ODPUser.png)](../Image/ODPUser.png.md "Image:ODPUser.png")
+[![Image:ODPUser.png](../images/a/a6/ODPUser.png)](../Image/ODPUser.png "Image:ODPUser.png")
 
 
 
@@ -25,7 +25,7 @@ __Domains of interest:__
 
 
 
-* [Software Engineering](../Community/Software_Engineering.md "Community:Software Engineering")
+* [Software Engineering](../Community/Software_Engineering "Community:Software Engineering")
 * [Web Engineering](http://ontologydesignpatterns.org/wiki/Special:AddData/Domain Form/Community:Web_Engineering "Community:Web Engineering (not yet written)")
 
 
@@ -41,5 +41,5 @@ __How did I know about ODP:__ conference/public events
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/User:PankajKamthan](../User/PankajKamthan.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ODPUser](../Category/ODPUser.md "Category:ODPUser")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/User:PankajKamthan](../User/PankajKamthan)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ODPUser](../Category/ODPUser "Category:ODPUser")

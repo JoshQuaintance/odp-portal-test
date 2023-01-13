@@ -1,6 +1,6 @@
-* [Image](../Image/Eswc2017-tutorial-objectrecord.png.md#file)
-* [File history](../Image/Eswc2017-tutorial-objectrecord.png.md#filehistory)
-* [Links](../Image/Eswc2017-tutorial-objectrecord.png.md#filelinks)
+* [Image](../Image/Eswc2017-tutorial-objectrecord.png#file)
+* [File history](../Image/Eswc2017-tutorial-objectrecord.png#filehistory)
+* [Links](../Image/Eswc2017-tutorial-objectrecord.png#filelinks)
 
 [![Image:Eswc2017-tutorial-objectrecord.png](../images/c/cb/Eswc2017-tutorial-objectrecord.png)](../images/c/cb/Eswc2017-tutorial-objectrecord.png)  
 No higher resolution available.  
@@ -28,4 +28,4 @@ There are no pages that link to this file.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Eswc2017-tutorial-objectrecord.png](../Image/Eswc2017-tutorial-objectrecord.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Eswc2017-tutorial-objectrecord.png](../Image/Eswc2017-tutorial-objectrecord.png)"

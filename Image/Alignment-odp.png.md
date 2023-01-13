@@ -1,6 +1,6 @@
-* [Image](../Image/Alignment-odp.png.md#file)
-* [File history](../Image/Alignment-odp.png.md#filehistory)
-* [Links](../Image/Alignment-odp.png.md#filelinks)
+* [Image](../Image/Alignment-odp.png#file)
+* [File history](../Image/Alignment-odp.png#filehistory)
+* [Links](../Image/Alignment-odp.png#filelinks)
 
 [![Image:Alignment-odp.png](../images/6/65/Alignment-odp.png)](../images/6/65/Alignment-odp.png)  
 No higher resolution available.  
@@ -26,9 +26,9 @@ Click on a date/time to view the file as it appeared at that time.
 The following 3 pages link to this file:
 
 
-* [Submissions:Vocabulary Alignment Pattern: Subclass of an external Class](../Submissions/Vocabulary_Alignment_Pattern/_Subclass_of_an_external_Class.md "Submissions:Vocabulary Alignment Pattern: Subclass of an external Class")
-* [Submissions:Vocabulary Alignment Pattern: Conjoint Instances of an external Class](../Submissions/Vocabulary_Alignment_Pattern/_Conjoint_Instances_of_an_external_Class.md "Submissions:Vocabulary Alignment Pattern: Conjoint Instances of an external Class")
-* [Submissions:Vocabulary Alignment Pattern: Sub property of an external Property](../Submissions/Vocabulary_Alignment_Pattern/_Sub_property_of_an_external_Property.md "Submissions:Vocabulary Alignment Pattern: Sub property of an external Property")
+* [Submissions:Vocabulary Alignment Pattern: Subclass of an external Class](../Submissions/Vocabulary_Alignment_Pattern/_Subclass_of_an_external_Class "Submissions:Vocabulary Alignment Pattern: Subclass of an external Class")
+* [Submissions:Vocabulary Alignment Pattern: Conjoint Instances of an external Class](../Submissions/Vocabulary_Alignment_Pattern/_Conjoint_Instances_of_an_external_Class "Submissions:Vocabulary Alignment Pattern: Conjoint Instances of an external Class")
+* [Submissions:Vocabulary Alignment Pattern: Sub property of an external Property](../Submissions/Vocabulary_Alignment_Pattern/_Sub_property_of_an_external_Property "Submissions:Vocabulary Alignment Pattern: Sub property of an external Property")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Alignment-odp.png](../Image/Alignment-odp.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Alignment-odp.png](../Image/Alignment-odp.png)"

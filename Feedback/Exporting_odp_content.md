@@ -16,14 +16,14 @@ __Description:__ Having SMW as a component in odp portal, it would be nice to ha
 
 
 
-* [Tasks/One-click facility for exporting article in RDF](../Odp/Tasks/One-click_facility_for_exporting_article_in_RDF.md "Odp:Tasks/One-click facility for exporting article in RDF")
+* [Tasks/One-click facility for exporting article in RDF](../Odp/Tasks/One-click_facility_for_exporting_article_in_RDF "Odp:Tasks/One-click facility for exporting article in RDF")
 
 
-Go back to the  [Feedback main page](../Feedback/Main.md "Feedback:Main")
+Go back to the  [Feedback main page](../Feedback/Main "Feedback:Main")
 
 
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Feedback:Exporting\_odp\_content](../Feedback/Exporting_odp_content.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Feedback](../Category/Feedback.md "Category:Feedback")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Feedback:Exporting\_odp\_content](../Feedback/Exporting_odp_content)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Feedback](../Category/Feedback "Category:Feedback")

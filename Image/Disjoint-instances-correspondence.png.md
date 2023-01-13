@@ -1,6 +1,6 @@
-* [Image](../Image/Disjoint-instances-correspondence.png.md#file)
-* [File history](../Image/Disjoint-instances-correspondence.png.md#filehistory)
-* [Links](../Image/Disjoint-instances-correspondence.png.md#filelinks)
+* [Image](../Image/Disjoint-instances-correspondence.png#file)
+* [File history](../Image/Disjoint-instances-correspondence.png#filehistory)
+* [Links](../Image/Disjoint-instances-correspondence.png#filelinks)
 
 [![Image:Disjoint-instances-correspondence.png](../images/c/c2/Disjoint-instances-correspondence.png)](../images/c/c2/Disjoint-instances-correspondence.png)  
 No higher resolution available.  
@@ -25,4 +25,4 @@ There are no pages that link to this file.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Disjoint-instances-correspondence.png](../Image/Disjoint-instances-correspondence.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Disjoint-instances-correspondence.png](../Image/Disjoint-instances-correspondence.png)"

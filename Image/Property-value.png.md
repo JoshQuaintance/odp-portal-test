@@ -1,6 +1,6 @@
-* [Image](../Image/Property-value.png.md#file)
-* [File history](../Image/Property-value.png.md#filehistory)
-* [Links](../Image/Property-value.png.md#filelinks)
+* [Image](../Image/Property-value.png#file)
+* [File history](../Image/Property-value.png#filehistory)
+* [Links](../Image/Property-value.png#filelinks)
 
 [![Image:Property-value.png](../images/a/a2/Property-value.png)](../images/a/a2/Property-value.png)  
 No higher resolution available.  
@@ -25,4 +25,4 @@ There are no pages that link to this file.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Property-value.png](../Image/Property-value.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Property-value.png](../Image/Property-value.png)"

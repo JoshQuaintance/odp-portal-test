@@ -1,6 +1,6 @@
-* [Image](../Image/Topic.png.md#file)
-* [File history](../Image/Topic.png.md#filehistory)
-* [Links](../Image/Topic.png.md#filelinks)
+* [Image](../Image/Topic.png#file)
+* [File history](../Image/Topic.png#filehistory)
+* [Links](../Image/Topic.png#filelinks)
 
 [![Image:Topic.png](../images/a/a8/Topic.png)](../images/a/a8/Topic.png)  
 No higher resolution available.  
@@ -23,7 +23,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Submissions:Topic](../Submissions/Topic.md "Submissions:Topic")
+* [Submissions:Topic](../Submissions/Topic "Submissions:Topic")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Topic.png](../Image/Topic.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Topic.png](../Image/Topic.png)"

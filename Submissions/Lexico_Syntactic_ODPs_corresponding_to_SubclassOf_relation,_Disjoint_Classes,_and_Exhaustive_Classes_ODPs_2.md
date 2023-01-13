@@ -1,4 +1,4 @@
-[![](../images/thumb/b/b5/Certified.png/70px-Certified.png)](../Image/Certified.png.md "Certified.png") __This pattern has been certified.__
+[![](../images/thumb/b/b5/Certified.png/70px-Certified.png)](../Image/Certified.png "Certified.png") __This pattern has been certified.__
 Related submission, with evaluation history, can be found __here__
 
 
@@ -16,7 +16,7 @@ Related submission, with evaluation history, can be found __here__
 #  Cases
 
 
-_The __Lexico Syntactic ODPs corresponding to SubclassOf relation, Disjoint Classes, and Exhaustive Classes ODPs 2__ Lexico-Syntactic ODP includes the following cases (see also [abbreviations and symbols used in LSP Formalization](../Community/LSPSymbols.md "Community:LSPSymbols")):_
+_The __Lexico Syntactic ODPs corresponding to SubclassOf relation, Disjoint Classes, and Exhaustive Classes ODPs 2__ Lexico-Syntactic ODP includes the following cases (see also [abbreviations and symbols used in LSP Formalization](../Community/LSPSymbols "Community:LSPSymbols")):_
 
 
   
@@ -74,5 +74,5 @@ There is no Modeling issue related to this proposal.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Lexico\_Syntactic\_ODPs\_corresponding\_to\_SubclassOf\_relation%2C\_Disjoint\_Classes%2C\_and\_Exhaustive\_Classes\_ODPs\_2](../Submissions/Lexico_Syntactic_ODPs_corresponding_to_SubclassOf_relation,_Disjoint_Classes,_and_Exhaustive_Classes_ODPs_2.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ProposedLexicoSyntacticOP](../Category/ProposedLexicoSyntacticOP.md "Category:ProposedLexicoSyntacticOP")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Lexico\_Syntactic\_ODPs\_corresponding\_to\_SubclassOf\_relation%2C\_Disjoint\_Classes%2C\_and\_Exhaustive\_Classes\_ODPs\_2](../Submissions/Lexico_Syntactic_ODPs_corresponding_to_SubclassOf_relation,_Disjoint_Classes,_and_Exhaustive_Classes_ODPs_2)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ProposedLexicoSyntacticOP](../Category/ProposedLexicoSyntacticOP "Category:ProposedLexicoSyntacticOP")

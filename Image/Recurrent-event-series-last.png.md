@@ -1,6 +1,6 @@
-* [Image](../Image/Recurrent-event-series-last.png.md#file)
-* [File history](../Image/Recurrent-event-series-last.png.md#filehistory)
-* [Links](../Image/Recurrent-event-series-last.png.md#filelinks)
+* [Image](../Image/Recurrent-event-series-last.png#file)
+* [File history](../Image/Recurrent-event-series-last.png#filehistory)
+* [Links](../Image/Recurrent-event-series-last.png#filelinks)
 
 [![Image:Recurrent-event-series-last.png](../images/thumb/3/30/Recurrent-event-series-last.png/800px-Recurrent-event-series-last.png)](../images/3/30/Recurrent-event-series-last.png)  
 Size of this preview: 800 × 540 pixels  
@@ -28,4 +28,4 @@ There are no pages that link to this file.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Recurrent-event-series-last.png](../Image/Recurrent-event-series-last.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Recurrent-event-series-last.png](../Image/Recurrent-event-series-last.png)"

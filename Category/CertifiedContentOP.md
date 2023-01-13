@@ -7,5 +7,5 @@ _This category currently contains no pages or media._
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Category:CertifiedContentOP](../Category/CertifiedContentOP.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ContentOP](../Category/ContentOP.md "Category:ContentOP")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Category:CertifiedContentOP](../Category/CertifiedContentOP)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ContentOP](../Category/ContentOP "Category:ContentOP")

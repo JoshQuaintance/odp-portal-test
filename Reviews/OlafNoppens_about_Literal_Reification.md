@@ -1,5 +1,5 @@
-[![](../images/thumb/2/29/Reviewer.png/48px-Reviewer.png)](../Image/Reviewer.png.md "Reviewer.png")
-__[OlafNoppens](../User/OlafNoppens.md "User:OlafNoppens") about [Literal Reification](../Submissions/Literal_Reification.md "Submissions:Literal Reification") (Revision ID: [Reification?oldid=10062 10062](../Submissions/Literal.md "http://ontologydesignpatterns.org/wiki/Submissions:Literal"))__
+[![](../images/thumb/2/29/Reviewer.png/48px-Reviewer.png)](../Image/Reviewer.png "Reviewer.png")
+__[OlafNoppens](../User/OlafNoppens "User:OlafNoppens") about [Literal Reification](../Submissions/Literal_Reification "Submissions:Literal Reification") (Revision ID: [Reification?oldid=10062 10062](../Submissions/Literal "http://ontologydesignpatterns.org/wiki/Submissions:Literal"))__
 Overall suggestion (score): 2 - accept for certification
 
 
@@ -30,8 +30,8 @@ _Posted:_ 2010/9/16 _Last modified:_ 2010/9/16
 
 
 
-[All reviews](../Reviews/Main.md "Reviews:Main") | [Add a comment at the bottom of this page](index.php@title=Odp%253AAdd_comment&target=../Reviews/OlafNoppens_about_Literal_Reification.md#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Reviews:OlafNoppens_about_Literal_Reification#New_comment")
+[All reviews](../Reviews/Main "Reviews:Main") | [Add a comment at the bottom of this page](index.php@title=Odp%253AAdd_comment&target=../Reviews/OlafNoppens_about_Literal_Reification#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Reviews:OlafNoppens_about_Literal_Reification#New_comment")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Reviews:OlafNoppens\_about\_Literal\_Reification](../Reviews/OlafNoppens_about_Literal_Reification.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [QCReview](../Category/QCReview.md "Category:QCReview")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Reviews:OlafNoppens\_about\_Literal\_Reification](../Reviews/OlafNoppens_about_Literal_Reification)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [QCReview](../Category/QCReview "Category:QCReview")

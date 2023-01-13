@@ -150,4 +150,4 @@ further information, please email to vpresutti@gmail.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Community:NeOnODPCourse2008BolognaCFP](../Community/NeOnODPCourse2008BolognaCFP.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Community:NeOnODPCourse2008BolognaCFP](../Community/NeOnODPCourse2008BolognaCFP)"

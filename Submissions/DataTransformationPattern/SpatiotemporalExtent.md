@@ -1,4 +1,4 @@
-___SpatiotemporalExtent__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [DataTransformationPattern](../../Submissions/DataTransformationPattern.md "Submissions:DataTransformationPattern")_
+___SpatiotemporalExtent__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [DataTransformationPattern](../../Submissions/DataTransformationPattern "Submissions:DataTransformationPattern")_
 
 
   
@@ -6,7 +6,7 @@ ___SpatiotemporalExtent__ has [Category:OntologyElement](../../Category/Ontology
 
 
 
-[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif.md "Class")
+[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif "Class")
 __Name__: SpatiotemporalExtent 
 
 
@@ -19,5 +19,5 @@ __Description__:
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:DataTransformationPattern/SpatiotemporalExtent](../../Submissions/DataTransformationPattern/SpatiotemporalExtent.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:DataTransformationPattern/SpatiotemporalExtent](../../Submissions/DataTransformationPattern/SpatiotemporalExtent)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

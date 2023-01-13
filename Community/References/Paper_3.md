@@ -1,5 +1,5 @@
-[Go to the subject of this reference](../../Submissions/Smart_City_Strategy_Design.md "Submissions:Smart City Strategy Design") | [All references](../../Community/References.1.md "Community:References") | [Add another reference to Submissions:Smart City Strategy Design](http://ontologydesignpatterns.org/wiki/Special:AddData/Reference?Reference[Subject]=Submissions:Smart City Strategy Design&subject=Submissions:Smart City Strategy Design)
+[Go to the subject of this reference](../../Submissions/Smart_City_Strategy_Design "Submissions:Smart City Strategy Design") | [All references](../../Community/References.1 "Community:References") | [Add another reference to Submissions:Smart City Strategy Design](http://ontologydesignpatterns.org/wiki/Special:AddData/Reference?Reference[Subject]=Submissions:Smart City Strategy Design&subject=Submissions:Smart City Strategy Design)
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Community:References/Paper\_3](../../Community/References/Paper_3.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Reference](../../Category/Reference.md "Category:Reference")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Community:References/Paper\_3](../../Community/References/Paper_3)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Reference](../../Category/Reference "Category:Reference")

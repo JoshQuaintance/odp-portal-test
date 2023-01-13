@@ -1,4 +1,4 @@
-[![](../images/thumb/b/b5/Certified.png/70px-Certified.png)](../Image/Certified.png.md "Certified.png") __This pattern has been certified.__
+[![](../images/thumb/b/b5/Certified.png/70px-Certified.png)](../Image/Certified.png "Certified.png") __This pattern has been certified.__
 Related submission, with evaluation history, can be found __here__
 
 
@@ -13,7 +13,7 @@ __Diagram__
 
 
 
-[![Image:Partition-diagram.png](../images/e/e1/Partition-diagram.png)](../Image/Partition-diagram.png.md "Image:Partition-diagram.png")
+[![Image:Partition-diagram.png](../images/e/e1/Partition-diagram.png)](../Image/Partition-diagram.png "Image:Partition-diagram.png")
 
 
 
@@ -99,7 +99,7 @@ __Modeling issues about Partition__
 #  References
 
 
-[Add a reference](index.php@title=Odp%253AAdd_reference&subject=../Submissions/Partition.md "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_reference&subject=Submissions%3APartition")
+[Add a reference](index.php@title=Odp%253AAdd_reference&subject=../Submissions/Partition "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_reference&subject=Submissions%3APartition")
 
 
   
@@ -109,5 +109,5 @@ __Modeling issues about Partition__
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Partition](../Submissions/Partition.md)"
- [Categories](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [LogicalOP](../Category/LogicalOP.md "Category:LogicalOP") | [ProposedLogicalOP](../Category/ProposedLogicalOP.md "Category:ProposedLogicalOP") | [Submitted to event](../Category/Submitted_to_event.md "Category:Submitted to event")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Partition](../Submissions/Partition)"
+ [Categories](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [LogicalOP](../Category/LogicalOP "Category:LogicalOP") | [ProposedLogicalOP](../Category/ProposedLogicalOP "Category:ProposedLogicalOP") | [Submitted to event](../Category/Submitted_to_event "Category:Submitted to event")

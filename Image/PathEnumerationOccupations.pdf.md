@@ -1,8 +1,8 @@
-* [Image](../Image/PathEnumerationOccupations.pdf.md#file)
-* [File history](../Image/PathEnumerationOccupations.pdf.md#filehistory)
-* [Links](../Image/PathEnumerationOccupations.pdf.md#filelinks)
+* [Image](../Image/PathEnumerationOccupations.pdf#file)
+* [File history](../Image/PathEnumerationOccupations.pdf#filehistory)
+* [Links](../Image/PathEnumerationOccupations.pdf#filelinks)
 
-[![](../skins/common/images/icons/fileicon-pdf.png)](../Image/PathEnumerationOccupations.pdf.md "PathEnumerationOccupations.pdf")
+[![](../skins/common/images/icons/fileicon-pdf.png)](../Image/PathEnumerationOccupations.pdf "PathEnumerationOccupations.pdf")
 [PathEnumerationOccupations.pdf](../images/5/5e/PathEnumerationOccupations.pdf "PathEnumerationOccupations.pdf")‎  (file size: 49 KB, MIME type: application/pdf)
 
 
@@ -28,4 +28,4 @@ There are no pages that link to this file.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:PathEnumerationOccupations.pdf](../Image/PathEnumerationOccupations.pdf.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:PathEnumerationOccupations.pdf](../Image/PathEnumerationOccupations.pdf)"

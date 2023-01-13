@@ -1,8 +1,8 @@
-* [Image](../Image/OntologyAndData.pdf.md#file)
-* [File history](../Image/OntologyAndData.pdf.md#filehistory)
-* [Links](../Image/OntologyAndData.pdf.md#filelinks)
+* [Image](../Image/OntologyAndData.pdf#file)
+* [File history](../Image/OntologyAndData.pdf#filehistory)
+* [Links](../Image/OntologyAndData.pdf#filelinks)
 
-[![](../skins/common/images/icons/fileicon-pdf.png)](../Image/OntologyAndData.pdf.md "OntologyAndData.pdf")
+[![](../skins/common/images/icons/fileicon-pdf.png)](../Image/OntologyAndData.pdf "OntologyAndData.pdf")
 [OntologyAndData.pdf](../images/0/0b/OntologyAndData.pdf "OntologyAndData.pdf")‎  (file size: 2.17 MB, MIME type: application/pdf)
 
 
@@ -26,7 +26,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Community:Images](../Community/Images.md "Community:Images")
+* [Community:Images](../Community/Images "Community:Images")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:OntologyAndData.pdf](../Image/OntologyAndData.pdf.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:OntologyAndData.pdf](../Image/OntologyAndData.pdf)"

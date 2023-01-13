@@ -1,4 +1,4 @@
-___Place__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [Place](../../Submissions/Place.md "Submissions:Place")_
+___Place__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [Place](../../Submissions/Place "Submissions:Place")_
 
 
   
@@ -6,7 +6,7 @@ ___Place__ has [Category:OntologyElement](../../Category/OntologyElement.md "Cat
 
 
 
-[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif.md "Class")
+[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif "Class")
 __Name__: Place 
 
 
@@ -25,5 +25,5 @@ Formally, a Place is defined by the fact of having something located in it; a Pl
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Place/Place](../../Image/Place.png.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Place/Place](../../Image/Place.png)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

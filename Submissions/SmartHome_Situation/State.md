@@ -1,4 +1,4 @@
-___State__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [SmartHome Situation](../../Submissions/SmartHome_Situation.md "Submissions:SmartHome Situation")_
+___State__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [SmartHome Situation](../../Submissions/SmartHome_Situation "Submissions:SmartHome Situation")_
 
 
   
@@ -6,7 +6,7 @@ ___State__ has [Category:OntologyElement](../../Category/OntologyElement.md "Cat
 
 
 
-[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif.md "Class")
+[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif "Class")
 __Name__: State 
 
 
@@ -19,5 +19,5 @@ __Description__:
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:SmartHome\_Situation/State](../../Image/DetectorFinalState-pattern.png.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:SmartHome\_Situation/State](../../Image/DetectorFinalState-pattern.png)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

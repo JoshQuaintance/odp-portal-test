@@ -1,6 +1,6 @@
-* [Image](../Image/Partition-diagram.png.md#file)
-* [File history](../Image/Partition-diagram.png.md#filehistory)
-* [Links](../Image/Partition-diagram.png.md#filelinks)
+* [Image](../Image/Partition-diagram.png#file)
+* [File history](../Image/Partition-diagram.png#filehistory)
+* [Links](../Image/Partition-diagram.png#filelinks)
 
 [![Image:Partition-diagram.png](../images/e/e1/Partition-diagram.png)](../images/e/e1/Partition-diagram.png)  
 No higher resolution available.  
@@ -26,7 +26,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Submissions:Partition](../Submissions/Partition.md "Submissions:Partition")
+* [Submissions:Partition](../Submissions/Partition "Submissions:Partition")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Partition-diagram.png](../Image/Partition-diagram.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Partition-diagram.png](../Image/Partition-diagram.png)"

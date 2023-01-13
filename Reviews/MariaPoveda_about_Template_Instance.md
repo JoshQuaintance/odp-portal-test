@@ -1,5 +1,5 @@
-[![](../images/thumb/2/29/Reviewer.png/48px-Reviewer.png)](../Image/Reviewer.png.md "Reviewer.png")
-__[MariaPoveda](../User/MariaPoveda.md "User:MariaPoveda") about [Template Instance](../Submissions/Template_Instance.md "Submissions:Template Instance") (Revision ID: [Instance?oldid=11178 11178](../Submissions/Template.md "http://ontologydesignpatterns.org/wiki/Submissions:Template"))__
+[![](../images/thumb/2/29/Reviewer.png/48px-Reviewer.png)](../Image/Reviewer.png "Reviewer.png")
+__[MariaPoveda](../User/MariaPoveda "User:MariaPoveda") about [Template Instance](../Submissions/Template_Instance "Submissions:Template Instance") (Revision ID: [Instance?oldid=11178 11178](../Submissions/Template "http://ontologydesignpatterns.org/wiki/Submissions:Template"))__
 Overall suggestion (score): 1 - needs minor revision
 
 
@@ -27,8 +27,8 @@ _Posted:_ 2012/9/4 _Last modified:_ 2012/9/4
 
 
 
-[All reviews](../Reviews/Main.md "Reviews:Main") | [Add a comment at the bottom of this page](index.php@title=Odp%253AAdd_comment&target=../Reviews/MariaPoveda_about_Template_Instance.md#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Reviews:MariaPoveda_about_Template_Instance#New_comment")
+[All reviews](../Reviews/Main "Reviews:Main") | [Add a comment at the bottom of this page](index.php@title=Odp%253AAdd_comment&target=../Reviews/MariaPoveda_about_Template_Instance#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Reviews:MariaPoveda_about_Template_Instance#New_comment")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Reviews:MariaPoveda\_about\_Template\_Instance](../Reviews/MariaPoveda_about_Template_Instance.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [QCReview](../Category/QCReview.md "Category:QCReview")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Reviews:MariaPoveda\_about\_Template\_Instance](../Reviews/MariaPoveda_about_Template_Instance)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [QCReview](../Category/QCReview "Category:QCReview")

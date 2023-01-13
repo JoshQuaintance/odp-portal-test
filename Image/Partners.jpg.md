@@ -1,7 +1,7 @@
-* [Image](../Image/Partners.jpg.md#file)
-* [File history](../Image/Partners.jpg.md#filehistory)
-* [Links](../Image/Partners.jpg.md#filelinks)
-* [Metadata](../Image/Partners.jpg.md#metadata)
+* [Image](../Image/Partners.jpg#file)
+* [File history](../Image/Partners.jpg#filehistory)
+* [Links](../Image/Partners.jpg#filelinks)
+* [Metadata](../Image/Partners.jpg#metadata)
 
 [![Image:Partners.jpg](../images/a/a5/Partners.jpg)](../images/a/a5/Partners.jpg)  
 No higher resolution available.  
@@ -24,10 +24,10 @@ Click on a date/time to view the file as it appeared at that time.
 The following 4 pages link to this file:
 
 
-* [Ontology Design Patterns . org (ODP)](../Ontology_Design_Patterns_._org_(ODP).md).md).html "Ontology Design Patterns . org (ODP)")
-* [Community:Images](../Community/Images.md "Community:Images")
-* [Template:MainPageMap](../Template/MainPageMap.md "Template:MainPageMap")
-* [Odp:Partners](../Odp/Partners.md "Odp:Partners")
+* [Ontology Design Patterns . org (ODP)](../Ontology_Design_Patterns_._org_(ODP)).md).md).html "Ontology Design Patterns . org (ODP)")
+* [Community:Images](../Community/Images "Community:Images")
+* [Template:MainPageMap](../Template/MainPageMap "Template:MainPageMap")
+* [Odp:Partners](../Odp/Partners "Odp:Partners")
 
 ## Metadata
 
@@ -38,4 +38,4 @@ If the file has been modified from its original state, some details may not full
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Partners.jpg](../Image/Partners.jpg.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Partners.jpg](../Image/Partners.jpg)"

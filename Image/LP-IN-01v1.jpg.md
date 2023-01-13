@@ -1,6 +1,6 @@
-* [Image](../Image/LP-IN-01v1.jpg.md#file)
-* [File history](../Image/LP-IN-01v1.jpg.md#filehistory)
-* [Links](../Image/LP-IN-01v1.jpg.md#filelinks)
+* [Image](../Image/LP-IN-01v1.jpg#file)
+* [File history](../Image/LP-IN-01v1.jpg#filehistory)
+* [Links](../Image/LP-IN-01v1.jpg#filelinks)
 
 [![Image:LP-IN-01v1.jpg](../images/thumb/0/04/LP-IN-01v1.jpg/800px-LP-IN-01v1.jpg)](../images/0/04/LP-IN-01v1.jpg)  
 Size of this preview: 800 × 224 pixels  
@@ -25,4 +25,4 @@ There are no pages that link to this file.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:LP-IN-01v1.jpg](../Image/LP-IN-01v1.jpg.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:LP-IN-01v1.jpg](../Image/LP-IN-01v1.jpg)"

@@ -1,4 +1,4 @@
-[![](../images/thumb/6/6f/Definition.gif/70px-Definition.gif)](../Image/Definition.gif.md "Definition.gif")
+[![](../images/thumb/6/6f/Definition.gif/70px-Definition.gif)](../Image/Definition.gif "Definition.gif")
 __Naming Ontology Design Patterns (Naming OPs)__
 
 Naming OPs are conventions on how to create names for namespaces, ﬁles, and ontology elements in general (classes, properties, etc.). 
@@ -34,5 +34,5 @@ _This category currently contains no pages or media._
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Category:NamingOP](../Category/NamingOP.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [PresentationOP](../Category/PresentationOP.md "Category:PresentationOP")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Category:NamingOP](../Category/NamingOP)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [PresentationOP](../Category/PresentationOP "Category:PresentationOP")

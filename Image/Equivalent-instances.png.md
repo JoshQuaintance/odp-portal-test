@@ -1,6 +1,6 @@
-* [Image](../Image/Equivalent-instances.png.md#file)
-* [File history](../Image/Equivalent-instances.png.md#filehistory)
-* [Links](../Image/Equivalent-instances.png.md#filelinks)
+* [Image](../Image/Equivalent-instances.png#file)
+* [File history](../Image/Equivalent-instances.png#filehistory)
+* [Links](../Image/Equivalent-instances.png#filelinks)
 
 [![Image:Equivalent-instances.png](../images/2/2c/Equivalent-instances.png)](../images/2/2c/Equivalent-instances.png)  
 No higher resolution available.  
@@ -25,4 +25,4 @@ There are no pages that link to this file.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Equivalent-instances.png](../Image/Equivalent-instances.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Equivalent-instances.png](../Image/Equivalent-instances.png)"

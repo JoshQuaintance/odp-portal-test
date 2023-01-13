@@ -27,10 +27,10 @@ __Solutions__:
 
 
 
-* [Solution: CQ suggestions](../../../Training/Autumn_2009_-_PhD_course_Jönköping/Creating_CQs_and_SPARQL_queries.md "Training:ESWC2010 Tutorial 2 - Extreme Design (XD): Pattern-based Ontology Design/CQs")
+* [Solution: CQ suggestions](../../../Training/Autumn_2009_-_PhD_course_Jönköping/Creating_CQs_and_SPARQL_queries "Training:ESWC2010 Tutorial 2 - Extreme Design (XD): Pattern-based Ontology Design/CQs")
 
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Training:ESWC2010\_Tutorial\_2\_-\_Extreme\_Design\_%28XD%29:\_Pattern-based\_Ontology\_Design/Creating\_CQs\_%28and\_exercising\_SPARQL\_syntax%29](../../../Training/ESWC2010_Tutorial_2_-_Extreme_Design_(XD)/_Pattern-based_Ontology_Design.md)/_Pattern-based_Ontology_Design/Creating_CQs_(and_exercising_SPARQL_syntax).md).html)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Exercise](../../../Category/Exercise.md "Category:Exercise")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Training:ESWC2010\_Tutorial\_2\_-\_Extreme\_Design\_%28XD%29:\_Pattern-based\_Ontology\_Design/Creating\_CQs\_%28and\_exercising\_SPARQL\_syntax%29](../../../Training/ESWC2010_Tutorial_2_-_Extreme_Design_(XD)/_Pattern-based_Ontology_Design)/_Pattern-based_Ontology_Design.md)/_Pattern-based_Ontology_Design/Creating_CQs_(and_exercising_SPARQL_syntax).md).html)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Exercise](../../../Category/Exercise "Category:Exercise")

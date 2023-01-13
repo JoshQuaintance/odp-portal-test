@@ -1,6 +1,6 @@
-* [Image](../Image/MicroblogEntry.png.md#file)
-* [File history](../Image/MicroblogEntry.png.md#filehistory)
-* [Links](../Image/MicroblogEntry.png.md#filelinks)
+* [Image](../Image/MicroblogEntry.png#file)
+* [File history](../Image/MicroblogEntry.png#filehistory)
+* [Links](../Image/MicroblogEntry.png#filelinks)
 
 [![Image:MicroblogEntry.png](../images/5/58/MicroblogEntry.png)](../images/5/58/MicroblogEntry.png)  
 No higher resolution available.  
@@ -23,7 +23,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Submissions:MicroblogEntry](../Submissions/MicroblogEntry.md "Submissions:MicroblogEntry")
+* [Submissions:MicroblogEntry](../Submissions/MicroblogEntry "Submissions:MicroblogEntry")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:MicroblogEntry.png](../Image/MicroblogEntry.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:MicroblogEntry.png](../Image/MicroblogEntry.png)"

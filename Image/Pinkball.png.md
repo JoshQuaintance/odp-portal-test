@@ -1,6 +1,6 @@
-* [Image](../Image/Pinkball.png.md#file)
-* [File history](../Image/Pinkball.png.md#filehistory)
-* [Links](../Image/Pinkball.png.md#filelinks)
+* [Image](../Image/Pinkball.png#file)
+* [File history](../Image/Pinkball.png#filehistory)
+* [Links](../Image/Pinkball.png#filelinks)
 
 [![Image:Pinkball.png](../images/0/0b/Pinkball.png)](../images/0/0b/Pinkball.png)  
 No higher resolution available.  
@@ -23,7 +23,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Community:Images](../Community/Images.md "Community:Images")
+* [Community:Images](../Community/Images "Community:Images")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Pinkball.png](../Image/Pinkball.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Pinkball.png](../Image/Pinkball.png)"

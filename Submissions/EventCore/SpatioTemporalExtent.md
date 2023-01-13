@@ -1,4 +1,4 @@
-___SpatioTemporalExtent__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [EventCore](../../Submissions/EventCore.md "Submissions:EventCore")_
+___SpatioTemporalExtent__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [EventCore](../../Submissions/EventCore "Submissions:EventCore")_
 
 
   
@@ -6,7 +6,7 @@ ___SpatioTemporalExtent__ has [Category:OntologyElement](../../Category/Ontology
 
 
 
-[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif.md "Class")
+[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif "Class")
 __Name__: SpatioTemporalExtent 
 
 
@@ -19,5 +19,5 @@ __Description__: Hook to a complex notion representing a unified spatial and tem
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:EventCore/SpatioTemporalExtent](../../Submissions/SpatioTemporalExtent.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:EventCore/SpatioTemporalExtent](../../Submissions/SpatioTemporalExtent)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

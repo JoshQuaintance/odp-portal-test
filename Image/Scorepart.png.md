@@ -1,6 +1,6 @@
-* [Image](../Image/Scorepart.png.md#file)
-* [File history](../Image/Scorepart.png.md#filehistory)
-* [Links](../Image/Scorepart.png.md#filelinks)
+* [Image](../Image/Scorepart.png#file)
+* [File history](../Image/Scorepart.png#filehistory)
+* [Links](../Image/Scorepart.png#filelinks)
 
 [![Image:Scorepart.png](../images/thumb/8/8f/Scorepart.png/800px-Scorepart.png)](../images/8/8f/Scorepart.png)  
 Size of this preview: 800 × 241 pixels  
@@ -28,4 +28,4 @@ There are no pages that link to this file.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Scorepart.png](../Image/Scorepart.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Scorepart.png](../Image/Scorepart.png)"

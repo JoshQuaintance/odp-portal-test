@@ -1,6 +1,6 @@
-* [Image](../Image/SC_Di_EC_4_5.jape.md#file)
-* [File history](../Image/SC_Di_EC_4_5.jape.md#filehistory)
-* [Links](../Image/SC_Di_EC_4_5.jape.md#filelinks)
+* [Image](../Image/SC_Di_EC_4_5.jape#file)
+* [File history](../Image/SC_Di_EC_4_5.jape#filehistory)
+* [Links](../Image/SC_Di_EC_4_5.jape#filelinks)
 
 
 [SC\_Di\_EC\_4\_5.jape](../images/2/2e/SC_Di_EC_4_5.jape "SC Di EC 4 5.jape")‎
@@ -32,8 +32,8 @@ Click on a date/time to view the file as it appeared at that time.
 The following 2 pages link to this file:
 
 
-* [Submissions:Lexico Syntactic ODPs corresponding to SubclassOf relation, Disjoint Classes, and Exhaustive Classes ODPs](../Submissions/Lexico_Syntactic_ODPs_corresponding_to_SubclassOf_relation,_Disjoint_Classes,_and_Exhaustive_Classes_ODPs.md "Submissions:Lexico Syntactic ODPs corresponding to SubclassOf relation, Disjoint Classes, and Exhaustive Classes ODPs")
-* [Submissions:Lexico Syntactic ODPs corresponding to SubclassOf relation, Disjoint Classes, and Exhaustive Classes ODPs/2](../Submissions/Lexico_Syntactic_ODPs_corresponding_to_SubclassOf_relation,_Disjoint_Classes,_and_Exhaustive_Classes_ODPs/2.md "Submissions:Lexico Syntactic ODPs corresponding to SubclassOf relation, Disjoint Classes, and Exhaustive Classes ODPs/2")
+* [Submissions:Lexico Syntactic ODPs corresponding to SubclassOf relation, Disjoint Classes, and Exhaustive Classes ODPs](../Submissions/Lexico_Syntactic_ODPs_corresponding_to_SubclassOf_relation,_Disjoint_Classes,_and_Exhaustive_Classes_ODPs "Submissions:Lexico Syntactic ODPs corresponding to SubclassOf relation, Disjoint Classes, and Exhaustive Classes ODPs")
+* [Submissions:Lexico Syntactic ODPs corresponding to SubclassOf relation, Disjoint Classes, and Exhaustive Classes ODPs/2](../Submissions/Lexico_Syntactic_ODPs_corresponding_to_SubclassOf_relation,_Disjoint_Classes,_and_Exhaustive_Classes_ODPs/2 "Submissions:Lexico Syntactic ODPs corresponding to SubclassOf relation, Disjoint Classes, and Exhaustive Classes ODPs/2")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:SC\_Di\_EC\_4\_5.jape](../Image/SC_Di_EC_4_5.jape.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:SC\_Di\_EC\_4\_5.jape](../Image/SC_Di_EC_4_5.jape)"

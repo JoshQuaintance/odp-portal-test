@@ -196,27 +196,27 @@ __Hotel Pace Elvetia__
 
 
 * [Admin](http://ontologydesignpatterns.org/wiki/index.php?title=User:Admin&action=edit&redlink=1 "User:Admin (not yet written)")
-* [AlGanjemo](../User/AlGanjemo.md "User:AlGanjemo")
-* [AldoGangemi](../User/AldoGangemi.md "User:AldoGangemi")
-* [AndreaNuzzolese](../User/AndreaNuzzolese.md "User:AndreaNuzzolese")
-* [AnsgarScherp](../User/AnsgarScherp.md "User:AnsgarScherp")
-* [BorisVillazón-Terrazas](../User/BorisVillazón-Terrazas.md "User:BorisVillazón-Terrazas")
-* [EnricoDaga](../User/EnricoDaga.md "User:EnricoDaga")
-* [EvaBlomqvist](../User/EvaBlomqvist.md "User:EvaBlomqvist")
-* [FrancoisScharffe](../User/FrancoisScharffe.md "User:FrancoisScharffe")
-* [GerdGroener](../User/GerdGroener.md "User:GerdGroener")
-* [HolgerLewen](../User/HolgerLewen.md "User:HolgerLewen")
-* [KarlHammar](../User/KarlHammar.md "User:KarlHammar")
-* [LaurentLefort](../User/LaurentLefort.md "User:LaurentLefort")
-* [LuZhou](../User/LuZhou.md "User:LuZhou")
-* [LuigiIannone](../User/LuigiIannone.md "User:LuigiIannone")
-* [MariCarmenSuarezFigueroa](../User/MariCarmenSuarezFigueroa.md "User:MariCarmenSuarezFigueroa")
-* [Marie-AudeAUFAURE](../User/Marie-AudeAUFAURE.md "User:Marie-AudeAUFAURE")
-* [MartaSabou](../User/MartaSabou.md "User:MartaSabou")
-* [MichaelGruninger](../User/MichaelGruninger.md "User:MichaelGruninger")
-* [MichaelUschold](../User/MichaelUschold.md "User:MichaelUschold")
-* [OlafNoppens](../User/OlafNoppens.md "User:OlafNoppens")
-* [PascalHitzler](../User/PascalHitzler.md "User:PascalHitzler") [… further results](http://ontologydesignpatterns.org/wiki/Special:Ask/-5B-5BUser:%2B-5D-5D/format%3Dtemplate/template%3DGroup-20eb-20members-20row/link%3Dnone "Special:Ask/-5B-5BUser:+-5D-5D/format=template/template=Group-20eb-20members-20row/link=none")
+* [AlGanjemo](../User/AlGanjemo "User:AlGanjemo")
+* [AldoGangemi](../User/AldoGangemi "User:AldoGangemi")
+* [AndreaNuzzolese](../User/AndreaNuzzolese "User:AndreaNuzzolese")
+* [AnsgarScherp](../User/AnsgarScherp "User:AnsgarScherp")
+* [BorisVillazón-Terrazas](../User/BorisVillazón-Terrazas "User:BorisVillazón-Terrazas")
+* [EnricoDaga](../User/EnricoDaga "User:EnricoDaga")
+* [EvaBlomqvist](../User/EvaBlomqvist "User:EvaBlomqvist")
+* [FrancoisScharffe](../User/FrancoisScharffe "User:FrancoisScharffe")
+* [GerdGroener](../User/GerdGroener "User:GerdGroener")
+* [HolgerLewen](../User/HolgerLewen "User:HolgerLewen")
+* [KarlHammar](../User/KarlHammar "User:KarlHammar")
+* [LaurentLefort](../User/LaurentLefort "User:LaurentLefort")
+* [LuZhou](../User/LuZhou "User:LuZhou")
+* [LuigiIannone](../User/LuigiIannone "User:LuigiIannone")
+* [MariCarmenSuarezFigueroa](../User/MariCarmenSuarezFigueroa "User:MariCarmenSuarezFigueroa")
+* [Marie-AudeAUFAURE](../User/Marie-AudeAUFAURE "User:Marie-AudeAUFAURE")
+* [MartaSabou](../User/MartaSabou "User:MartaSabou")
+* [MichaelGruninger](../User/MichaelGruninger "User:MichaelGruninger")
+* [MichaelUschold](../User/MichaelUschold "User:MichaelUschold")
+* [OlafNoppens](../User/OlafNoppens "User:OlafNoppens")
+* [PascalHitzler](../User/PascalHitzler "User:PascalHitzler") [… further results](http://ontologydesignpatterns.org/wiki/Special:Ask/-5B-5BUser:%2B-5D-5D/format%3Dtemplate/template%3DGroup-20eb-20members-20row/link%3Dnone "Special:Ask/-5B-5BUser:+-5D-5D/format=template/template=Group-20eb-20members-20row/link=none")
 
 
   
@@ -227,22 +227,22 @@ __Hotel Pace Elvetia__
 ###   Attendees
 
 
-* [Valentina Presutti](../User/ValentinaPresutti.md "User:ValentinaPresutti")
-* [Rim Djedidi](../User/RimDJEDIDI.md "User:RimDJEDIDI")
-* [Vojtech Svatek](../User/VojtechSvatek.md "User:VojtechSvatek")
-* [Violeta Damjanovic](../User/VioletaDamjanovic.md "User:VioletaDamjanovic")
-* [Enrico Daga](../User/EnricoDaga.md "User:EnricoDaga")
-* [Gerd Groener](../User/GerdGroener.md "User:GerdGroener")
-* [Francois Scharffe](../User/FrancoisScharffe.md "User:FrancoisScharffe")
+* [Valentina Presutti](../User/ValentinaPresutti "User:ValentinaPresutti")
+* [Rim Djedidi](../User/RimDJEDIDI "User:RimDJEDIDI")
+* [Vojtech Svatek](../User/VojtechSvatek "User:VojtechSvatek")
+* [Violeta Damjanovic](../User/VioletaDamjanovic "User:VioletaDamjanovic")
+* [Enrico Daga](../User/EnricoDaga "User:EnricoDaga")
+* [Gerd Groener](../User/GerdGroener "User:GerdGroener")
+* [Francois Scharffe](../User/FrancoisScharffe "User:FrancoisScharffe")
 
 
 ###   Sunday dinner attendees
 
 
-* [Valentina Presutti](../User/ValentinaPresutti.md "User:ValentinaPresutti")
-* [Rim Djedidi](../User/RimDJEDIDI.md "User:RimDJEDIDI")
-* [Vojtech Svatek](../User/VojtechSvatek.md "User:VojtechSvatek") (coming quite late, after 11pm, if at all)
-* ~~[Francois Scharffe](../User/FrancoisScharffe.md "User:FrancoisScharffe")~~ (finally won't make it)
+* [Valentina Presutti](../User/ValentinaPresutti "User:ValentinaPresutti")
+* [Rim Djedidi](../User/RimDJEDIDI "User:RimDJEDIDI")
+* [Vojtech Svatek](../User/VojtechSvatek "User:VojtechSvatek") (coming quite late, after 11pm, if at all)
+* ~~[Francois Scharffe](../User/FrancoisScharffe "User:FrancoisScharffe")~~ (finally won't make it)
 
 
 ###   Monday dinner attendees
@@ -252,23 +252,23 @@ __Hotel Pace Elvetia__
 	+ Address: Piazza della Gensola 15 (in front of Isola Tiberina)
 	+ google map path (from the meeting site): [[1]](http://maps.google.it/maps?f=q&source=s_q&hl=it&geocode=&q=from:+via+san+martino+della+battaglia,+Rome+to:+Piazza+della+Gensola,+15,+00153+Roma+RM&sll=41.89516,12.490125&sspn=0.030539,0.074587&ie=UTF8&z=14 "http://maps.google.it/maps?f=q&source=s_q&hl=it&geocode=&q=from:+via+san+martino+della+battaglia,+Rome+to:+Piazza+della+Gensola,+15,+00153+Roma+RM&sll=41.89516,12.490125&sspn=0.030539,0.074587&ie=UTF8&z=14")
 	+ From P.zza della Repubblica, take the BUS 'H' and wait for 4 stops, go out on p.zza Sonnino and do 250 meters
-* [Valentina Presutti](../User/ValentinaPresutti.md "User:ValentinaPresutti")
-* ~~[Vojtech Svatek](../User/VojtechSvatek.md "User:VojtechSvatek")~~ (unfortunately, Alitalia cancelled my flight and replaced with quite an early one for Tuesday, so I will have to go to bed very soon...)
-* [Violeta Damjanovic](../User/VioletaDamjanovic.md "User:VioletaDamjanovic")
-* [Gerd Groener](../User/GerdGroener.md "User:GerdGroener")
-* [Rim Djedidi](../User/RimDJEDIDI.md "User:RimDJEDIDI")
-* [Enrico Daga](../User/EnricoDaga.md "User:EnricoDaga")
+* [Valentina Presutti](../User/ValentinaPresutti "User:ValentinaPresutti")
+* ~~[Vojtech Svatek](../User/VojtechSvatek "User:VojtechSvatek")~~ (unfortunately, Alitalia cancelled my flight and replaced with quite an early one for Tuesday, so I will have to go to bed very soon...)
+* [Violeta Damjanovic](../User/VioletaDamjanovic "User:VioletaDamjanovic")
+* [Gerd Groener](../User/GerdGroener "User:GerdGroener")
+* [Rim Djedidi](../User/RimDJEDIDI "User:RimDJEDIDI")
+* [Enrico Daga](../User/EnricoDaga "User:EnricoDaga")
 
 
 ###   Process Modeling Pattern Seminar (attendees)
 
 
 * [Seminar details](http://stlab.istc.cnr.it/index.php/ProcessModelingFeb2009 "http://stlab.istc.cnr.it/index.php/ProcessModelingFeb2009")
-* [Valentina Presutti](../User/ValentinaPresutti.md "User:ValentinaPresutti")
-* [Violeta Damjanovic](../User/VioletaDamjanovic.md "User:VioletaDamjanovic")
-* [Gerd Groener](../User/GerdGroener.md "User:GerdGroener")
-* [Enrico Daga](../User/EnricoDaga.md "User:EnricoDaga")
-* [Rim Djedidi](../User/RimDJEDIDI.md "User:RimDJEDIDI")
+* [Valentina Presutti](../User/ValentinaPresutti "User:ValentinaPresutti")
+* [Violeta Damjanovic](../User/VioletaDamjanovic "User:VioletaDamjanovic")
+* [Gerd Groener](../User/GerdGroener "User:GerdGroener")
+* [Enrico Daga](../User/EnricoDaga "User:EnricoDaga")
+* [Rim Djedidi](../User/RimDJEDIDI "User:RimDJEDIDI")
 
 
 ###   Minutes
@@ -458,7 +458,7 @@ Review-Certification process:
 		- Decision token: finally the portal is on semantic web ODPs, and rdf/owl are the w3c standards for it. Anyway is important to support the most used languages;
 
 
-Valentina illustrates the [patterns' different types](../OPTypes.md "OPTypes")
+Valentina illustrates the [patterns' different types](../OPTypes "OPTypes")
 
 
 Discussion about lexical issues on ODP taxonomy:
@@ -513,4 +513,4 @@ Dissemination:
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Odp:EB-1st-f2f-2009Feb23](../Odp/EB-1st-f2f-2009Feb23.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Odp:EB-1st-f2f-2009Feb23](../Odp/EB-1st-f2f-2009Feb23)"

@@ -311,5 +311,5 @@ Syntax has to be adjusted in order to comply to namespaces prefixes and ontology
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Training:NeOn\_2008\_Tutorial\_on\_Computational\_Ontologies/Music\_Industry\_Ontology](../../Training/NeOn_2008_Tutorial_on_Computational_Ontologies/Music_Industry_Ontology.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Exercise](../../Category/Exercise.md "Category:Exercise")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Training:NeOn\_2008\_Tutorial\_on\_Computational\_Ontologies/Music\_Industry\_Ontology](../../Training/NeOn_2008_Tutorial_on_Computational_Ontologies/Music_Industry_Ontology)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Exercise](../../Category/Exercise "Category:Exercise")

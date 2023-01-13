@@ -1,7 +1,7 @@
-* [Image](../Image/Xsd-step5.JPG.md#file)
-* [File history](../Image/Xsd-step5.JPG.md#filehistory)
-* [Links](../Image/Xsd-step5.JPG.md#filelinks)
-* [Metadata](../Image/Xsd-step5.JPG.md#metadata)
+* [Image](../Image/Xsd-step5.JPG#file)
+* [File history](../Image/Xsd-step5.JPG#filehistory)
+* [Links](../Image/Xsd-step5.JPG#filelinks)
+* [Metadata](../Image/Xsd-step5.JPG#metadata)
 
 [![Image:Xsd-step5.JPG](../images/b/b4/Xsd-step5.JPG)](../images/b/b4/Xsd-step5.JPG)  
 No higher resolution available.  
@@ -24,7 +24,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Submissions:Xsd:sequence embedding](../Submissions/Xsd/sequence_embedding.md "Submissions:Xsd:sequence embedding")
+* [Submissions:Xsd:sequence embedding](../Submissions/Xsd/sequence_embedding "Submissions:Xsd:sequence embedding")
 
 ## Metadata
 
@@ -35,4 +35,4 @@ If the file has been modified from its original state, some details may not full
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Xsd-step5.JPG](../Image/Xsd-step5.JPG.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Xsd-step5.JPG](../Image/Xsd-step5.JPG)"

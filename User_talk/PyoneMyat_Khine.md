@@ -5,4 +5,4 @@ You will probably want to read the [help pages](http://ontologydesignpatterns.or
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/User\_talk:PyoneMyat\_Khine](../User_talk/PyoneMyat_Khine.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/User\_talk:PyoneMyat\_Khine](../User_talk/PyoneMyat_Khine)"

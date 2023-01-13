@@ -14,8 +14,8 @@ __Description:__ Adding a link for adding scenarios, and including the list of t
 
 
 * __Type__: Improvement
-* __Posted by__: [ValentinaPresutti](../../User/ValentinaPresutti.md "User:ValentinaPresutti")
-* __Parent task__: [Odp:Tasks/Scenarios](../../Community/Scenarios.md "Odp:Tasks/Scenarios")
+* __Posted by__: [ValentinaPresutti](../../User/ValentinaPresutti "User:ValentinaPresutti")
+* __Parent task__: [Odp:Tasks/Scenarios](../../Community/Scenarios "Odp:Tasks/Scenarios")
 * __Status__: fixed
 
 
@@ -30,8 +30,8 @@ This task has no sub-tasks
 
 
 
-[Development](../../Odp/Development.md "Odp:Development") | [Create new task](http://ontologydesignpatterns.org/wiki/Special:AddData/Task_Form?Task Template[SubmittedBy]=93.34.113.67).| [Add sub-task](http://ontologydesignpatterns.org/wiki/Special:AddData/Task_Form?parenttask=Tasks/Linking_scenarios_in_the_proposal%27s_page&Task Template[ParentTask]=Tasks/Linking_scenarios_in_the_proposal%27s_page&Task Template[SubmittedBy]=93.34.113.67) | [Add a comment at the bottom of this page](../index.php@title=Odp%253AAdd_comment&target=Odp%253ATasks%252F../../Odp/Tasks/Linking_scenarios_in_the_proposal's_page.md#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Odp:Tasks/Linking_scenarios_in_the_proposal%27s_page#New_comment")
-#####  17-06-2008 [EnricoDaga](../../User/EnricoDaga.md "User:EnricoDaga") says:
+[Development](../../Odp/Development "Odp:Development") | [Create new task](http://ontologydesignpatterns.org/wiki/Special:AddData/Task_Form?Task Template[SubmittedBy]=93.34.113.67).| [Add sub-task](http://ontologydesignpatterns.org/wiki/Special:AddData/Task_Form?parenttask=Tasks/Linking_scenarios_in_the_proposal%27s_page&Task Template[ParentTask]=Tasks/Linking_scenarios_in_the_proposal%27s_page&Task Template[SubmittedBy]=93.34.113.67) | [Add a comment at the bottom of this page](../index.php@title=Odp%253AAdd_comment&target=Odp%253ATasks%252F../../Odp/Tasks/Linking_scenarios_in_the_proposal's_page#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Odp:Tasks/Linking_scenarios_in_the_proposal%27s_page#New_comment")
+#####  17-06-2008 [EnricoDaga](../../User/EnricoDaga "User:EnricoDaga") says:
 
 
 About:
@@ -45,7 +45,7 @@ use (with page-inclusion, same as elements).
 
 ```
 
-_Are we sure?_: I like the current solution, does not make the page too big (and difficult to read...) [enrico](../../User/EnricoDaga.md "User:EnricoDaga")
+_Are we sure?_: I like the current solution, does not make the page too big (and difficult to read...) [enrico](../../User/EnricoDaga "User:EnricoDaga")
 
 
 
@@ -56,7 +56,7 @@ We need a link to related scenarios, otherwise it does not make to have them. We
 
 
 
-#####  9-07-2008 [EnricoDaga](../../User/EnricoDaga.md "User:EnricoDaga") says:
+#####  9-07-2008 [EnricoDaga](../../User/EnricoDaga "User:EnricoDaga") says:
 
 
 To see the changes in the pattern's page is necesary to edit & save the proposal's pattern article.
@@ -65,5 +65,5 @@ To see the changes in the pattern's page is necesary to edit & save the proposal
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Odp:Tasks/Linking\_scenarios\_in\_the\_proposal%27s\_page](../../Odp/Tasks/Linking_scenarios_in_the_proposal's_page.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [DevelopmentTask](../../Category/DevelopmentTask.md "Category:DevelopmentTask")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Odp:Tasks/Linking\_scenarios\_in\_the\_proposal%27s\_page](../../Odp/Tasks/Linking_scenarios_in_the_proposal's_page)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [DevelopmentTask](../../Category/DevelopmentTask "Category:DevelopmentTask")

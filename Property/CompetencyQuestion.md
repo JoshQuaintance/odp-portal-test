@@ -1,6 +1,6 @@
 __CompetencyQuestion__.
 This property indicates the one or more questions you want your knowledge base to be able to answer. 
-The value of this property is of type [Text](../Type/Text.md "Type:Text").
+The value of this property is of type [Text](../Type/Text "Type:Text").
 
 
 
@@ -15,4 +15,4 @@ Showing 15 pages using this property.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Property:CompetencyQuestion](../Property/CompetencyQuestion.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Property:CompetencyQuestion](../Property/CompetencyQuestion)"

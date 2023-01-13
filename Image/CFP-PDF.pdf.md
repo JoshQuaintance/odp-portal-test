@@ -1,8 +1,8 @@
-* [Image](../Image/CFP-PDF.pdf.md#file)
-* [File history](../Image/CFP-PDF.pdf.md#filehistory)
-* [Links](../Image/CFP-PDF.pdf.md#filelinks)
+* [Image](../Image/CFP-PDF.pdf#file)
+* [File history](../Image/CFP-PDF.pdf#filehistory)
+* [Links](../Image/CFP-PDF.pdf#filelinks)
 
-[![](../skins/common/images/icons/fileicon-pdf.png)](../Image/CFP-PDF.pdf.md "CFP-PDF.pdf")
+[![](../skins/common/images/icons/fileicon-pdf.png)](../Image/CFP-PDF.pdf "CFP-PDF.pdf")
 [CFP-PDF.pdf](../images/3/3f/CFP-PDF.pdf "CFP-PDF.pdf")‎  (file size: 53 KB, MIME type: application/pdf)
 
 
@@ -32,4 +32,4 @@ There are no pages that link to this file.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:CFP-PDF.pdf](../Image/CFP-PDF.pdf.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:CFP-PDF.pdf](../Image/CFP-PDF.pdf)"

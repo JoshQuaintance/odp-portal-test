@@ -27,7 +27,7 @@ __Description:__ Creation of a Form for submitting tutorials. The idea is to hav
 
 * __Type__: Improvement
 * __Posted by__: [Admin](http://ontologydesignpatterns.org/wiki/index.php?title=User:Admin&action=edit&redlink=1 "User:Admin (not yet written)")
-* __Parent task__: [Odp:Tasks/Training\_area](../../Odp/Tasks/Training_area.md "Odp:Tasks/Training area")
+* __Parent task__: [Odp:Tasks/Training\_area](../../Odp/Tasks/Training_area "Odp:Tasks/Training area")
 * __Status__: fixed
 
 
@@ -42,8 +42,8 @@ This task has no sub-tasks
 
 
 
-[Development](../../Odp/Development.md "Odp:Development") | [Create new task](http://ontologydesignpatterns.org/wiki/Special:AddData/Task_Form?Task Template[SubmittedBy]=93.34.113.67).| [Add sub-task](http://ontologydesignpatterns.org/wiki/Special:AddData/Task_Form?parenttask=Tasks/Tutorial_submission_form&Task Template[ParentTask]=Tasks/Tutorial_submission_form&Task Template[SubmittedBy]=93.34.113.67) | [Add a comment at the bottom of this page](http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Odp:Tasks/Tutorial_submission_form#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Odp:Tasks/Tutorial_submission_form#New_comment")
+[Development](../../Odp/Development "Odp:Development") | [Create new task](http://ontologydesignpatterns.org/wiki/Special:AddData/Task_Form?Task Template[SubmittedBy]=93.34.113.67).| [Add sub-task](http://ontologydesignpatterns.org/wiki/Special:AddData/Task_Form?parenttask=Tasks/Tutorial_submission_form&Task Template[ParentTask]=Tasks/Tutorial_submission_form&Task Template[SubmittedBy]=93.34.113.67) | [Add a comment at the bottom of this page](http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Odp:Tasks/Tutorial_submission_form#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Odp:Tasks/Tutorial_submission_form#New_comment")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Odp:Tasks/Tutorial\_submission\_form](../../Odp/Tasks/Tutorial_submission_form.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [DevelopmentTask](../../Category/DevelopmentTask.md "Category:DevelopmentTask")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Odp:Tasks/Tutorial\_submission\_form](../../Odp/Tasks/Tutorial_submission_form)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [DevelopmentTask](../../Category/DevelopmentTask "Category:DevelopmentTask")

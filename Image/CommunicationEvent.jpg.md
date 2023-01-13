@@ -1,7 +1,7 @@
-* [Image](../Image/CommunicationEvent.jpg.md#file)
-* [File history](../Image/CommunicationEvent.jpg.md#filehistory)
-* [Links](../Image/CommunicationEvent.jpg.md#filelinks)
-* [Metadata](../Image/CommunicationEvent.jpg.md#metadata)
+* [Image](../Image/CommunicationEvent.jpg#file)
+* [File history](../Image/CommunicationEvent.jpg#filehistory)
+* [Links](../Image/CommunicationEvent.jpg#filelinks)
+* [Metadata](../Image/CommunicationEvent.jpg#metadata)
 
 [![Image:CommunicationEvent.jpg](../images/thumb/a/aa/CommunicationEvent.jpg/800px-CommunicationEvent.jpg)](../images/a/aa/CommunicationEvent.jpg)  
 Size of this preview: 800 × 299 pixels  
@@ -27,7 +27,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Submissions:CommunicationEvent](../Submissions/CommunicationEvent.md "Submissions:CommunicationEvent")
+* [Submissions:CommunicationEvent](../Submissions/CommunicationEvent "Submissions:CommunicationEvent")
 
 ## Metadata
 
@@ -38,4 +38,4 @@ If the file has been modified from its original state, some details may not full
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:CommunicationEvent.jpg](../Image/CommunicationEvent.jpg.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:CommunicationEvent.jpg](../Image/CommunicationEvent.jpg)"

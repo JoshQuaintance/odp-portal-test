@@ -1,4 +1,4 @@
-Return to [Catalogue of Exemplary Ontologies](../Ontology/Main.md "Ontology:Main")
+Return to [Catalogue of Exemplary Ontologies](../Ontology/Main "Ontology:Main")
 
 
 
@@ -100,15 +100,15 @@ See alsoÂ [Tutorials, Presentations & Papers](http://references/ "http://refer
 #  References
 
 
-[Add a reference](index.php@title=Odp%253AAdd_reference&subject=../Ontology/SKOS.md "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_reference&subject=Ontology%3ASKOS")
+[Add a reference](index.php@title=Odp%253AAdd_reference&subject=../Ontology/SKOS "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_reference&subject=Ontology%3ASKOS")
 
 
 
-* SKOS WIkipedia article [Documentation](http://en.wikipedia.org/wiki/Simple_Knowledge_Organization_System "http://en.wikipedia.org/wiki/Simple_Knowledge_Organization_System") | [reference page](../Community/References/SKOS_WIkipedia_article.md "Community:References/SKOS WIkipedia article")
-* SKOS Simple Knowledge Organization System - Home Page [Project Home Page](http://www.w3.org/2004/02/skos/ "http://www.w3.org/2004/02/skos/") | [reference page](../Community/References/SKOS_Home_Page.md "Community:References/SKOS Home Page")
+* SKOS WIkipedia article [Documentation](http://en.wikipedia.org/wiki/Simple_Knowledge_Organization_System "http://en.wikipedia.org/wiki/Simple_Knowledge_Organization_System") | [reference page](../Community/References/SKOS_WIkipedia_article "Community:References/SKOS WIkipedia article")
+* SKOS Simple Knowledge Organization System - Home Page [Project Home Page](http://www.w3.org/2004/02/skos/ "http://www.w3.org/2004/02/skos/") | [reference page](../Community/References/SKOS_Home_Page "Community:References/SKOS Home Page")
 
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Ontology:SKOS](../Ontology/SKOS.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Ontology](../Category/Ontology.md "Category:Ontology")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Ontology:SKOS](../Ontology/SKOS)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Ontology](../Category/Ontology "Category:Ontology")

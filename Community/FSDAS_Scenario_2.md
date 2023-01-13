@@ -35,7 +35,7 @@ _(this article has no graphical representation)_
 ##   Scenarios and associated solutions
 
 
-The following scenarios contain no additional hints for modeling. For a version with hints, see also the [original modeling issue](../Community/FSDAS_Scenario.md "Community:FSDAS Scenario") from Yves. The link on the right of leading scenarios refers to the OWL file of a content pattern that is proposed to satisfy the scenario:
+The following scenarios contain no additional hints for modeling. For a version with hints, see also the [original modeling issue](../Community/FSDAS_Scenario "Community:FSDAS Scenario") from Yves. The link on the right of leading scenarios refers to the OWL file of a content pattern that is proposed to satisfy the scenario:
 
 
 
@@ -68,7 +68,7 @@ The following scenarios contain no additional hints for modeling. For a version 
 ##   Scenarios abstracted as competency questions (with associated solutions)
 
 
-The following competency questions contain no additional hints for modeling. For a version with hints, see also the [original modeling issue](../Community/FSDAS_Scenario.md "Community:FSDAS Scenario") from Yves. The link on the right of leading competency questions refers to the OWL file of a content pattern that is proposed to satisfy the competency questions:
+The following competency questions contain no additional hints for modeling. For a version with hints, see also the [original modeling issue](../Community/FSDAS_Scenario "Community:FSDAS Scenario") from Yves. The link on the right of leading competency questions refers to the OWL file of a content pattern that is proposed to satisfy the competency questions:
 
 
 
@@ -111,5 +111,5 @@ The following competency questions contain no additional hints for modeling. For
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Community:FSDAS\_Scenario\_2](../Community/FSDAS_Scenario_2.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ModelingIssue](../Category/ModelingIssue.md "Category:ModelingIssue")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Community:FSDAS\_Scenario\_2](../Community/FSDAS_Scenario_2)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ModelingIssue](../Category/ModelingIssue "Category:ModelingIssue")

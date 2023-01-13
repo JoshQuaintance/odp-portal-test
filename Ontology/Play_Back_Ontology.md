@@ -1,4 +1,4 @@
-Return to [Catalogue of Exemplary Ontologies](../Ontology/Main.md "Ontology:Main")
+Return to [Catalogue of Exemplary Ontologies](../Ontology/Main "Ontology:Main")
 
 
 
@@ -44,10 +44,10 @@ The Play Back Ontology and the illustrated examples above demonstrates the reuti
 
 
 
-* A blog post about the Recommendation Ontology with examples and graphics. [Weblog post](http://smiy.org/2010/07/27/the-play-back-ontology/ "http://smiy.org/2010/07/27/the-play-back-ontology/") | [reference page](../Community/References/Play_Back_Ontology_announcement.md "Community:References/Play Back Ontology announcement")
+* A blog post about the Recommendation Ontology with examples and graphics. [Weblog post](http://smiy.org/2010/07/27/the-play-back-ontology/ "http://smiy.org/2010/07/27/the-play-back-ontology/") | [reference page](../Community/References/Play_Back_Ontology_announcement "Community:References/Play Back Ontology announcement")
 
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Ontology:Play\_Back\_Ontology](../Ontology/Play_Back_Ontology.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Ontology](../Category/Ontology.md "Category:Ontology")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Ontology:Play\_Back\_Ontology](../Ontology/Play_Back_Ontology)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Ontology](../Category/Ontology "Category:Ontology")

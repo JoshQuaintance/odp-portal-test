@@ -1,6 +1,6 @@
-* [Image](../Image/Workflow_PR-NOR-CLTX-01_example_1.png.md#file)
-* [File history](../Image/Workflow_PR-NOR-CLTX-01_example_1.png.md#filehistory)
-* [Links](../Image/Workflow_PR-NOR-CLTX-01_example_1.png.md#filelinks)
+* [Image](../Image/Workflow_PR-NOR-CLTX-01_example_1.png#file)
+* [File history](../Image/Workflow_PR-NOR-CLTX-01_example_1.png#filehistory)
+* [Links](../Image/Workflow_PR-NOR-CLTX-01_example_1.png#filelinks)
 
 [![Image:Workflow PR-NOR-CLTX-01 example 1.png](../images/1/12/Workflow_PR-NOR-CLTX-01_example_1.png)](../images/1/12/Workflow_PR-NOR-CLTX-01_example_1.png)  
 No higher resolution available.  
@@ -23,7 +23,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Submissions:Pattern for re-engineering a classification scheme, which follows the path enumeration data model, into an ontology schema](../Submissions/Pattern_for_re-engineering_a_classification_scheme,_which_follows_the_path_enumeration_data_model,_into_an_ontology_schema.md "Submissions:Pattern for re-engineering a classification scheme, which follows the path enumeration data model, into an ontology schema")
+* [Submissions:Pattern for re-engineering a classification scheme, which follows the path enumeration data model, into an ontology schema](../Submissions/Pattern_for_re-engineering_a_classification_scheme,_which_follows_the_path_enumeration_data_model,_into_an_ontology_schema "Submissions:Pattern for re-engineering a classification scheme, which follows the path enumeration data model, into an ontology schema")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Workflow\_PR-NOR-CLTX-01\_example\_1.png](../Image/Workflow_PR-NOR-CLTX-01_example_1.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Workflow\_PR-NOR-CLTX-01\_example\_1.png](../Image/Workflow_PR-NOR-CLTX-01_example_1.png)"

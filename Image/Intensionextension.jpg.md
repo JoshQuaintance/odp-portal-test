@@ -1,6 +1,6 @@
-* [Image](../Image/Intensionextension.jpg.md#file)
-* [File history](../Image/Intensionextension.jpg.md#filehistory)
-* [Links](../Image/Intensionextension.jpg.md#filelinks)
+* [Image](../Image/Intensionextension.jpg#file)
+* [File history](../Image/Intensionextension.jpg#filehistory)
+* [Links](../Image/Intensionextension.jpg#filelinks)
 
 [![Image:Intensionextension.jpg](../images/0/01/Intensionextension.jpg)](../images/0/01/Intensionextension.jpg)  
 No higher resolution available.  
@@ -23,8 +23,8 @@ Click on a date/time to view the file as it appeared at that time.
 The following 2 pages link to this file:
 
 
-* [Community:Images](../Community/Images.md "Community:Images")
-* [Submissions:IntensionExtension](../Submissions/IntensionExtension.md "Submissions:IntensionExtension")
+* [Community:Images](../Community/Images "Community:Images")
+* [Submissions:IntensionExtension](../Submissions/IntensionExtension "Submissions:IntensionExtension")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Intensionextension.jpg](../Image/Intensionextension.jpg.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Intensionextension.jpg](../Image/Intensionextension.jpg)"

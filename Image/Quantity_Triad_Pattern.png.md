@@ -1,6 +1,6 @@
-* [Image](../Image/Quantity_Triad_Pattern.png.md#file)
-* [File history](../Image/Quantity_Triad_Pattern.png.md#filehistory)
-* [Links](../Image/Quantity_Triad_Pattern.png.md#filelinks)
+* [Image](../Image/Quantity_Triad_Pattern.png#file)
+* [File history](../Image/Quantity_Triad_Pattern.png#filehistory)
+* [Links](../Image/Quantity_Triad_Pattern.png#filelinks)
 
 [![Image:Quantity Triad Pattern.png](../images/thumb/3/3d/Quantity_Triad_Pattern.png/800px-Quantity_Triad_Pattern.png)](../images/3/3d/Quantity_Triad_Pattern.png)  
 Size of this preview: 800 × 336 pixels  
@@ -26,7 +26,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Submissions:Quantity Triad Pattern](../Submissions/Quantity_Triad_Pattern.md "Submissions:Quantity Triad Pattern")
+* [Submissions:Quantity Triad Pattern](../Submissions/Quantity_Triad_Pattern "Submissions:Quantity Triad Pattern")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Quantity\_Triad\_Pattern.png](../Image/Quantity_Triad_Pattern.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Quantity\_Triad\_Pattern.png](../Image/Quantity_Triad_Pattern.png)"

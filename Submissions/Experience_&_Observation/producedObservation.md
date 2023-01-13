@@ -1,4 +1,4 @@
-___producedObservation__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [Experience & Observation](../../Submissions/Experience_&_Observation.md "Submissions:Experience & Observation")_
+___producedObservation__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [Experience & Observation](../../Submissions/Experience_&_Observation "Submissions:Experience & Observation")_
 
 
   
@@ -6,7 +6,7 @@ ___producedObservation__ has [Category:OntologyElement](../../Category/OntologyE
 
 
 
-[![ObjectProperty](../../images/thumb/c/c3/ObjectProperty.gif/45px-ObjectProperty.gif)](../../Image/ObjectProperty.gif.md "ObjectProperty")
+[![ObjectProperty](../../images/thumb/c/c3/ObjectProperty.gif/45px-ObjectProperty.gif)](../../Image/ObjectProperty.gif "ObjectProperty")
 __Name__: producedObservation 
 
 
@@ -19,5 +19,5 @@ __Description__: This property can be used to denote that something is (even ind
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Experience\_%26\_Observation/producedObservation](../../Submissions/Experience_&_Observation/producedObservation.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Experience\_%26\_Observation/producedObservation](../../Submissions/Experience_&_Observation/producedObservation)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

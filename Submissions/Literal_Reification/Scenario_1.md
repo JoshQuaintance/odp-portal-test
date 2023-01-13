@@ -4,7 +4,7 @@ __Diagram__
 
 
 
-[![Image:LiteralReificationExample1.png](../../images/c/c7/LiteralReificationExample1.png)](../../Image/LiteralReificationExample1.png.md "Image:LiteralReificationExample1.png")
+[![Image:LiteralReificationExample1.png](../../images/c/c7/LiteralReificationExample1.png)](../../Image/LiteralReificationExample1.png "Image:LiteralReificationExample1.png")
 
 
 
@@ -15,5 +15,5 @@ __OWL file:__ [http://www.essepuntato.it/2010/06/sc1.ttl](http://www.essepuntato
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Literal\_Reification/Scenario\_1](../../Submissions/AgentRole/Scenario_1.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Scenario](../../Category/Scenario.md "Category:Scenario")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Literal\_Reification/Scenario\_1](../../Submissions/AgentRole/Scenario_1)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Scenario](../../Category/Scenario "Category:Scenario")

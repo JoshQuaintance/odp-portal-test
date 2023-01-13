@@ -1,6 +1,6 @@
-* [Image](../Image/FoodSubstituteODP.png.md#file)
-* [File history](../Image/FoodSubstituteODP.png.md#filehistory)
-* [Links](../Image/FoodSubstituteODP.png.md#filelinks)
+* [Image](../Image/FoodSubstituteODP.png#file)
+* [File history](../Image/FoodSubstituteODP.png#filehistory)
+* [Links](../Image/FoodSubstituteODP.png#filelinks)
 
 [![Image:FoodSubstituteODP.png](../images/thumb/e/e7/FoodSubstituteODP.png/800px-FoodSubstituteODP.png)](../images/e/e7/FoodSubstituteODP.png)  
 Size of this preview: 800 × 465 pixels  
@@ -23,7 +23,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Submissions:Food Recipe Ingredient Substitution Ontology Design Pattern](../Submissions/Food_Recipe_Ingredient_Substitution_Ontology_Design_Pattern.md "Submissions:Food Recipe Ingredient Substitution Ontology Design Pattern")
+* [Submissions:Food Recipe Ingredient Substitution Ontology Design Pattern](../Submissions/Food_Recipe_Ingredient_Substitution_Ontology_Design_Pattern "Submissions:Food Recipe Ingredient Substitution Ontology Design Pattern")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:FoodSubstituteODP.png](../Image/FoodSubstituteODP.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:FoodSubstituteODP.png](../Image/FoodSubstituteODP.png)"

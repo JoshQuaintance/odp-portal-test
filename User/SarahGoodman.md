@@ -1,4 +1,4 @@
-[![Image:ODPUser.png](../images/a/a6/ODPUser.png)](../Image/ODPUser.png.md "Image:ODPUser.png")
+[![Image:ODPUser.png](../images/a/a6/ODPUser.png)](../Image/ODPUser.png "Image:ODPUser.png")
 
 
 
@@ -19,11 +19,11 @@ __Domains of interest:__
 
 
 
-* [Business](../Community/Business.md "Community:Business")
+* [Business](../Community/Business "Community:Business")
 * [Enterprise Cloud](http://ontologydesignpatterns.org/wiki/Special:AddData/Domain Form/Community:Enterprise_Cloud "Community:Enterprise Cloud (not yet written)")
 * [ITIL](http://ontologydesignpatterns.org/wiki/Special:AddData/Domain Form/Community:ITIL "Community:ITIL (not yet written)")
 * [ITSM](http://ontologydesignpatterns.org/wiki/Special:AddData/Domain Form/Community:ITSM "Community:ITSM (not yet written)")
-* [Software](../Community/Software.md "Community:Software")
+* [Software](../Community/Software "Community:Software")
 * [Products](http://ontologydesignpatterns.org/wiki/Special:AddData/Domain Form/Community:Products "Community:Products (not yet written)")
 
 
@@ -39,5 +39,5 @@ __How did I know about ODP:__ surfing the web
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/User:SarahGoodman](../User/SarahGoodman.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ODPUser](../Category/ODPUser.md "Category:ODPUser")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/User:SarahGoodman](../User/SarahGoodman)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ODPUser](../Category/ODPUser "Category:ODPUser")

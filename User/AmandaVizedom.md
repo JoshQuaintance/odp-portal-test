@@ -1,4 +1,4 @@
-[![Image:ODPUser.png](../images/a/a6/ODPUser.png)](../Image/ODPUser.png.md "Image:ODPUser.png")
+[![Image:ODPUser.png](../images/a/a6/ODPUser.png)](../Image/ODPUser.png "Image:ODPUser.png")
 
 
 
@@ -19,9 +19,9 @@ __Domains of interest:__
 
 
 
-* [General](../Community/General.md "Community:General")
-* [Ontology](../Community/Ontology-based_models.md "Community:Ontology")
-* [Workflow](../Community/Workflow.md "Community:Workflow")
+* [General](../Community/General "Community:General")
+* [Ontology](../Community/Ontology-based_models "Community:Ontology")
+* [Workflow](../Community/Workflow "Community:Workflow")
 * [Processes](http://ontologydesignpatterns.org/wiki/index.php?title=Community:Processes&action=edit&redlink=1 "Community:Processes (not yet written)")
 * [roles](http://ontologydesignpatterns.org/wiki/index.php?title=Community:Roles&action=edit&redlink=1 "Community:Roles (not yet written)")
 * [and actors; authority and governance; information quality; mapping ontology to language and datat](http://ontologydesignpatterns.org/wiki/index.php?title=Community:And_actors%3B_authority_and_governance%3B_information_quality%3B_mapping_ontology_to_language_and_datat&action=edit&redlink=1 "Community:And actors; authority and governance; information quality; mapping ontology to language and datat (not yet written)")
@@ -39,5 +39,5 @@ __How did I know about ODP:__ conference/public events
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/User:AmandaVizedom](../User/AmandaVizedom.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ODPUser](../Category/ODPUser.md "Category:ODPUser")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/User:AmandaVizedom](../User/AmandaVizedom)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ODPUser](../Category/ODPUser "Category:ODPUser")

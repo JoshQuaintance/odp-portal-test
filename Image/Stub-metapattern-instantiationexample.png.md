@@ -1,6 +1,6 @@
-* [Image](../Image/Stub-metapattern-instantiationexample.png.md#file)
-* [File history](../Image/Stub-metapattern-instantiationexample.png.md#filehistory)
-* [Links](../Image/Stub-metapattern-instantiationexample.png.md#filelinks)
+* [Image](../Image/Stub-metapattern-instantiationexample.png#file)
+* [File history](../Image/Stub-metapattern-instantiationexample.png#filehistory)
+* [Links](../Image/Stub-metapattern-instantiationexample.png#filelinks)
 
 [![Image:Stub-metapattern-instantiationexample.png](../images/b/be/Stub-metapattern-instantiationexample.png)](../images/b/be/Stub-metapattern-instantiationexample.png)  
 No higher resolution available.  
@@ -23,7 +23,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Submissions:Stub Metapattern](../Submissions/Stub_Metapattern.md "Submissions:Stub Metapattern")
+* [Submissions:Stub Metapattern](../Submissions/Stub_Metapattern "Submissions:Stub Metapattern")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Stub-metapattern-instantiationexample.png](../Image/Stub-metapattern-instantiationexample.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Stub-metapattern-instantiationexample.png](../Image/Stub-metapattern-instantiationexample.png)"

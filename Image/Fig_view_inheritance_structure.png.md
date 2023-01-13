@@ -1,6 +1,6 @@
-* [Image](../Image/Fig_view_inheritance_structure.png.md#file)
-* [File history](../Image/Fig_view_inheritance_structure.png.md#filehistory)
-* [Links](../Image/Fig_view_inheritance_structure.png.md#filelinks)
+* [Image](../Image/Fig_view_inheritance_structure.png#file)
+* [File history](../Image/Fig_view_inheritance_structure.png#filehistory)
+* [Links](../Image/Fig_view_inheritance_structure.png#filelinks)
 
 [![Image:Fig view inheritance structure.png](../images/0/0a/Fig_view_inheritance_structure.png)](../images/0/0a/Fig_view_inheritance_structure.png)  
 No higher resolution available.  
@@ -26,7 +26,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Submissions:View Inheritance](../Submissions/View_Inheritance.md "Submissions:View Inheritance")
+* [Submissions:View Inheritance](../Submissions/View_Inheritance "Submissions:View Inheritance")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Fig\_view\_inheritance\_structure.png](../Image/Fig_view_inheritance_structure.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Fig\_view\_inheritance\_structure.png](../Image/Fig_view_inheritance_structure.png)"

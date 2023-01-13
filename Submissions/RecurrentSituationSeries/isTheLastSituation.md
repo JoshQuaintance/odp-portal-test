@@ -1,4 +1,4 @@
-___isTheLastSituation__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [RecurrentSituationSeries](../../Submissions/RecurrentSituationSeries.md "Submissions:RecurrentSituationSeries")_
+___isTheLastSituation__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [RecurrentSituationSeries](../../Submissions/RecurrentSituationSeries "Submissions:RecurrentSituationSeries")_
 
 
   
@@ -6,7 +6,7 @@ ___isTheLastSituation__ has [Category:OntologyElement](../../Category/OntologyEl
 
 
 
-[![DatatypeProperty](../../images/thumb/a/a5/DatatypeProperty.gif/45px-DatatypeProperty.gif)](../../Image/DatatypeProperty.gif.md "DatatypeProperty")
+[![DatatypeProperty](../../images/thumb/a/a5/DatatypeProperty.gif/45px-DatatypeProperty.gif)](../../Image/DatatypeProperty.gif "DatatypeProperty")
 __Name__: isTheLastSituation 
 
 
@@ -19,5 +19,5 @@ __Description__: This property defines if a situation that is member of a recurr
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:RecurrentSituationSeries/isTheLastSituation](../../Submissions/RecurrentSituationSeries/isTheLastSituation.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:RecurrentSituationSeries/isTheLastSituation](../../Submissions/RecurrentSituationSeries/isTheLastSituation)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

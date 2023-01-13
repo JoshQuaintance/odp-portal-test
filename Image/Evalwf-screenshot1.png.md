@@ -1,6 +1,6 @@
-* [Image](../Image/Evalwf-screenshot1.png.md#file)
-* [File history](../Image/Evalwf-screenshot1.png.md#filehistory)
-* [Links](../Image/Evalwf-screenshot1.png.md#filelinks)
+* [Image](../Image/Evalwf-screenshot1.png#file)
+* [File history](../Image/Evalwf-screenshot1.png#filehistory)
+* [Links](../Image/Evalwf-screenshot1.png#filelinks)
 
 [![Image:Evalwf-screenshot1.png](../images/thumb/1/11/Evalwf-screenshot1.png/800px-Evalwf-screenshot1.png)](../images/1/11/Evalwf-screenshot1.png)  
 Size of this preview: 800 × 500 pixels  
@@ -23,7 +23,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Community:Images](../Community/Images.md "Community:Images")
+* [Community:Images](../Community/Images "Community:Images")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Evalwf-screenshot1.png](../Image/Evalwf-screenshot1.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Evalwf-screenshot1.png](../Image/Evalwf-screenshot1.png)"

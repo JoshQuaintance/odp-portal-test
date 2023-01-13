@@ -1,6 +1,6 @@
-* [Image](../Image/ClaraDrawing.jpg.md#file)
-* [File history](../Image/ClaraDrawing.jpg.md#filehistory)
-* [Links](../Image/ClaraDrawing.jpg.md#filelinks)
+* [Image](../Image/ClaraDrawing.jpg#file)
+* [File history](../Image/ClaraDrawing.jpg#filehistory)
+* [Links](../Image/ClaraDrawing.jpg#filelinks)
 
 [![Image:ClaraDrawing.jpg](../images/c/cc/ClaraDrawing.jpg)](../images/c/cc/ClaraDrawing.jpg)  
 No higher resolution available.  
@@ -23,8 +23,8 @@ Click on a date/time to view the file as it appeared at that time.
 The following 2 pages link to this file:
 
 
-* [Community:Images](../Community/Images.md "Community:Images")
-* [Odp:AccountRequest](../Odp/AccountRequest.md "Odp:AccountRequest")
+* [Community:Images](../Community/Images "Community:Images")
+* [Odp:AccountRequest](../Odp/AccountRequest "Odp:AccountRequest")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:ClaraDrawing.jpg](../Image/ClaraDrawing.jpg.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:ClaraDrawing.jpg](../Image/ClaraDrawing.jpg)"

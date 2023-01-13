@@ -1,6 +1,6 @@
-* [Image](../Image/ReportingEvent-scheme.png.md#file)
-* [File history](../Image/ReportingEvent-scheme.png.md#filehistory)
-* [Links](../Image/ReportingEvent-scheme.png.md#filelinks)
+* [Image](../Image/ReportingEvent-scheme.png#file)
+* [File history](../Image/ReportingEvent-scheme.png#filehistory)
+* [Links](../Image/ReportingEvent-scheme.png#filelinks)
 
 [![Image:ReportingEvent-scheme.png](../images/b/b6/ReportingEvent-scheme.png)](../images/b/b6/ReportingEvent-scheme.png)  
 No higher resolution available.  
@@ -26,7 +26,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Submissions:ReportingEvent](../Submissions/ReportingEvent.md "Submissions:ReportingEvent")
+* [Submissions:ReportingEvent](../Submissions/ReportingEvent "Submissions:ReportingEvent")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:ReportingEvent-scheme.png](../Image/ReportingEvent-scheme.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:ReportingEvent-scheme.png](../Image/ReportingEvent-scheme.png)"

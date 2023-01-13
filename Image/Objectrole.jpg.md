@@ -1,6 +1,6 @@
-* [Image](../Image/Objectrole.jpg.md#file)
-* [File history](../Image/Objectrole.jpg.md#filehistory)
-* [Links](../Image/Objectrole.jpg.md#filelinks)
+* [Image](../Image/Objectrole.jpg#file)
+* [File history](../Image/Objectrole.jpg#filehistory)
+* [Links](../Image/Objectrole.jpg#filelinks)
 
 [![Image:Objectrole.jpg](../images/a/a4/Objectrole.jpg)](../images/a/a4/Objectrole.jpg)  
 No higher resolution available.  
@@ -23,8 +23,8 @@ Click on a date/time to view the file as it appeared at that time.
 The following 2 pages link to this file:
 
 
-* [Community:Images](../Community/Images.md "Community:Images")
-* [Submissions:Objectrole](../Submissions/Objectrole.md "Submissions:Objectrole")
+* [Community:Images](../Community/Images "Community:Images")
+* [Submissions:Objectrole](../Submissions/Objectrole "Submissions:Objectrole")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Objectrole.jpg](../Image/Objectrole.jpg.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Objectrole.jpg](../Image/Objectrole.jpg)"

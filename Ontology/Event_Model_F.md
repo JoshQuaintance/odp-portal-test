@@ -1,4 +1,4 @@
-Return to [Catalogue of Exemplary Ontologies](../Ontology/Main.md "Ontology:Main")
+Return to [Catalogue of Exemplary Ontologies](../Ontology/Main "Ontology:Main")
 
 
 
@@ -40,5 +40,5 @@ Ansgar Scherp, Thomas Franz, Carsten Saathoff, and Steffen Staab [Documentation]
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Ontology:Event\_Model\_F](../Ontology/Event_Model_F.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Ontology](../Category/Ontology.md "Category:Ontology")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Ontology:Event\_Model\_F](../Ontology/Event_Model_F)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Ontology](../Category/Ontology "Category:Ontology")

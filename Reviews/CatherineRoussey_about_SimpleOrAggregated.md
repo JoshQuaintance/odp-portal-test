@@ -1,5 +1,5 @@
-[![](../images/thumb/2/29/Reviewer.png/48px-Reviewer.png)](../Image/Reviewer.png.md "Reviewer.png")
-__[CatherineRoussey](../User/CatherineRoussey.md "User:CatherineRoussey") about [SimpleOrAggregated](../Submissions/SimpleOrAggregated.md "Submissions:SimpleOrAggregated") (Revision ID: [10064](../Submissions/SimpleOrAggregated@oldid=10064.md "http://ontologydesignpatterns.org/wiki/Submissions:SimpleOrAggregated?oldid=10064"))__
+[![](../images/thumb/2/29/Reviewer.png/48px-Reviewer.png)](../Image/Reviewer.png "Reviewer.png")
+__[CatherineRoussey](../User/CatherineRoussey "User:CatherineRoussey") about [SimpleOrAggregated](../Submissions/SimpleOrAggregated "Submissions:SimpleOrAggregated") (Revision ID: [10064](../Submissions/SimpleOrAggregated@oldid=10064 "http://ontologydesignpatterns.org/wiki/Submissions:SimpleOrAggregated?oldid=10064"))__
 Overall suggestion (score): 0 - needs major revision
 
 
@@ -44,8 +44,8 @@ _Posted:_ 2010/9/10 _Last modified:_ 2010/9/16
 
 
 
-[All reviews](../Reviews/Main.md "Reviews:Main") | [Add a comment at the bottom of this page](index.php@title=Odp%253AAdd_comment&target=../Reviews/CatherineRoussey_about_SimpleOrAggregated.md#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Reviews:CatherineRoussey_about_SimpleOrAggregated#New_comment")
-#####  16-09-2010 [CatherineRoussey](../User/CatherineRoussey.md "User:CatherineRoussey") says:
+[All reviews](../Reviews/Main "Reviews:Main") | [Add a comment at the bottom of this page](index.php@title=Odp%253AAdd_comment&target=../Reviews/CatherineRoussey_about_SimpleOrAggregated#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Reviews:CatherineRoussey_about_SimpleOrAggregated#New_comment")
+#####  16-09-2010 [CatherineRoussey](../User/CatherineRoussey "User:CatherineRoussey") says:
 
 
 I have seen that the definition of a simple Object is an object with no aggregated Objects (no parts) so what is an object with only one aggregated Object? no an aggregated Object but not a simple Object... the ObjectBy Cardinality partition should be modified...
@@ -54,5 +54,5 @@ I have seen that the definition of a simple Object is an object with no aggregat
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Reviews:CatherineRoussey\_about\_SimpleOrAggregated](../Reviews/CatherineRoussey_about_SimpleOrAggregated.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [QCReview](../Category/QCReview.md "Category:QCReview")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Reviews:CatherineRoussey\_about\_SimpleOrAggregated](../Reviews/CatherineRoussey_about_SimpleOrAggregated)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [QCReview](../Category/QCReview "Category:QCReview")

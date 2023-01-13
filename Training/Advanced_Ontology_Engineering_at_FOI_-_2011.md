@@ -27,14 +27,14 @@ __Exercises__:
 
 
 
-* [Advanced Ontology Engineering at FOI - 2011/Ontology Design Patterns](../Training/Advanced_Ontology_Engineering_at_FOI_-_2011/Ontology_Design_Patterns.md "Training:Advanced Ontology Engineering at FOI - 2011/Ontology Design Patterns")
-* [Advanced Ontology Engineering at FOI - 2011/Ontology Testing](../Training/Advanced_Ontology_Engineering_at_FOI_-_2011/Ontology_Testing.md "Training:Advanced Ontology Engineering at FOI - 2011/Ontology Testing")
-* [Advanced Ontology Engineering at FOI - 2011/Reengineering](../Training/Advanced_Ontology_Engineering_at_FOI_-_2011/Reengineering.md "Training:Advanced Ontology Engineering at FOI - 2011/Reengineering")
-* [Advanced Ontology Engineering at FOI - 2011/Requirements Engineering](../Training/Advanced_Ontology_Engineering_at_FOI_-_2011/Requirements_Engineering.md "Training:Advanced Ontology Engineering at FOI - 2011/Requirements Engineering")
-* [Advanced Ontology Engineering at FOI - 2011/XD mini-project](../Training/Advanced_Ontology_Engineering_at_FOI_-_2011/XD_mini-project.md "Training:Advanced Ontology Engineering at FOI - 2011/XD mini-project")
+* [Advanced Ontology Engineering at FOI - 2011/Ontology Design Patterns](../Training/Advanced_Ontology_Engineering_at_FOI_-_2011/Ontology_Design_Patterns "Training:Advanced Ontology Engineering at FOI - 2011/Ontology Design Patterns")
+* [Advanced Ontology Engineering at FOI - 2011/Ontology Testing](../Training/Advanced_Ontology_Engineering_at_FOI_-_2011/Ontology_Testing "Training:Advanced Ontology Engineering at FOI - 2011/Ontology Testing")
+* [Advanced Ontology Engineering at FOI - 2011/Reengineering](../Training/Advanced_Ontology_Engineering_at_FOI_-_2011/Reengineering "Training:Advanced Ontology Engineering at FOI - 2011/Reengineering")
+* [Advanced Ontology Engineering at FOI - 2011/Requirements Engineering](../Training/Advanced_Ontology_Engineering_at_FOI_-_2011/Requirements_Engineering "Training:Advanced Ontology Engineering at FOI - 2011/Requirements Engineering")
+* [Advanced Ontology Engineering at FOI - 2011/XD mini-project](../Training/Advanced_Ontology_Engineering_at_FOI_-_2011/XD_mini-project "Training:Advanced Ontology Engineering at FOI - 2011/XD mini-project")
 
 
-[Create exercise for this tutorial](http://ontologydesignpatterns.org/wiki/Special:AddData/Form:Tutorial_Exercise_Form?Exercise_Description_Template[Tutorial]=Advanced Ontology Engineering at FOI - 2011) | [Training area](../Training/Main.md "Training:Main")
+[Create exercise for this tutorial](http://ontologydesignpatterns.org/wiki/Special:AddData/Form:Tutorial_Exercise_Form?Exercise_Description_Template[Tutorial]=Advanced Ontology Engineering at FOI - 2011) | [Training area](../Training/Main "Training:Main")
 
 ###   Reading Material
 
@@ -78,5 +78,5 @@ Some links to material related to the lectures can be found below:
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Training:Advanced\_Ontology\_Engineering\_at\_FOI\_-\_2011](../Training/Advanced_Ontology_Engineering_at_FOI_-_2011.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Tutorial](../Category/Tutorial.md "Category:Tutorial")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Training:Advanced\_Ontology\_Engineering\_at\_FOI\_-\_2011](../Training/Advanced_Ontology_Engineering_at_FOI_-_2011)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Tutorial](../Category/Tutorial "Category:Tutorial")

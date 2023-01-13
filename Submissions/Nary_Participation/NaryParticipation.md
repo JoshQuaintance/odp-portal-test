@@ -1,4 +1,4 @@
-___NaryParticipation__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [Nary Participation](../../Submissions/Nary_Participation.md "Submissions:Nary Participation")_
+___NaryParticipation__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [Nary Participation](../../Submissions/Nary_Participation "Submissions:Nary Participation")_
 
 
   
@@ -6,7 +6,7 @@ ___NaryParticipation__ has [Category:OntologyElement](../../Category/OntologyEle
 
 
 
-[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif.md "Class")
+[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif "Class")
 __Name__: NaryParticipation 
 
 
@@ -19,5 +19,5 @@ __Description__: The reified class of n-ary participation relations, e.g. "prepa
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Nary\_Participation/NaryParticipation](../../Submissions/Nary_Participation/NaryParticipation.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Nary\_Participation/NaryParticipation](../../Submissions/Nary_Participation/NaryParticipation)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

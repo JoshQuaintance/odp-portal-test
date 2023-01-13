@@ -1,5 +1,5 @@
-[![](../images/thumb/2/29/Reviewer.png/48px-Reviewer.png)](../Image/Reviewer.png.md "Reviewer.png")
-__[MariCarmenSuarezFigueroa](../User/MariCarmenSuarezFigueroa.md "User:MariCarmenSuarezFigueroa") about [Normalization](../Submissions/Normalization.md "Submissions:Normalization") (Revision ID: [10115](../Submissions/Normalization@oldid=10115.md "http://ontologydesignpatterns.org/wiki/Submissions:Normalization?oldid=10115"))__
+[![](../images/thumb/2/29/Reviewer.png/48px-Reviewer.png)](../Image/Reviewer.png "Reviewer.png")
+__[MariCarmenSuarezFigueroa](../User/MariCarmenSuarezFigueroa "User:MariCarmenSuarezFigueroa") about [Normalization](../Submissions/Normalization "Submissions:Normalization") (Revision ID: [10115](../Submissions/Normalization@oldid=10115 "http://ontologydesignpatterns.org/wiki/Submissions:Normalization?oldid=10115"))__
 Overall suggestion (score): 1 - needs minor revision
 
 
@@ -22,8 +22,8 @@ _Posted:_ 2010/9/17 _Last modified:_ 2010/9/17
 
 
 
-[All reviews](../Reviews/Main.md "Reviews:Main") | [Add a comment at the bottom of this page](index.php@title=Odp%253AAdd_comment&target=../Reviews/MariCarmenSuarezFigueroa_about_Normalization.md#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Reviews:MariCarmenSuarezFigueroa_about_Normalization#New_comment")
+[All reviews](../Reviews/Main "Reviews:Main") | [Add a comment at the bottom of this page](index.php@title=Odp%253AAdd_comment&target=../Reviews/MariCarmenSuarezFigueroa_about_Normalization#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Reviews:MariCarmenSuarezFigueroa_about_Normalization#New_comment")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Reviews:MariCarmenSuarezFigueroa\_about\_Normalization](../Reviews/MariCarmenSuarezFigueroa_about_Normalization.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [QCReview](../Category/QCReview.md "Category:QCReview")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Reviews:MariCarmenSuarezFigueroa\_about\_Normalization](../Reviews/MariCarmenSuarezFigueroa_about_Normalization)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [QCReview](../Category/QCReview "Category:QCReview")

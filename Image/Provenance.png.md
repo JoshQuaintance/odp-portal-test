@@ -1,6 +1,6 @@
-* [Image](../Image/Provenance.png.md#file)
-* [File history](../Image/Provenance.png.md#filehistory)
-* [Links](../Image/Provenance.png.md#filelinks)
+* [Image](../Image/Provenance.png#file)
+* [File history](../Image/Provenance.png#filehistory)
+* [Links](../Image/Provenance.png#filelinks)
 
 [![Image:Provenance.png](../images/b/b7/Provenance.png)](../images/b/b7/Provenance.png)  
 No higher resolution available.  
@@ -23,7 +23,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Submissions:Provenance](../Submissions/Provenance.md "Submissions:Provenance")
+* [Submissions:Provenance](../Submissions/Provenance "Submissions:Provenance")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Provenance.png](../Image/Provenance.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Provenance.png](../Image/Provenance.png)"

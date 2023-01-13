@@ -1,6 +1,6 @@
 __Name__
 This property indicates a name for the entity it is associated with.
-The value of this property is of type [String](../Type/String.md "Type:String").
+The value of this property is of type [String](../Type/String "Type:String").
 
 
 

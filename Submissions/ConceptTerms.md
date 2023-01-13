@@ -1,4 +1,4 @@
-[![](../images/thumb/b/b5/Certified.png/70px-Certified.png)](../Image/Certified.png.md "Certified.png") __This pattern has been certified.__
+[![](../images/thumb/b/b5/Certified.png/70px-Certified.png)](../Image/Certified.png "Certified.png") __This pattern has been certified.__
 Related submission, with evaluation history, can be found __here__
 
 
@@ -13,7 +13,7 @@ __Diagram__
 
 
 
-[![Image:ConceptTermsPattern.jpg](../images/0/09/ConceptTermsPattern.jpg)](../Image/ConceptTermsPattern.jpg.md "Image:ConceptTermsPattern.jpg")
+[![Image:ConceptTermsPattern.jpg](../images/0/09/ConceptTermsPattern.jpg)](../Image/ConceptTermsPattern.jpg "Image:ConceptTermsPattern.jpg")
 
 
 
@@ -52,7 +52,7 @@ __Scenarios about ConceptTerms__
 * This ontology contains an example ABox for the ConceptTerms CP available at [http://sites.google.com/site/pierreyvesvandenbussche/resources/ConceptTerms.owl](http://sites.google.com/site/pierreyvesvandenbussche/resources/ConceptTerms.owl "http://sites.google.com/site/pierreyvesvandenbussche/resources/ConceptTerms.owl")
 
 
- This ontology describes example coming from Eurovoc([http://europa.eu/eurovoc/](http://europa.eu/eurovoc/ "http://europa.eu/eurovoc/")) where a concept has a preferred term "social sciences" in english and a simple non preferred term (i.e. synonyms) "humanities" in the same language whereas the same concept has a preferred term "sciences sociales" in french and a simple non preferred term "sciences humaines" in this language. We consider a second preferred term in english "award" which names a concept. In this particular information retrieval context, we define a coumpound non preferred term "social sciences awards" which is related to preferred terms "social sciences" and "award". [>>>](../Submissions/ConceptTerms/Scenario_1.md "http://ontologydesignpatterns.org/wiki/Submissions:ConceptTerms/Scenario_1")
+ This ontology describes example coming from Eurovoc([http://europa.eu/eurovoc/](http://europa.eu/eurovoc/ "http://europa.eu/eurovoc/")) where a concept has a preferred term "social sciences" in english and a simple non preferred term (i.e. synonyms) "humanities" in the same language whereas the same concept has a preferred term "sciences sociales" in french and a simple non preferred term "sciences humaines" in this language. We consider a second preferred term in english "award" which names a concept. In this particular information retrieval context, we define a coumpound non preferred term "social sciences awards" which is related to preferred terms "social sciences" and "award". [>>>](../Submissions/ConceptTerms/Scenario_1 "http://ontologydesignpatterns.org/wiki/Submissions:ConceptTerms/Scenario_1")
 
 
 
@@ -62,7 +62,7 @@ __Scenarios about ConceptTerms__
 
 
 __Reviews about ConceptTerms__
-This revision (revision ID __9079__) takes in account the reviews: [WimPeters about ConceptTerms](../Reviews/WimPeters_about_ConceptTerms.md "Reviews:WimPeters about ConceptTerms"), [VojtechSvatek about ConceptTerms](../Reviews/VojtechSvatek_about_ConceptTerms.md "Reviews:VojtechSvatek about ConceptTerms"), [MariCarmenSuarezFigueroa about ConceptTerms](../Reviews/MariCarmenSuarezFigueroa_about_ConceptTerms.md "Reviews:MariCarmenSuarezFigueroa about ConceptTerms")
+This revision (revision ID __9079__) takes in account the reviews: [WimPeters about ConceptTerms](../Reviews/WimPeters_about_ConceptTerms "Reviews:WimPeters about ConceptTerms"), [VojtechSvatek about ConceptTerms](../Reviews/VojtechSvatek_about_ConceptTerms "Reviews:VojtechSvatek about ConceptTerms"), [MariCarmenSuarezFigueroa about ConceptTerms](../Reviews/MariCarmenSuarezFigueroa_about_ConceptTerms "Reviews:MariCarmenSuarezFigueroa about ConceptTerms")
 
 
 Other info at [evaluation tab](http://ontologydesignpatterns.org/wiki/index.php?title=Submissions:ConceptTerms&action=evaluation "http://ontologydesignpatterns.org/wiki/index.php?title=Submissions:ConceptTerms&action=evaluation")
@@ -93,7 +93,7 @@ There is no Modeling issue related to this proposal.
 #  References
 
 
-[Add a reference](index.php@title=Odp%253AAdd_reference&subject=../Submissions/ConceptTerms.md "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_reference&subject=Submissions%3AConceptTerms")
+[Add a reference](index.php@title=Odp%253AAdd_reference&subject=../Submissions/ConceptTerms "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_reference&subject=Submissions%3AConceptTerms")
 
 
   
@@ -103,5 +103,5 @@ There is no Modeling issue related to this proposal.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:ConceptTerms](../Submissions/ConceptTerms.md)"
- [Categories](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ProposedContentOP](../Category/ProposedContentOP.md "Category:ProposedContentOP") | [Submitted to event](../Category/Submitted_to_event.md "Category:Submitted to event")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:ConceptTerms](../Submissions/ConceptTerms)"
+ [Categories](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ProposedContentOP](../Category/ProposedContentOP "Category:ProposedContentOP") | [Submitted to event](../Category/Submitted_to_event "Category:Submitted to event")

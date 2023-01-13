@@ -1,6 +1,6 @@
-* [Image](../Image/Reactor-pattern.png.md#file)
-* [File history](../Image/Reactor-pattern.png.md#filehistory)
-* [Links](../Image/Reactor-pattern.png.md#filelinks)
+* [Image](../Image/Reactor-pattern.png#file)
+* [File history](../Image/Reactor-pattern.png#filehistory)
+* [Links](../Image/Reactor-pattern.png#filelinks)
 
 [![Image:Reactor-pattern.png](../images/thumb/4/4b/Reactor-pattern.png/800px-Reactor-pattern.png)](../images/4/4b/Reactor-pattern.png)  
 Size of this preview: 800 × 316 pixels  
@@ -33,7 +33,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Submissions:Reactor pattern](../Submissions/Reactor_pattern.md "Submissions:Reactor pattern")
+* [Submissions:Reactor pattern](../Submissions/Reactor_pattern "Submissions:Reactor pattern")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Reactor-pattern.png](../Image/Reactor-pattern.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Reactor-pattern.png](../Image/Reactor-pattern.png)"

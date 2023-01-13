@@ -1,6 +1,6 @@
-* [Image](../Image/Speciesconservation.jpg.md#file)
-* [File history](../Image/Speciesconservation.jpg.md#filehistory)
-* [Links](../Image/Speciesconservation.jpg.md#filelinks)
+* [Image](../Image/Speciesconservation.jpg#file)
+* [File history](../Image/Speciesconservation.jpg#filehistory)
+* [Links](../Image/Speciesconservation.jpg#filelinks)
 
 [![Image:Speciesconservation.jpg](../images/1/1b/Speciesconservation.jpg)](../images/1/1b/Speciesconservation.jpg)  
 No higher resolution available.  
@@ -23,8 +23,8 @@ Click on a date/time to view the file as it appeared at that time.
 The following 2 pages link to this file:
 
 
-* [Community:Images](../Community/Images.md "Community:Images")
-* [Submissions:SpeciesConservation](../Submissions/SpeciesConservation.md "Submissions:SpeciesConservation")
+* [Community:Images](../Community/Images "Community:Images")
+* [Submissions:SpeciesConservation](../Submissions/SpeciesConservation "Submissions:SpeciesConservation")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Speciesconservation.jpg](../Image/Speciesconservation.jpg.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Speciesconservation.jpg](../Image/Speciesconservation.jpg)"

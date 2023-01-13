@@ -1,7 +1,7 @@
 __ReviewAboutSubmission__. 
 This property indicates the CP proposal that is the subject of the review.
 Its value is of type  [ContentOPProposal](http://ontologydesignpatterns.org/wiki/index.php?title=Category:ContentOPProposal&action=edit&redlink=1 "Category:ContentOPProposal (not yet written)"). 
-The value of this property is of type [Page](../Type/Page.md "Type:Page")
+The value of this property is of type [Page](../Type/Page "Type:Page")
 
 
 

@@ -1,22 +1,22 @@
-[![](../images/thumb/1/10/Event.png/70px-Event.png)](../Image/Event.png.md "Event.png")
+[![](../images/thumb/1/10/Event.png/70px-Event.png)](../Image/Event.png "Event.png")
 
 
 
 ###  Workshops
 
 
-* [11th Workshop on Ontology Design and Patterns (WOP) - at ISWC 2020](../WOP/2020.1.md "WOP:2020")
-* [10th Workshop on Ontology Design and Patterns (WOP) - at ISWC 2019](../WOP/2019.1.md "WOP:2019")
-* [9th Workshop on Ontology Design and Patterns (WOP) - at ISWC 2018](../WOP/2018.1.md "WOP:2018")
-* [8th Workshop on Ontology Design and Patterns (WOP) - at ISWC 2017](../WOP/2017.1.md "WOP:2017")
-* [7th Workshop on Ontology Patterns (WOP) - at ISWC 2016](../WOP/2016.1.md "WOP:2016")
-* [6th Workshop on Ontology Patterns (WOP) - at ISWC 2015](../WOP/2015.md "WOP:2015")
-* [5th Workshop on Ontology Patterns (WOP) - at ISWC 2014](../WOP/2014.md "WOP:2014")
-* [4th Workshop on Ontology Patterns (WOP) - at ISWC 2013](../WOP/2013.md "WOP:2013")
-* [3rd Workshop on Ontology Patterns (WOP) - at ISWC 2012](../WOP/2012.md "WOP:2012")
-* [2nd Workshop on Ontology Patterns (WOP) - at ISWC 2010](../Odp/WOP2010.md "Odp:WOP2010")
-* [1st Workshop on Knowledge Injection and and Extraction from Linked Data (KIELD) - at EKAW 2010](../Odp/KIELD2010.md "Odp:KIELD2010")
-* [1st Workshop on Ontology Patterns (WOP) - at ISWC 2009](../WOP/2009.md "WOP:2009")
+* [11th Workshop on Ontology Design and Patterns (WOP) - at ISWC 2020](../WOP/2020.1 "WOP:2020")
+* [10th Workshop on Ontology Design and Patterns (WOP) - at ISWC 2019](../WOP/2019.1 "WOP:2019")
+* [9th Workshop on Ontology Design and Patterns (WOP) - at ISWC 2018](../WOP/2018.1 "WOP:2018")
+* [8th Workshop on Ontology Design and Patterns (WOP) - at ISWC 2017](../WOP/2017.1 "WOP:2017")
+* [7th Workshop on Ontology Patterns (WOP) - at ISWC 2016](../WOP/2016.1 "WOP:2016")
+* [6th Workshop on Ontology Patterns (WOP) - at ISWC 2015](../WOP/2015 "WOP:2015")
+* [5th Workshop on Ontology Patterns (WOP) - at ISWC 2014](../WOP/2014 "WOP:2014")
+* [4th Workshop on Ontology Patterns (WOP) - at ISWC 2013](../WOP/2013 "WOP:2013")
+* [3rd Workshop on Ontology Patterns (WOP) - at ISWC 2012](../WOP/2012 "WOP:2012")
+* [2nd Workshop on Ontology Patterns (WOP) - at ISWC 2010](../Odp/WOP2010 "Odp:WOP2010")
+* [1st Workshop on Knowledge Injection and and Extraction from Linked Data (KIELD) - at EKAW 2010](../Odp/KIELD2010 "Odp:KIELD2010")
+* [1st Workshop on Ontology Patterns (WOP) - at ISWC 2009](../WOP/2009 "WOP:2009")
 
 
 ###  GeoVocabularyCamps with focus on ontology design pattern modeling
@@ -36,8 +36,8 @@
 ###  Tutorials
 
 
-* [Ontology Design Patterns for Linked Data Publishing at ISWC 2016](../ISWC2016Tutorial.md "http://ontologydesignpatterns.org/wiki/ISWC2016Tutorial")
-* [Modular Ontology Modeling with Ontology Design Patterns Tutorial at ESWC 2017](../Training/Tutorial/_Modular_Ontology_Modeling_with_Ontology_Design_Patterns_at_ESWC2017.md "Training:Tutorial: Modular Ontology Modeling with Ontology Design Patterns at ESWC2017")
+* [Ontology Design Patterns for Linked Data Publishing at ISWC 2016](../ISWC2016Tutorial "http://ontologydesignpatterns.org/wiki/ISWC2016Tutorial")
+* [Modular Ontology Modeling with Ontology Design Patterns Tutorial at ESWC 2017](../Training/Tutorial/_Modular_Ontology_Modeling_with_Ontology_Design_Patterns_at_ESWC2017 "Training:Tutorial: Modular Ontology Modeling with Ontology Design Patterns at ESWC2017")
 
 
 ###   XD camps
@@ -49,9 +49,9 @@
 ###   Face to Face meetings
 
 
-* [First f2f editorial board meeting](../Odp/EB-1st-f2f-2009Feb23.md "Odp:EB-1st-f2f-2009Feb23")
+* [First f2f editorial board meeting](../Odp/EB-1st-f2f-2009Feb23 "Odp:EB-1st-f2f-2009Feb23")
 
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Odp:Events](../Odp/Events.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Odp:Events](../Odp/Events)"

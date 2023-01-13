@@ -1,4 +1,4 @@
-[![Image:ODPUser.png](../images/a/a6/ODPUser.png)](../Image/ODPUser.png.md "Image:ODPUser.png")
+[![Image:ODPUser.png](../images/a/a6/ODPUser.png)](../Image/ODPUser.png "Image:ODPUser.png")
 
 
 
@@ -22,7 +22,7 @@ __Domains of interest:__
 * [Logistics](http://ontologydesignpatterns.org/wiki/Special:AddData/Domain Form/Community:Logistics "Community:Logistics (not yet written)")
 * [Supply Chain Management](http://ontologydesignpatterns.org/wiki/Special:AddData/Domain Form/Community:Supply_Chain_Management "Community:Supply Chain Management (not yet written)")
 * [Production](http://ontologydesignpatterns.org/wiki/Special:AddData/Domain Form/Community:Production "Community:Production (not yet written)")
-* [Manufacturing](../Community/Manufacturing.md "Community:Manufacturing")
+* [Manufacturing](../Community/Manufacturing "Community:Manufacturing")
 * [Information Systems](http://ontologydesignpatterns.org/wiki/Special:AddData/Domain Form/Community:Information_Systems "Community:Information Systems (not yet written)")
 
 
@@ -40,5 +40,5 @@ __How did I know about ODP:__ conference/public events, surfing the web
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/User:MichaelGl%C3%B6ckner](../User/MichaelGlöckner.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ODPUser](../Category/ODPUser.md "Category:ODPUser")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/User:MichaelGl%C3%B6ckner](../User/MichaelGlöckner)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ODPUser](../Category/ODPUser "Category:ODPUser")

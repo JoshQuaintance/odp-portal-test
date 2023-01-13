@@ -1,7 +1,7 @@
-This is a property of type [Text](../Type/Text.md "Type:Text").
+This is a property of type [Text](../Type/Text "Type:Text").
 
 
-This property is subproperty of [PatternConsequences](../Property/PatternConsequences.md "Property:PatternConsequences").
+This property is subproperty of [PatternConsequences](../Property/PatternConsequences "Property:PatternConsequences").
 
 
 
@@ -16,4 +16,4 @@ Showing 0 pages using this property.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Property:AlignmentODPConsequences](../Property/AlignmentODPConsequences.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Property:AlignmentODPConsequences](../Property/AlignmentODPConsequences)"

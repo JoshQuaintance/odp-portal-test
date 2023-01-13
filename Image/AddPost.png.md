@@ -1,6 +1,6 @@
-* [Image](../Image/AddPost.png.md#file)
-* [File history](../Image/AddPost.png.md#filehistory)
-* [Links](../Image/AddPost.png.md#filelinks)
+* [Image](../Image/AddPost.png#file)
+* [File history](../Image/AddPost.png#filehistory)
+* [Links](../Image/AddPost.png#filelinks)
 
 [![Image:AddPost.png](../images/1/15/AddPost.png)](../images/1/15/AddPost.png)  
 No higher resolution available.  
@@ -23,7 +23,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Community:Images](../Community/Images.md "Community:Images")
+* [Community:Images](../Community/Images "Community:Images")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:AddPost.png](../Image/AddPost.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:AddPost.png](../Image/AddPost.png)"

@@ -26,8 +26,8 @@ I would like to fix this in the following way:
 
 
 * __Type__: Improvement
-* __Posted by__: [ValentinaPresutti](../../User/ValentinaPresutti.md "User:ValentinaPresutti")
-* __Parent task__: [Odp:Tasks/Review procedure](../../Odp/Tasks/Review_procedure.md "Odp:Tasks/Review procedure")
+* __Posted by__: [ValentinaPresutti](../../User/ValentinaPresutti "User:ValentinaPresutti")
+* __Parent task__: [Odp:Tasks/Review procedure](../../Odp/Tasks/Review_procedure "Odp:Tasks/Review procedure")
 * __Status__: fixed
 
 
@@ -40,19 +40,19 @@ __Sub-tasks__:
 
 
 
-* [Tasks/Open Review](../../Form/Content_OP_Proposal_Open_Review_Form.md "Odp:Tasks/Open Review") (fixed)
+* [Tasks/Open Review](../../Form/Content_OP_Proposal_Open_Review_Form "Odp:Tasks/Open Review") (fixed)
 
 
 
-[Development](../../Odp/Development.md "Odp:Development") | [Create new task](http://ontologydesignpatterns.org/wiki/Special:AddData/Task_Form?Task Template[SubmittedBy]=93.34.113.67).| [Add sub-task](http://ontologydesignpatterns.org/wiki/Special:AddData/Task_Form?parenttask=Tasks/Distinguishing_Open_and_QC_Reviews&Task Template[ParentTask]=Tasks/Distinguishing_Open_and_QC_Reviews&Task Template[SubmittedBy]=93.34.113.67) | [Add a comment at the bottom of this page](../index.php@title=Odp%253AAdd_comment&target=Odp%253ATasks%252F../../Odp/Tasks/Distinguishing_Open_and_QC_Reviews.md#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Odp:Tasks/Distinguishing_Open_and_QC_Reviews#New_comment")
-#####  17-06-2008 [EnricoDaga](../../User/EnricoDaga.md "User:EnricoDaga") says:
+[Development](../../Odp/Development "Odp:Development") | [Create new task](http://ontologydesignpatterns.org/wiki/Special:AddData/Task_Form?Task Template[SubmittedBy]=93.34.113.67).| [Add sub-task](http://ontologydesignpatterns.org/wiki/Special:AddData/Task_Form?parenttask=Tasks/Distinguishing_Open_and_QC_Reviews&Task Template[ParentTask]=Tasks/Distinguishing_Open_and_QC_Reviews&Task Template[SubmittedBy]=93.34.113.67) | [Add a comment at the bottom of this page](../index.php@title=Odp%253AAdd_comment&target=Odp%253ATasks%252F../../Odp/Tasks/Distinguishing_Open_and_QC_Reviews#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Odp:Tasks/Distinguishing_Open_and_QC_Reviews#New_comment")
+#####  17-06-2008 [EnricoDaga](../../User/EnricoDaga "User:EnricoDaga") says:
 
 
 ~~But if you are not a member of the QC you face an error page.~~ (fixed -enrico)
 
 
 
-#####  17-06-2008 [EnricoDaga](../../User/EnricoDaga.md "User:EnricoDaga") says:
+#####  17-06-2008 [EnricoDaga](../../User/EnricoDaga "User:EnricoDaga") says:
 
 
 ~~It is bad that a user is faced with an error page when his/her intent is to post a comment on a wiki. At least (s)he should be redirected to the correct page where is allowed to post. However, t would be much better to make such process transparent to the user (as described above).~~ -fixed
@@ -64,5 +64,5 @@ This was a bug in the wiki code.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Odp:Tasks/Distinguishing\_Open\_and\_QC\_Reviews](../../Odp/Tasks/Distinguishing_Open_and_QC_Reviews.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [DevelopmentTask](../../Category/DevelopmentTask.md "Category:DevelopmentTask")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Odp:Tasks/Distinguishing\_Open\_and\_QC\_Reviews](../../Odp/Tasks/Distinguishing_Open_and_QC_Reviews)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [DevelopmentTask](../../Category/DevelopmentTask "Category:DevelopmentTask")

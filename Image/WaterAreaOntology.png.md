@@ -1,6 +1,6 @@
-* [Image](../Image/WaterAreaOntology.png.md#file)
-* [File history](../Image/WaterAreaOntology.png.md#filehistory)
-* [Links](../Image/WaterAreaOntology.png.md#filelinks)
+* [Image](../Image/WaterAreaOntology.png#file)
+* [File history](../Image/WaterAreaOntology.png#filehistory)
+* [Links](../Image/WaterAreaOntology.png#filelinks)
 
 [![Image:WaterAreaOntology.png](../images/5/58/WaterAreaOntology.png)](../images/5/58/WaterAreaOntology.png)  
 No higher resolution available.  
@@ -23,7 +23,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Submissions:Classification scheme - adjacency list model - to Taxonomy](../Submissions/Classification_scheme_-_adjacency_list_model_-_to_Taxonomy.md "Submissions:Classification scheme - adjacency list model - to Taxonomy")
+* [Submissions:Classification scheme - adjacency list model - to Taxonomy](../Submissions/Classification_scheme_-_adjacency_list_model_-_to_Taxonomy "Submissions:Classification scheme - adjacency list model - to Taxonomy")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:WaterAreaOntology.png](../Image/WaterAreaOntology.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:WaterAreaOntology.png](../Image/WaterAreaOntology.png)"

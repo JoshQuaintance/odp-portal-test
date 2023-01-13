@@ -1,5 +1,5 @@
-[![](../images/thumb/2/29/Reviewer.png/48px-Reviewer.png)](../Image/Reviewer.png.md "Reviewer.png")
-__[MariaPoveda](../User/MariaPoveda.md "User:MariaPoveda") about [OOPMetrics](../Submissions/OOPMetrics.md "Submissions:OOPMetrics") (Revision ID: [11161](../Submissions/OOPMetrics@oldid=11161.md "http://ontologydesignpatterns.org/wiki/Submissions:OOPMetrics?oldid=11161"))__
+[![](../images/thumb/2/29/Reviewer.png/48px-Reviewer.png)](../Image/Reviewer.png "Reviewer.png")
+__[MariaPoveda](../User/MariaPoveda "User:MariaPoveda") about [OOPMetrics](../Submissions/OOPMetrics "Submissions:OOPMetrics") (Revision ID: [11161](../Submissions/OOPMetrics@oldid=11161 "http://ontologydesignpatterns.org/wiki/Submissions:OOPMetrics?oldid=11161"))__
 Overall suggestion (score): 0 - needs major revision
 
 
@@ -44,8 +44,8 @@ _Posted:_ 2012/8/21 _Last modified:_ 2012/8/21
 
 
 
-[All reviews](../Reviews/Main.md "Reviews:Main") | [Add a comment at the bottom of this page](index.php@title=Odp%253AAdd_comment&target=../Reviews/MariaPoveda_about_OOPMetrics.md#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Reviews:MariaPoveda_about_OOPMetrics#New_comment")
+[All reviews](../Reviews/Main "Reviews:Main") | [Add a comment at the bottom of this page](index.php@title=Odp%253AAdd_comment&target=../Reviews/MariaPoveda_about_OOPMetrics#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Reviews:MariaPoveda_about_OOPMetrics#New_comment")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Reviews:MariaPoveda\_about\_OOPMetrics](../Reviews/MariaPoveda_about_OOPMetrics.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [QCReview](../Category/QCReview.md "Category:QCReview")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Reviews:MariaPoveda\_about\_OOPMetrics](../Reviews/MariaPoveda_about_OOPMetrics)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [QCReview](../Category/QCReview "Category:QCReview")

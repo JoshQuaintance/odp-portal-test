@@ -1,4 +1,4 @@
-Return to [Catalogue of Exemplary Ontologies](../Ontology/Main.md "Ontology:Main")
+Return to [Catalogue of Exemplary Ontologies](../Ontology/Main "Ontology:Main")
 
 
 
@@ -134,5 +134,5 @@ Carlo Ciulla “Signal Resilient to Interpolation: An Exploration on the Approxi
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Ontology:SRE\_-\_Sub-pixel\_Efficacy\_Region\_%26\_SRI\_-\_Signal\_Resilient\_to\_Interpolation](../Ontology/SRE_-_Sub-pixel_Efficacy_Region_&_SRI_-_Signal_Resilient_to_Interpolation.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Ontology](../Category/Ontology.md "Category:Ontology")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Ontology:SRE\_-\_Sub-pixel\_Efficacy\_Region\_%26\_SRI\_-\_Signal\_Resilient\_to\_Interpolation](../Ontology/SRE_-_Sub-pixel_Efficacy_Region_&_SRI_-_Signal_Resilient_to_Interpolation)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Ontology](../Category/Ontology "Category:Ontology")

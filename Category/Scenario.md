@@ -12,4 +12,4 @@ The following 9 pages are in this category, out of 9 total.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Category:Scenario](../Category/Scenario.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Category:Scenario](../Category/Scenario)"

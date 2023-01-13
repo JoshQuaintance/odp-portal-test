@@ -1,6 +1,6 @@
-* [Image](../Image/Equivalent-properties.svg.md#file)
-* [File history](../Image/Equivalent-properties.svg.md#filehistory)
-* [Links](../Image/Equivalent-properties.svg.md#filelinks)
+* [Image](../Image/Equivalent-properties.svg#file)
+* [File history](../Image/Equivalent-properties.svg#filehistory)
+* [Links](../Image/Equivalent-properties.svg#filelinks)
 
 [![Image:Equivalent-properties.svg](../images/thumb/0/0e/Equivalent-properties.svg/304px-Equivalent-properties.svg.png)](../images/0/0e/Equivalent-properties.svg)  
 
@@ -27,7 +27,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Community:Images](../Community/Images.md "Community:Images")
+* [Community:Images](../Community/Images "Community:Images")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Equivalent-properties.svg](../Image/Equivalent-properties.svg.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Equivalent-properties.svg](../Image/Equivalent-properties.svg)"

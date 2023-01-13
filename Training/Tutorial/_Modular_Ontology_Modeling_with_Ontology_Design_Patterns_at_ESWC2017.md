@@ -20,7 +20,7 @@ No exercises.
 
 
 
-[Create exercise for this tutorial](http://ontologydesignpatterns.org/wiki/Special:AddData/Form:Tutorial_Exercise_Form?Exercise_Description_Template[Tutorial]=Tutorial: Modular Ontology Modeling with Ontology Design Patterns at ESWC2017) | [Training area](../../Training/Main.md "Training:Main")
+[Create exercise for this tutorial](http://ontologydesignpatterns.org/wiki/Special:AddData/Form:Tutorial_Exercise_Form?Exercise_Description_Template[Tutorial]=Tutorial: Modular Ontology Modeling with Ontology Design Patterns at ESWC2017) | [Training area](../../Training/Main "Training:Main")
 
 ##   Tutorial Schedule
 
@@ -124,5 +124,5 @@ Monika is a Senior Researcher at the University of Oxford. Her current research 
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Training:Tutorial:\_Modular\_Ontology\_Modeling\_with\_Ontology\_Design\_Patterns\_at\_ESWC2017](../../Training/Tutorial/_Modular_Ontology_Modeling_with_Ontology_Design_Patterns_at_ESWC2017.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Tutorial](../../Category/Tutorial.md "Category:Tutorial")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Training:Tutorial:\_Modular\_Ontology\_Modeling\_with\_Ontology\_Design\_Patterns\_at\_ESWC2017](../../Training/Tutorial/_Modular_Ontology_Modeling_with_Ontology_Design_Patterns_at_ESWC2017)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Tutorial](../../Category/Tutorial "Category:Tutorial")

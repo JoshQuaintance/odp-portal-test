@@ -1,6 +1,6 @@
-* [Image](../Image/Warning.gif.md#file)
-* [File history](../Image/Warning.gif.md#filehistory)
-* [Links](../Image/Warning.gif.md#filelinks)
+* [Image](../Image/Warning.gif#file)
+* [File history](../Image/Warning.gif#filehistory)
+* [Links](../Image/Warning.gif#filelinks)
 
 [![Image:Warning.gif](../images/c/c2/Warning.gif)](../images/c/c2/Warning.gif)  
 No higher resolution available.  
@@ -23,10 +23,10 @@ Click on a date/time to view the file as it appeared at that time.
 The following 4 pages link to this file:
 
 
-* [Community:Images](../Community/Images.md "Community:Images")
+* [Community:Images](../Community/Images "Community:Images")
 * [Template:Warning](http://ontologydesignpatterns.org/wiki/Template:Warning "Template:Warning")
-* [Submissions:Sequence](../Submissions/Sequence.md "Submissions:Sequence")
-* [Submissions:SpeciesConservation](../Submissions/SpeciesConservation.md "Submissions:SpeciesConservation")
+* [Submissions:Sequence](../Submissions/Sequence "Submissions:Sequence")
+* [Submissions:SpeciesConservation](../Submissions/SpeciesConservation "Submissions:SpeciesConservation")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Warning.gif](../Image/Warning.gif.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Warning.gif](../Image/Warning.gif)"

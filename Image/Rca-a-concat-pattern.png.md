@@ -1,6 +1,6 @@
-* [Image](../Image/Rca-a-concat-pattern.png.md#file)
-* [File history](../Image/Rca-a-concat-pattern.png.md#filehistory)
-* [Links](../Image/Rca-a-concat-pattern.png.md#filelinks)
+* [Image](../Image/Rca-a-concat-pattern.png#file)
+* [File history](../Image/Rca-a-concat-pattern.png#filehistory)
+* [Links](../Image/Rca-a-concat-pattern.png#filelinks)
 
 [![Image:Rca-a-concat-pattern.png](../images/thumb/f/fa/Rca-a-concat-pattern.png/777px-Rca-a-concat-pattern.png)](../images/f/fa/Rca-a-concat-pattern.png)  
 Size of this preview: 777 × 599 pixels  
@@ -25,4 +25,4 @@ There are no pages that link to this file.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Rca-a-concat-pattern.png](../Image/Rca-a-concat-pattern.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Rca-a-concat-pattern.png](../Image/Rca-a-concat-pattern.png)"

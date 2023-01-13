@@ -1,4 +1,4 @@
-This is a property of type [Text](../Type/Text.md "Type:Text").
+This is a property of type [Text](../Type/Text "Type:Text").
 
 
 
@@ -13,4 +13,4 @@ Showing 5 pages using this property.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Property:ArchitecturalODPConsequence](../Property/ArchitecturalODPConsequence.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Property:ArchitecturalODPConsequence](../Property/ArchitecturalODPConsequence)"

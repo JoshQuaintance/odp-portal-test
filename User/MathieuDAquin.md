@@ -1,4 +1,4 @@
-[![Image:ODPUser.png](../images/a/a6/ODPUser.png)](../Image/ODPUser.png.md "Image:ODPUser.png")
+[![Image:ODPUser.png](../images/a/a6/ODPUser.png)](../Image/ODPUser.png "Image:ODPUser.png")
 
 
 
@@ -19,13 +19,13 @@ __Domains of interest:__
 
 
 
-* [Academy](../Community/Academy.md "Community:Academy")
-* [General](../Community/General.md "Community:General")
-* [Healthcare](../Community/Healthcare.md "Community:Healthcare")
-* [Ontology](../Community/Ontology-based_models.md "Community:Ontology")
-* [Semiotics](../Community/Semiotics.md "Community:Semiotics")
-* [Time](../Community/Time.md "Community:Time")
-* [University](../Community/University.md "Community:University")
+* [Academy](../Community/Academy "Community:Academy")
+* [General](../Community/General "Community:General")
+* [Healthcare](../Community/Healthcare "Community:Healthcare")
+* [Ontology](../Community/Ontology-based_models "Community:Ontology")
+* [Semiotics](../Community/Semiotics "Community:Semiotics")
+* [Time](../Community/Time "Community:Time")
+* [University](../Community/University "Community:University")
 
 
 __Is expert of:__
@@ -40,5 +40,5 @@ __How did I know about ODP:__ colleagues
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/User:MathieuDAquin](../User/MathieuDAquin.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ODPUser](../Category/ODPUser.md "Category:ODPUser")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/User:MathieuDAquin](../User/MathieuDAquin)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ODPUser](../Category/ODPUser "Category:ODPUser")

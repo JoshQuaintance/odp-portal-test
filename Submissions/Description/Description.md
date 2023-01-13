@@ -1,4 +1,4 @@
-___Description__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [Description](../../Submissions/Description.md "Submissions:Description")_
+___Description__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [Description](../../Submissions/Description "Submissions:Description")_
 
 
   
@@ -6,7 +6,7 @@ ___Description__ has [Category:OntologyElement](../../Category/OntologyElement.m
 
 
 
-[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif.md "Class")
+[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif "Class")
 __Name__: Description 
 
 
@@ -23,5 +23,5 @@ entities, etc.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Description/Description](../../Image/Description.jpg.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Description/Description](../../Image/Description.jpg)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

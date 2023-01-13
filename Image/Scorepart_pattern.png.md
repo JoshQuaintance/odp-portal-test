@@ -1,6 +1,6 @@
-* [Image](../Image/Scorepart_pattern.png.md#file)
-* [File history](../Image/Scorepart_pattern.png.md#filehistory)
-* [Links](../Image/Scorepart_pattern.png.md#filelinks)
+* [Image](../Image/Scorepart_pattern.png#file)
+* [File history](../Image/Scorepart_pattern.png#filehistory)
+* [Links](../Image/Scorepart_pattern.png#filelinks)
 
 [![Image:Scorepart pattern.png](../images/thumb/0/02/Scorepart_pattern.png/800px-Scorepart_pattern.png)](../images/0/02/Scorepart_pattern.png)  
 Size of this preview: 800 × 567 pixels  
@@ -23,7 +23,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Submissions:Notepattern](../Submissions/Notepattern.md "Submissions:Notepattern")
+* [Submissions:Notepattern](../Submissions/Notepattern "Submissions:Notepattern")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Scorepart\_pattern.png](../Image/Scorepart_pattern.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Scorepart\_pattern.png](../Image/Scorepart_pattern.png)"

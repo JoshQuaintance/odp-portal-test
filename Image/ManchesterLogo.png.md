@@ -1,6 +1,6 @@
-* [Image](../Image/ManchesterLogo.png.md#file)
-* [File history](../Image/ManchesterLogo.png.md#filehistory)
-* [Links](../Image/ManchesterLogo.png.md#filelinks)
+* [Image](../Image/ManchesterLogo.png#file)
+* [File history](../Image/ManchesterLogo.png#filehistory)
+* [Links](../Image/ManchesterLogo.png#filelinks)
 
 [![Image:ManchesterLogo.png](../images/thumb/1/1f/ManchesterLogo.png/636px-ManchesterLogo.png)](../images/1/1f/ManchesterLogo.png)  
 Size of this preview: 636 × 600 pixels  
@@ -23,8 +23,8 @@ Click on a date/time to view the file as it appeared at that time.
 The following 2 pages link to this file:
 
 
-* [Community:Images](../Community/Images.md "Community:Images")
-* [Odp:Partners](../Odp/Partners.md "Odp:Partners")
+* [Community:Images](../Community/Images "Community:Images")
+* [Odp:Partners](../Odp/Partners "Odp:Partners")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:ManchesterLogo.png](../Image/ManchesterLogo.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:ManchesterLogo.png](../Image/ManchesterLogo.png)"

@@ -1,6 +1,6 @@
-* [Image](../Image/Odp_AAE.png.md#file)
-* [File history](../Image/Odp_AAE.png.md#filehistory)
-* [Links](../Image/Odp_AAE.png.md#filelinks)
+* [Image](../Image/Odp_AAE.png#file)
+* [File history](../Image/Odp_AAE.png#filehistory)
+* [Links](../Image/Odp_AAE.png#filelinks)
 
 [![Image:Odp AAE.png](../images/2/20/Odp_AAE.png)](../images/2/20/Odp_AAE.png)  
 No higher resolution available.  
@@ -26,7 +26,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Submissions:Actuation-Actuator-Effect](../Submissions/Actuation-Actuator-Effect.md "Submissions:Actuation-Actuator-Effect")
+* [Submissions:Actuation-Actuator-Effect](../Submissions/Actuation-Actuator-Effect "Submissions:Actuation-Actuator-Effect")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Odp\_AAE.png](../Image/Odp_AAE.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Odp\_AAE.png](../Image/Odp_AAE.png)"

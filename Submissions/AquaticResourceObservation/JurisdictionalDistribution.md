@@ -1,4 +1,4 @@
-___JurisdictionalDistribution__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [AquaticResourceObservation](../../Submissions/AquaticResourceObservation.md "Submissions:AquaticResourceObservation")_
+___JurisdictionalDistribution__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [AquaticResourceObservation](../../Submissions/AquaticResourceObservation "Submissions:AquaticResourceObservation")_
 
 
   
@@ -6,7 +6,7 @@ ___JurisdictionalDistribution__ has [Category:OntologyElement](../../Category/On
 
 
 
-[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif.md "Class")
+[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif "Class")
 __Name__: JurisdictionalDistribution 
 
 
@@ -19,5 +19,5 @@ __Description__:
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:AquaticResourceObservation/JurisdictionalDistribution](../../Submissions/AquaticResourceObservation/hasJurisdictionalDistribution.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:AquaticResourceObservation/JurisdictionalDistribution](../../Submissions/AquaticResourceObservation/hasJurisdictionalDistribution)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

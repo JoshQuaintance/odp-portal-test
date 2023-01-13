@@ -1,4 +1,4 @@
-Return to [Catalogue of Exemplary Ontologies](../Ontology/Main.md "Ontology:Main")
+Return to [Catalogue of Exemplary Ontologies](../Ontology/Main "Ontology:Main")
 
 
 
@@ -32,10 +32,10 @@ Furthermore, this ontology includes already a predefined property to associate e
 
 
 
-* A blog post about the Counter Ontology with examples and graphics. [Weblog post](http://smiy.org/2010/07/26/the-counter-ontology/ "http://smiy.org/2010/07/26/the-counter-ontology/") | [reference page](../Community/References/Counter_Ontology_announcement.md "Community:References/Counter Ontology announcement")
+* A blog post about the Counter Ontology with examples and graphics. [Weblog post](http://smiy.org/2010/07/26/the-counter-ontology/ "http://smiy.org/2010/07/26/the-counter-ontology/") | [reference page](../Community/References/Counter_Ontology_announcement "Community:References/Counter Ontology announcement")
 
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Ontology:Counter\_Ontology](../Ontology/Counter_Ontology.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Ontology](../Category/Ontology.md "Category:Ontology")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Ontology:Counter\_Ontology](../Ontology/Counter_Ontology)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Ontology](../Category/Ontology "Category:Ontology")

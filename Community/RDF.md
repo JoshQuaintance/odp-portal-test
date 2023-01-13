@@ -5,4 +5,4 @@
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Community:RDF](../Community/RDF.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Community:RDF](../Community/RDF)"

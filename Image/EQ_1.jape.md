@@ -1,6 +1,6 @@
-* [Image](../Image/EQ_1.jape.md#file)
-* [File history](../Image/EQ_1.jape.md#filehistory)
-* [Links](../Image/EQ_1.jape.md#filelinks)
+* [Image](../Image/EQ_1.jape#file)
+* [File history](../Image/EQ_1.jape#filehistory)
+* [Links](../Image/EQ_1.jape#filelinks)
 
 
 [EQ\_1.jape](../images/c/c0/EQ_1.jape "EQ 1.jape")‎
@@ -32,8 +32,8 @@ Click on a date/time to view the file as it appeared at that time.
 The following 2 pages link to this file:
 
 
-* [Submissions:Lexico Syntactic ODP corresponding to Equivalence relation between Classes ODP](../Submissions/Lexico_Syntactic_ODP_corresponding_to_Equivalence_relation_between_Classes_ODP.md "Submissions:Lexico Syntactic ODP corresponding to Equivalence relation between Classes ODP")
-* [Submissions:Lexico Syntactic ODP corresponding to Equivalence relation between Classes ODP/1](../Submissions/Lexico_Syntactic_ODP_corresponding_to_Equivalence_relation_between_Classes_ODP/1.md "Submissions:Lexico Syntactic ODP corresponding to Equivalence relation between Classes ODP/1")
+* [Submissions:Lexico Syntactic ODP corresponding to Equivalence relation between Classes ODP](../Submissions/Lexico_Syntactic_ODP_corresponding_to_Equivalence_relation_between_Classes_ODP "Submissions:Lexico Syntactic ODP corresponding to Equivalence relation between Classes ODP")
+* [Submissions:Lexico Syntactic ODP corresponding to Equivalence relation between Classes ODP/1](../Submissions/Lexico_Syntactic_ODP_corresponding_to_Equivalence_relation_between_Classes_ODP/1 "Submissions:Lexico Syntactic ODP corresponding to Equivalence relation between Classes ODP/1")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:EQ\_1.jape](../Image/EQ_1.jape.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:EQ\_1.jape](../Image/EQ_1.jape)"

@@ -22,11 +22,11 @@ For an example where this could have been useful, see Topic and SimpleTopic, the
 
 
 
-Go back to the  [Feedback main page](../../Feedback/Main.md "Feedback:Main")
+Go back to the  [Feedback main page](../../Feedback/Main "Feedback:Main")
 
 
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Feedback:Submitted\_/last\_updated\_time\_shown\_in\_pattern\_summary\_and\_listings](../../Feedback/Submitted_/last_updated_time_shown_in_pattern_summary_and_listings.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Feedback](../../Category/Feedback.md "Category:Feedback")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Feedback:Submitted\_/last\_updated\_time\_shown\_in\_pattern\_summary\_and\_listings](../../Feedback/Submitted_/last_updated_time_shown_in_pattern_summary_and_listings)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Feedback](../../Category/Feedback "Category:Feedback")

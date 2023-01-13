@@ -1,7 +1,7 @@
-__Long Description__. This property contains a longer description of the entity it refers to than is given in the property [Description](../Property/Description.md "Property:Description").
+__Long Description__. This property contains a longer description of the entity it refers to than is given in the property [Description](../Property/Description "Property:Description").
 
 
-This is a property of type [Text](../Type/Text.md "Type:Text").
+This is a property of type [Text](../Type/Text "Type:Text").
 
 
 
@@ -16,4 +16,4 @@ Showing 25 pages using this property.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Property:LongDescription](../Property/LongDescription.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Property:LongDescription](../Property/LongDescription)"

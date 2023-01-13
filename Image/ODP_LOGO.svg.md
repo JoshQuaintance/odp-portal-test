@@ -1,6 +1,6 @@
-* [Image](../Image/ODP_LOGO.svg.md#file)
-* [File history](../Image/ODP_LOGO.svg.md#filehistory)
-* [Links](../Image/ODP_LOGO.svg.md#filelinks)
+* [Image](../Image/ODP_LOGO.svg#file)
+* [File history](../Image/ODP_LOGO.svg#filehistory)
+* [Links](../Image/ODP_LOGO.svg#filelinks)
 
 [![Image:ODP LOGO.svg](../images/thumb/a/a9/ODP_LOGO.svg/600px-ODP_LOGO.svg.png)](../images/a/a9/ODP_LOGO.svg)  
 
@@ -31,7 +31,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Community:Images](../Community/Images.md "Community:Images")
+* [Community:Images](../Community/Images "Community:Images")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:ODP\_LOGO.svg](../Image/ODP_LOGO.svg.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:ODP\_LOGO.svg](../Image/ODP_LOGO.svg)"

@@ -1,6 +1,6 @@
-* [Image](../Image/ODP_new.png.md#file)
-* [File history](../Image/ODP_new.png.md#filehistory)
-* [Links](../Image/ODP_new.png.md#filelinks)
+* [Image](../Image/ODP_new.png#file)
+* [File history](../Image/ODP_new.png#filehistory)
+* [Links](../Image/ODP_new.png#filelinks)
 
 [![Image:ODP new.png](../images/thumb/f/f8/ODP_new.png/800px-ODP_new.png)](../images/f/f8/ODP_new.png)  
 Size of this preview: 800 × 415 pixels  
@@ -23,7 +23,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Submissions:Pollution](../Submissions/Pollution.md "Submissions:Pollution")
+* [Submissions:Pollution](../Submissions/Pollution "Submissions:Pollution")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:ODP\_new.png](../Image/ODP_new.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:ODP\_new.png](../Image/ODP_new.png)"

@@ -1,6 +1,6 @@
-* [Image](../Image/Role.png.md#file)
-* [File history](../Image/Role.png.md#filehistory)
-* [Links](../Image/Role.png.md#filelinks)
+* [Image](../Image/Role.png#file)
+* [File history](../Image/Role.png#filehistory)
+* [Links](../Image/Role.png#filelinks)
 
 [![Image:Role.png](../images/thumb/5/59/Role.png/430px-Role.png)](../images/5/59/Role.png)  
 Size of this preview: 430 × 600 pixels  
@@ -26,7 +26,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Submissions:Roles (OWL 2)](../Submissions/Roles_(OWL_2).md).md).html "Submissions:Roles (OWL 2)")
+* [Submissions:Roles (OWL 2)](../Submissions/Roles_(OWL_2)).md).md).html "Submissions:Roles (OWL 2)")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Role.png](../Image/Role.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Role.png](../Image/Role.png)"

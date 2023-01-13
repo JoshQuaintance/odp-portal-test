@@ -1,7 +1,7 @@
-This property indicates the author of the ODP wiki page. The value of this property is of type [Category:ODPUser](../Category/ODPUser.md "Category:ODPUser").
+This property indicates the author of the ODP wiki page. The value of this property is of type [Category:ODPUser](../Category/ODPUser "Category:ODPUser").
 
 
-This property is of type [Page](../Type/Page.md "Type:Page")
+This property is of type [Page](../Type/Page "Type:Page")
 
 
 

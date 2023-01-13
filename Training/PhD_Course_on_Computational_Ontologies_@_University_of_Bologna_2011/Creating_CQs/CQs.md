@@ -77,4 +77,4 @@ One possible set of CQs (remember that these should reflect what the customer wa
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Training:PhD\_Course\_on\_Computational\_Ontologies\_%40\_University\_of\_Bologna\_2011/Creating\_CQs:CQs](../../../Training/PhD_Course_on_Computational_Ontologies_@_University_of_Bologna_2011/Creating_CQs/CQs.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Training:PhD\_Course\_on\_Computational\_Ontologies\_%40\_University\_of\_Bologna\_2011/Creating\_CQs:CQs](../../../Training/PhD_Course_on_Computational_Ontologies_@_University_of_Bologna_2011/Creating_CQs/CQs)"

@@ -1,8 +1,8 @@
-* [Image](../Image/ESWC_2017_ModularOntologies_lawrynowicz-kowalczuk.pdf.md#file)
-* [File history](../Image/ESWC_2017_ModularOntologies_lawrynowicz-kowalczuk.pdf.md#filehistory)
-* [Links](../Image/ESWC_2017_ModularOntologies_lawrynowicz-kowalczuk.pdf.md#filelinks)
+* [Image](../Image/ESWC_2017_ModularOntologies_lawrynowicz-kowalczuk.pdf#file)
+* [File history](../Image/ESWC_2017_ModularOntologies_lawrynowicz-kowalczuk.pdf#filehistory)
+* [Links](../Image/ESWC_2017_ModularOntologies_lawrynowicz-kowalczuk.pdf#filelinks)
 
-[![](../skins/common/images/icons/fileicon-pdf.png)](../Image/ESWC_2017_ModularOntologies_lawrynowicz-kowalczuk.pdf.md "ESWC 2017 ModularOntologies lawrynowicz-kowalczuk.pdf")
+[![](../skins/common/images/icons/fileicon-pdf.png)](../Image/ESWC_2017_ModularOntologies_lawrynowicz-kowalczuk.pdf "ESWC 2017 ModularOntologies lawrynowicz-kowalczuk.pdf")
 [ESWC\_2017\_ModularOntologies\_lawrynowicz-kowalczuk.pdf](../images/5/59/ESWC_2017_ModularOntologies_lawrynowicz-kowalczuk.pdf "ESWC 2017 ModularOntologies lawrynowicz-kowalczuk.pdf")‎  (file size: 319 KB, MIME type: application/pdf)
 
 
@@ -28,4 +28,4 @@ There are no pages that link to this file.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:ESWC\_2017\_ModularOntologies\_lawrynowicz-kowalczuk.pdf](../Image/ESWC_2017_ModularOntologies_lawrynowicz-kowalczuk.pdf.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:ESWC\_2017\_ModularOntologies\_lawrynowicz-kowalczuk.pdf](../Image/ESWC_2017_ModularOntologies_lawrynowicz-kowalczuk.pdf)"

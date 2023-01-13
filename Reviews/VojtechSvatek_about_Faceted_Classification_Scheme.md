@@ -1,5 +1,5 @@
-[![](../images/thumb/2/29/Reviewer.png/48px-Reviewer.png)](../Image/Reviewer.png.md "Reviewer.png")
-__[VojtechSvatek](../User/VojtechSvatek.md "User:VojtechSvatek") about [Faceted Classification Scheme](../Submissions/Faceted_Classification_Scheme.md "Submissions:Faceted Classification Scheme") (Revision ID: [Classification Scheme?oldid=10104 10104](../Submissions/Faceted.md "http://ontologydesignpatterns.org/wiki/Submissions:Faceted"))__
+[![](../images/thumb/2/29/Reviewer.png/48px-Reviewer.png)](../Image/Reviewer.png "Reviewer.png")
+__[VojtechSvatek](../User/VojtechSvatek "User:VojtechSvatek") about [Faceted Classification Scheme](../Submissions/Faceted_Classification_Scheme "Submissions:Faceted Classification Scheme") (Revision ID: [Classification Scheme?oldid=10104 10104](../Submissions/Faceted "http://ontologydesignpatterns.org/wiki/Submissions:Faceted"))__
 Overall suggestion (score): 1 - needs minor revision
 
 
@@ -27,8 +27,8 @@ _Posted:_ 2010/9/17 _Last modified:_ 2010/9/17
 
 
 
-[All reviews](../Reviews/Main.md "Reviews:Main") | [Add a comment at the bottom of this page](index.php@title=Odp%253AAdd_comment&target=../Reviews/VojtechSvatek_about_Faceted_Classification_Scheme.md#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Reviews:VojtechSvatek_about_Faceted_Classification_Scheme#New_comment")
+[All reviews](../Reviews/Main "Reviews:Main") | [Add a comment at the bottom of this page](index.php@title=Odp%253AAdd_comment&target=../Reviews/VojtechSvatek_about_Faceted_Classification_Scheme#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Reviews:VojtechSvatek_about_Faceted_Classification_Scheme#New_comment")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Reviews:VojtechSvatek\_about\_Faceted\_Classification\_Scheme](../Reviews/VojtechSvatek_about_Faceted_Classification_Scheme.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [QCReview](../Category/QCReview.md "Category:QCReview")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Reviews:VojtechSvatek\_about\_Faceted\_Classification\_Scheme](../Reviews/VojtechSvatek_about_Faceted_Classification_Scheme)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [QCReview](../Category/QCReview "Category:QCReview")

@@ -1,8 +1,8 @@
-* [Image](../Image/Ontology.pdf.md#file)
-* [File history](../Image/Ontology.pdf.md#filehistory)
-* [Links](../Image/Ontology.pdf.md#filelinks)
+* [Image](../Image/Ontology.pdf#file)
+* [File history](../Image/Ontology.pdf#filehistory)
+* [Links](../Image/Ontology.pdf#filelinks)
 
-[![](../skins/common/images/icons/fileicon-pdf.png)](../Image/Ontology.pdf.md "Ontology.pdf")
+[![](../skins/common/images/icons/fileicon-pdf.png)](../Image/Ontology.pdf "Ontology.pdf")
 [Ontology.pdf](../images/c/c1/Ontology.pdf "Ontology.pdf")‎  (file size: 25 KB, MIME type: application/pdf)
 
 
@@ -28,4 +28,4 @@ There are no pages that link to this file.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Ontology.pdf](../Image/Ontology.pdf.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Ontology.pdf](../Image/Ontology.pdf)"

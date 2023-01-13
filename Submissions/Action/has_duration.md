@@ -1,4 +1,4 @@
-___has duration__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [Action](../../Submissions/Action.md "Submissions:Action")_
+___has duration__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [Action](../../Submissions/Action "Submissions:Action")_
 
 
   
@@ -6,7 +6,7 @@ ___has duration__ has [Category:OntologyElement](../../Category/OntologyElement.
 
 
 
-[![ObjectProperty](../../images/thumb/c/c3/ObjectProperty.gif/45px-ObjectProperty.gif)](../../Image/ObjectProperty.gif.md "ObjectProperty")
+[![ObjectProperty](../../images/thumb/c/c3/ObjectProperty.gif/45px-ObjectProperty.gif)](../../Image/ObjectProperty.gif "ObjectProperty")
 __Name__: has\_duration 
 
 
@@ -19,5 +19,5 @@ __Description__: Property relating implemented actions (actions that have been s
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Action/has\_duration](../../Submissions/Action/has_duration.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Action/has\_duration](../../Submissions/Action/has_duration)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

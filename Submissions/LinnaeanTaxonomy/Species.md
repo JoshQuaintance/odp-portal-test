@@ -1,4 +1,4 @@
-___Species__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [LinnaeanTaxonomy](../../Submissions/LinnaeanTaxonomy.md "Submissions:LinnaeanTaxonomy")_
+___Species__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [LinnaeanTaxonomy](../../Submissions/LinnaeanTaxonomy "Submissions:LinnaeanTaxonomy")_
 
 
   
@@ -6,7 +6,7 @@ ___Species__ has [Category:OntologyElement](../../Category/OntologyElement.md "C
 
 
 
-[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif.md "Class")
+[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif "Class")
 __Name__: Species 
 
 
@@ -19,5 +19,5 @@ __Description__: Species is the lowest traditional taxon. E.g., in the case of h
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:LinnaeanTaxonomy/Species](../../Community/AldoGangemi_about_SpeciesBathymetry.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:LinnaeanTaxonomy/Species](../../Community/AldoGangemi_about_SpeciesBathymetry)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

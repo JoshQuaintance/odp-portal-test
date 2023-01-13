@@ -29,8 +29,8 @@ This task has no sub-tasks
 
 
 
-[Development](../../Odp/Development.md "Odp:Development") | [Create new task](http://ontologydesignpatterns.org/wiki/Special:AddData/Task_Form?Task Template[SubmittedBy]=93.34.113.67).| [Add sub-task](http://ontologydesignpatterns.org/wiki/Special:AddData/Task_Form?parenttask=Tasks/Rights_for_submitting_new_tasks&Task Template[ParentTask]=Tasks/Rights_for_submitting_new_tasks&Task Template[SubmittedBy]=93.34.113.67) | [Add a comment at the bottom of this page](../index.php@title=Odp%253AAdd_comment&target=Odp%253ATasks%252F../../Odp/Tasks/Rights_for_submitting_new_tasks.md#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Odp:Tasks/Rights_for_submitting_new_tasks#New_comment")
-#####  30-06-2008 [EnricoDaga](../../User/EnricoDaga.md "User:EnricoDaga") says:
+[Development](../../Odp/Development "Odp:Development") | [Create new task](http://ontologydesignpatterns.org/wiki/Special:AddData/Task_Form?Task Template[SubmittedBy]=93.34.113.67).| [Add sub-task](http://ontologydesignpatterns.org/wiki/Special:AddData/Task_Form?parenttask=Tasks/Rights_for_submitting_new_tasks&Task Template[ParentTask]=Tasks/Rights_for_submitting_new_tasks&Task Template[SubmittedBy]=93.34.113.67) | [Add a comment at the bottom of this page](../index.php@title=Odp%253AAdd_comment&target=Odp%253ATasks%252F../../Odp/Tasks/Rights_for_submitting_new_tasks#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Odp:Tasks/Rights_for_submitting_new_tasks#New_comment")
+#####  30-06-2008 [EnricoDaga](../../User/EnricoDaga "User:EnricoDaga") says:
 
 
 Actually only users within the 'sysop' group can submit tasks. This because this feature of the portal is for administrators' organization of the todo's about the ODP portal :)
@@ -43,7 +43,7 @@ Let's think about it! ;)
 
 
 
-#####  30-06-2008 [EnricoDaga](../../User/EnricoDaga.md "User:EnricoDaga") says:
+#####  30-06-2008 [EnricoDaga](../../User/EnricoDaga "User:EnricoDaga") says:
 
 
 Obviously you can give to your personal account the 'sysop' rights, for the moment...
@@ -57,7 +57,7 @@ The Editorial Board group is the right group to be allowed to submit tasks here.
 
 
 
-#####  10-07-2008 [EnricoDaga](../../User/EnricoDaga.md "User:EnricoDaga") says:
+#####  10-07-2008 [EnricoDaga](../../User/EnricoDaga "User:EnricoDaga") says:
 
 
 Done
@@ -66,5 +66,5 @@ Done
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Odp:Tasks/Rights\_for\_submitting\_new\_tasks](../../Odp/Tasks/Rights_for_submitting_new_tasks.md)"
- [Categories](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [RootTask](../../Category/RootTask.md "Category:RootTask") | [DevelopmentTask](../../Category/DevelopmentTask.md "Category:DevelopmentTask")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Odp:Tasks/Rights\_for\_submitting\_new\_tasks](../../Odp/Tasks/Rights_for_submitting_new_tasks)"
+ [Categories](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [RootTask](../../Category/RootTask "Category:RootTask") | [DevelopmentTask](../../Category/DevelopmentTask "Category:DevelopmentTask")

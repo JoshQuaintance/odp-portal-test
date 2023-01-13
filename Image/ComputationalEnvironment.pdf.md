@@ -1,8 +1,8 @@
-* [Image](../Image/ComputationalEnvironment.pdf.md#file)
-* [File history](../Image/ComputationalEnvironment.pdf.md#filehistory)
-* [Links](../Image/ComputationalEnvironment.pdf.md#filelinks)
+* [Image](../Image/ComputationalEnvironment.pdf#file)
+* [File history](../Image/ComputationalEnvironment.pdf#filehistory)
+* [Links](../Image/ComputationalEnvironment.pdf#filelinks)
 
-[![](../skins/common/images/icons/fileicon-pdf.png)](../Image/ComputationalEnvironment.pdf.md "ComputationalEnvironment.pdf")
+[![](../skins/common/images/icons/fileicon-pdf.png)](../Image/ComputationalEnvironment.pdf "ComputationalEnvironment.pdf")
 [ComputationalEnvironment.pdf](../images/c/ce/ComputationalEnvironment.pdf "ComputationalEnvironment.pdf")‎  (file size: 114 KB, MIME type: application/pdf)
 
 
@@ -28,4 +28,4 @@ There are no pages that link to this file.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:ComputationalEnvironment.pdf](../Image/ComputationalEnvironment.pdf.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:ComputationalEnvironment.pdf](../Image/ComputationalEnvironment.pdf)"

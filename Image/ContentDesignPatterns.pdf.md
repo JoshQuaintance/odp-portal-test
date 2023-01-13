@@ -1,8 +1,8 @@
-* [Image](../Image/ContentDesignPatterns.pdf.md#file)
-* [File history](../Image/ContentDesignPatterns.pdf.md#filehistory)
-* [Links](../Image/ContentDesignPatterns.pdf.md#filelinks)
+* [Image](../Image/ContentDesignPatterns.pdf#file)
+* [File history](../Image/ContentDesignPatterns.pdf#filehistory)
+* [Links](../Image/ContentDesignPatterns.pdf#filelinks)
 
-[![](../skins/common/images/icons/fileicon-pdf.png)](../Image/ContentDesignPatterns.pdf.md "ContentDesignPatterns.pdf")
+[![](../skins/common/images/icons/fileicon-pdf.png)](../Image/ContentDesignPatterns.pdf "ContentDesignPatterns.pdf")
 [ContentDesignPatterns.pdf](../images/2/20/ContentDesignPatterns.pdf "ContentDesignPatterns.pdf")‎  (file size: 809 KB, MIME type: application/pdf)
 
 
@@ -26,7 +26,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Community:Images](../Community/Images.md "Community:Images")
+* [Community:Images](../Community/Images "Community:Images")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:ContentDesignPatterns.pdf](../Image/ContentDesignPatterns.pdf.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:ContentDesignPatterns.pdf](../Image/ContentDesignPatterns.pdf)"

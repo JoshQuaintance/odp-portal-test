@@ -1,6 +1,6 @@
-* [Image](../Image/SC_De_3.jape.md#file)
-* [File history](../Image/SC_De_3.jape.md#filehistory)
-* [Links](../Image/SC_De_3.jape.md#filelinks)
+* [Image](../Image/SC_De_3.jape#file)
+* [File history](../Image/SC_De_3.jape#filehistory)
+* [Links](../Image/SC_De_3.jape#filelinks)
 
 
 [SC\_De\_3.jape](../images/2/2f/SC_De_3.jape "SC De 3.jape")‎
@@ -32,8 +32,8 @@ Click on a date/time to view the file as it appeared at that time.
 The following 2 pages link to this file:
 
 
-* [Submissions:Lexico Syntactic ODPs corresponding to Defined Classes and SubclassOf relation ODPs](../Submissions/Lexico_Syntactic_ODPs_corresponding_to_Defined_Classes_and_SubclassOf_relation_ODPs.md "Submissions:Lexico Syntactic ODPs corresponding to Defined Classes and SubclassOf relation ODPs")
-* [Submissions:Lexico Syntactic ODPs corresponding to Defined Classes and SubclassOf relation ODPs/3](../Submissions/Lexico_Syntactic_ODPs_corresponding_to_Defined_Classes_and_SubclassOf_relation_ODPs/3.md "Submissions:Lexico Syntactic ODPs corresponding to Defined Classes and SubclassOf relation ODPs/3")
+* [Submissions:Lexico Syntactic ODPs corresponding to Defined Classes and SubclassOf relation ODPs](../Submissions/Lexico_Syntactic_ODPs_corresponding_to_Defined_Classes_and_SubclassOf_relation_ODPs "Submissions:Lexico Syntactic ODPs corresponding to Defined Classes and SubclassOf relation ODPs")
+* [Submissions:Lexico Syntactic ODPs corresponding to Defined Classes and SubclassOf relation ODPs/3](../Submissions/Lexico_Syntactic_ODPs_corresponding_to_Defined_Classes_and_SubclassOf_relation_ODPs/3 "Submissions:Lexico Syntactic ODPs corresponding to Defined Classes and SubclassOf relation ODPs/3")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:SC\_De\_3.jape](../Image/SC_De_3.jape.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:SC\_De\_3.jape](../Image/SC_De_3.jape)"

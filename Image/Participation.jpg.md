@@ -1,6 +1,6 @@
-* [Image](../Image/Participation.jpg.md#file)
-* [File history](../Image/Participation.jpg.md#filehistory)
-* [Links](../Image/Participation.jpg.md#filelinks)
+* [Image](../Image/Participation.jpg#file)
+* [File history](../Image/Participation.jpg#filehistory)
+* [Links](../Image/Participation.jpg#filelinks)
 
 [![Image:Participation.jpg](../images/8/86/Participation.jpg)](../images/8/86/Participation.jpg)  
 No higher resolution available.  
@@ -23,8 +23,8 @@ Click on a date/time to view the file as it appeared at that time.
 The following 2 pages link to this file:
 
 
-* [Community:Images](../Community/Images.md "Community:Images")
-* [Submissions:Participation](../Submissions/Participation.md "Submissions:Participation")
+* [Community:Images](../Community/Images "Community:Images")
+* [Submissions:Participation](../Submissions/Participation "Submissions:Participation")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Participation.jpg](../Image/Participation.jpg.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Participation.jpg](../Image/Participation.jpg)"

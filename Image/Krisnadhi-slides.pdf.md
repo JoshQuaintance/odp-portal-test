@@ -1,8 +1,8 @@
-* [Image](../Image/Krisnadhi-slides.pdf.md#file)
-* [File history](../Image/Krisnadhi-slides.pdf.md#filehistory)
-* [Links](../Image/Krisnadhi-slides.pdf.md#filelinks)
+* [Image](../Image/Krisnadhi-slides.pdf#file)
+* [File history](../Image/Krisnadhi-slides.pdf#filehistory)
+* [Links](../Image/Krisnadhi-slides.pdf#filelinks)
 
-[![](../skins/common/images/icons/fileicon-pdf.png)](../Image/Krisnadhi-slides.pdf.md "Krisnadhi-slides.pdf")
+[![](../skins/common/images/icons/fileicon-pdf.png)](../Image/Krisnadhi-slides.pdf "Krisnadhi-slides.pdf")
 [Krisnadhi-slides.pdf](../images/5/54/Krisnadhi-slides.pdf "Krisnadhi-slides.pdf")‎  (file size: 1.16 MB, MIME type: application/pdf)
 
 
@@ -26,7 +26,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [WOP:2016](../WOP/2016.1.md "WOP:2016")
+* [WOP:2016](../WOP/2016.1 "WOP:2016")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Krisnadhi-slides.pdf](../Image/Krisnadhi-slides.pdf.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Krisnadhi-slides.pdf](../Image/Krisnadhi-slides.pdf)"

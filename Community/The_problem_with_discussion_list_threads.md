@@ -17,7 +17,7 @@ There is an enormous ton of content about ontology modeling issues in discussion
 ###  A Solution
 
 
-We have created the [ontology modeling issues](../Community/Main.md "http://ontologydesignpatterns.org/wiki/Community:Main") section in the [ODP Wiki](http://ontologydesignpatterns.org/wiki "http://ontologydesignpatterns.org/wiki") to address these problems. We envision the following steps in the evolution of a modeling issue: 
+We have created the [ontology modeling issues](../Community/Main "http://ontologydesignpatterns.org/wiki/Community:Main") section in the [ODP Wiki](http://ontologydesignpatterns.org/wiki "http://ontologydesignpatterns.org/wiki") to address these problems. We envision the following steps in the evolution of a modeling issue: 
 
 
 
@@ -37,10 +37,10 @@ __To Contribute:__
 
 
 1. Visit [Ontology Design Patterns Wiki](http://ontologydesignpatterns.org/ "http://ontologydesignpatterns.org/")
-2. If you need a login and password, click the "[How to register](../Odp/Register.md "http://ontologydesignpatterns.org/wiki/Odp:Register")" link at lower left of the page.
-3. Visit the "[Ontology Modeling Issues](../Community/Main.md "http://ontologydesignpatterns.org/wiki/Community:Main")" page for further information, examples and instructions.
+2. If you need a login and password, click the "[How to register](../Odp/Register "http://ontologydesignpatterns.org/wiki/Odp:Register")" link at lower left of the page.
+3. Visit the "[Ontology Modeling Issues](../Community/Main "http://ontologydesignpatterns.org/wiki/Community:Main")" page for further information, examples and instructions.
 
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Community:The\_problem\_with\_discussion\_list\_threads](../Community/The_problem_with_discussion_list_threads.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Community:The\_problem\_with\_discussion\_list\_threads](../Community/The_problem_with_discussion_list_threads)"

@@ -77,4 +77,4 @@ One possible set of CQs (remember that these should reflect what the customer wa
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Training:EXtreme\_Design\_%28XD%29:\_Pattern-based\_Ontology\_Design/XD\_Hands-on:CQs](../../../../Training/Extreme_Design_(XD)/_Pattern-based_Ontology_Design.md)/_Pattern-based_Ontology_Design/XD_Hands-on/CQs.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Training:EXtreme\_Design\_%28XD%29:\_Pattern-based\_Ontology\_Design/XD\_Hands-on:CQs](../../../../Training/Extreme_Design_(XD)/_Pattern-based_Ontology_Design)/_Pattern-based_Ontology_Design.md)/_Pattern-based_Ontology_Design/XD_Hands-on/CQs.md)"

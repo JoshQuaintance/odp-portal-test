@@ -1,5 +1,5 @@
 __Organization__
-Relates the major organization(s) associated with an ontology. This may be who owns and controls the ontology, the organization(s) managing associated projects, or where most of the work was or is being done. This is a property of type [String](../Type/String.md "Type:String").
+Relates the major organization(s) associated with an ontology. This may be who owns and controls the ontology, the organization(s) managing associated projects, or where most of the work was or is being done. This is a property of type [String](../Type/String "Type:String").
 
 
 

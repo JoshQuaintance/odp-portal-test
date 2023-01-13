@@ -26,7 +26,7 @@ _(this article has no graphical representation)_
 
 * Species
 	+ hasHabitat:str
-		- * give me the species having a "demersal" habitat in water area "24" (see [hasHabitat](../Community/HasHabitat.md "Community:HasHabitat"))
+		- * give me the species having a "demersal" habitat in water area "24" (see [hasHabitat](../Community/HasHabitat "Community:HasHabitat"))
 	+ hasSynonyms:str
 		- * give me the synonyms and localnames for species "Ostrica gigas"
 	+ canBeConfusedWith:species
@@ -108,8 +108,8 @@ _(this article has no graphical representation)_
 
 
 
- [List of Modeling Issues](../Community/Main.md "Community:Main") | [Post a new modeling issue](../Community/PostModelingIssue.md "Community:PostModelingIssue") | [Add a comment in the discussion page](index.php@title=Odp%253AAdd_comment&target=Community_talk%253AFSDAS_Scenario.html#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Community_talk:FSDAS_Scenario#New_comment")
+ [List of Modeling Issues](../Community/Main "Community:Main") | [Post a new modeling issue](../Community/PostModelingIssue "Community:PostModelingIssue") | [Add a comment in the discussion page](index.php@title=Odp%253AAdd_comment&target=Community_talk%253AFSDAS_Scenario.html#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Community_talk:FSDAS_Scenario#New_comment")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Community:FSDAS\_Scenario](../Community/FSDAS_Scenario.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ModelingIssue](../Category/ModelingIssue.md "Category:ModelingIssue")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Community:FSDAS\_Scenario](../Community/FSDAS_Scenario)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ModelingIssue](../Category/ModelingIssue "Category:ModelingIssue")

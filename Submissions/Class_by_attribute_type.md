@@ -1,4 +1,4 @@
-[![](../images/thumb/b/b5/Certified.png/70px-Certified.png)](../Image/Certified.png.md "Certified.png") __This pattern has been certified.__
+[![](../images/thumb/b/b5/Certified.png/70px-Certified.png)](../Image/Certified.png "Certified.png") __This pattern has been certified.__
 Related submission, with evaluation history, can be found __here__
 
 
@@ -13,7 +13,7 @@ __Diagram__
 
 
 
-[![Image:Class-by-attribute-type.png](../images/d/d2/Class-by-attribute-type.png)](../Image/Class-by-attribute-type.png.md "Image:Class-by-attribute-type.png")
+[![Image:Class-by-attribute-type.png](../images/d/d2/Class-by-attribute-type.png)](../Image/Class-by-attribute-type.png "Image:Class-by-attribute-type.png")
 
 
 
@@ -107,5 +107,5 @@ There is no Modeling issue related to this proposal.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Class\_by\_attribute\_type](../Submissions/Class_by_attribute_type.md)"
- [Categories](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ProposedAlignmentOP](../Category/ProposedAlignmentOP.md "Category:ProposedAlignmentOP") | [AlignmentOP](../Category/AlignmentOP.md "Category:AlignmentOP")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Class\_by\_attribute\_type](../Submissions/Class_by_attribute_type)"
+ [Categories](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ProposedAlignmentOP](../Category/ProposedAlignmentOP "Category:ProposedAlignmentOP") | [AlignmentOP](../Category/AlignmentOP "Category:AlignmentOP")

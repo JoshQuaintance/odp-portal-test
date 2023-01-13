@@ -1,6 +1,6 @@
-* [Image](../Image/PollutionODPFin.png.md#file)
-* [File history](../Image/PollutionODPFin.png.md#filehistory)
-* [Links](../Image/PollutionODPFin.png.md#filelinks)
+* [Image](../Image/PollutionODPFin.png#file)
+* [File history](../Image/PollutionODPFin.png#filehistory)
+* [Links](../Image/PollutionODPFin.png#filelinks)
 
 [![Image:PollutionODPFin.png](../images/thumb/7/70/PollutionODPFin.png/706px-PollutionODPFin.png)](../images/7/70/PollutionODPFin.png)  
 Size of this preview: 706 × 600 pixels  
@@ -28,4 +28,4 @@ There are no pages that link to this file.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:PollutionODPFin.png](../Image/PollutionODPFin.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:PollutionODPFin.png](../Image/PollutionODPFin.png)"

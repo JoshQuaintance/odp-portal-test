@@ -1,5 +1,5 @@
 __Problem__:
-Develop an OWL ontology starting from the below use-case. Note that the text is only there to help you understand the domain and the context of the ontology, but the actual modelling requirements are the competency questions (CQs) and the contextual statement. In this exercise you do not _have to_ reuse [Content ODPs](../../../Submissions/ContentOPs.md "Submissions:ContentOPs"), but please use patterns if you find them useful.
+Develop an OWL ontology starting from the below use-case. Note that the text is only there to help you understand the domain and the context of the ontology, but the actual modelling requirements are the competency questions (CQs) and the contextual statement. In this exercise you do not _have to_ reuse [Content ODPs](../../../Submissions/ContentOPs "Submissions:ContentOPs"), but please use patterns if you find them useful.
 
 
 
@@ -69,5 +69,5 @@ __Solutions__:
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Training:PhD\_Course\_on\_Computational\_Ontologies\_%40\_University\_of\_Bologna/Hands-on\_%28Day4%29:\_Hospitals](../../../Training/PhD_Course_on_Computational_Ontologies_@_University_of_Bologna/Hands-on_(Day4)/_Hospitals.md)/_Hospitals.md)%253A_Hospitals.html)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Exercise](../../../Category/Exercise.md "Category:Exercise")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Training:PhD\_Course\_on\_Computational\_Ontologies\_%40\_University\_of\_Bologna/Hands-on\_%28Day4%29:\_Hospitals](../../../Training/PhD_Course_on_Computational_Ontologies_@_University_of_Bologna/Hands-on_(Day4)/_Hospitals)/_Hospitals.md)/_Hospitals.md)%253A_Hospitals.html)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Exercise](../../../Category/Exercise "Category:Exercise")

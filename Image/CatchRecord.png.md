@@ -1,6 +1,6 @@
-* [Image](../Image/CatchRecord.png.md#file)
-* [File history](../Image/CatchRecord.png.md#filehistory)
-* [Links](../Image/CatchRecord.png.md#filelinks)
+* [Image](../Image/CatchRecord.png#file)
+* [File history](../Image/CatchRecord.png#filehistory)
+* [Links](../Image/CatchRecord.png#filelinks)
 
 [![Image:CatchRecord.png](../images/b/bb/CatchRecord.png)](../images/b/bb/CatchRecord.png)  
 No higher resolution available.  
@@ -23,7 +23,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Submissions:CatchRecord](../Submissions/CatchRecord.md "Submissions:CatchRecord")
+* [Submissions:CatchRecord](../Submissions/CatchRecord "Submissions:CatchRecord")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:CatchRecord.png](../Image/CatchRecord.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:CatchRecord.png](../Image/CatchRecord.png)"

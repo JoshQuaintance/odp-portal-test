@@ -1,6 +1,6 @@
-* [Image](../Image/Historical_Map.jpg.md#file)
-* [File history](../Image/Historical_Map.jpg.md#filehistory)
-* [Links](../Image/Historical_Map.jpg.md#filelinks)
+* [Image](../Image/Historical_Map.jpg#file)
+* [File history](../Image/Historical_Map.jpg#filehistory)
+* [Links](../Image/Historical_Map.jpg#filelinks)
 
 [![Image:Historical Map.jpg](../images/thumb/3/31/Historical_Map.jpg/800px-Historical_Map.jpg)](../images/3/31/Historical_Map.jpg)  
 Size of this preview: 800 × 242 pixels  
@@ -28,4 +28,4 @@ There are no pages that link to this file.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Historical\_Map.jpg](../Image/Historical_Map.jpg.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Historical\_Map.jpg](../Image/Historical_Map.jpg)"

@@ -1,8 +1,8 @@
 __Justification__
-This property is used to give a justification for why an ontology has been selected as an [exemplary ontology](../Odp/WhatIsAnExemplaryOntology.md "Odp:WhatIsAnExemplaryOntology").
+This property is used to give a justification for why an ontology has been selected as an [exemplary ontology](../Odp/WhatIsAnExemplaryOntology "Odp:WhatIsAnExemplaryOntology").
 
 
-This is a property of type [Text](../Type/Text.md "Type:Text").
+This is a property of type [Text](../Type/Text "Type:Text").
 
 
 

@@ -1,8 +1,8 @@
-* [Image](../Image/OccupationsOntology.pdf.md#file)
-* [File history](../Image/OccupationsOntology.pdf.md#filehistory)
-* [Links](../Image/OccupationsOntology.pdf.md#filelinks)
+* [Image](../Image/OccupationsOntology.pdf#file)
+* [File history](../Image/OccupationsOntology.pdf#filehistory)
+* [Links](../Image/OccupationsOntology.pdf#filelinks)
 
-[![](../skins/common/images/icons/fileicon-pdf.png)](../Image/OccupationsOntology.pdf.md "OccupationsOntology.pdf")
+[![](../skins/common/images/icons/fileicon-pdf.png)](../Image/OccupationsOntology.pdf "OccupationsOntology.pdf")
 [OccupationsOntology.pdf](../images/a/a9/OccupationsOntology.pdf "OccupationsOntology.pdf")‎  (file size: 29 KB, MIME type: application/pdf)
 
 
@@ -28,4 +28,4 @@ There are no pages that link to this file.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:OccupationsOntology.pdf](../Image/OccupationsOntology.pdf.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:OccupationsOntology.pdf](../Image/OccupationsOntology.pdf)"

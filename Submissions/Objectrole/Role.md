@@ -1,4 +1,4 @@
-___Role__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [Objectrole](../../Submissions/Objectrole.md "Submissions:Objectrole")_
+___Role__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [Objectrole](../../Submissions/Objectrole "Submissions:Objectrole")_
 
 
   
@@ -6,18 +6,18 @@ ___Role__ has [Category:OntologyElement](../../Category/OntologyElement.md "Cate
 
 
 
-[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif.md "Class")
+[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif "Class")
 __Name__: Role 
 
 
 __Type:__ owl:Class 
 
 
-__Description__: A  [Concept](../../Submissions/Classification/Concept.md "Submissions:Classification/Concept") that classifies an  [Object](../../Image/ObjectProperty.gif.md "Submissions:Objectrole/Object"). 
+__Description__: A  [Concept](../../Submissions/Classification/Concept "Submissions:Classification/Concept") that classifies an  [Object](../../Image/ObjectProperty.gif "Submissions:Objectrole/Object"). 
 
 
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Objectrole/Role](../../Community/AcademicRoles.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Objectrole/Role](../../Community/AcademicRoles)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

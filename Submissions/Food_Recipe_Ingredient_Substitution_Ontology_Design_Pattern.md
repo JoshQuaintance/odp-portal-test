@@ -1,4 +1,4 @@
-[![](../images/thumb/b/b5/Certified.png/70px-Certified.png)](../Image/Certified.png.md "Certified.png") __This pattern has been certified.__
+[![](../images/thumb/b/b5/Certified.png/70px-Certified.png)](../Image/Certified.png "Certified.png") __This pattern has been certified.__
 Related submission, with evaluation history, can be found __here__
 
 
@@ -13,7 +13,7 @@ __Diagram__
 
 
 
-[![Image:FoodSubstituteODP.png](../images/e/e7/FoodSubstituteODP.png)](../Image/FoodSubstituteODP.png.md "Image:FoodSubstituteODP.png")
+[![Image:FoodSubstituteODP.png](../images/e/e7/FoodSubstituteODP.png)](../Image/FoodSubstituteODP.png "Image:FoodSubstituteODP.png")
 
 
 
@@ -93,5 +93,5 @@ There is no Modeling issue related to this proposal.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Food\_Recipe\_Ingredient\_Substitution\_Ontology\_Design\_Pattern](../Submissions/Food_Recipe_Ingredient_Substitution_Ontology_Design_Pattern.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ProposedContentOP](../Category/ProposedContentOP.md "Category:ProposedContentOP")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Food\_Recipe\_Ingredient\_Substitution\_Ontology\_Design\_Pattern](../Submissions/Food_Recipe_Ingredient_Substitution_Ontology_Design_Pattern)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ProposedContentOP](../Category/ProposedContentOP "Category:ProposedContentOP")

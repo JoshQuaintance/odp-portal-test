@@ -1,4 +1,4 @@
-Return to [Catalogue of Exemplary Ontologies](../Ontology/Main.md "Ontology:Main")
+Return to [Catalogue of Exemplary Ontologies](../Ontology/Main "Ontology:Main")
 
 
 
@@ -34,10 +34,10 @@ On the basis of the ordered list concept defined in the Ordered List Ontology on
 
 
 
-* A blog post about the Ordered List Ontology with examples and graphics. [Weblog post](http://smiy.org/2010/07/15/the-ordered-list-ontology/ "http://smiy.org/2010/07/15/the-ordered-list-ontology/") | [reference page](../Community/References/Ordered_List_Ontology_announcement.md "Community:References/Ordered List Ontology announcement")
+* A blog post about the Ordered List Ontology with examples and graphics. [Weblog post](http://smiy.org/2010/07/15/the-ordered-list-ontology/ "http://smiy.org/2010/07/15/the-ordered-list-ontology/") | [reference page](../Community/References/Ordered_List_Ontology_announcement "Community:References/Ordered List Ontology announcement")
 
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Ontology:Ordered\_List\_Ontology](../Ontology/Ordered_List_Ontology.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Ontology](../Category/Ontology.md "Category:Ontology")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Ontology:Ordered\_List\_Ontology](../Ontology/Ordered_List_Ontology)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Ontology](../Category/Ontology "Category:Ontology")

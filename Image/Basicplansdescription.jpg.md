@@ -1,6 +1,6 @@
-* [Image](../Image/Basicplansdescription.jpg.md#file)
-* [File history](../Image/Basicplansdescription.jpg.md#filehistory)
-* [Links](../Image/Basicplansdescription.jpg.md#filelinks)
+* [Image](../Image/Basicplansdescription.jpg#file)
+* [File history](../Image/Basicplansdescription.jpg#filehistory)
+* [Links](../Image/Basicplansdescription.jpg#filelinks)
 
 [![Image:Basicplansdescription.jpg](../images/thumb/5/54/Basicplansdescription.jpg/800px-Basicplansdescription.jpg)](../images/5/54/Basicplansdescription.jpg)  
 Size of this preview: 800 × 282 pixels  
@@ -23,7 +23,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Community:Images](../Community/Images.md "Community:Images")
+* [Community:Images](../Community/Images "Community:Images")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Basicplansdescription.jpg](../Image/Basicplansdescription.jpg.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Basicplansdescription.jpg](../Image/Basicplansdescription.jpg)"

@@ -1,5 +1,5 @@
-[![](../images/thumb/2/29/Reviewer.png/48px-Reviewer.png)](../Image/Reviewer.png.md "Reviewer.png")
-__[MariaPoveda](../User/MariaPoveda.md "User:MariaPoveda") about [TransportPattern](../Submissions/TransportPattern.md "Submissions:TransportPattern") (Revision ID: [11661](../Submissions/TransportPattern@oldid=11661.md "http://ontologydesignpatterns.org/wiki/Submissions:TransportPattern?oldid=11661"))__
+[![](../images/thumb/2/29/Reviewer.png/48px-Reviewer.png)](../Image/Reviewer.png "Reviewer.png")
+__[MariaPoveda](../User/MariaPoveda "User:MariaPoveda") about [TransportPattern](../Submissions/TransportPattern "Submissions:TransportPattern") (Revision ID: [11661](../Submissions/TransportPattern@oldid=11661 "http://ontologydesignpatterns.org/wiki/Submissions:TransportPattern?oldid=11661"))__
 Overall suggestion (score): 0 - needs major revision
 
 
@@ -34,8 +34,8 @@ _Posted:_ 2013/8/6 _Last modified:_ 2013/8/6
 
 
 
-[All reviews](../Reviews/Main.md "Reviews:Main") | [Add a comment at the bottom of this page](index.php@title=Odp%253AAdd_comment&target=../Reviews/MariaPoveda_about_TransportPattern.md#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Reviews:MariaPoveda_about_TransportPattern#New_comment")
+[All reviews](../Reviews/Main "Reviews:Main") | [Add a comment at the bottom of this page](index.php@title=Odp%253AAdd_comment&target=../Reviews/MariaPoveda_about_TransportPattern#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Reviews:MariaPoveda_about_TransportPattern#New_comment")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Reviews:MariaPoveda\_about\_TransportPattern](../Reviews/MariaPoveda_about_TransportPattern.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [QCReview](../Category/QCReview.md "Category:QCReview")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Reviews:MariaPoveda\_about\_TransportPattern](../Reviews/MariaPoveda_about_TransportPattern)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [QCReview](../Category/QCReview "Category:QCReview")

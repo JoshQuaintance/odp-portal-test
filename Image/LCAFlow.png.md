@@ -1,6 +1,6 @@
-* [Image](../Image/LCAFlow.png.md#file)
-* [File history](../Image/LCAFlow.png.md#filehistory)
-* [Links](../Image/LCAFlow.png.md#filelinks)
+* [Image](../Image/LCAFlow.png#file)
+* [File history](../Image/LCAFlow.png#filehistory)
+* [Links](../Image/LCAFlow.png#filelinks)
 
 [![Image:LCAFlow.png](../images/thumb/4/4b/LCAFlow.png/800px-LCAFlow.png)](../images/4/4b/LCAFlow.png)  
 Size of this preview: 800 × 348 pixels  
@@ -23,7 +23,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Submissions:LCA Pattern](../Submissions/LCA_Pattern.md "Submissions:LCA Pattern")
+* [Submissions:LCA Pattern](../Submissions/LCA_Pattern "Submissions:LCA Pattern")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:LCAFlow.png](../Image/LCAFlow.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:LCAFlow.png](../Image/LCAFlow.png)"

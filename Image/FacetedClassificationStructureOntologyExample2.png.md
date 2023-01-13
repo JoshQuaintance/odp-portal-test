@@ -1,6 +1,6 @@
-* [Image](../Image/FacetedClassificationStructureOntologyExample2.png.md#file)
-* [File history](../Image/FacetedClassificationStructureOntologyExample2.png.md#filehistory)
-* [Links](../Image/FacetedClassificationStructureOntologyExample2.png.md#filelinks)
+* [Image](../Image/FacetedClassificationStructureOntologyExample2.png#file)
+* [File history](../Image/FacetedClassificationStructureOntologyExample2.png#filehistory)
+* [Links](../Image/FacetedClassificationStructureOntologyExample2.png#filelinks)
 
 [![Image:FacetedClassificationStructureOntologyExample2.png](../images/thumb/1/11/FacetedClassificationStructureOntologyExample2.png/424px-FacetedClassificationStructureOntologyExample2.png)](../images/1/11/FacetedClassificationStructureOntologyExample2.png)  
 Size of this preview: 424 × 599 pixels  
@@ -26,7 +26,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following file is a duplicate of this file:
 
 
-* [Image:FacetedClassificationStructureOntologyExample.png](../Image/FacetedClassificationStructureOntologyExample.png.md "Image:FacetedClassificationStructureOntologyExample.png")
+* [Image:FacetedClassificationStructureOntologyExample.png](../Image/FacetedClassificationStructureOntologyExample.png "Image:FacetedClassificationStructureOntologyExample.png")
 
 
 There are no pages that link to this file.
@@ -34,4 +34,4 @@ There are no pages that link to this file.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:FacetedClassificationStructureOntologyExample2.png](../Image/FacetedClassificationStructureOntologyExample2.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:FacetedClassificationStructureOntologyExample2.png](../Image/FacetedClassificationStructureOntologyExample2.png)"

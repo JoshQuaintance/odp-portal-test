@@ -1,4 +1,4 @@
-___NoteDynamic__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [Notepattern](../../Submissions/Notepattern.md "Submissions:Notepattern")_
+___NoteDynamic__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [Notepattern](../../Submissions/Notepattern "Submissions:Notepattern")_
 
 
   
@@ -6,7 +6,7 @@ ___NoteDynamic__ has [Category:OntologyElement](../../Category/OntologyElement.m
 
 
 
-[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif.md "Class")
+[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif "Class")
 __Name__: NoteDynamic 
 
 
@@ -19,5 +19,5 @@ __Description__: The dynamic of a symbolic note.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Notepattern/NoteDynamic](../../Submissions/Notepattern/hasNoteDynamic.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Notepattern/NoteDynamic](../../Submissions/Notepattern/hasNoteDynamic)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

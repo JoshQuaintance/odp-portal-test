@@ -1,4 +1,4 @@
-___hasTag__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [OOPMetrics](../../Submissions/OOPMetrics.md "Submissions:OOPMetrics")_
+___hasTag__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [OOPMetrics](../../Submissions/OOPMetrics "Submissions:OOPMetrics")_
 
 
   
@@ -6,7 +6,7 @@ ___hasTag__ has [Category:OntologyElement](../../Category/OntologyElement.md "Ca
 
 
 
-[![DatatypeProperty](../../images/thumb/a/a5/DatatypeProperty.gif/45px-DatatypeProperty.gif)](../../Image/DatatypeProperty.gif.md "DatatypeProperty")
+[![DatatypeProperty](../../images/thumb/a/a5/DatatypeProperty.gif/45px-DatatypeProperty.gif)](../../Image/DatatypeProperty.gif "DatatypeProperty")
 __Name__: hasTag 
 
 
@@ -26,5 +26,5 @@ O valoare numerica reprezentand categoria metricii soft.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:OOPMetrics/hasTag](../../Submissions/OOPMetrics/hasTag.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:OOPMetrics/hasTag](../../Submissions/OOPMetrics/hasTag)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

@@ -1,6 +1,6 @@
-* [Image](../Image/MappingFCSNormalizationODP.png.md#file)
-* [File history](../Image/MappingFCSNormalizationODP.png.md#filehistory)
-* [Links](../Image/MappingFCSNormalizationODP.png.md#filelinks)
+* [Image](../Image/MappingFCSNormalizationODP.png#file)
+* [File history](../Image/MappingFCSNormalizationODP.png#filehistory)
+* [Links](../Image/MappingFCSNormalizationODP.png#filelinks)
 
 [![Image:MappingFCSNormalizationODP.png](../images/6/67/MappingFCSNormalizationODP.png)](../images/6/67/MappingFCSNormalizationODP.png)  
 No higher resolution available.  
@@ -26,7 +26,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Submissions:Faceted Classification Scheme](../Submissions/Faceted_Classification_Scheme.md "Submissions:Faceted Classification Scheme")
+* [Submissions:Faceted Classification Scheme](../Submissions/Faceted_Classification_Scheme "Submissions:Faceted Classification Scheme")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:MappingFCSNormalizationODP.png](../Image/MappingFCSNormalizationODP.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:MappingFCSNormalizationODP.png](../Image/MappingFCSNormalizationODP.png)"

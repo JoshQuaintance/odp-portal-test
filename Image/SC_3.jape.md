@@ -1,6 +1,6 @@
-* [Image](../Image/SC_3.jape.md#file)
-* [File history](../Image/SC_3.jape.md#filehistory)
-* [Links](../Image/SC_3.jape.md#filelinks)
+* [Image](../Image/SC_3.jape#file)
+* [File history](../Image/SC_3.jape#filehistory)
+* [Links](../Image/SC_3.jape#filelinks)
 
 
 [SC\_3.jape](../images/9/90/SC_3.jape "SC 3.jape")‎
@@ -32,9 +32,9 @@ Click on a date/time to view the file as it appeared at that time.
 The following 3 pages link to this file:
 
 
-* [Submissions:Lexico Syntactic ODP corresponding to SubclassOf relation ODP](../Submissions/Lexico_Syntactic_ODP_corresponding_to_SubclassOf_relation_ODP.md "Submissions:Lexico Syntactic ODP corresponding to SubclassOf relation ODP")
-* [Submissions:Lexico Syntactic ODP corresponding to SubclassOf relation ODP/2](../Submissions/Lexico_Syntactic_ODP_corresponding_to_SubclassOf_relation_ODP/2.md "Submissions:Lexico Syntactic ODP corresponding to SubclassOf relation ODP/2")
-* [Submissions:Lexico Syntactic ODP corresponding to SubclassOf relation ODP/3](../Submissions/Lexico_Syntactic_ODP_corresponding_to_SubclassOf_relation_ODP/3.md "Submissions:Lexico Syntactic ODP corresponding to SubclassOf relation ODP/3")
+* [Submissions:Lexico Syntactic ODP corresponding to SubclassOf relation ODP](../Submissions/Lexico_Syntactic_ODP_corresponding_to_SubclassOf_relation_ODP "Submissions:Lexico Syntactic ODP corresponding to SubclassOf relation ODP")
+* [Submissions:Lexico Syntactic ODP corresponding to SubclassOf relation ODP/2](../Submissions/Lexico_Syntactic_ODP_corresponding_to_SubclassOf_relation_ODP/2 "Submissions:Lexico Syntactic ODP corresponding to SubclassOf relation ODP/2")
+* [Submissions:Lexico Syntactic ODP corresponding to SubclassOf relation ODP/3](../Submissions/Lexico_Syntactic_ODP_corresponding_to_SubclassOf_relation_ODP/3 "Submissions:Lexico Syntactic ODP corresponding to SubclassOf relation ODP/3")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:SC\_3.jape](../Image/SC_3.jape.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:SC\_3.jape](../Image/SC_3.jape)"

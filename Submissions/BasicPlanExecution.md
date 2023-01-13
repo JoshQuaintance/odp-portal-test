@@ -1,4 +1,4 @@
-[![](../images/thumb/b/b5/Certified.png/70px-Certified.png)](../Image/Certified.png.md "Certified.png") __This pattern has been certified.__
+[![](../images/thumb/b/b5/Certified.png/70px-Certified.png)](../Image/Certified.png "Certified.png") __This pattern has been certified.__
 Related submission, with evaluation history, can be found __here__
 
 
@@ -28,30 +28,30 @@ _The __BasicPlanExecution__ Content OP locally defines the following ontology el
 
 
 
-[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __actionHasParticipant__ (owl:ObjectProperty) A relation between a Process and an Object, e.g. 'the avalanche hasParticipant a mass of snow', or 'the cooking of a cake hasParticipant an agent, some sugar, flour, etc.'. 
- [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[actionHasParticipant](http://ontologydesignpatterns.org/wiki/Submissions:BasicPlanExecution/actionHasParticipant "Submissions:BasicPlanExecution/actionHasParticipant") page_
-[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __includesAction__ (owl:ObjectProperty) A relation between situations and persons, e.g. 'this morning I've prepared my coffee and had my fingers burnt' (i.e.: the preparation of my coffee this morning included a burning of my fingers). 
- [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[includesAction](../Submissions/BasicPlanExecution/includesAction.md "Submissions:BasicPlanExecution/includesAction") page_
-[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __includesAgent__ (owl:ObjectProperty) A relation between situations and persons, e.g. 'this morning I've prepared my coffee and had my fingers burnt' (i.e.: the preparation of my coffee this morning included me). 
- [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[includesAgent](../Submissions/BasicPlanExecution/includesAgent.md "Submissions:BasicPlanExecution/includesAgent") page_
-[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __includesObject__ (owl:ObjectProperty) A relation between situations and persons, e.g. 'this morning I've prepared my coffee and had my fingers burnt' (i.e.: the preparation of my coffee this morning included me). 
- [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[includesObject](../Submissions/BasicPlanExecution/includesObject.md "Submissions:BasicPlanExecution/includesObject") page_
-[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __includesRegion__ (owl:ObjectProperty) 
- [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[includesRegion](../Submissions/BasicPlanExecution/includesRegion.md "Submissions:BasicPlanExecution/includesRegion") page_
-[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __isActionIncludedIn__ (owl:ObjectProperty) 
- [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[isActionIncludedIn](../Submissions/BasicPlanExecution/isActionIncludedIn.md "Submissions:BasicPlanExecution/isActionIncludedIn") page_
-[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __isAgentIncludedIn__ (owl:ObjectProperty) 
- [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[isAgentIncludedIn](../Submissions/BasicPlanExecution/isAgentIncludedIn.md "Submissions:BasicPlanExecution/isAgentIncludedIn") page_
-[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __isObjectIncludedIn__ (owl:ObjectProperty) 
- [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[isObjectIncludedIn](../Submissions/BasicPlanExecution/isObjectIncludedIn.md "Submissions:BasicPlanExecution/isObjectIncludedIn") page_
-[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __isParticipantInAction__ (owl:ObjectProperty) A relation between an object and a process, e.g. 'a mass of snow is partipant in the avalanche', or 'an agent, some sugar, flour, etc. are participant in the cooking of a cake'. 
- [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[isParticipantInAction](../Submissions/BasicPlanExecution/isParticipantInAction.md "Submissions:BasicPlanExecution/isParticipantInAction") page_
-[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __isRegionIncludedIn__ (owl:ObjectProperty) 
- [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[isRegionIncludedIn](../Submissions/BasicPlanExecution/isRegionIncludedIn.md "Submissions:BasicPlanExecution/isRegionIncludedIn") page_
-[![Class](../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __Action__ (owl:Class) An Event with at least one Agent that isParticipantIn, and that executes a Task that typically isDefinedIn a Plan, Workflow, Project, etc. 
- [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[Action](../Submissions/BasicPlanExecution/Action.md "Submissions:BasicPlanExecution/Action") page_
-[![Class](../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __PlanExecution__ (owl:Class) Plan executions are situations that proactively satisfy a plan. Subplan executions are proper parts of the whole plan execution. 
- [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[PlanExecution](../Submissions/BasicPlanExecution/PlanExecution.md "Submissions:BasicPlanExecution/PlanExecution") page_
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif "ObjectProperty") __actionHasParticipant__ (owl:ObjectProperty) A relation between a Process and an Object, e.g. 'the avalanche hasParticipant a mass of snow', or 'the cooking of a cake hasParticipant an agent, some sugar, flour, etc.'. 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif "ArrowRight.gif") _[actionHasParticipant](http://ontologydesignpatterns.org/wiki/Submissions:BasicPlanExecution/actionHasParticipant "Submissions:BasicPlanExecution/actionHasParticipant") page_
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif "ObjectProperty") __includesAction__ (owl:ObjectProperty) A relation between situations and persons, e.g. 'this morning I've prepared my coffee and had my fingers burnt' (i.e.: the preparation of my coffee this morning included a burning of my fingers). 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif "ArrowRight.gif") _[includesAction](../Submissions/BasicPlanExecution/includesAction "Submissions:BasicPlanExecution/includesAction") page_
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif "ObjectProperty") __includesAgent__ (owl:ObjectProperty) A relation between situations and persons, e.g. 'this morning I've prepared my coffee and had my fingers burnt' (i.e.: the preparation of my coffee this morning included me). 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif "ArrowRight.gif") _[includesAgent](../Submissions/BasicPlanExecution/includesAgent "Submissions:BasicPlanExecution/includesAgent") page_
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif "ObjectProperty") __includesObject__ (owl:ObjectProperty) A relation between situations and persons, e.g. 'this morning I've prepared my coffee and had my fingers burnt' (i.e.: the preparation of my coffee this morning included me). 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif "ArrowRight.gif") _[includesObject](../Submissions/BasicPlanExecution/includesObject "Submissions:BasicPlanExecution/includesObject") page_
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif "ObjectProperty") __includesRegion__ (owl:ObjectProperty) 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif "ArrowRight.gif") _[includesRegion](../Submissions/BasicPlanExecution/includesRegion "Submissions:BasicPlanExecution/includesRegion") page_
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif "ObjectProperty") __isActionIncludedIn__ (owl:ObjectProperty) 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif "ArrowRight.gif") _[isActionIncludedIn](../Submissions/BasicPlanExecution/isActionIncludedIn "Submissions:BasicPlanExecution/isActionIncludedIn") page_
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif "ObjectProperty") __isAgentIncludedIn__ (owl:ObjectProperty) 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif "ArrowRight.gif") _[isAgentIncludedIn](../Submissions/BasicPlanExecution/isAgentIncludedIn "Submissions:BasicPlanExecution/isAgentIncludedIn") page_
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif "ObjectProperty") __isObjectIncludedIn__ (owl:ObjectProperty) 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif "ArrowRight.gif") _[isObjectIncludedIn](../Submissions/BasicPlanExecution/isObjectIncludedIn "Submissions:BasicPlanExecution/isObjectIncludedIn") page_
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif "ObjectProperty") __isParticipantInAction__ (owl:ObjectProperty) A relation between an object and a process, e.g. 'a mass of snow is partipant in the avalanche', or 'an agent, some sugar, flour, etc. are participant in the cooking of a cake'. 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif "ArrowRight.gif") _[isParticipantInAction](../Submissions/BasicPlanExecution/isParticipantInAction "Submissions:BasicPlanExecution/isParticipantInAction") page_
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif "ObjectProperty") __isRegionIncludedIn__ (owl:ObjectProperty) 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif "ArrowRight.gif") _[isRegionIncludedIn](../Submissions/BasicPlanExecution/isRegionIncludedIn "Submissions:BasicPlanExecution/isRegionIncludedIn") page_
+[![Class](../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif "Class") __Action__ (owl:Class) An Event with at least one Agent that isParticipantIn, and that executes a Task that typically isDefinedIn a Plan, Workflow, Project, etc. 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif "ArrowRight.gif") _[Action](../Submissions/BasicPlanExecution/Action "Submissions:BasicPlanExecution/Action") page_
+[![Class](../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif "Class") __PlanExecution__ (owl:Class) Plan executions are situations that proactively satisfy a plan. Subplan executions are proper parts of the whole plan execution. 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif "ArrowRight.gif") _[PlanExecution](../Submissions/BasicPlanExecution/PlanExecution "Submissions:BasicPlanExecution/PlanExecution") page_
 #  Additional information
 
 
@@ -106,7 +106,7 @@ There is no Modeling issue related to this proposal.
 #  References
 
 
-[Add a reference](index.php@title=Odp%253AAdd_reference&subject=../Submissions/BasicPlanExecution.md "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_reference&subject=Submissions%3ABasicPlanExecution")
+[Add a reference](index.php@title=Odp%253AAdd_reference&subject=../Submissions/BasicPlanExecution "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_reference&subject=Submissions%3ABasicPlanExecution")
 
 
   
@@ -116,5 +116,5 @@ There is no Modeling issue related to this proposal.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:BasicPlanExecution](../Submissions/BasicPlanExecution.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ProposedContentOP](../Category/ProposedContentOP.md "Category:ProposedContentOP")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:BasicPlanExecution](../Submissions/BasicPlanExecution)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ProposedContentOP](../Category/ProposedContentOP "Category:ProposedContentOP")

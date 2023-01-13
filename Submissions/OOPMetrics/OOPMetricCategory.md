@@ -1,4 +1,4 @@
-___OOPMetricCategory__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [OOPMetrics](../../Submissions/OOPMetrics.md "Submissions:OOPMetrics")_
+___OOPMetricCategory__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [OOPMetrics](../../Submissions/OOPMetrics "Submissions:OOPMetrics")_
 
 
   
@@ -6,7 +6,7 @@ ___OOPMetricCategory__ has [Category:OntologyElement](../../Category/OntologyEle
 
 
 
-[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif.md "Class")
+[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif "Class")
 __Name__: OOPMetricCategory 
 
 
@@ -26,5 +26,5 @@ Fiecare metrica soft apartine unei categorii OOPMetricCategory.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:OOPMetrics/OOPMetricCategory](../../Submissions/OOPMetrics/OOPMetricCategory.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:OOPMetrics/OOPMetricCategory](../../Submissions/OOPMetrics/OOPMetricCategory)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

@@ -7,4 +7,4 @@ If you don't have an ODP account, you can [request it](http://ontologydesignpatt
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:ProposeALP](../Submissions/ProposeALP.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:ProposeALP](../Submissions/ProposeALP)"

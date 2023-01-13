@@ -1,4 +1,4 @@
-Return to [Catalogue of Exemplary Ontologies](../../Ontology/Main.md "Ontology:Main")
+Return to [Catalogue of Exemplary Ontologies](../../Ontology/Main "Ontology:Main")
 
 
 
@@ -126,10 +126,10 @@ In some cases, distinct quantity kinds may have the same dimension symbol. This 
 
 
 
-* QUDT home page [Project Home Page](http://www.oegov.us/blog/?page_id=109 "http://www.oegov.us/blog/?page_id=109") | [reference page](../../Community/References/QUDT_home_page.md "Community:References/QUDT home page")
+* QUDT home page [Project Home Page](http://www.oegov.us/blog/?page_id=109 "http://www.oegov.us/blog/?page_id=109") | [reference page](../../Community/References/QUDT_home_page "Community:References/QUDT home page")
 
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Ontology:QUDT:\_Quantities%2C\_Units%2C\_Dimensions\_and\_Types](../../Ontology/QUDT/_Quantities,_Units,_Dimensions_and_Types.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Ontology](../../Category/Ontology.md "Category:Ontology")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Ontology:QUDT:\_Quantities%2C\_Units%2C\_Dimensions\_and\_Types](../../Ontology/QUDT/_Quantities,_Units,_Dimensions_and_Types)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Ontology](../../Category/Ontology "Category:Ontology")

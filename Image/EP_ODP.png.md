@@ -1,6 +1,6 @@
-* [Image](../Image/EP_ODP.png.md#file)
-* [File history](../Image/EP_ODP.png.md#filehistory)
-* [Links](../Image/EP_ODP.png.md#filelinks)
+* [Image](../Image/EP_ODP.png#file)
+* [File history](../Image/EP_ODP.png#filehistory)
+* [Links](../Image/EP_ODP.png#filelinks)
 
 [![Image:EP ODP.png](../images/thumb/9/93/EP_ODP.png/800px-EP_ODP.png)](../images/9/93/EP_ODP.png)  
 Size of this preview: 800 × 362 pixels  
@@ -26,7 +26,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Submissions:EventProcessing](../Submissions/EventProcessing.md "Submissions:EventProcessing")
+* [Submissions:EventProcessing](../Submissions/EventProcessing "Submissions:EventProcessing")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:EP\_ODP.png](../Image/EP_ODP.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:EP\_ODP.png](../Image/EP_ODP.png)"

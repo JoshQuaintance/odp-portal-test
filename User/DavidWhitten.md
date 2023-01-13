@@ -1,4 +1,4 @@
-[![Image:ODPUser.png](../images/a/a6/ODPUser.png)](../Image/ODPUser.png.md "Image:ODPUser.png")
+[![Image:ODPUser.png](../images/a/a6/ODPUser.png)](../Image/ODPUser.png "Image:ODPUser.png")
 
 
 
@@ -19,14 +19,14 @@ __Domains of interest:__
 
 
 
-* [Healthcare](../Community/Healthcare.md "Community:Healthcare")
+* [Healthcare](../Community/Healthcare "Community:Healthcare")
 
 
 __Is expert of:__
 
 
 
-* [Healthcare](../Community/Healthcare.md "Community:Healthcare")
+* [Healthcare](../Community/Healthcare "Community:Healthcare")
 
 
 __How did I know about ODP:__ surfing the web
@@ -40,5 +40,5 @@ Within Healthcare, specifically, I am interested in Medical Informatics and Clin
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/User:DavidWhitten](../User/DavidWhitten.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ODPUser](../Category/ODPUser.md "Category:ODPUser")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/User:DavidWhitten](../User/DavidWhitten)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ODPUser](../Category/ODPUser "Category:ODPUser")

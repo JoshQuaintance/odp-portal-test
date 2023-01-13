@@ -1,4 +1,4 @@
-___Media__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [NewsReportingEvent](../../Submissions/NewsReportingEvent.md "Submissions:NewsReportingEvent")_
+___Media__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [NewsReportingEvent](../../Submissions/NewsReportingEvent "Submissions:NewsReportingEvent")_
 
 
   
@@ -6,7 +6,7 @@ ___Media__ has [Category:OntologyElement](../../Category/OntologyElement.md "Cat
 
 
 
-[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif.md "Class")
+[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif "Class")
 __Name__: Media 
 
 
@@ -19,5 +19,5 @@ __Description__: An entity that allows a communication of news messages, for exa
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:NewsReportingEvent/Media](../../Community/Media.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:NewsReportingEvent/Media](../../Community/Media)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

@@ -1,7 +1,7 @@
-* [Image](../Image/Action.jpg.md#file)
-* [File history](../Image/Action.jpg.md#filehistory)
-* [Links](../Image/Action.jpg.md#filelinks)
-* [Metadata](../Image/Action.jpg.md#metadata)
+* [Image](../Image/Action.jpg#file)
+* [File history](../Image/Action.jpg#filehistory)
+* [Links](../Image/Action.jpg#filelinks)
+* [Metadata](../Image/Action.jpg#metadata)
 
 [![Image:Action.jpg](../images/thumb/9/97/Action.jpg/800px-Action.jpg)](../images/9/97/Action.jpg)  
 Size of this preview: 800 × 388 pixels  
@@ -27,7 +27,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Submissions:Action](../Submissions/Action.md "Submissions:Action")
+* [Submissions:Action](../Submissions/Action "Submissions:Action")
 
 ## Metadata
 
@@ -38,4 +38,4 @@ If the file has been modified from its original state, some details may not full
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Action.jpg](../Image/Action.jpg.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Action.jpg](../Image/Action.jpg)"

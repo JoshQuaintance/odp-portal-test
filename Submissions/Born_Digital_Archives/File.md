@@ -1,4 +1,4 @@
-___File__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [Born Digital Archives](../../Submissions/Born_Digital_Archives.md "Submissions:Born Digital Archives")_
+___File__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [Born Digital Archives](../../Submissions/Born_Digital_Archives "Submissions:Born Digital Archives")_
 
 
   
@@ -6,7 +6,7 @@ ___File__ has [Category:OntologyElement](../../Category/OntologyElement.md "Cate
 
 
 
-[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif.md "Class")
+[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif "Class")
 __Name__: File 
 
 
@@ -19,5 +19,5 @@ __Description__: An organized unit of documents grouped together either for curr
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Born\_Digital\_Archives/File](../../Submissions/Born_Digital_Archives/File.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Born\_Digital\_Archives/File](../../Submissions/Born_Digital_Archives/File)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

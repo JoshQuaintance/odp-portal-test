@@ -1,7 +1,7 @@
-* [Image](../Image/De_Clars_Instant_Lifting_Mask.jpg.md#file)
-* [File history](../Image/De_Clars_Instant_Lifting_Mask.jpg.md#filehistory)
-* [Links](../Image/De_Clars_Instant_Lifting_Mask.jpg.md#filelinks)
-* [Metadata](../Image/De_Clars_Instant_Lifting_Mask.jpg.md#metadata)
+* [Image](../Image/De_Clars_Instant_Lifting_Mask.jpg#file)
+* [File history](../Image/De_Clars_Instant_Lifting_Mask.jpg#filehistory)
+* [Links](../Image/De_Clars_Instant_Lifting_Mask.jpg#filelinks)
+* [Metadata](../Image/De_Clars_Instant_Lifting_Mask.jpg#metadata)
 
 [![Image:De Clars Instant Lifting Mask.jpg](../images/a/aa/De_Clars_Instant_Lifting_Mask.jpg)](../images/a/aa/De_Clars_Instant_Lifting_Mask.jpg)  
 No higher resolution available.  
@@ -41,4 +41,4 @@ If the file has been modified from its original state, some details may not full
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:De\_Clars\_Instant\_Lifting\_Mask.jpg](../Image/De_Clars_Instant_Lifting_Mask.jpg.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:De\_Clars\_Instant\_Lifting\_Mask.jpg](../Image/De_Clars_Instant_Lifting_Mask.jpg)"

@@ -1,4 +1,4 @@
-[![](../images/thumb/b/b5/Certified.png/70px-Certified.png)](../Image/Certified.png.md "Certified.png") __This pattern has been certified.__
+[![](../images/thumb/b/b5/Certified.png/70px-Certified.png)](../Image/Certified.png "Certified.png") __This pattern has been certified.__
 Related submission, with evaluation history, can be found __here__
 
 
@@ -13,7 +13,7 @@ __Diagram__
 
 
 
-[![Image:AlgorithmImplementationExecution_ver2.png](../images/2/2b/AlgorithmImplementationExecution_ver2.png)](../Image/AlgorithmImplementationExecution_ver2.png.md "Image:AlgorithmImplementationExecution_ver2.png")
+[![Image:AlgorithmImplementationExecution_ver2.png](../images/2/2b/AlgorithmImplementationExecution_ver2.png)](../Image/AlgorithmImplementationExecution_ver2.png "Image:AlgorithmImplementationExecution_ver2.png")
 
 
 
@@ -83,7 +83,7 @@ There is no Modeling issue related to this proposal.
 #  References
 
 
-[Add a reference](index.php@title=Odp%253AAdd_reference&subject=../Submissions/AlgorithmImplementationExecution.md "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_reference&subject=Submissions%3AAlgorithmImplementationExecution")
+[Add a reference](index.php@title=Odp%253AAdd_reference&subject=../Submissions/AlgorithmImplementationExecution "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_reference&subject=Submissions%3AAlgorithmImplementationExecution")
 
 
   
@@ -93,5 +93,5 @@ There is no Modeling issue related to this proposal.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:AlgorithmImplementationExecution](../Submissions/AlgorithmImplementationExecution.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ProposedContentOP](../Category/ProposedContentOP.md "Category:ProposedContentOP")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:AlgorithmImplementationExecution](../Submissions/AlgorithmImplementationExecution)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ProposedContentOP](../Category/ProposedContentOP "Category:ProposedContentOP")

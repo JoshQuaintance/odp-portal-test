@@ -1,5 +1,5 @@
-[![](../images/thumb/2/29/Reviewer.png/48px-Reviewer.png)](../Image/Reviewer.png.md "Reviewer.png")
-__[StefanoDavid](../User/StefanoDavid.md "User:StefanoDavid") about [NegativePropertyAssertions](../Submissions/NegativePropertyAssertions.md "Submissions:NegativePropertyAssertions") (Revision ID: [5778](../Submissions/NegativePropertyAssertions@oldid=5778.md "http://ontologydesignpatterns.org/wiki/Submissions:NegativePropertyAssertions?oldid=5778"))__
+[![](../images/thumb/2/29/Reviewer.png/48px-Reviewer.png)](../Image/Reviewer.png "Reviewer.png")
+__[StefanoDavid](../User/StefanoDavid "User:StefanoDavid") about [NegativePropertyAssertions](../Submissions/NegativePropertyAssertions "Submissions:NegativePropertyAssertions") (Revision ID: [5778](../Submissions/NegativePropertyAssertions@oldid=5778 "http://ontologydesignpatterns.org/wiki/Submissions:NegativePropertyAssertions?oldid=5778"))__
 Overall suggestion (score): 0 - needs major revision
 
 
@@ -37,8 +37,8 @@ _Posted:_ 2009/9/10 _Last modified:_ 2009/9/10
 
 
 
-[All reviews](../Reviews/Main.md "Reviews:Main") | [Add a comment at the bottom of this page](index.php@title=Odp%253AAdd_comment&target=../Reviews/StefanoDavid_about_NegativePropertyAssertions.md#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Reviews:StefanoDavid_about_NegativePropertyAssertions#New_comment")
+[All reviews](../Reviews/Main "Reviews:Main") | [Add a comment at the bottom of this page](index.php@title=Odp%253AAdd_comment&target=../Reviews/StefanoDavid_about_NegativePropertyAssertions#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Reviews:StefanoDavid_about_NegativePropertyAssertions#New_comment")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Reviews:StefanoDavid\_about\_NegativePropertyAssertions](../Reviews/StefanoDavid_about_NegativePropertyAssertions.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [QCReview](../Category/QCReview.md "Category:QCReview")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Reviews:StefanoDavid\_about\_NegativePropertyAssertions](../Reviews/StefanoDavid_about_NegativePropertyAssertions)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [QCReview](../Category/QCReview "Category:QCReview")

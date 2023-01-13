@@ -1,6 +1,6 @@
-* [Image](../Image/Context.-slices-example.jpg.md#file)
-* [File history](../Image/Context.-slices-example.jpg.md#filehistory)
-* [Links](../Image/Context.-slices-example.jpg.md#filelinks)
+* [Image](../Image/Context.-slices-example.jpg#file)
+* [File history](../Image/Context.-slices-example.jpg#filehistory)
+* [Links](../Image/Context.-slices-example.jpg#filelinks)
 
 [![Image:Context.-slices-example.jpg](../images/thumb/0/05/Context.-slices-example.jpg/800px-Context.-slices-example.jpg)](../images/0/05/Context.-slices-example.jpg)  
 Size of this preview: 800 × 600 pixels  
@@ -26,7 +26,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Submissions:Context Slices](../Submissions/Context_Slices.md "Submissions:Context Slices")
+* [Submissions:Context Slices](../Submissions/Context_Slices "Submissions:Context Slices")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Context.-slices-example.jpg](../Image/Context.-slices-example.jpg.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Context.-slices-example.jpg](../Image/Context.-slices-example.jpg)"

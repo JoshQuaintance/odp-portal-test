@@ -1,4 +1,4 @@
-[![](../images/thumb/b/b5/Certified.png/70px-Certified.png)](../Image/Certified.png.md "Certified.png") __This pattern has been certified.__
+[![](../images/thumb/b/b5/Certified.png/70px-Certified.png)](../Image/Certified.png "Certified.png") __This pattern has been certified.__
 Related submission, with evaluation history, can be found __here__
 
 
@@ -13,7 +13,7 @@ __Diagram__
 
 
 
-[![Image:Relative-facts.png](../images/2/2a/Relative-facts.png)](../Image/Relative-facts.png.md "Image:Relative-facts.png")
+[![Image:Relative-facts.png](../images/2/2a/Relative-facts.png)](../Image/Relative-facts.png "Image:Relative-facts.png")
 
 
 
@@ -109,5 +109,5 @@ There is no Modeling issue related to this proposal.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Social\_Reality\_%28OWL\_2%29](../Submissions/Social_Reality_(OWL_2).md).md).html)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ProposedContentOP](../Category/ProposedContentOP.md "Category:ProposedContentOP")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Social\_Reality\_%28OWL\_2%29](../Submissions/Social_Reality_(OWL_2)).md).md).html)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ProposedContentOP](../Category/ProposedContentOP "Category:ProposedContentOP")

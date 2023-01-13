@@ -1,5 +1,5 @@
-[![](../images/thumb/2/29/Reviewer.png/48px-Reviewer.png)](../Image/Reviewer.png.md "Reviewer.png")
-__[RinkeHoekstra](../User/RinkeHoekstra.md "User:RinkeHoekstra") about [Object with states](../Submissions/Object_with_states.md "Submissions:Object with states") (Revision ID: [with states?oldid=11667 11667](../Submissions/Object.md "http://ontologydesignpatterns.org/wiki/Submissions:Object"))__
+[![](../images/thumb/2/29/Reviewer.png/48px-Reviewer.png)](../Image/Reviewer.png "Reviewer.png")
+__[RinkeHoekstra](../User/RinkeHoekstra "User:RinkeHoekstra") about [Object with states](../Submissions/Object_with_states "Submissions:Object with states") (Revision ID: [with states?oldid=11667 11667](../Submissions/Object "http://ontologydesignpatterns.org/wiki/Submissions:Object"))__
 Overall suggestion (score): 0 - needs major revision
 
 
@@ -35,8 +35,8 @@ _Posted:_ 2013/8/12 _Last modified:_ 2013/8/12
 
 
 
-[All reviews](../Reviews/Main.md "Reviews:Main") | [Add a comment at the bottom of this page](index.php@title=Odp%253AAdd_comment&target=../Reviews/RinkeHoekstra_about_Object_with_states.md#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Reviews:RinkeHoekstra_about_Object_with_states#New_comment")
+[All reviews](../Reviews/Main "Reviews:Main") | [Add a comment at the bottom of this page](index.php@title=Odp%253AAdd_comment&target=../Reviews/RinkeHoekstra_about_Object_with_states#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Reviews:RinkeHoekstra_about_Object_with_states#New_comment")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Reviews:RinkeHoekstra\_about\_Object\_with\_states](../Reviews/RinkeHoekstra_about_Object_with_states.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [QCReview](../Category/QCReview.md "Category:QCReview")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Reviews:RinkeHoekstra\_about\_Object\_with\_states](../Reviews/RinkeHoekstra_about_Object_with_states)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [QCReview](../Category/QCReview "Category:QCReview")

@@ -1,6 +1,6 @@
-* [Image](../Image/Time-period.jpg.md#file)
-* [File history](../Image/Time-period.jpg.md#filehistory)
-* [Links](../Image/Time-period.jpg.md#filelinks)
+* [Image](../Image/Time-period.jpg#file)
+* [File history](../Image/Time-period.jpg#filehistory)
+* [Links](../Image/Time-period.jpg#filelinks)
 
 [![Image:Time-period.jpg](../images/e/ee/Time-period.jpg)](../images/e/ee/Time-period.jpg)  
 No higher resolution available.  
@@ -26,7 +26,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Submissions:TimePeriod](../Submissions/TimePeriod.md "Submissions:TimePeriod")
+* [Submissions:TimePeriod](../Submissions/TimePeriod "Submissions:TimePeriod")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Time-period.jpg](../Image/Time-period.jpg.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Time-period.jpg](../Image/Time-period.jpg)"

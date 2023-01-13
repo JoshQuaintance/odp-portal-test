@@ -1,6 +1,6 @@
-* [Image](../Image/Edew.jpg.md#file)
-* [File history](../Image/Edew.jpg.md#filehistory)
-* [Links](../Image/Edew.jpg.md#filelinks)
+* [Image](../Image/Edew.jpg#file)
+* [File history](../Image/Edew.jpg#filehistory)
+* [Links](../Image/Edew.jpg#filelinks)
 
 [![Image:Edew.jpg](../images/4/45/Edew.jpg)](../images/4/45/Edew.jpg)  
 No higher resolution available.  
@@ -23,8 +23,8 @@ Click on a date/time to view the file as it appeared at that time.
 The following 2 pages link to this file:
 
 
-* [Community:Images](../Community/Images.md "Community:Images")
-* [User:EnricoDaga](../User/EnricoDaga.md "User:EnricoDaga")
+* [Community:Images](../Community/Images "Community:Images")
+* [User:EnricoDaga](../User/EnricoDaga "User:EnricoDaga")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Edew.jpg](../Image/Edew.jpg.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Edew.jpg](../Image/Edew.jpg)"

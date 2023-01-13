@@ -27,11 +27,11 @@ __Exercises__:
 
 
 
-* [Ontology Design with the NeOn Toolkit - NeOn tutorial/Mini-project](../Training/Ontology_Design_with_the_NeOn_Toolkit_-_NeOn_tutorial/Mini-project.md "Training:Ontology Design with the NeOn Toolkit - NeOn tutorial/Mini-project")
-* [Ontology Design with the NeOn Toolkit - NeOn tutorial/Units 1 3-1 4: Basic OWL ontology design](../Training/Ontology_Design_with_the_NeOn_Toolkit_-_NeOn_tutorial/Units_1_3-1_4/_Basic_OWL_ontology_design.md "Training:Ontology Design with the NeOn Toolkit - NeOn tutorial/Units 1 3-1 4: Basic OWL ontology design")
+* [Ontology Design with the NeOn Toolkit - NeOn tutorial/Mini-project](../Training/Ontology_Design_with_the_NeOn_Toolkit_-_NeOn_tutorial/Mini-project "Training:Ontology Design with the NeOn Toolkit - NeOn tutorial/Mini-project")
+* [Ontology Design with the NeOn Toolkit - NeOn tutorial/Units 1 3-1 4: Basic OWL ontology design](../Training/Ontology_Design_with_the_NeOn_Toolkit_-_NeOn_tutorial/Units_1_3-1_4/_Basic_OWL_ontology_design "Training:Ontology Design with the NeOn Toolkit - NeOn tutorial/Units 1 3-1 4: Basic OWL ontology design")
 
 
-[Create exercise for this tutorial](http://ontologydesignpatterns.org/wiki/Special:AddData/Form:Tutorial_Exercise_Form?Exercise_Description_Template[Tutorial]=Ontology Design with the NeOn Toolkit - NeOn tutorial) | [Training area](../Training/Main.md "Training:Main")
+[Create exercise for this tutorial](http://ontologydesignpatterns.org/wiki/Special:AddData/Form:Tutorial_Exercise_Form?Exercise_Description_Template[Tutorial]=Ontology Design with the NeOn Toolkit - NeOn tutorial) | [Training area](../Training/Main "Training:Main")
 
 ###   Agenda
 
@@ -113,5 +113,5 @@ __Part 5: Summary, Questions; 1:00h (15:30)__
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Training:Ontology\_Design\_with\_the\_NeOn\_Toolkit\_-\_NeOn\_tutorial](../Training/Ontology_Design_with_the_NeOn_Toolkit_-_NeOn_tutorial.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Tutorial](../Category/Tutorial.md "Category:Tutorial")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Training:Ontology\_Design\_with\_the\_NeOn\_Toolkit\_-\_NeOn\_tutorial](../Training/Ontology_Design_with_the_NeOn_Toolkit_-_NeOn_tutorial)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Tutorial](../Category/Tutorial "Category:Tutorial")

@@ -1,6 +1,6 @@
-* [Image](../Image/Speciesconditions.jpg.md#file)
-* [File history](../Image/Speciesconditions.jpg.md#filehistory)
-* [Links](../Image/Speciesconditions.jpg.md#filelinks)
+* [Image](../Image/Speciesconditions.jpg#file)
+* [File history](../Image/Speciesconditions.jpg#filehistory)
+* [Links](../Image/Speciesconditions.jpg#filelinks)
 
 [![Image:Speciesconditions.jpg](../images/8/85/Speciesconditions.jpg)](../images/8/85/Speciesconditions.jpg)  
 No higher resolution available.  
@@ -23,8 +23,8 @@ Click on a date/time to view the file as it appeared at that time.
 The following 2 pages link to this file:
 
 
-* [Community:Images](../Community/Images.md "Community:Images")
-* [Submissions:SpeciesConditions](../Submissions/SpeciesConditions.md "Submissions:SpeciesConditions")
+* [Community:Images](../Community/Images "Community:Images")
+* [Submissions:SpeciesConditions](../Submissions/SpeciesConditions "Submissions:SpeciesConditions")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Speciesconditions.jpg](../Image/Speciesconditions.jpg.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Speciesconditions.jpg](../Image/Speciesconditions.jpg)"

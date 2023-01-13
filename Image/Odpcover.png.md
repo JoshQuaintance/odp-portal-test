@@ -1,6 +1,6 @@
-* [Image](../Image/Odpcover.png.md#file)
-* [File history](../Image/Odpcover.png.md#filehistory)
-* [Links](../Image/Odpcover.png.md#filelinks)
+* [Image](../Image/Odpcover.png#file)
+* [File history](../Image/Odpcover.png#filehistory)
+* [Links](../Image/Odpcover.png#filelinks)
 
 [![Image:Odpcover.png](../images/thumb/7/7e/Odpcover.png/387px-Odpcover.png)](../images/7/7e/Odpcover.png)  
 Size of this preview: 387 × 600 pixels  
@@ -26,7 +26,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Odp:News/17](../Odp/News/17.md "Odp:News/17")
+* [Odp:News/17](../Odp/News/17 "Odp:News/17")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Odpcover.png](../Image/Odpcover.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Odpcover.png](../Image/Odpcover.png)"

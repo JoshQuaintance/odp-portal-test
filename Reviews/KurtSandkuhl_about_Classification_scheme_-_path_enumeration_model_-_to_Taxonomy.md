@@ -1,5 +1,5 @@
-[![](../images/thumb/2/29/Reviewer.png/48px-Reviewer.png)](../Image/Reviewer.png.md "Reviewer.png")
-__[KurtSandkuhl](http://ontologydesignpatterns.org/wiki/index.php?title=User:KurtSandkuhl&action=edit&redlink=1 "User:KurtSandkuhl (not yet written)") about [Classification scheme - path enumeration model - to Taxonomy](../Submissions/Classification_scheme_-_path_enumeration_model_-_to_Taxonomy.md "Submissions:Classification scheme - path enumeration model - to Taxonomy") (Revision ID: [scheme - path enumeration model - to Taxonomy?oldid=5712 5712](../Submissions/Classification.md "http://ontologydesignpatterns.org/wiki/Submissions:Classification"))__
+[![](../images/thumb/2/29/Reviewer.png/48px-Reviewer.png)](../Image/Reviewer.png "Reviewer.png")
+__[KurtSandkuhl](http://ontologydesignpatterns.org/wiki/index.php?title=User:KurtSandkuhl&action=edit&redlink=1 "User:KurtSandkuhl (not yet written)") about [Classification scheme - path enumeration model - to Taxonomy](../Submissions/Classification_scheme_-_path_enumeration_model_-_to_Taxonomy "Submissions:Classification scheme - path enumeration model - to Taxonomy") (Revision ID: [scheme - path enumeration model - to Taxonomy?oldid=5712 5712](../Submissions/Classification "http://ontologydesignpatterns.org/wiki/Submissions:Classification"))__
 Overall suggestion (score): 1 - needs minor revision
 
 
@@ -35,8 +35,8 @@ _Posted:_ 2009/9/8 _Last modified:_ 2009/9/8
 
 
 
-[All reviews](../Reviews/Main.md "Reviews:Main") | [Add a comment at the bottom of this page](index.php@title=Odp%253AAdd_comment&target=../Reviews/KurtSandkuhl_about_Classification_scheme_-_path_enumeration_model_-_to_Taxonomy.md#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Reviews:KurtSandkuhl_about_Classification_scheme_-_path_enumeration_model_-_to_Taxonomy#New_comment")
+[All reviews](../Reviews/Main "Reviews:Main") | [Add a comment at the bottom of this page](index.php@title=Odp%253AAdd_comment&target=../Reviews/KurtSandkuhl_about_Classification_scheme_-_path_enumeration_model_-_to_Taxonomy#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Reviews:KurtSandkuhl_about_Classification_scheme_-_path_enumeration_model_-_to_Taxonomy#New_comment")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Reviews:KurtSandkuhl\_about\_Classification\_scheme\_-\_path\_enumeration\_model\_-\_to\_Taxonomy](../Reviews/KurtSandkuhl_about_Classification_scheme_-_path_enumeration_model_-_to_Taxonomy.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [QCReview](../Category/QCReview.md "Category:QCReview")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Reviews:KurtSandkuhl\_about\_Classification\_scheme\_-\_path\_enumeration\_model\_-\_to\_Taxonomy](../Reviews/KurtSandkuhl_about_Classification_scheme_-_path_enumeration_model_-_to_Taxonomy)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [QCReview](../Category/QCReview "Category:QCReview")

@@ -1,4 +1,4 @@
-[![](../images/thumb/b/b5/Certified.png/70px-Certified.png)](../Image/Certified.png.md "Certified.png") __This pattern has been certified.__
+[![](../images/thumb/b/b5/Certified.png/70px-Certified.png)](../Image/Certified.png "Certified.png") __This pattern has been certified.__
 Related submission, with evaluation history, can be found __here__
 
 
@@ -28,8 +28,8 @@ _The __Airline.owl__ Content OP locally defines the following ontology elements:
 
 
 
-[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __hasAircraft__ (owl:ObjectProperty) Relazione tra Airline e Aircraft 
- [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[hasAircraft](../Submissions/Airline.owl/hasAircraft.md "Submissions:Airline.owl/hasAircraft") page_
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif "ObjectProperty") __hasAircraft__ (owl:ObjectProperty) Relazione tra Airline e Aircraft 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif "ArrowRight.gif") _[hasAircraft](../Submissions/Airline.owl/hasAircraft "Submissions:Airline.owl/hasAircraft") page_
 #  Additional information
 
 
@@ -82,4 +82,4 @@ Airline Encyclopedic Knowledge Pattern
 
 
 Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Airline.owl](../Submissions/Airline.owl)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ProposedContentOP](../Category/ProposedContentOP.md "Category:ProposedContentOP")
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ProposedContentOP](../Category/ProposedContentOP "Category:ProposedContentOP")

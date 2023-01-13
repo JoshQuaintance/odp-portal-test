@@ -1,6 +1,6 @@
-* [Image](../Image/Event.svg.md#file)
-* [File history](../Image/Event.svg.md#filehistory)
-* [Links](../Image/Event.svg.md#filelinks)
+* [Image](../Image/Event.svg#file)
+* [File history](../Image/Event.svg#filehistory)
+* [Links](../Image/Event.svg#filelinks)
 
 [![Image:Event.svg](../images/thumb/d/d5/Event.svg/48px-Event.svg.png)](../images/d/d5/Event.svg)  
 
@@ -27,7 +27,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Community:Images](../Community/Images.md "Community:Images")
+* [Community:Images](../Community/Images "Community:Images")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Event.svg](../Image/Event.svg.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Event.svg](../Image/Event.svg)"

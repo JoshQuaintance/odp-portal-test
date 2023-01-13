@@ -1,6 +1,6 @@
-* [Image](../Image/ODPAffectedBy.jpg.md#file)
-* [File history](../Image/ODPAffectedBy.jpg.md#filehistory)
-* [Links](../Image/ODPAffectedBy.jpg.md#filelinks)
+* [Image](../Image/ODPAffectedBy.jpg#file)
+* [File history](../Image/ODPAffectedBy.jpg#filehistory)
+* [Links](../Image/ODPAffectedBy.jpg#filelinks)
 
 [![Image:ODPAffectedBy.jpg](../images/thumb/5/55/ODPAffectedBy.jpg/800px-ODPAffectedBy.jpg)](../images/5/55/ODPAffectedBy.jpg)  
 Size of this preview: 800 × 441 pixels  
@@ -28,4 +28,4 @@ There are no pages that link to this file.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:ODPAffectedBy.jpg](../Image/ODPAffectedBy.jpg.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:ODPAffectedBy.jpg](../Image/ODPAffectedBy.jpg)"

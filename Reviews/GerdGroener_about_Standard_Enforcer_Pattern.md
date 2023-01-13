@@ -1,5 +1,5 @@
-[![](../images/thumb/2/29/Reviewer.png/48px-Reviewer.png)](../Image/Reviewer.png.md "Reviewer.png")
-__[GerdGroener](../User/GerdGroener.md "User:GerdGroener") about [Standard Enforcer Pattern](../Submissions/Standard_Enforcer_Pattern.md "Submissions:Standard Enforcer Pattern") (Revision ID: [Enforcer Pattern?oldid=11149 11149](../Submissions/Standard.md "http://ontologydesignpatterns.org/wiki/Submissions:Standard"))__
+[![](../images/thumb/2/29/Reviewer.png/48px-Reviewer.png)](../Image/Reviewer.png "Reviewer.png")
+__[GerdGroener](../User/GerdGroener "User:GerdGroener") about [Standard Enforcer Pattern](../Submissions/Standard_Enforcer_Pattern "Submissions:Standard Enforcer Pattern") (Revision ID: [Enforcer Pattern?oldid=11149 11149](../Submissions/Standard "http://ontologydesignpatterns.org/wiki/Submissions:Standard"))__
 Overall suggestion (score): 1 - needs minor revision
 
 
@@ -44,8 +44,8 @@ _Posted:_ 2012/8/30 _Last modified:_ 2012/8/30
 
 
 
-[All reviews](../Reviews/Main.md "Reviews:Main") | [Add a comment at the bottom of this page](index.php@title=Odp%253AAdd_comment&target=../Reviews/GerdGroener_about_Standard_Enforcer_Pattern.md#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Reviews:GerdGroener_about_Standard_Enforcer_Pattern#New_comment")
+[All reviews](../Reviews/Main "Reviews:Main") | [Add a comment at the bottom of this page](index.php@title=Odp%253AAdd_comment&target=../Reviews/GerdGroener_about_Standard_Enforcer_Pattern#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Reviews:GerdGroener_about_Standard_Enforcer_Pattern#New_comment")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Reviews:GerdGroener\_about\_Standard\_Enforcer\_Pattern](../Reviews/GerdGroener_about_Standard_Enforcer_Pattern.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [QCReview](../Category/QCReview.md "Category:QCReview")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Reviews:GerdGroener\_about\_Standard\_Enforcer\_Pattern](../Reviews/GerdGroener_about_Standard_Enforcer_Pattern)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [QCReview](../Category/QCReview "Category:QCReview")

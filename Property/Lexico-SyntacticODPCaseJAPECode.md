@@ -1,7 +1,7 @@
 Link to a website containing JAPE code reusable for natural language processing applications that support JAPE language (such as GATE).
 
 
-This is a property of type [Page](../Type/Page.md "Type:Page").
+This is a property of type [Page](../Type/Page "Type:Page").
 
 
 

@@ -28,14 +28,14 @@ __Exercises__:
 
 
 
-* [NeOn 2008 Tutorial on Computational Ontologies/Music Industry Ontology](../Training/NeOn_2008_Tutorial_on_Computational_Ontologies/Music_Industry_Ontology.md "Training:NeOn 2008 Tutorial on Computational Ontologies/Music Industry Ontology")
-* [NeOn 2008 Tutorial on Computational Ontologies/The male nurse union representative](../Training/NeOn_2008_Tutorial_on_Computational_Ontologies/The_male_nurse_union_representative.md "Training:NeOn 2008 Tutorial on Computational Ontologies/The male nurse union representative")
-* [NeOn 2008 Tutorial on Computational Ontologies/Toys and Dolls](../Training/NeOn_2008_Tutorial_on_Computational_Ontologies/Toys_and_Dolls.md "Training:NeOn 2008 Tutorial on Computational Ontologies/Toys and Dolls")
+* [NeOn 2008 Tutorial on Computational Ontologies/Music Industry Ontology](../Training/NeOn_2008_Tutorial_on_Computational_Ontologies/Music_Industry_Ontology "Training:NeOn 2008 Tutorial on Computational Ontologies/Music Industry Ontology")
+* [NeOn 2008 Tutorial on Computational Ontologies/The male nurse union representative](../Training/NeOn_2008_Tutorial_on_Computational_Ontologies/The_male_nurse_union_representative "Training:NeOn 2008 Tutorial on Computational Ontologies/The male nurse union representative")
+* [NeOn 2008 Tutorial on Computational Ontologies/Toys and Dolls](../Training/NeOn_2008_Tutorial_on_Computational_Ontologies/Toys_and_Dolls "Training:NeOn 2008 Tutorial on Computational Ontologies/Toys and Dolls")
 
 
-[Create exercise for this tutorial](http://ontologydesignpatterns.org/wiki/Special:AddData/Form:Tutorial_Exercise_Form?Exercise_Description_Template[Tutorial]=NeOn 2008 Tutorial on Computational Ontologies) | [Training area](../Training/Main.md "Training:Main")
+[Create exercise for this tutorial](http://ontologydesignpatterns.org/wiki/Special:AddData/Form:Tutorial_Exercise_Form?Exercise_Description_Template[Tutorial]=NeOn 2008 Tutorial on Computational Ontologies) | [Training area](../Training/Main "Training:Main")
 
- [Call for Participation](../Community/NeOnODPCourse2008BolognaCFP.md "Community:NeOnODPCourse2008BolognaCFP")
+ [Call for Participation](../Community/NeOnODPCourse2008BolognaCFP "Community:NeOnODPCourse2008BolognaCFP")
 
 
 
@@ -51,7 +51,7 @@ __Exercises__:
 * __Lecturer Assistant.__
 	+ [Valentina Presutti](mailto:presutti@cs.unibo.it| "mailto:presutti@cs.unibo.it|")
 	+ [Eva Blomqvist](mailto:Eva.Blomqvist@jth.hj.se| "mailto:Eva.Blomqvist@jth.hj.se|")
-* Sponsored by [NeOn](http://www.neon-project.org "http://www.neon-project.org") [![Image:Neonlogo.jpg](../images/d/db/Neonlogo.jpg)](../Image/Neonlogo.jpg.md "Image:Neonlogo.jpg")
+* Sponsored by [NeOn](http://www.neon-project.org "http://www.neon-project.org") [![Image:Neonlogo.jpg](../images/d/db/Neonlogo.jpg)](../Image/Neonlogo.jpg "Image:Neonlogo.jpg")
 * For additional information email [Valentina Presutti](mailto:presutti@cs.unibo.it| "mailto:presutti@cs.unibo.it|")
 
 
@@ -94,5 +94,5 @@ the following software:
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Training:NeOn\_2008\_Tutorial\_on\_Computational\_Ontologies](../Training/NeOn_2008_Tutorial_on_Computational_Ontologies.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Tutorial](../Category/Tutorial.md "Category:Tutorial")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Training:NeOn\_2008\_Tutorial\_on\_Computational\_Ontologies](../Training/NeOn_2008_Tutorial_on_Computational_Ontologies)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Tutorial](../Category/Tutorial "Category:Tutorial")

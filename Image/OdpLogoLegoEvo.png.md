@@ -1,6 +1,6 @@
-* [Image](../Image/OdpLogoLegoEvo.png.md#file)
-* [File history](../Image/OdpLogoLegoEvo.png.md#filehistory)
-* [Links](../Image/OdpLogoLegoEvo.png.md#filelinks)
+* [Image](../Image/OdpLogoLegoEvo.png#file)
+* [File history](../Image/OdpLogoLegoEvo.png#filehistory)
+* [Links](../Image/OdpLogoLegoEvo.png#filelinks)
 
 [![Image:OdpLogoLegoEvo.png](../images/6/68/OdpLogoLegoEvo.png)](../images/6/68/OdpLogoLegoEvo.png)  
 No higher resolution available.  
@@ -28,4 +28,4 @@ There are no pages that link to this file.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:OdpLogoLegoEvo.png](../Image/OdpLogoLegoEvo.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:OdpLogoLegoEvo.png](../Image/OdpLogoLegoEvo.png)"

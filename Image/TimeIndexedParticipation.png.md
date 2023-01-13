@@ -1,6 +1,6 @@
-* [Image](../Image/TimeIndexedParticipation.png.md#file)
-* [File history](../Image/TimeIndexedParticipation.png.md#filehistory)
-* [Links](../Image/TimeIndexedParticipation.png.md#filelinks)
+* [Image](../Image/TimeIndexedParticipation.png#file)
+* [File history](../Image/TimeIndexedParticipation.png#filehistory)
+* [Links](../Image/TimeIndexedParticipation.png#filelinks)
 
 [![Image:TimeIndexedParticipation.png](../images/7/73/TimeIndexedParticipation.png)](../images/7/73/TimeIndexedParticipation.png)  
 No higher resolution available.  
@@ -23,7 +23,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Submissions:Time indexed participation](../Submissions/Time_indexed_participation.md "Submissions:Time indexed participation")
+* [Submissions:Time indexed participation](../Submissions/Time_indexed_participation "Submissions:Time indexed participation")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:TimeIndexedParticipation.png](../Image/TimeIndexedParticipation.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:TimeIndexedParticipation.png](../Image/TimeIndexedParticipation.png)"

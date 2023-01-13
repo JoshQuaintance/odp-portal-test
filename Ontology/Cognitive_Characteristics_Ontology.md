@@ -1,4 +1,4 @@
-Return to [Catalogue of Exemplary Ontologies](../Ontology/Main.md "Ontology:Main")
+Return to [Catalogue of Exemplary Ontologies](../Ontology/Main "Ontology:Main")
 
 
 
@@ -82,10 +82,10 @@ Due to the two modelling opportunities of cognitive pattern in the Cognotive Cha
 
 
 
-* A blog post about the Cognitive Characteristics Ontology with examples and graphics. [Weblog post](http://smiy.org/2010/10/19/the-cognitive-characteristics-ontology/ "http://smiy.org/2010/10/19/the-cognitive-characteristics-ontology/") | [reference page](../Community/References/Cognitive_Characteristics_Ontology_annoucement.md "Community:References/Cognitive Characteristics Ontology annoucement")
+* A blog post about the Cognitive Characteristics Ontology with examples and graphics. [Weblog post](http://smiy.org/2010/10/19/the-cognitive-characteristics-ontology/ "http://smiy.org/2010/10/19/the-cognitive-characteristics-ontology/") | [reference page](../Community/References/Cognitive_Characteristics_Ontology_annoucement "Community:References/Cognitive Characteristics Ontology annoucement")
 
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Ontology:Cognitive\_Characteristics\_Ontology](../Ontology/Cognitive_Characteristics_Ontology.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Ontology](../Category/Ontology.md "Category:Ontology")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Ontology:Cognitive\_Characteristics\_Ontology](../Ontology/Cognitive_Characteristics_Ontology)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Ontology](../Category/Ontology "Category:Ontology")

@@ -1,5 +1,5 @@
-[![](../images/thumb/a/a6/ODPUser.png/48px-ODPUser.png)](../Image/ODPUser.png.md "ODPUser.png")
-__[CatherineRoussey](../User/CatherineRoussey.md "User:CatherineRoussey") about [Inverse n-ary relationship](../Submissions/Inverse_n-ary_relationship.md "Submissions:Inverse n-ary relationship") (Revision ID: [n-ary relationship?oldid=10060 10060](../Submissions/Inverse.md "http://ontologydesignpatterns.org/wiki/Submissions:Inverse"))__
+[![](../images/thumb/a/a6/ODPUser.png/48px-ODPUser.png)](../Image/ODPUser.png "ODPUser.png")
+__[CatherineRoussey](../User/CatherineRoussey "User:CatherineRoussey") about [Inverse n-ary relationship](../Submissions/Inverse_n-ary_relationship "Submissions:Inverse n-ary relationship") (Revision ID: [n-ary relationship?oldid=10060 10060](../Submissions/Inverse "http://ontologydesignpatterns.org/wiki/Submissions:Inverse"))__
 Overall suggestion (score): 2 - accept for certification
 
 
@@ -27,8 +27,8 @@ _Posted:_ 2010-09-10 _Last modified:_ 2010/9/16
 
 
 
-[All reviews](../Reviews/Main.md "Reviews:Main") | [Add a comment at the bottom of this page](index.php@title=Odp%253AAdd_comment&target=../Community/CatherineRoussey_about_Inverse_n-ary_relationship.md#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Community:CatherineRoussey_about_Inverse_n-ary_relationship#New_comment")
-#####  16-09-2010 [CatherineRoussey](../User/CatherineRoussey.md "User:CatherineRoussey") says:
+[All reviews](../Reviews/Main "Reviews:Main") | [Add a comment at the bottom of this page](index.php@title=Odp%253AAdd_comment&target=../Community/CatherineRoussey_about_Inverse_n-ary_relationship#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Community:CatherineRoussey_about_Inverse_n-ary_relationship#New_comment")
+#####  16-09-2010 [CatherineRoussey](../User/CatherineRoussey "User:CatherineRoussey") says:
 
 
 I agree that the name of the pattern do not hep to understand the purpose of the pattern. Maybe a name like simplification Of Nary Relation is more understandable...
@@ -38,5 +38,5 @@ the Nary relationship pattern should be add before on the portal.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Community:CatherineRoussey\_about\_Inverse\_n-ary\_relationship](../Community/CatherineRoussey_about_Inverse_n-ary_relationship.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OpenReview](../Category/OpenReview.md "Category:OpenReview")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Community:CatherineRoussey\_about\_Inverse\_n-ary\_relationship](../Community/CatherineRoussey_about_Inverse_n-ary_relationship)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OpenReview](../Category/OpenReview "Category:OpenReview")

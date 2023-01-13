@@ -1,9 +1,9 @@
 __HasIntent__
 This property describes the goal of the Ontology Design Pattern.
-Its value is of type [Text](../Type/Text.md "Type:Text").
+Its value is of type [Text](../Type/Text "Type:Text").
 
 
-This property is a subproperty of [PatternProblem](../Property/PatternProblem.md "Property:PatternProblem")
+This property is a subproperty of [PatternProblem](../Property/PatternProblem "Property:PatternProblem")
 
 
 

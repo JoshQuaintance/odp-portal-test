@@ -1,6 +1,6 @@
-* [Image](../Image/Criterion_setter.png.md#file)
-* [File history](../Image/Criterion_setter.png.md#filehistory)
-* [Links](../Image/Criterion_setter.png.md#filelinks)
+* [Image](../Image/Criterion_setter.png#file)
+* [File history](../Image/Criterion_setter.png#filehistory)
+* [Links](../Image/Criterion_setter.png#filelinks)
 
 [![Image:Criterion setter.png](../images/thumb/c/cf/Criterion_setter.png/800px-Criterion_setter.png)](../images/c/cf/Criterion_setter.png)  
 Size of this preview: 800 × 240 pixels  
@@ -23,7 +23,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Submissions:CriterionSetter](../Submissions/CriterionSetter.md "Submissions:CriterionSetter")
+* [Submissions:CriterionSetter](../Submissions/CriterionSetter "Submissions:CriterionSetter")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Criterion\_setter.png](../Image/Criterion_setter.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Criterion\_setter.png](../Image/Criterion_setter.png)"

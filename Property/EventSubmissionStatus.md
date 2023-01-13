@@ -1,4 +1,4 @@
-This is a property of type [String](../Type/String.md "Type:String").
+This is a property of type [String](../Type/String "Type:String").
 
 
 The allowed values for this property are:
@@ -20,4 +20,4 @@ Showing 14 pages using this property.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Property:EventSubmissionStatus](../Property/EventSubmissionStatus.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Property:EventSubmissionStatus](../Property/EventSubmissionStatus)"

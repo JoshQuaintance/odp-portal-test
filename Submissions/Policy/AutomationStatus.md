@@ -1,4 +1,4 @@
-___AutomationStatus__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [Policy](../../Submissions/Policy.md "Submissions:Policy")_
+___AutomationStatus__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [Policy](../../Submissions/Policy "Submissions:Policy")_
 
 
   
@@ -6,7 +6,7 @@ ___AutomationStatus__ has [Category:OntologyElement](../../Category/OntologyElem
 
 
 
-[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif.md "Class")
+[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif "Class")
 __Name__: AutomationStatus 
 
 
@@ -19,5 +19,5 @@ __Description__: The level of automation of a policy. Specifies if a policy impl
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Policy/AutomationStatus](../../Submissions/Policy/AutomationStatus.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Policy/AutomationStatus](../../Submissions/Policy/AutomationStatus)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

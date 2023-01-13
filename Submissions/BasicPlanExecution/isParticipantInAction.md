@@ -1,4 +1,4 @@
-___isParticipantInAction__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [BasicPlanExecution](../../Submissions/BasicPlanExecution.md "Submissions:BasicPlanExecution")_
+___isParticipantInAction__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [BasicPlanExecution](../../Submissions/BasicPlanExecution "Submissions:BasicPlanExecution")_
 
 
   
@@ -6,7 +6,7 @@ ___isParticipantInAction__ has [Category:OntologyElement](../../Category/Ontolog
 
 
 
-[![ObjectProperty](../../images/thumb/c/c3/ObjectProperty.gif/45px-ObjectProperty.gif)](../../Image/ObjectProperty.gif.md "ObjectProperty")
+[![ObjectProperty](../../images/thumb/c/c3/ObjectProperty.gif/45px-ObjectProperty.gif)](../../Image/ObjectProperty.gif "ObjectProperty")
 __Name__: isParticipantInAction 
 
 
@@ -19,5 +19,5 @@ __Description__: A relation between an object and a process, e.g. 'a mass of sno
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:BasicPlanExecution/isParticipantInAction](../../Submissions/BasicPlanExecution/isParticipantInAction.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:BasicPlanExecution/isParticipantInAction](../../Submissions/BasicPlanExecution/isParticipantInAction)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

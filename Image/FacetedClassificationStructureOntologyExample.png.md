@@ -1,6 +1,6 @@
-* [Image](../Image/FacetedClassificationStructureOntologyExample.png.md#file)
-* [File history](../Image/FacetedClassificationStructureOntologyExample.png.md#filehistory)
-* [Links](../Image/FacetedClassificationStructureOntologyExample.png.md#filelinks)
+* [Image](../Image/FacetedClassificationStructureOntologyExample.png#file)
+* [File history](../Image/FacetedClassificationStructureOntologyExample.png#filehistory)
+* [Links](../Image/FacetedClassificationStructureOntologyExample.png#filelinks)
 
 [![Image:FacetedClassificationStructureOntologyExample.png](../images/thumb/0/03/FacetedClassificationStructureOntologyExample.png/424px-FacetedClassificationStructureOntologyExample.png)](../images/0/03/FacetedClassificationStructureOntologyExample.png)  
 Size of this preview: 424 × 599 pixels  
@@ -26,13 +26,13 @@ Click on a date/time to view the file as it appeared at that time.
 The following file is a duplicate of this file:
 
 
-* [Image:FacetedClassificationStructureOntologyExample2.png](../Image/FacetedClassificationStructureOntologyExample2.png.md "Image:FacetedClassificationStructureOntologyExample2.png")
+* [Image:FacetedClassificationStructureOntologyExample2.png](../Image/FacetedClassificationStructureOntologyExample2.png "Image:FacetedClassificationStructureOntologyExample2.png")
 
 
 The following page links to this file:
 
 
-* [Submissions:Faceted Classification Scheme](../Submissions/Faceted_Classification_Scheme.md "Submissions:Faceted Classification Scheme")
+* [Submissions:Faceted Classification Scheme](../Submissions/Faceted_Classification_Scheme "Submissions:Faceted Classification Scheme")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:FacetedClassificationStructureOntologyExample.png](../Image/FacetedClassificationStructureOntologyExample.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:FacetedClassificationStructureOntologyExample.png](../Image/FacetedClassificationStructureOntologyExample.png)"

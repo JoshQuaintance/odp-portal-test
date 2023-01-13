@@ -1,6 +1,6 @@
-* [Image](../Image/Aggregation-pattern.png.md#file)
-* [File history](../Image/Aggregation-pattern.png.md#filehistory)
-* [Links](../Image/Aggregation-pattern.png.md#filelinks)
+* [Image](../Image/Aggregation-pattern.png#file)
+* [File history](../Image/Aggregation-pattern.png#filehistory)
+* [Links](../Image/Aggregation-pattern.png#filelinks)
 
 [![Image:Aggregation-pattern.png](../images/thumb/4/46/Aggregation-pattern.png/800px-Aggregation-pattern.png)](../images/4/46/Aggregation-pattern.png)  
 Size of this preview: 800 × 303 pixels  
@@ -25,4 +25,4 @@ There are no pages that link to this file.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Aggregation-pattern.png](../Image/Aggregation-pattern.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Aggregation-pattern.png](../Image/Aggregation-pattern.png)"

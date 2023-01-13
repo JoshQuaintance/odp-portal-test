@@ -1,7 +1,7 @@
-* [Image](../Image/Bag.jpg.md#file)
-* [File history](../Image/Bag.jpg.md#filehistory)
-* [Links](../Image/Bag.jpg.md#filelinks)
-* [Metadata](../Image/Bag.jpg.md#metadata)
+* [Image](../Image/Bag.jpg#file)
+* [File history](../Image/Bag.jpg#filehistory)
+* [Links](../Image/Bag.jpg#filelinks)
+* [Metadata](../Image/Bag.jpg#metadata)
 
 [![Image:Bag.jpg](../images/4/47/Bag.jpg)](../images/4/47/Bag.jpg)  
 No higher resolution available.  
@@ -27,7 +27,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Submissions:Bag](../Submissions/Bag.md "Submissions:Bag")
+* [Submissions:Bag](../Submissions/Bag "Submissions:Bag")
 
 ## Metadata
 
@@ -38,4 +38,4 @@ If the file has been modified from its original state, some details may not full
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Bag.jpg](../Image/Bag.jpg.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Bag.jpg](../Image/Bag.jpg)"

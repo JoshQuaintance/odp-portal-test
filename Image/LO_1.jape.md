@@ -1,6 +1,6 @@
-* [Image](../Image/LO_1.jape.md#file)
-* [File history](../Image/LO_1.jape.md#filehistory)
-* [Links](../Image/LO_1.jape.md#filelinks)
+* [Image](../Image/LO_1.jape#file)
+* [File history](../Image/LO_1.jape#filehistory)
+* [Links](../Image/LO_1.jape#filelinks)
 
 
 [LO\_1.jape](../images/b/b8/LO_1.jape "LO 1.jape")‎
@@ -32,8 +32,8 @@ Click on a date/time to view the file as it appeared at that time.
 The following 2 pages link to this file:
 
 
-* [Submissions:Lexico Syntactic ODPs corresponding to LocationODP](../Submissions/Lexico_Syntactic_ODPs_corresponding_to_LocationODP.md "Submissions:Lexico Syntactic ODPs corresponding to LocationODP")
-* [Submissions:Lexico Syntactic ODPs corresponding to LocationODP/1](../Submissions/Lexico_Syntactic_ODPs_corresponding_to_LocationODP/1.md "Submissions:Lexico Syntactic ODPs corresponding to LocationODP/1")
+* [Submissions:Lexico Syntactic ODPs corresponding to LocationODP](../Submissions/Lexico_Syntactic_ODPs_corresponding_to_LocationODP "Submissions:Lexico Syntactic ODPs corresponding to LocationODP")
+* [Submissions:Lexico Syntactic ODPs corresponding to LocationODP/1](../Submissions/Lexico_Syntactic_ODPs_corresponding_to_LocationODP/1 "Submissions:Lexico Syntactic ODPs corresponding to LocationODP/1")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:LO\_1.jape](../Image/LO_1.jape.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:LO\_1.jape](../Image/LO_1.jape)"

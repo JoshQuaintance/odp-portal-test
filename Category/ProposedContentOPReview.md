@@ -1,4 +1,4 @@
-This category uses the form [Content OP Proposal Review Form](../Form/Content_OP_Proposal_Review_Edit_Form.md "Form:Content OP Proposal Review Edit Form").
+This category uses the form [Content OP Proposal Review Form](../Form/Content_OP_Proposal_Review_Edit_Form "Form:Content OP Proposal Review Edit Form").
 
 
 
@@ -13,13 +13,13 @@ This category has the following 2 subcategories, out of 2 total.
 ### O
 
 
-* [OpenReview](../Category/OpenReview.md "Category:OpenReview")
+* [OpenReview](../Category/OpenReview "Category:OpenReview")
 
 ### Q
 
 
-* [QCReview](../Category/QCReview.md "Category:QCReview")
+* [QCReview](../Category/QCReview "Category:QCReview")
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Category:ProposedContentOPReview](../Category/ProposedContentOPReview.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Category:ProposedContentOPReview](../Category/ProposedContentOPReview)"

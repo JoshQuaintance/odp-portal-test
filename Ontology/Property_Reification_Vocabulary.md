@@ -1,4 +1,4 @@
-Return to [Catalogue of Exemplary Ontologies](../Ontology/Main.md "Ontology:Main")
+Return to [Catalogue of Exemplary Ontologies](../Ontology/Main "Ontology:Main")
 
 
 
@@ -33,10 +33,10 @@ Due to the reason, that there wasn’t a published vocabulary that addresses a m
 
 
 
-* The working page of the Property Reification Vocabulary on the ESW wiki. [Wiki](http://esw.w3.org/PropertyReificationVocabulary "http://esw.w3.org/PropertyReificationVocabulary") | [reference page](../Community/References/Property_Reification_RDF_Vocabulary.md "Community:References/Property Reification RDF Vocabulary")
+* The working page of the Property Reification Vocabulary on the ESW wiki. [Wiki](http://esw.w3.org/PropertyReificationVocabulary "http://esw.w3.org/PropertyReificationVocabulary") | [reference page](../Community/References/Property_Reification_RDF_Vocabulary "Community:References/Property Reification RDF Vocabulary")
 
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Ontology:Property\_Reification\_Vocabulary](../Ontology/Property_Reification_Vocabulary.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Ontology](../Category/Ontology.md "Category:Ontology")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Ontology:Property\_Reification\_Vocabulary](../Ontology/Property_Reification_Vocabulary)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Ontology](../Category/Ontology "Category:Ontology")

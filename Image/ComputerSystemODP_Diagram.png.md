@@ -1,6 +1,6 @@
-* [Image](../Image/ComputerSystemODP_Diagram.png.md#file)
-* [File history](../Image/ComputerSystemODP_Diagram.png.md#filehistory)
-* [Links](../Image/ComputerSystemODP_Diagram.png.md#filelinks)
+* [Image](../Image/ComputerSystemODP_Diagram.png#file)
+* [File history](../Image/ComputerSystemODP_Diagram.png#filehistory)
+* [Links](../Image/ComputerSystemODP_Diagram.png#filelinks)
 
 [![Image:ComputerSystemODP Diagram.png](../images/thumb/a/ab/ComputerSystemODP_Diagram.png/800px-ComputerSystemODP_Diagram.png)](../images/a/ab/ComputerSystemODP_Diagram.png)  
 Size of this preview: 800 × 463 pixels  
@@ -23,7 +23,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Submissions:Computer System](../Submissions/Computer_System.md "Submissions:Computer System")
+* [Submissions:Computer System](../Submissions/Computer_System "Submissions:Computer System")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:ComputerSystemODP\_Diagram.png](../Image/ComputerSystemODP_Diagram.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:ComputerSystemODP\_Diagram.png](../Image/ComputerSystemODP_Diagram.png)"

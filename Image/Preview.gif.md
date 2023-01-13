@@ -1,6 +1,6 @@
-* [Image](../Image/Preview.gif.md#file)
-* [File history](../Image/Preview.gif.md#filehistory)
-* [Links](../Image/Preview.gif.md#filelinks)
+* [Image](../Image/Preview.gif#file)
+* [File history](../Image/Preview.gif#filehistory)
+* [Links](../Image/Preview.gif#filelinks)
 
 [![Image:Preview.gif](../images/7/73/Preview.gif)](../images/7/73/Preview.gif)  
 No higher resolution available.  
@@ -23,7 +23,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Community:Images](../Community/Images.md "Community:Images")
+* [Community:Images](../Community/Images "Community:Images")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Preview.gif](../Image/Preview.gif.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Preview.gif](../Image/Preview.gif)"

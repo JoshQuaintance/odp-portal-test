@@ -1,6 +1,6 @@
-* [Image](../Image/OccupationsOntologySnowFlake.png.md#file)
-* [File history](../Image/OccupationsOntologySnowFlake.png.md#filehistory)
-* [Links](../Image/OccupationsOntologySnowFlake.png.md#filelinks)
+* [Image](../Image/OccupationsOntologySnowFlake.png#file)
+* [File history](../Image/OccupationsOntologySnowFlake.png#filehistory)
+* [Links](../Image/OccupationsOntologySnowFlake.png#filelinks)
 
 [![Image:OccupationsOntologySnowFlake.png](../images/2/2c/OccupationsOntologySnowFlake.png)](../images/2/2c/OccupationsOntologySnowFlake.png)  
 No higher resolution available.  
@@ -23,7 +23,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Submissions:Pattern for re-engineering a classification scheme, which follows the snowflake data model, into an ontology schema](../Submissions/Pattern_for_re-engineering_a_classification_scheme,_which_follows_the_snowflake_data_model,_into_an_ontology_schema.md "Submissions:Pattern for re-engineering a classification scheme, which follows the snowflake data model, into an ontology schema")
+* [Submissions:Pattern for re-engineering a classification scheme, which follows the snowflake data model, into an ontology schema](../Submissions/Pattern_for_re-engineering_a_classification_scheme,_which_follows_the_snowflake_data_model,_into_an_ontology_schema "Submissions:Pattern for re-engineering a classification scheme, which follows the snowflake data model, into an ontology schema")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:OccupationsOntologySnowFlake.png](../Image/OccupationsOntologySnowFlake.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:OccupationsOntologySnowFlake.png](../Image/OccupationsOntologySnowFlake.png)"

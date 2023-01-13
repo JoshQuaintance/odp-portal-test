@@ -1,4 +1,4 @@
-___isReflectionOn__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [Experience & Observation](../../Submissions/Experience_&_Observation.md "Submissions:Experience & Observation")_
+___isReflectionOn__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [Experience & Observation](../../Submissions/Experience_&_Observation "Submissions:Experience & Observation")_
 
 
   
@@ -6,7 +6,7 @@ ___isReflectionOn__ has [Category:OntologyElement](../../Category/OntologyElemen
 
 
 
-[![ObjectProperty](../../images/thumb/c/c3/ObjectProperty.gif/45px-ObjectProperty.gif)](../../Image/ObjectProperty.gif.md "ObjectProperty")
+[![ObjectProperty](../../images/thumb/c/c3/ObjectProperty.gif/45px-ObjectProperty.gif)](../../Image/ObjectProperty.gif "ObjectProperty")
 __Name__: isReflectionOn 
 
 
@@ -19,5 +19,5 @@ __Description__: Used to connect the subjective elements of an experience with t
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Experience\_%26\_Observation/isReflectionOn](../../Submissions/Experience_&_Observation/isReflectionOn.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Experience\_%26\_Observation/isReflectionOn](../../Submissions/Experience_&_Observation/isReflectionOn)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

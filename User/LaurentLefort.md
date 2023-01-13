@@ -46,5 +46,5 @@ __How did I know about ODP:__ conference/public events, friends
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/User:LaurentLefort](../User/LaurentLefort.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ODPUser](../Category/ODPUser.md "Category:ODPUser")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/User:LaurentLefort](../User/LaurentLefort)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ODPUser](../Category/ODPUser "Category:ODPUser")

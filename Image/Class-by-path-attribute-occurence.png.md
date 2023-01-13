@@ -1,6 +1,6 @@
-* [Image](../Image/Class-by-path-attribute-occurence.png.md#file)
-* [File history](../Image/Class-by-path-attribute-occurence.png.md#filehistory)
-* [Links](../Image/Class-by-path-attribute-occurence.png.md#filelinks)
+* [Image](../Image/Class-by-path-attribute-occurence.png#file)
+* [File history](../Image/Class-by-path-attribute-occurence.png#filehistory)
+* [Links](../Image/Class-by-path-attribute-occurence.png#filelinks)
 
 [![Image:Class-by-path-attribute-occurence.png](../images/4/43/Class-by-path-attribute-occurence.png)](../images/4/43/Class-by-path-attribute-occurence.png)  
 No higher resolution available.  
@@ -25,4 +25,4 @@ There are no pages that link to this file.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Class-by-path-attribute-occurence.png](../Image/Class-by-path-attribute-occurence.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Class-by-path-attribute-occurence.png](../Image/Class-by-path-attribute-occurence.png)"

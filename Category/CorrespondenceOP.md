@@ -1,4 +1,4 @@
-[![](../images/thumb/6/6f/Definition.gif/70px-Definition.gif)](../Image/Definition.gif.md "Definition.gif")
+[![](../images/thumb/6/6f/Definition.gif/70px-Definition.gif)](../Image/Definition.gif "Definition.gif")
 __Correspondence Ontology Design Patterns (Correspondence OPs)__
 
 Correspondence OPs include Reengineering OPs and Alignment OPs.
@@ -29,14 +29,14 @@ This category has the following 2 subcategories, out of 2 total.
 ### A
 
 
-* [AlignmentOP](../Category/AlignmentOP.md "Category:AlignmentOP")
+* [AlignmentOP](../Category/AlignmentOP "Category:AlignmentOP")
 
 ### R
 
 
-* [ReengineeringOP](../Category/ReengineeringOP.md "Category:ReengineeringOP")
+* [ReengineeringOP](../Category/ReengineeringOP "Category:ReengineeringOP")
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Category:CorrespondenceOP](../Category/CorrespondenceOP.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyDesignPattern](../Category/OntologyDesignPattern.md "Category:OntologyDesignPattern")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Category:CorrespondenceOP](../Category/CorrespondenceOP)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyDesignPattern](../Category/OntologyDesignPattern "Category:OntologyDesignPattern")

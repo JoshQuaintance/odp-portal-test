@@ -1,6 +1,6 @@
-* [Image](../Image/OOPMetrics.png.md#file)
-* [File history](../Image/OOPMetrics.png.md#filehistory)
-* [Links](../Image/OOPMetrics.png.md#filelinks)
+* [Image](../Image/OOPMetrics.png#file)
+* [File history](../Image/OOPMetrics.png#filehistory)
+* [Links](../Image/OOPMetrics.png#filelinks)
 
 [![Image:OOPMetrics.png](../images/thumb/a/a2/OOPMetrics.png/800px-OOPMetrics.png)](../images/a/a2/OOPMetrics.png)  
 Size of this preview: 800 × 314 pixels  
@@ -23,7 +23,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following file is a duplicate of this file:
 
 
-* [Image:Diagram.png](../Image/Diagram.png.md "Image:Diagram.png")
+* [Image:Diagram.png](../Image/Diagram.png "Image:Diagram.png")
 
 
 There are no pages that link to this file.
@@ -31,4 +31,4 @@ There are no pages that link to this file.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:OOPMetrics.png](../Image/OOPMetrics.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:OOPMetrics.png](../Image/OOPMetrics.png)"

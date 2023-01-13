@@ -77,7 +77,7 @@ Relevant tasks for the exercise are in bold face.
 * Task 3 – Select a story
 * Task 4 – Transform the story into CQs
 * __Task 5 – Select a CQ__
-* __Task 6 – Match CQs to GUCs of [Content ODPs](../../../Submissions/ContentOPs.md "Submissions:ContentOPs")__
+* __Task 6 – Match CQs to GUCs of [Content ODPs](../../../Submissions/ContentOPs "Submissions:ContentOPs")__
 * __Task 7 – Select the Content ODPs to reuse__
 * __Task 8 – Reuse and integrate selected Content ODPs__
 	+ Import
@@ -97,5 +97,5 @@ __Solutions__:
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Training:ESWC2010\_Tutorial\_2\_-\_Extreme\_Design\_%28XD%29:\_Pattern-based\_Ontology\_Design/Hands-on\_with\_Content\_ODPs\_-\_Music\_industry\_example](../../../Training/ESWC2010_Tutorial_2_-_Extreme_Design_(XD)/_Pattern-based_Ontology_Design.md)/_Pattern-based_Ontology_Design/Hands-on_with_Content_ODPs_-_Music_industry_example.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Exercise](../../../Category/Exercise.md "Category:Exercise")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Training:ESWC2010\_Tutorial\_2\_-\_Extreme\_Design\_%28XD%29:\_Pattern-based\_Ontology\_Design/Hands-on\_with\_Content\_ODPs\_-\_Music\_industry\_example](../../../Training/ESWC2010_Tutorial_2_-_Extreme_Design_(XD)/_Pattern-based_Ontology_Design)/_Pattern-based_Ontology_Design.md)/_Pattern-based_Ontology_Design/Hands-on_with_Content_ODPs_-_Music_industry_example.md)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Exercise](../../../Category/Exercise "Category:Exercise")

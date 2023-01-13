@@ -1,6 +1,6 @@
-* [Image](../Image/Situation.jpg.md#file)
-* [File history](../Image/Situation.jpg.md#filehistory)
-* [Links](../Image/Situation.jpg.md#filelinks)
+* [Image](../Image/Situation.jpg#file)
+* [File history](../Image/Situation.jpg#filehistory)
+* [Links](../Image/Situation.jpg#filelinks)
 
 [![Image:Situation.jpg](../images/d/de/Situation.jpg)](../images/d/de/Situation.jpg)  
 No higher resolution available.  
@@ -23,8 +23,8 @@ Click on a date/time to view the file as it appeared at that time.
 The following 2 pages link to this file:
 
 
-* [Submissions:Situation](../Submissions/Situation.md "Submissions:Situation")
-* [Community:Images](../Community/Images.md "Community:Images")
+* [Submissions:Situation](../Submissions/Situation "Submissions:Situation")
+* [Community:Images](../Community/Images "Community:Images")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Situation.jpg](../Image/Situation.jpg.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Situation.jpg](../Image/Situation.jpg)"

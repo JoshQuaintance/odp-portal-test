@@ -1,5 +1,5 @@
-[![](../images/thumb/2/29/Reviewer.png/48px-Reviewer.png)](../Image/Reviewer.png.md "Reviewer.png")
-__[AldoGangemi](../User/AldoGangemi.md "User:AldoGangemi") about [AquaticResourceObservation](../Submissions/AquaticResourceObservation.md "Submissions:AquaticResourceObservation") (Revision ID: [3646](../Submissions/AquaticResourceObservation@oldid=3646.md "http://ontologydesignpatterns.org/wiki/Submissions:AquaticResourceObservation?oldid=3646"))__
+[![](../images/thumb/2/29/Reviewer.png/48px-Reviewer.png)](../Image/Reviewer.png "Reviewer.png")
+__[AldoGangemi](../User/AldoGangemi "User:AldoGangemi") about [AquaticResourceObservation](../Submissions/AquaticResourceObservation "Submissions:AquaticResourceObservation") (Revision ID: [3646](../Submissions/AquaticResourceObservation@oldid=3646 "http://ontologydesignpatterns.org/wiki/Submissions:AquaticResourceObservation?oldid=3646"))__
 Overall suggestion (score): 2 - need major revision
 
 
@@ -36,8 +36,8 @@ _Posted:_ 2009/3/17 _Last modified:_ 2009/8/5
 
 
 
-[All reviews](../Reviews/Main.md "Reviews:Main") | [Add a comment at the bottom of this page](index.php@title=Odp%253AAdd_comment&target=../Reviews/AldoGangemi_about_AquaticResourceObservation.md#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Reviews:AldoGangemi_about_AquaticResourceObservation#New_comment")
+[All reviews](../Reviews/Main "Reviews:Main") | [Add a comment at the bottom of this page](index.php@title=Odp%253AAdd_comment&target=../Reviews/AldoGangemi_about_AquaticResourceObservation#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Reviews:AldoGangemi_about_AquaticResourceObservation#New_comment")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Reviews:AldoGangemi\_about\_AquaticResourceObservation](../Reviews/AldoGangemi_about_AquaticResourceObservation.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [QCReview](../Category/QCReview.md "Category:QCReview")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Reviews:AldoGangemi\_about\_AquaticResourceObservation](../Reviews/AldoGangemi_about_AquaticResourceObservation)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [QCReview](../Category/QCReview "Category:QCReview")

@@ -1,6 +1,6 @@
-* [Image](../Image/Gearvessel.jpg.md#file)
-* [File history](../Image/Gearvessel.jpg.md#filehistory)
-* [Links](../Image/Gearvessel.jpg.md#filelinks)
+* [Image](../Image/Gearvessel.jpg#file)
+* [File history](../Image/Gearvessel.jpg#filehistory)
+* [Links](../Image/Gearvessel.jpg#filelinks)
 
 [![Image:Gearvessel.jpg](../images/f/f3/Gearvessel.jpg)](../images/f/f3/Gearvessel.jpg)  
 No higher resolution available.  
@@ -23,7 +23,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Community:Images](../Community/Images.md "Community:Images")
+* [Community:Images](../Community/Images "Community:Images")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Gearvessel.jpg](../Image/Gearvessel.jpg.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Gearvessel.jpg](../Image/Gearvessel.jpg)"

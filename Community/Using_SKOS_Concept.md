@@ -32,7 +32,7 @@ _Source_: [W3C Linked Open Data discussion list](http://lists.w3.org/Archives/Pu
 _Related Discussions:_ [Using DBpedia resources as skos:Concepts](http://markmail.org/message/hgnfj4uimr4mx7yx "http://markmail.org/message/hgnfj4uimr4mx7yx")
 
 
-_Related Modeling Issues_: [Representing Species](../Community/Representing_Species.md "Community:Representing Species")
+_Related Modeling Issues_: [Representing Species](../Community/Representing_Species "Community:Representing Species")
 
 
 _Example_: [Does it make sense to have an individual cougar be an instance of SKOS:Concept?](http://lists.w3.org/Archives/Public/public-lod/2009Dec/0034.html "http://lists.w3.org/Archives/Public/public-lod/2009Dec/0034.html")
@@ -148,8 +148,8 @@ Maybe someone of the list has some ideas as to which representations are best fo
 
 
 
- [List of Modeling Issues](../Community/Main.md "Community:Main") | [Post a new modeling issue](../Community/PostModelingIssue.md "Community:PostModelingIssue") | [Add a comment in the discussion page](index.php@title=Odp%253AAdd_comment&target=Community_talk%253AUsing_SKOS_Concept.html#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Community_talk:Using_SKOS_Concept#New_comment")
+ [List of Modeling Issues](../Community/Main "Community:Main") | [Post a new modeling issue](../Community/PostModelingIssue "Community:PostModelingIssue") | [Add a comment in the discussion page](index.php@title=Odp%253AAdd_comment&target=Community_talk%253AUsing_SKOS_Concept.html#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Community_talk:Using_SKOS_Concept#New_comment")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Community:Using\_SKOS\_Concept](../Community/Using_SKOS_Concept.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ModelingIssue](../Category/ModelingIssue.md "Category:ModelingIssue")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Community:Using\_SKOS\_Concept](../Community/Using_SKOS_Concept)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ModelingIssue](../Category/ModelingIssue "Category:ModelingIssue")

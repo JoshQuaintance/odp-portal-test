@@ -1,4 +1,4 @@
-[![Image:ODPUser.png](../images/a/a6/ODPUser.png)](../Image/ODPUser.png.md "Image:ODPUser.png")
+[![Image:ODPUser.png](../images/a/a6/ODPUser.png)](../Image/ODPUser.png "Image:ODPUser.png")
 
 
 
@@ -19,11 +19,11 @@ __Domains of interest:__
 
 
 
-* [Healthcare](../Community/Healthcare.md "Community:Healthcare")
+* [Healthcare](../Community/Healthcare "Community:Healthcare")
 * [Knowledge Engineering](http://ontologydesignpatterns.org/wiki/Special:AddData/Domain Form/Community:Knowledge_Engineering "Community:Knowledge Engineering (not yet written)")
-* [Software Engineering](../Community/Software_Engineering.md "Community:Software Engineering")
+* [Software Engineering](../Community/Software_Engineering "Community:Software Engineering")
 * [IoT](http://ontologydesignpatterns.org/wiki/Special:AddData/Domain Form/Community:IoT "Community:IoT (not yet written)")
-* [Smart City](../Community/Smart_City.md "Community:Smart City")
+* [Smart City](../Community/Smart_City "Community:Smart City")
 
 
 __Is expert of:__
@@ -38,5 +38,5 @@ __How did I know about ODP:__ conference/public events, friends, colleagues
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/User:RaghavaMutharaju](../User/RaghavaMutharaju.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ODPUser](../Category/ODPUser.md "Category:ODPUser")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/User:RaghavaMutharaju](../User/RaghavaMutharaju)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ODPUser](../Category/ODPUser "Category:ODPUser")

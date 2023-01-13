@@ -1,4 +1,4 @@
-Return to [Catalogue of Exemplary Ontologies](../Ontology/Main.md "Ontology:Main")
+Return to [Catalogue of Exemplary Ontologies](../Ontology/Main "Ontology:Main")
 
 
 
@@ -46,10 +46,10 @@ As an extension of rec:Recommendation, we built the rec:RankedRecommendation con
 
 
 
-* A blog post about the Recommendation Ontology with examples and graphics. [Weblog post](http://smiy.org/2010/08/07/the-recommendation-ontology/ "http://smiy.org/2010/08/07/the-recommendation-ontology/") | [reference page](../Community/References/Recommendation_Ontology_announcement.md "Community:References/Recommendation Ontology announcement")
+* A blog post about the Recommendation Ontology with examples and graphics. [Weblog post](http://smiy.org/2010/08/07/the-recommendation-ontology/ "http://smiy.org/2010/08/07/the-recommendation-ontology/") | [reference page](../Community/References/Recommendation_Ontology_announcement "Community:References/Recommendation Ontology announcement")
 
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Ontology:Recommendation\_Ontology](../Ontology/Recommendation_Ontology.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Ontology](../Category/Ontology.md "Category:Ontology")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Ontology:Recommendation\_Ontology](../Ontology/Recommendation_Ontology)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Ontology](../Category/Ontology "Category:Ontology")

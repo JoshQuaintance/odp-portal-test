@@ -1,4 +1,4 @@
-Return to [Catalogue of Exemplary Ontologies](../Ontology/Main.md "Ontology:Main")
+Return to [Catalogue of Exemplary Ontologies](../Ontology/Main "Ontology:Main")
 
 
 
@@ -41,11 +41,11 @@ Several extensions of DOLCE+DnS Ultralite are being designed; see for example th
 
 
 (Technical Report DISI-TR-06-21) by 
-Viviana Mascardi1, Valentina Cordì, Paolo Rosso [Documentation](http://www.disi.unige.it/person/MascardiV/Download/DISI-TR-06-21.pdf "http://www.disi.unige.it/person/MascardiV/Download/DISI-TR-06-21.pdf") | [reference page](../Community/References/TR_DISI-TR-06-21.md "Community:References/TR DISI-TR-06-21")
+Viviana Mascardi1, Valentina Cordì, Paolo Rosso [Documentation](http://www.disi.unige.it/person/MascardiV/Download/DISI-TR-06-21.pdf "http://www.disi.unige.it/person/MascardiV/Download/DISI-TR-06-21.pdf") | [reference page](../Community/References/TR_DISI-TR-06-21 "Community:References/TR DISI-TR-06-21")
 
 
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Ontology:DOLCE%2BDnS\_Ultralite](../Odp/Tasks/Reference_not_attached_to_subject_for_Ontology/DOLCE+DnS_Ultralite.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Ontology](../Category/Ontology.md "Category:Ontology")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Ontology:DOLCE%2BDnS\_Ultralite](../Odp/Tasks/Reference_not_attached_to_subject_for_Ontology/DOLCE+DnS_Ultralite)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Ontology](../Category/Ontology "Category:Ontology")

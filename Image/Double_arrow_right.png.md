@@ -1,6 +1,6 @@
-* [Image](../Image/Double_arrow_right.png.md#file)
-* [File history](../Image/Double_arrow_right.png.md#filehistory)
-* [Links](../Image/Double_arrow_right.png.md#filelinks)
+* [Image](../Image/Double_arrow_right.png#file)
+* [File history](../Image/Double_arrow_right.png#filehistory)
+* [Links](../Image/Double_arrow_right.png#filelinks)
 
 [![Image:Double arrow right.png](../images/b/bd/Double_arrow_right.png)](../images/b/bd/Double_arrow_right.png)  
 No higher resolution available.  
@@ -23,7 +23,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Template:Reference result format](../Template/Reference_result_format.md "Template:Reference result format")
+* [Template:Reference result format](../Template/Reference_result_format "Template:Reference result format")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Double\_arrow\_right.png](../Image/Double_arrow_right.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Double\_arrow\_right.png](../Image/Double_arrow_right.png)"

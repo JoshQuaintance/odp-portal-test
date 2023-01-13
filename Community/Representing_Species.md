@@ -37,7 +37,7 @@ _Related Discussions:_
 * [Lightweight RDF to Map Various Semantic Representations of Species](http://lists.w3.org/Archives/Public/public-lod/2009Nov/0176.html "http://lists.w3.org/Archives/Public/public-lod/2009Nov/0176.html")
 
 
-_Related Modeling Issues:_ [Using SKOS Concept](../Community/Using_SKOS_Concept.md "Community:Using SKOS Concept")
+_Related Modeling Issues:_ [Using SKOS Concept](../Community/Using_SKOS_Concept "Community:Using SKOS Concept")
 
 
 _Example:_ There is a requirement to represent large number of species for the purpose of indexing research papers and experiments that use or refer to a species in some way.
@@ -228,8 +228,8 @@ All these example RDF and OWL files are combined into one RDF file that can be u
 
 
 
- [List of Modeling Issues](../Community/Main.md "Community:Main") | [Post a new modeling issue](../Community/PostModelingIssue.md "Community:PostModelingIssue") | [Add a comment in the discussion page](index.php@title=Odp%253AAdd_comment&target=Community_talk%253ARepresenting_Species.html#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Community_talk:Representing_Species#New_comment")
+ [List of Modeling Issues](../Community/Main "Community:Main") | [Post a new modeling issue](../Community/PostModelingIssue "Community:PostModelingIssue") | [Add a comment in the discussion page](index.php@title=Odp%253AAdd_comment&target=Community_talk%253ARepresenting_Species.html#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Community_talk:Representing_Species#New_comment")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Community:Representing\_Species](../Community/Representing_Species.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ModelingIssue](../Category/ModelingIssue.md "Category:ModelingIssue")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Community:Representing\_Species](../Community/Representing_Species)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ModelingIssue](../Category/ModelingIssue "Category:ModelingIssue")

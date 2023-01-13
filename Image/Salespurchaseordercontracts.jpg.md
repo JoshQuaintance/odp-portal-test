@@ -1,6 +1,6 @@
-* [Image](../Image/Salespurchaseordercontracts.jpg.md#file)
-* [File history](../Image/Salespurchaseordercontracts.jpg.md#filehistory)
-* [Links](../Image/Salespurchaseordercontracts.jpg.md#filelinks)
+* [Image](../Image/Salespurchaseordercontracts.jpg#file)
+* [File history](../Image/Salespurchaseordercontracts.jpg#filehistory)
+* [Links](../Image/Salespurchaseordercontracts.jpg#filelinks)
 
 [![Image:Salespurchaseordercontracts.jpg](../images/thumb/6/69/Salespurchaseordercontracts.jpg/800px-Salespurchaseordercontracts.jpg)](../images/6/69/Salespurchaseordercontracts.jpg)  
 Size of this preview: 800 × 354 pixels  
@@ -23,7 +23,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Community:Images](../Community/Images.md "Community:Images")
+* [Community:Images](../Community/Images "Community:Images")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Salespurchaseordercontracts.jpg](../Image/Salespurchaseordercontracts.jpg.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Salespurchaseordercontracts.jpg](../Image/Salespurchaseordercontracts.jpg)"

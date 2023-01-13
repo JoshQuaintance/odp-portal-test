@@ -1,4 +1,4 @@
-___LinguisticObject__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [InformationObjectsAndRepresentationLanguages](../../Submissions/InformationObjectsAndRepresentationLanguages.md "Submissions:InformationObjectsAndRepresentationLanguages")_
+___LinguisticObject__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [InformationObjectsAndRepresentationLanguages](../../Submissions/InformationObjectsAndRepresentationLanguages "Submissions:InformationObjectsAndRepresentationLanguages")_
 
 
   
@@ -6,7 +6,7 @@ ___LinguisticObject__ has [Category:OntologyElement](../../Category/OntologyElem
 
 
 
-[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif.md "Class")
+[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif "Class")
 __Name__: LinguisticObject 
 
 
@@ -19,5 +19,5 @@ __Description__: An information object represented in a NaturalLanguage
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:InformationObjectsAndRepresentationLanguages/LinguisticObject](../../Submissions/InformationObjectsAndRepresentationLanguages/LinguisticObject.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:InformationObjectsAndRepresentationLanguages/LinguisticObject](../../Submissions/InformationObjectsAndRepresentationLanguages/LinguisticObject)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

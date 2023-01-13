@@ -1,4 +1,4 @@
-[![Image:ODPUser.png](../images/a/a6/ODPUser.png)](../Image/ODPUser.png.md "Image:ODPUser.png")
+[![Image:ODPUser.png](../images/a/a6/ODPUser.png)](../Image/ODPUser.png "Image:ODPUser.png")
 
 
 
@@ -27,7 +27,7 @@ __Is expert of:__
 
 
 
-* [Ontology](../Community/Ontology-based_models.md "Community:Ontology")
+* [Ontology](../Community/Ontology-based_models "Community:Ontology")
 
 
 __How did I know about ODP:__ conference/public events, friends, colleagues, surfing the web
@@ -37,5 +37,5 @@ __How did I know about ODP:__ conference/public events, friends, colleagues, sur
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/User:AdilaKrisnadhi](../User/AdilaKrisnadhi.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ODPUser](../Category/ODPUser.md "Category:ODPUser")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/User:AdilaKrisnadhi](../User/AdilaKrisnadhi)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ODPUser](../Category/ODPUser "Category:ODPUser")

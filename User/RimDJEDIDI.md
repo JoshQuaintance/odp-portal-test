@@ -1,4 +1,4 @@
-[![Image:ODPUser.png](../images/a/a6/ODPUser.png)](../Image/ODPUser.png.md "Image:ODPUser.png")
+[![Image:ODPUser.png](../images/a/a6/ODPUser.png)](../Image/ODPUser.png "Image:ODPUser.png")
 
 
 
@@ -19,19 +19,19 @@ __Domains of interest:__
 
 
 
-* [Ontology](../Community/Ontology-based_models.md "Community:Ontology")
-* [Healthcare](../Community/Healthcare.md "Community:Healthcare")
-* [Decision-making](../Community/Decision-making.md "Community:Decision-making")
-* [Recommendation](../Community/Recommendation.md "Community:Recommendation")
-* [General](../Community/General.md "Community:General")
-* [Participation](../Community/Participation.md "Community:Participation")
-* [Parts and Collections](../Community/Parts_and_Collections.md "Community:Parts and Collections")
-* [Time](../Community/Time.md "Community:Time")
-* [Workflow](../Community/Workflow.md "Community:Workflow")
-* [Upper Ontology](../Community/Upper_Ontology.md "Community:Upper Ontology")
-* [Vocabulary](../Community/Vocabulary.md "Community:Vocabulary")
-* [Linguistic](../Community/Linguistic.md "Community:Linguistic")
-* [Music](../Community/Music.md "Community:Music")
+* [Ontology](../Community/Ontology-based_models "Community:Ontology")
+* [Healthcare](../Community/Healthcare "Community:Healthcare")
+* [Decision-making](../Community/Decision-making "Community:Decision-making")
+* [Recommendation](../Community/Recommendation "Community:Recommendation")
+* [General](../Community/General "Community:General")
+* [Participation](../Community/Participation "Community:Participation")
+* [Parts and Collections](../Community/Parts_and_Collections "Community:Parts and Collections")
+* [Time](../Community/Time "Community:Time")
+* [Workflow](../Community/Workflow "Community:Workflow")
+* [Upper Ontology](../Community/Upper_Ontology "Community:Upper Ontology")
+* [Vocabulary](../Community/Vocabulary "Community:Vocabulary")
+* [Linguistic](../Community/Linguistic "Community:Linguistic")
+* [Music](../Community/Music "Community:Music")
 
 
 __Is expert of:__
@@ -48,5 +48,5 @@ __How did I know about ODP:__ conference/public events, surfing the web
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/User:RimDJEDIDI](../User/RimDJEDIDI.md)"
- [Categories](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ODPUser](../Category/ODPUser.md "Category:ODPUser") | [EBMember](../Category/EBMember.md "Category:EBMember")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/User:RimDJEDIDI](../User/RimDJEDIDI)"
+ [Categories](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ODPUser](../Category/ODPUser "Category:ODPUser") | [EBMember](../Category/EBMember "Category:EBMember")

@@ -1,6 +1,6 @@
-* [Image](../Image/Collectionentity.jpg.md#file)
-* [File history](../Image/Collectionentity.jpg.md#filehistory)
-* [Links](../Image/Collectionentity.jpg.md#filelinks)
+* [Image](../Image/Collectionentity.jpg#file)
+* [File history](../Image/Collectionentity.jpg#filehistory)
+* [Links](../Image/Collectionentity.jpg#filelinks)
 
 [![Image:Collectionentity.jpg](../images/0/03/Collectionentity.jpg)](../images/0/03/Collectionentity.jpg)  
 No higher resolution available.  
@@ -23,9 +23,9 @@ Click on a date/time to view the file as it appeared at that time.
 The following 3 pages link to this file:
 
 
-* [Community:Images](../Community/Images.md "Community:Images")
-* [Submissions:CollectionEntity](../Submissions/CollectionEntity.md "Submissions:CollectionEntity")
-* [Submissions:Collection](../Submissions/Collection.md "Submissions:Collection")
+* [Community:Images](../Community/Images "Community:Images")
+* [Submissions:CollectionEntity](../Submissions/CollectionEntity "Submissions:CollectionEntity")
+* [Submissions:Collection](../Submissions/Collection "Submissions:Collection")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Collectionentity.jpg](../Image/Collectionentity.jpg.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Collectionentity.jpg](../Image/Collectionentity.jpg)"

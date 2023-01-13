@@ -35,5 +35,5 @@ __Solutions__:
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Training:PhD\_Course\_on\_Computational\_Ontologies\_%40\_University\_of\_Bologna\_2011/Toys\_and\_dolls](../../Training/PhD_Course_on_Computational_Ontologies_@_University_of_Bologna/Hands-on_(Day1)/_Toys_and_dolls.md)/_Toys_and_dolls.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Exercise](../../Category/Exercise.md "Category:Exercise")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Training:PhD\_Course\_on\_Computational\_Ontologies\_%40\_University\_of\_Bologna\_2011/Toys\_and\_dolls](../../Training/PhD_Course_on_Computational_Ontologies_@_University_of_Bologna/Hands-on_(Day1)/_Toys_and_dolls)/_Toys_and_dolls.md)/_Toys_and_dolls.md)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Exercise](../../Category/Exercise "Category:Exercise")

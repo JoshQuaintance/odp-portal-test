@@ -14,7 +14,7 @@ __Description:__ In the past week or two, I started noticing a very distracting 
 
 
 * __Type__: Improvement
-* __Posted by__: [MichaelUschold](../../User/MichaelUschold.md "User:MichaelUschold")
+* __Posted by__: [MichaelUschold](../../User/MichaelUschold "User:MichaelUschold")
 * __Status__: dealing with
 
 
@@ -29,8 +29,8 @@ This task has no sub-tasks
 
 
 
-[Development](../../Odp/Development.md "Odp:Development") | [Create new task](http://ontologydesignpatterns.org/wiki/Special:AddData/Task_Form?Task Template[SubmittedBy]=93.34.113.67).| [Add sub-task](http://ontologydesignpatterns.org/wiki/Special:AddData/Task_Form?parenttask=Tasks/Distracting_backgrounds&Task Template[ParentTask]=Tasks/Distracting_backgrounds&Task Template[SubmittedBy]=93.34.113.67) | [Add a comment at the bottom of this page](../index.php@title=Odp%253AAdd_comment&target=Odp%253ATasks%252F../../Odp/Tasks/Distracting_backgrounds.md#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Odp:Tasks/Distracting_backgrounds#New_comment")
-#####  25-02-2010 [EnricoDaga](../../User/EnricoDaga.md "User:EnricoDaga") says:
+[Development](../../Odp/Development "Odp:Development") | [Create new task](http://ontologydesignpatterns.org/wiki/Special:AddData/Task_Form?Task Template[SubmittedBy]=93.34.113.67).| [Add sub-task](http://ontologydesignpatterns.org/wiki/Special:AddData/Task_Form?parenttask=Tasks/Distracting_backgrounds&Task Template[ParentTask]=Tasks/Distracting_backgrounds&Task Template[SubmittedBy]=93.34.113.67) | [Add a comment at the bottom of this page](../index.php@title=Odp%253AAdd_comment&target=Odp%253ATasks%252F../../Odp/Tasks/Distracting_backgrounds#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Odp:Tasks/Distracting_backgrounds#New_comment")
+#####  25-02-2010 [EnricoDaga](../../User/EnricoDaga "User:EnricoDaga") says:
 
 
 My impression was exactly the opposite, that multiple 'patterns' in background would augment the interest in the 'browsing' of the portal.
@@ -53,7 +53,7 @@ Any other comment on this?
 
 
 
-#####  25-02-2010 [ValentinaPresutti](../../User/ValentinaPresutti.md "User:ValentinaPresutti") says:
+#####  25-02-2010 [ValentinaPresutti](../../User/ValentinaPresutti "User:ValentinaPresutti") says:
 
 
 + 1 for option 4
@@ -62,5 +62,5 @@ Any other comment on this?
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Odp:Tasks/Distracting\_backgrounds](../../Odp/Tasks/Distracting_backgrounds.md)"
- [Categories](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [RootTask](../../Category/RootTask.md "Category:RootTask") | [DevelopmentTask](../../Category/DevelopmentTask.md "Category:DevelopmentTask")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Odp:Tasks/Distracting\_backgrounds](../../Odp/Tasks/Distracting_backgrounds)"
+ [Categories](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [RootTask](../../Category/RootTask "Category:RootTask") | [DevelopmentTask](../../Category/DevelopmentTask "Category:DevelopmentTask")

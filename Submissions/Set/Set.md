@@ -1,4 +1,4 @@
-___Set__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [Set](../../Submissions/Set.md "Submissions:Set")_
+___Set__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [Set](../../Submissions/Set "Submissions:Set")_
 
 
   
@@ -6,7 +6,7 @@ ___Set__ has [Category:OntologyElement](../../Category/OntologyElement.md "Categ
 
 
 
-[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif.md "Class")
+[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif "Class")
 __Name__: Set 
 
 
@@ -19,5 +19,5 @@ __Description__: Set - A collection that cannot contain duplicate elements.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Set/Set](../../Image/Set.jpg.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Set/Set](../../Image/Set.jpg)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

@@ -19,11 +19,11 @@ __Description:__ The schema re-engineering pattern should be a kind of re-engine
 
 
 
-Go back to the  [Feedback main page](../Feedback/Main.md "Feedback:Main")
+Go back to the  [Feedback main page](../Feedback/Main "Feedback:Main")
 
 
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Feedback:ODP\_types\_-\_error\_in\_figure](../Feedback/ODP_types_-_error_in_figure.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Feedback](../Category/Feedback.md "Category:Feedback")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Feedback:ODP\_types\_-\_error\_in\_figure](../Feedback/ODP_types_-_error_in_figure)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Feedback](../Category/Feedback "Category:Feedback")

@@ -1,4 +1,4 @@
-___Language__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [InformationObjectsAndRepresentationLanguages](../../Submissions/InformationObjectsAndRepresentationLanguages.md "Submissions:InformationObjectsAndRepresentationLanguages")_
+___Language__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [InformationObjectsAndRepresentationLanguages](../../Submissions/InformationObjectsAndRepresentationLanguages "Submissions:InformationObjectsAndRepresentationLanguages")_
 
 
   
@@ -6,7 +6,7 @@ ___Language__ has [Category:OntologyElement](../../Category/OntologyElement.md "
 
 
 
-[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif.md "Class")
+[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif "Class")
 __Name__: Language 
 
 
@@ -25,5 +25,5 @@ The most comprehensive classification of languages ha probably been made by Umbe
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:InformationObjectsAndRepresentationLanguages/Language](../../Image/Languages.pdf.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:InformationObjectsAndRepresentationLanguages/Language](../../Image/Languages.pdf)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

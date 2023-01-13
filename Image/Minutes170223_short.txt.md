@@ -1,6 +1,6 @@
-* [Image](../Image/Minutes170223_short.txt.md#file)
-* [File history](../Image/Minutes170223_short.txt.md#filehistory)
-* [Links](../Image/Minutes170223_short.txt.md#filelinks)
+* [Image](../Image/Minutes170223_short.txt#file)
+* [File history](../Image/Minutes170223_short.txt#filehistory)
+* [Links](../Image/Minutes170223_short.txt#filelinks)
 
 
 [Minutes170223\_short.txt](../images/2/27/Minutes170223_short.txt "Minutes170223 short.txt")‎
@@ -32,7 +32,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [ODPA](../ODPA.md "ODPA")
+* [ODPA](../ODPA "ODPA")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Minutes170223\_short.txt](../Image/Minutes170223_short.txt.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Minutes170223\_short.txt](../Image/Minutes170223_short.txt)"

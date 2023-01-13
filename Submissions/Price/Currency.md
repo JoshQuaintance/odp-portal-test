@@ -1,4 +1,4 @@
-___Currency__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [Price](../../Submissions/Price.md "Submissions:Price")_
+___Currency__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [Price](../../Submissions/Price "Submissions:Price")_
 
 
   
@@ -6,7 +6,7 @@ ___Currency__ has [Category:OntologyElement](../../Category/OntologyElement.md "
 
 
 
-[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif.md "Class")
+[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif "Class")
 __Name__: Currency 
 
 
@@ -19,5 +19,5 @@ __Description__: A system of money in general use in a particular country.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Price/Currency](../../Submissions/Invoice/CurrencyMeasure.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Price/Currency](../../Submissions/Invoice/CurrencyMeasure)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

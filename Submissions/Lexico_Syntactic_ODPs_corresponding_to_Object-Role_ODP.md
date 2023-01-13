@@ -1,4 +1,4 @@
-[![](../images/thumb/b/b5/Certified.png/70px-Certified.png)](../Image/Certified.png.md "Certified.png") __This pattern has been certified.__
+[![](../images/thumb/b/b5/Certified.png/70px-Certified.png)](../Image/Certified.png "Certified.png") __This pattern has been certified.__
 Related submission, with evaluation history, can be found __here__
 
 
@@ -16,7 +16,7 @@ Related submission, with evaluation history, can be found __here__
 #  Cases
 
 
-_The __Lexico Syntactic ODPs corresponding to Object-Role ODP__ Lexico-Syntactic ODP includes the following cases (see also [abbreviations and symbols used in LSP Formalization](../Community/LSPSymbols.md "Community:LSPSymbols")):_
+_The __Lexico Syntactic ODPs corresponding to Object-Role ODP__ Lexico-Syntactic ODP includes the following cases (see also [abbreviations and symbols used in LSP Formalization](../Community/LSPSymbols "Community:LSPSymbols")):_
 
 
   
@@ -50,7 +50,7 @@ __Reusable JAPE code__: [OR\_1.jape](../images/8/80/OR_1.jape "OR 1.jape")
 
 
 
-[![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[1](../Submissions/Lexico_Syntactic_ODPs_corresponding_to_Object-Role_ODP/1.md "Submissions:Lexico Syntactic ODPs corresponding to Object-Role ODP/1") page_
+[![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif "ArrowRight.gif") _[1](../Submissions/Lexico_Syntactic_ODPs_corresponding_to_Object-Role_ODP/1 "Submissions:Lexico Syntactic ODPs corresponding to Object-Role ODP/1") page_
 
 
 
@@ -104,5 +104,5 @@ There is no Modeling issue related to this proposal.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Lexico\_Syntactic\_ODPs\_corresponding\_to\_Object-Role\_ODP](../Submissions/Lexico_Syntactic_ODPs_corresponding_to_Object-Role_ODP.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ProposedLexicoSyntacticOP](../Category/ProposedLexicoSyntacticOP.md "Category:ProposedLexicoSyntacticOP")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Lexico\_Syntactic\_ODPs\_corresponding\_to\_Object-Role\_ODP](../Submissions/Lexico_Syntactic_ODPs_corresponding_to_Object-Role_ODP)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ProposedLexicoSyntacticOP](../Category/ProposedLexicoSyntacticOP "Category:ProposedLexicoSyntacticOP")

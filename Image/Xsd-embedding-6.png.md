@@ -1,6 +1,6 @@
-* [Image](../Image/Xsd-embedding-6.png.md#file)
-* [File history](../Image/Xsd-embedding-6.png.md#filehistory)
-* [Links](../Image/Xsd-embedding-6.png.md#filelinks)
+* [Image](../Image/Xsd-embedding-6.png#file)
+* [File history](../Image/Xsd-embedding-6.png#filehistory)
+* [Links](../Image/Xsd-embedding-6.png#filelinks)
 
 [![Image:Xsd-embedding-6.png](../images/thumb/0/05/Xsd-embedding-6.png/800px-Xsd-embedding-6.png)](../images/0/05/Xsd-embedding-6.png)  
 Size of this preview: 800 × 338 pixels  
@@ -23,7 +23,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Submissions:Xsd:sequence embedding](../Submissions/Xsd/sequence_embedding.md "Submissions:Xsd:sequence embedding")
+* [Submissions:Xsd:sequence embedding](../Submissions/Xsd/sequence_embedding "Submissions:Xsd:sequence embedding")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Xsd-embedding-6.png](../Image/Xsd-embedding-6.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Xsd-embedding-6.png](../Image/Xsd-embedding-6.png)"

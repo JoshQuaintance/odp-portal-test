@@ -1,6 +1,6 @@
-* [Image](../Image/Wfcsftsoexample.png.md#file)
-* [File history](../Image/Wfcsftsoexample.png.md#filehistory)
-* [Links](../Image/Wfcsftsoexample.png.md#filelinks)
+* [Image](../Image/Wfcsftsoexample.png#file)
+* [File history](../Image/Wfcsftsoexample.png#filehistory)
+* [Links](../Image/Wfcsftsoexample.png#filelinks)
 
 [![Image:Wfcsftsoexample.png](../images/thumb/2/27/Wfcsftsoexample.png/123px-Wfcsftsoexample.png)](../images/2/27/Wfcsftsoexample.png)  
 Size of this preview: 123 × 596 pixels  
@@ -23,7 +23,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Submissions:Pattern for re-engineering a classification scheme, which follows the flattened data model, into an ontology schema](../Submissions/Pattern_for_re-engineering_a_classification_scheme,_which_follows_the_flattened_data_model,_into_an_ontology_schema.md "Submissions:Pattern for re-engineering a classification scheme, which follows the flattened data model, into an ontology schema")
+* [Submissions:Pattern for re-engineering a classification scheme, which follows the flattened data model, into an ontology schema](../Submissions/Pattern_for_re-engineering_a_classification_scheme,_which_follows_the_flattened_data_model,_into_an_ontology_schema "Submissions:Pattern for re-engineering a classification scheme, which follows the flattened data model, into an ontology schema")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Wfcsftsoexample.png](../Image/Wfcsftsoexample.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Wfcsftsoexample.png](../Image/Wfcsftsoexample.png)"

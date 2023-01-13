@@ -1,6 +1,6 @@
-* [Image](../Image/Taskrole.jpg.md#file)
-* [File history](../Image/Taskrole.jpg.md#filehistory)
-* [Links](../Image/Taskrole.jpg.md#filelinks)
+* [Image](../Image/Taskrole.jpg#file)
+* [File history](../Image/Taskrole.jpg#filehistory)
+* [Links](../Image/Taskrole.jpg#filelinks)
 
 [![Image:Taskrole.jpg](../images/0/0c/Taskrole.jpg)](../images/0/0c/Taskrole.jpg)  
 No higher resolution available.  
@@ -23,8 +23,8 @@ Click on a date/time to view the file as it appeared at that time.
 The following 2 pages link to this file:
 
 
-* [Community:Images](../Community/Images.md "Community:Images")
-* [Submissions:Role task](../Submissions/Role_task.md "Submissions:Role task")
+* [Community:Images](../Community/Images "Community:Images")
+* [Submissions:Role task](../Submissions/Role_task "Submissions:Role task")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Taskrole.jpg](../Image/Taskrole.jpg.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Taskrole.jpg](../Image/Taskrole.jpg)"

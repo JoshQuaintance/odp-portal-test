@@ -1,5 +1,5 @@
-[![](../images/thumb/a/a6/ODPUser.png/48px-ODPUser.png)](../Image/ODPUser.png.md "ODPUser.png")
-__[RinkeHoekstra](../User/RinkeHoekstra.md "User:RinkeHoekstra") about [OnlynessIsLoneliness (OIL)](../Submissions/OnlynessIsLoneliness_(OIL).md).md).html "Submissions:OnlynessIsLoneliness (OIL)") (Revision ID: [(OIL)?oldid=5787 5787](../Submissions/OnlynessIsLoneliness.md "http://ontologydesignpatterns.org/wiki/Submissions:OnlynessIsLoneliness"))__
+[![](../images/thumb/a/a6/ODPUser.png/48px-ODPUser.png)](../Image/ODPUser.png "ODPUser.png")
+__[RinkeHoekstra](../User/RinkeHoekstra "User:RinkeHoekstra") about [OnlynessIsLoneliness (OIL)](../Submissions/OnlynessIsLoneliness_(OIL)).md).md).html "Submissions:OnlynessIsLoneliness (OIL)") (Revision ID: [(OIL)?oldid=5787 5787](../Submissions/OnlynessIsLoneliness "http://ontologydesignpatterns.org/wiki/Submissions:OnlynessIsLoneliness"))__
 Overall suggestion (score): 0 - needs major revision
 
 
@@ -27,8 +27,8 @@ _Posted:_ 2009-10-24 _Last modified:_ 2009/10/24
 
 
 
-[All reviews](../Reviews/Main.md "Reviews:Main") | [Add a comment at the bottom of this page](index.php@title=Odp%253AAdd_comment&target=../Community/RinkeHoekstra_about_OnlynessIsLoneliness_(OIL).md).md).html#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Community:RinkeHoekstra_about_OnlynessIsLoneliness_(OIL)#New_comment")
+[All reviews](../Reviews/Main "Reviews:Main") | [Add a comment at the bottom of this page](index.php@title=Odp%253AAdd_comment&target=../Community/RinkeHoekstra_about_OnlynessIsLoneliness_(OIL)).md).md).html#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Community:RinkeHoekstra_about_OnlynessIsLoneliness_(OIL)#New_comment")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Community:RinkeHoekstra\_about\_OnlynessIsLoneliness\_%28OIL%29](../Community/RinkeHoekstra_about_OnlynessIsLoneliness_(OIL).md).md).html)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OpenReview](../Category/OpenReview.md "Category:OpenReview")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Community:RinkeHoekstra\_about\_OnlynessIsLoneliness\_%28OIL%29](../Community/RinkeHoekstra_about_OnlynessIsLoneliness_(OIL)).md).md).html)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OpenReview](../Category/OpenReview "Category:OpenReview")

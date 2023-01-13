@@ -1,6 +1,6 @@
-* [Image](../Image/DC_1.jape.md#file)
-* [File history](../Image/DC_1.jape.md#filehistory)
-* [Links](../Image/DC_1.jape.md#filelinks)
+* [Image](../Image/DC_1.jape#file)
+* [File history](../Image/DC_1.jape#filehistory)
+* [Links](../Image/DC_1.jape#filelinks)
 
 
 [DC\_1.jape](../images/0/01/DC_1.jape "DC 1.jape")‎
@@ -32,8 +32,8 @@ Click on a date/time to view the file as it appeared at that time.
 The following 2 pages link to this file:
 
 
-* [Submissions:Lexico Syntactic ODP corresponding to Disjoint Classes ODP](../Submissions/Lexico_Syntactic_ODP_corresponding_to_Disjoint_Classes_ODP.md "Submissions:Lexico Syntactic ODP corresponding to Disjoint Classes ODP")
-* [Submissions:Lexico Syntactic ODP corresponding to Disjoint Classes ODP/1](../Submissions/Lexico_Syntactic_ODP_corresponding_to_Disjoint_Classes_ODP/1.md "Submissions:Lexico Syntactic ODP corresponding to Disjoint Classes ODP/1")
+* [Submissions:Lexico Syntactic ODP corresponding to Disjoint Classes ODP](../Submissions/Lexico_Syntactic_ODP_corresponding_to_Disjoint_Classes_ODP "Submissions:Lexico Syntactic ODP corresponding to Disjoint Classes ODP")
+* [Submissions:Lexico Syntactic ODP corresponding to Disjoint Classes ODP/1](../Submissions/Lexico_Syntactic_ODP_corresponding_to_Disjoint_Classes_ODP/1 "Submissions:Lexico Syntactic ODP corresponding to Disjoint Classes ODP/1")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:DC\_1.jape](../Image/DC_1.jape.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:DC\_1.jape](../Image/DC_1.jape)"

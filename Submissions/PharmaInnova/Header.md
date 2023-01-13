@@ -1,4 +1,4 @@
-___Header__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [PharmaInnova](../../Submissions/PharmaInnova.md "Submissions:PharmaInnova")_
+___Header__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [PharmaInnova](../../Submissions/PharmaInnova "Submissions:PharmaInnova")_
 
 
   
@@ -6,7 +6,7 @@ ___Header__ has [Category:OntologyElement](../../Category/OntologyElement.md "Ca
 
 
 
-[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif.md "Class")
+[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif "Class")
 __Name__: Header 
 
 
@@ -20,4 +20,4 @@ __Description__: The header usually contains important information to identify t
 
 
 Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:PharmaInnova/Header](../../extensions/HeaderTabs/skins/headertabs.css)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

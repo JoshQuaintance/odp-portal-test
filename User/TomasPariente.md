@@ -1,4 +1,4 @@
-[![Image:ODPUser.png](../images/a/a6/ODPUser.png)](../Image/ODPUser.png.md "Image:ODPUser.png")
+[![Image:ODPUser.png](../images/a/a6/ODPUser.png)](../Image/ODPUser.png "Image:ODPUser.png")
 
 
 
@@ -19,11 +19,11 @@ __Domains of interest:__
 
 
 
-* [Fishery](../Community/Fishery.md "Community:Fishery")
-* [General](../Community/General.md "Community:General")
-* [Healthcare](../Community/Healthcare.md "Community:Healthcare")
-* [Management](../Community/Management.md "Community:Management")
-* [Ontology](../Community/Ontology-based_models.md "Community:Ontology")
+* [Fishery](../Community/Fishery "Community:Fishery")
+* [General](../Community/General "Community:General")
+* [Healthcare](../Community/Healthcare "Community:Healthcare")
+* [Management](../Community/Management "Community:Management")
+* [Ontology](../Community/Ontology-based_models "Community:Ontology")
 
 
 __Is expert of:__
@@ -38,5 +38,5 @@ __How did I know about ODP:__ colleagues
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/User:TomasPariente](../User/TomasPariente.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ODPUser](../Category/ODPUser.md "Category:ODPUser")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/User:TomasPariente](../User/TomasPariente)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ODPUser](../Category/ODPUser "Category:ODPUser")

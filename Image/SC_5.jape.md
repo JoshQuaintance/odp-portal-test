@@ -1,6 +1,6 @@
-* [Image](../Image/SC_5.jape.md#file)
-* [File history](../Image/SC_5.jape.md#filehistory)
-* [Links](../Image/SC_5.jape.md#filelinks)
+* [Image](../Image/SC_5.jape#file)
+* [File history](../Image/SC_5.jape#filehistory)
+* [Links](../Image/SC_5.jape#filelinks)
 
 
 [SC\_5.jape](../images/d/d5/SC_5.jape "SC 5.jape")‎
@@ -32,8 +32,8 @@ Click on a date/time to view the file as it appeared at that time.
 The following 2 pages link to this file:
 
 
-* [Submissions:Lexico Syntactic ODP corresponding to SubclassOf relation ODP](../Submissions/Lexico_Syntactic_ODP_corresponding_to_SubclassOf_relation_ODP.md "Submissions:Lexico Syntactic ODP corresponding to SubclassOf relation ODP")
-* [Submissions:Lexico Syntactic ODP corresponding to SubclassOf relation ODP/5](../Submissions/Lexico_Syntactic_ODP_corresponding_to_SubclassOf_relation_ODP/5.md "Submissions:Lexico Syntactic ODP corresponding to SubclassOf relation ODP/5")
+* [Submissions:Lexico Syntactic ODP corresponding to SubclassOf relation ODP](../Submissions/Lexico_Syntactic_ODP_corresponding_to_SubclassOf_relation_ODP "Submissions:Lexico Syntactic ODP corresponding to SubclassOf relation ODP")
+* [Submissions:Lexico Syntactic ODP corresponding to SubclassOf relation ODP/5](../Submissions/Lexico_Syntactic_ODP_corresponding_to_SubclassOf_relation_ODP/5 "Submissions:Lexico Syntactic ODP corresponding to SubclassOf relation ODP/5")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:SC\_5.jape](../Image/SC_5.jape.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:SC\_5.jape](../Image/SC_5.jape)"

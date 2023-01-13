@@ -1,6 +1,6 @@
-* [Image](../Image/ComputationalEnvironment.png.md#file)
-* [File history](../Image/ComputationalEnvironment.png.md#filehistory)
-* [Links](../Image/ComputationalEnvironment.png.md#filelinks)
+* [Image](../Image/ComputationalEnvironment.png#file)
+* [File history](../Image/ComputationalEnvironment.png#filehistory)
+* [Links](../Image/ComputationalEnvironment.png#filelinks)
 
 [![Image:ComputationalEnvironment.png](../images/thumb/5/5b/ComputationalEnvironment.png/800px-ComputationalEnvironment.png)](../images/5/5b/ComputationalEnvironment.png)  
 Size of this preview: 800 × 485 pixels  
@@ -28,4 +28,4 @@ There are no pages that link to this file.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:ComputationalEnvironment.png](../Image/ComputationalEnvironment.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:ComputationalEnvironment.png](../Image/ComputationalEnvironment.png)"

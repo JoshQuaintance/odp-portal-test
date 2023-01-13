@@ -1,6 +1,6 @@
-* [Image](../Image/DP_1.jape.md#file)
-* [File history](../Image/DP_1.jape.md#filehistory)
-* [Links](../Image/DP_1.jape.md#filelinks)
+* [Image](../Image/DP_1.jape#file)
+* [File history](../Image/DP_1.jape#filehistory)
+* [Links](../Image/DP_1.jape#filelinks)
 
 
 [DP\_1.jape](../images/e/ef/DP_1.jape "DP 1.jape")‎
@@ -32,8 +32,8 @@ Click on a date/time to view the file as it appeared at that time.
 The following 2 pages link to this file:
 
 
-* [Submissions:Lexico Syntactic ODP corresponding to Datatype Property ODP](../Submissions/Lexico_Syntactic_ODP_corresponding_to_Datatype_Property_ODP.md "Submissions:Lexico Syntactic ODP corresponding to Datatype Property ODP")
-* [Submissions:Lexico Syntactic ODP corresponding to Datatype Property ODP/1](../Submissions/Lexico_Syntactic_ODP_corresponding_to_Datatype_Property_ODP/1.md "Submissions:Lexico Syntactic ODP corresponding to Datatype Property ODP/1")
+* [Submissions:Lexico Syntactic ODP corresponding to Datatype Property ODP](../Submissions/Lexico_Syntactic_ODP_corresponding_to_Datatype_Property_ODP "Submissions:Lexico Syntactic ODP corresponding to Datatype Property ODP")
+* [Submissions:Lexico Syntactic ODP corresponding to Datatype Property ODP/1](../Submissions/Lexico_Syntactic_ODP_corresponding_to_Datatype_Property_ODP/1 "Submissions:Lexico Syntactic ODP corresponding to Datatype Property ODP/1")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:DP\_1.jape](../Image/DP_1.jape.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:DP\_1.jape](../Image/DP_1.jape)"

@@ -1,4 +1,4 @@
-___AquaticResourceObservation__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [VerticalDistribution](../../Submissions/VerticalDistribution.md "Submissions:VerticalDistribution")_
+___AquaticResourceObservation__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [VerticalDistribution](../../Submissions/VerticalDistribution "Submissions:VerticalDistribution")_
 
 
   
@@ -6,7 +6,7 @@ ___AquaticResourceObservation__ has [Category:OntologyElement](../../Category/On
 
 
 
-[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif.md "Class")
+[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif "Class")
 __Name__: AquaticResourceObservation 
 
 
@@ -19,5 +19,5 @@ __Description__: An observation of a resource characterised by different paramet
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:VerticalDistribution/AquaticResourceObservation](../../Community/AldoGangemi_about_AquaticResourceObservation.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:VerticalDistribution/AquaticResourceObservation](../../Community/AldoGangemi_about_AquaticResourceObservation)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

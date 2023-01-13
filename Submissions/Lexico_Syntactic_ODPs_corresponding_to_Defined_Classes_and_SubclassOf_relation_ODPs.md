@@ -1,4 +1,4 @@
-[![](../images/thumb/b/b5/Certified.png/70px-Certified.png)](../Image/Certified.png.md "Certified.png") __This pattern has been certified.__
+[![](../images/thumb/b/b5/Certified.png/70px-Certified.png)](../Image/Certified.png "Certified.png") __This pattern has been certified.__
 Related submission, with evaluation history, can be found __here__
 
 
@@ -16,7 +16,7 @@ Related submission, with evaluation history, can be found __here__
 #  Cases
 
 
-_The __Lexico Syntactic ODPs corresponding to Defined Classes and SubclassOf relation ODPs__ Lexico-Syntactic ODP includes the following cases (see also [abbreviations and symbols used in LSP Formalization](../Community/LSPSymbols.md "Community:LSPSymbols")):_
+_The __Lexico Syntactic ODPs corresponding to Defined Classes and SubclassOf relation ODPs__ Lexico-Syntactic ODP includes the following cases (see also [abbreviations and symbols used in LSP Formalization](../Community/LSPSymbols "Community:LSPSymbols")):_
 
 
   
@@ -50,7 +50,7 @@ __Reusable JAPE code__: [SC\_De\_1.jape](../images/8/8c/SC_De_1.jape "SC De 1.ja
 
 
 
-[![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[1](../Submissions/Lexico_Syntactic_ODPs_corresponding_to_Defined_Classes_and_SubclassOf_relation_ODPs/1.md "Submissions:Lexico Syntactic ODPs corresponding to Defined Classes and SubclassOf relation ODPs/1") page_
+[![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif "ArrowRight.gif") _[1](../Submissions/Lexico_Syntactic_ODPs_corresponding_to_Defined_Classes_and_SubclassOf_relation_ODPs/1 "Submissions:Lexico Syntactic ODPs corresponding to Defined Classes and SubclassOf relation ODPs/1") page_
 
 
 
@@ -79,7 +79,7 @@ __Reusable JAPE code__: [SC\_De\_2.jape](../images/b/ba/SC_De_2.jape "SC De 2.ja
 
 
 
-[![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[2](../Submissions/Lexico_Syntactic_ODPs_corresponding_to_Defined_Classes_and_SubclassOf_relation_ODPs/2.md "Submissions:Lexico Syntactic ODPs corresponding to Defined Classes and SubclassOf relation ODPs/2") page_
+[![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif "ArrowRight.gif") _[2](../Submissions/Lexico_Syntactic_ODPs_corresponding_to_Defined_Classes_and_SubclassOf_relation_ODPs/2 "Submissions:Lexico Syntactic ODPs corresponding to Defined Classes and SubclassOf relation ODPs/2") page_
 
 
 
@@ -108,7 +108,7 @@ __Reusable JAPE code__: [SC\_De\_3.jape](../images/2/2f/SC_De_3.jape "SC De 3.ja
 
 
 
-[![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[3](../Submissions/Lexico_Syntactic_ODPs_corresponding_to_Defined_Classes_and_SubclassOf_relation_ODPs/3.md "Submissions:Lexico Syntactic ODPs corresponding to Defined Classes and SubclassOf relation ODPs/3") page_
+[![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif "ArrowRight.gif") _[3](../Submissions/Lexico_Syntactic_ODPs_corresponding_to_Defined_Classes_and_SubclassOf_relation_ODPs/3 "Submissions:Lexico Syntactic ODPs corresponding to Defined Classes and SubclassOf relation ODPs/3") page_
 
 
 
@@ -137,7 +137,7 @@ __Reusable JAPE code__: [SC\_De\_4.jape](../images/b/b7/SC_De_4.jape "SC De 4.ja
 
 
 
-[![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[4](../Submissions/Lexico_Syntactic_ODPs_corresponding_to_Defined_Classes_and_SubclassOf_relation_ODPs/4.md "Submissions:Lexico Syntactic ODPs corresponding to Defined Classes and SubclassOf relation ODPs/4") page_
+[![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif "ArrowRight.gif") _[4](../Submissions/Lexico_Syntactic_ODPs_corresponding_to_Defined_Classes_and_SubclassOf_relation_ODPs/4 "Submissions:Lexico Syntactic ODPs corresponding to Defined Classes and SubclassOf relation ODPs/4") page_
 
 
 
@@ -185,10 +185,10 @@ There is no Modeling issue related to this proposal.
 
 
 
-* NeOn Deliverable D5.1.1: NeOn modelling components [Documentation](http://droz.dia.fi.upm.es/neon/servlet/download?ontology=Documentation+Ontology&concept=Deliverable&instanceSet=neon&instance=D5.1.1%3A+NeOn+modelling+components&attribute=On-line+PDF+Version&value=NeOn_2007_D5.1.1.pdf "http://droz.dia.fi.upm.es/neon/servlet/download?ontology=Documentation+Ontology&concept=Deliverable&instanceSet=neon&instance=D5.1.1%3A+NeOn+modelling+components&attribute=On-line+PDF+Version&value=NeOn_2007_D5.1.1.pdf") | [reference page](../Community/References/NeOn_Deliverable_D5_1_1_5.md "Community:References/NeOn Deliverable D5 1 1 5")
+* NeOn Deliverable D5.1.1: NeOn modelling components [Documentation](http://droz.dia.fi.upm.es/neon/servlet/download?ontology=Documentation+Ontology&concept=Deliverable&instanceSet=neon&instance=D5.1.1%3A+NeOn+modelling+components&attribute=On-line+PDF+Version&value=NeOn_2007_D5.1.1.pdf "http://droz.dia.fi.upm.es/neon/servlet/download?ontology=Documentation+Ontology&concept=Deliverable&instanceSet=neon&instance=D5.1.1%3A+NeOn+modelling+components&attribute=On-line+PDF+Version&value=NeOn_2007_D5.1.1.pdf") | [reference page](../Community/References/NeOn_Deliverable_D5_1_1_5 "Community:References/NeOn Deliverable D5 1 1 5")
 
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Lexico\_Syntactic\_ODPs\_corresponding\_to\_Defined\_Classes\_and\_SubclassOf\_relation\_ODPs](../Submissions/Lexico_Syntactic_ODPs_corresponding_to_Defined_Classes_and_SubclassOf_relation_ODPs.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ProposedLexicoSyntacticOP](../Category/ProposedLexicoSyntacticOP.md "Category:ProposedLexicoSyntacticOP")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Lexico\_Syntactic\_ODPs\_corresponding\_to\_Defined\_Classes\_and\_SubclassOf\_relation\_ODPs](../Submissions/Lexico_Syntactic_ODPs_corresponding_to_Defined_Classes_and_SubclassOf_relation_ODPs)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ProposedLexicoSyntacticOP](../Category/ProposedLexicoSyntacticOP "Category:ProposedLexicoSyntacticOP")

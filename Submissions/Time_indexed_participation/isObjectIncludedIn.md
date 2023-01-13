@@ -1,4 +1,4 @@
-___isObjectIncludedIn__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [Time indexed participation](../../Submissions/Time_indexed_participation.md "Submissions:Time indexed participation")_
+___isObjectIncludedIn__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [Time indexed participation](../../Submissions/Time_indexed_participation "Submissions:Time indexed participation")_
 
 
   
@@ -6,7 +6,7 @@ ___isObjectIncludedIn__ has [Category:OntologyElement](../../Category/OntologyEl
 
 
 
-[![ObjectProperty](../../images/thumb/c/c3/ObjectProperty.gif/45px-ObjectProperty.gif)](../../Image/ObjectProperty.gif.md "ObjectProperty")
+[![ObjectProperty](../../images/thumb/c/c3/ObjectProperty.gif/45px-ObjectProperty.gif)](../../Image/ObjectProperty.gif "ObjectProperty")
 __Name__: isObjectIncludedIn 
 
 
@@ -19,5 +19,5 @@ __Description__:
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Time\_indexed\_participation/isObjectIncludedIn](../../Submissions/BasicPlanExecution/isObjectIncludedIn.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Time\_indexed\_participation/isObjectIncludedIn](../../Submissions/BasicPlanExecution/isObjectIncludedIn)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

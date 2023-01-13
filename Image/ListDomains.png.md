@@ -1,6 +1,6 @@
-* [Image](../Image/ListDomains.png.md#file)
-* [File history](../Image/ListDomains.png.md#filehistory)
-* [Links](../Image/ListDomains.png.md#filelinks)
+* [Image](../Image/ListDomains.png#file)
+* [File history](../Image/ListDomains.png#filehistory)
+* [Links](../Image/ListDomains.png#filelinks)
 
 [![Image:ListDomains.png](../images/4/4d/ListDomains.png)](../images/4/4d/ListDomains.png)  
 No higher resolution available.  
@@ -23,7 +23,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Community:Images](../Community/Images.md "Community:Images")
+* [Community:Images](../Community/Images "Community:Images")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:ListDomains.png](../Image/ListDomains.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:ListDomains.png](../Image/ListDomains.png)"

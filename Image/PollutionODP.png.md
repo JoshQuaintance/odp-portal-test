@@ -1,6 +1,6 @@
-* [Image](../Image/PollutionODP.png.md#file)
-* [File history](../Image/PollutionODP.png.md#filehistory)
-* [Links](../Image/PollutionODP.png.md#filelinks)
+* [Image](../Image/PollutionODP.png#file)
+* [File history](../Image/PollutionODP.png#filehistory)
+* [Links](../Image/PollutionODP.png#filelinks)
 
 [![Image:PollutionODP.png](../images/thumb/d/d7/PollutionODP.png/706px-PollutionODP.png)](../images/d/d7/PollutionODP.png)  
 Size of this preview: 706 × 600 pixels  
@@ -28,4 +28,4 @@ There are no pages that link to this file.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:PollutionODP.png](../Image/PollutionODP.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:PollutionODP.png](../Image/PollutionODP.png)"

@@ -1,8 +1,8 @@
-* [Image](../Image/Nary-relation.pdf.md#file)
-* [File history](../Image/Nary-relation.pdf.md#filehistory)
-* [Links](../Image/Nary-relation.pdf.md#filelinks)
+* [Image](../Image/Nary-relation.pdf#file)
+* [File history](../Image/Nary-relation.pdf#filehistory)
+* [Links](../Image/Nary-relation.pdf#filelinks)
 
-[![](../skins/common/images/icons/fileicon-pdf.png)](../Image/Nary-relation.pdf.md "Nary-relation.pdf")
+[![](../skins/common/images/icons/fileicon-pdf.png)](../Image/Nary-relation.pdf "Nary-relation.pdf")
 [Nary-relation.pdf](../images/f/f4/Nary-relation.pdf "Nary-relation.pdf")‎  (file size: 33 KB, MIME type: application/pdf)
 
 
@@ -32,4 +32,4 @@ There are no pages that link to this file.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Nary-relation.pdf](../Image/Nary-relation.pdf.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Nary-relation.pdf](../Image/Nary-relation.pdf)"

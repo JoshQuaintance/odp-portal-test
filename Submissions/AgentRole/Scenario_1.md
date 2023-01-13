@@ -4,7 +4,7 @@ __Diagram__
 
 
 
-[![Image:agentroleex.png](../../images/a/a0/Agentroleex.png)](../../Image/Agentroleex.png.md "Image:agentroleex.png")
+[![Image:agentroleex.png](../../images/a/a0/Agentroleex.png)](../../Image/Agentroleex.png "Image:agentroleex.png")
 
 
 
@@ -15,5 +15,5 @@ __OWL file:__ [http://www.ontologydesignpatterns.org/cp/examples/agentrole/ex1.o
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:AgentRole/Scenario\_1](../../Submissions/AgentRole/Scenario_1.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Scenario](../../Category/Scenario.md "Category:Scenario")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:AgentRole/Scenario\_1](../../Submissions/AgentRole/Scenario_1)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Scenario](../../Category/Scenario "Category:Scenario")

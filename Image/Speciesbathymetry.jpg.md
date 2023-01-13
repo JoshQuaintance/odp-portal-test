@@ -1,6 +1,6 @@
-* [Image](../Image/Speciesbathymetry.jpg.md#file)
-* [File history](../Image/Speciesbathymetry.jpg.md#filehistory)
-* [Links](../Image/Speciesbathymetry.jpg.md#filelinks)
+* [Image](../Image/Speciesbathymetry.jpg#file)
+* [File history](../Image/Speciesbathymetry.jpg#filehistory)
+* [Links](../Image/Speciesbathymetry.jpg#filelinks)
 
 [![Image:Speciesbathymetry.jpg](../images/7/7c/Speciesbathymetry.jpg)](../images/7/7c/Speciesbathymetry.jpg)  
 No higher resolution available.  
@@ -23,8 +23,8 @@ Click on a date/time to view the file as it appeared at that time.
 The following 2 pages link to this file:
 
 
-* [Community:Images](../Community/Images.md "Community:Images")
-* [Submissions:SpeciesBathymetry](../Submissions/SpeciesBathymetry.md "Submissions:SpeciesBathymetry")
+* [Community:Images](../Community/Images "Community:Images")
+* [Submissions:SpeciesBathymetry](../Submissions/SpeciesBathymetry "Submissions:SpeciesBathymetry")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Speciesbathymetry.jpg](../Image/Speciesbathymetry.jpg.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Speciesbathymetry.jpg](../Image/Speciesbathymetry.jpg)"

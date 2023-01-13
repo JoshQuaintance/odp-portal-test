@@ -1,8 +1,8 @@
-* [Image](../Image/20181008_-_ISWC_2018_Tutorial_-_Introduction_to_XD_and_XDP.pdf.md#file)
-* [File history](../Image/20181008_-_ISWC_2018_Tutorial_-_Introduction_to_XD_and_XDP.pdf.md#filehistory)
-* [Links](../Image/20181008_-_ISWC_2018_Tutorial_-_Introduction_to_XD_and_XDP.pdf.md#filelinks)
+* [Image](../Image/20181008_-_ISWC_2018_Tutorial_-_Introduction_to_XD_and_XDP.pdf#file)
+* [File history](../Image/20181008_-_ISWC_2018_Tutorial_-_Introduction_to_XD_and_XDP.pdf#filehistory)
+* [Links](../Image/20181008_-_ISWC_2018_Tutorial_-_Introduction_to_XD_and_XDP.pdf#filelinks)
 
-[![](../skins/common/images/icons/fileicon-pdf.png)](../Image/20181008_-_ISWC_2018_Tutorial_-_Introduction_to_XD_and_XDP.pdf.md "20181008 - ISWC 2018 Tutorial - Introduction to XD and XDP.pdf")
+[![](../skins/common/images/icons/fileicon-pdf.png)](../Image/20181008_-_ISWC_2018_Tutorial_-_Introduction_to_XD_and_XDP.pdf "20181008 - ISWC 2018 Tutorial - Introduction to XD and XDP.pdf")
 [20181008\_-\_ISWC\_2018\_Tutorial\_-\_Introduction\_to\_XD\_and\_XDP.pdf](../images/d/db/20181008_-_ISWC_2018_Tutorial_-_Introduction_to_XD_and_XDP.pdf "20181008 - ISWC 2018 Tutorial - Introduction to XD and XDP.pdf")‎  (file size: 965 KB, MIME type: application/pdf)
 
 
@@ -26,7 +26,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Training:Tutorial: Methods and Tools for Modular Ontology Modeling](../Training/Tutorial/_Methods_and_Tools_for_Modular_Ontology_Modeling.md "Training:Tutorial: Methods and Tools for Modular Ontology Modeling")
+* [Training:Tutorial: Methods and Tools for Modular Ontology Modeling](../Training/Tutorial/_Methods_and_Tools_for_Modular_Ontology_Modeling "Training:Tutorial: Methods and Tools for Modular Ontology Modeling")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:20181008\_-\_ISWC\_2018\_Tutorial\_-\_Introduction\_to\_XD\_and\_XDP.pdf](../Image/20181008_-_ISWC_2018_Tutorial_-_Introduction_to_XD_and_XDP.pdf.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:20181008\_-\_ISWC\_2018\_Tutorial\_-\_Introduction\_to\_XD\_and\_XDP.pdf](../Image/20181008_-_ISWC_2018_Tutorial_-_Introduction_to_XD_and_XDP.pdf)"

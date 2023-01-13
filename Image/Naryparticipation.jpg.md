@@ -1,6 +1,6 @@
-* [Image](../Image/Naryparticipation.jpg.md#file)
-* [File history](../Image/Naryparticipation.jpg.md#filehistory)
-* [Links](../Image/Naryparticipation.jpg.md#filelinks)
+* [Image](../Image/Naryparticipation.jpg#file)
+* [File history](../Image/Naryparticipation.jpg#filehistory)
+* [Links](../Image/Naryparticipation.jpg#filelinks)
 
 [![Image:Naryparticipation.jpg](../images/thumb/e/e2/Naryparticipation.jpg/800px-Naryparticipation.jpg)](../images/e/e2/Naryparticipation.jpg)  
 Size of this preview: 800 × 275 pixels  
@@ -23,8 +23,8 @@ Click on a date/time to view the file as it appeared at that time.
 The following 2 pages link to this file:
 
 
-* [Community:Images](../Community/Images.md "Community:Images")
-* [Submissions:Nary Participation](../Submissions/Nary_Participation.md "Submissions:Nary Participation")
+* [Community:Images](../Community/Images "Community:Images")
+* [Submissions:Nary Participation](../Submissions/Nary_Participation "Submissions:Nary Participation")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Naryparticipation.jpg](../Image/Naryparticipation.jpg.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Naryparticipation.jpg](../Image/Naryparticipation.jpg)"

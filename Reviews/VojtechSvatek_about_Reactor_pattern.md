@@ -1,5 +1,5 @@
-[![](../images/thumb/2/29/Reviewer.png/48px-Reviewer.png)](../Image/Reviewer.png.md "Reviewer.png")
-__[VojtechSvatek](../User/VojtechSvatek.md "User:VojtechSvatek") about [Reactor pattern](../Submissions/Reactor_pattern.md "Submissions:Reactor pattern") (Revision ID: [pattern?oldid=11175 11175](../Submissions/Reactor.md "http://ontologydesignpatterns.org/wiki/Submissions:Reactor"))__
+[![](../images/thumb/2/29/Reviewer.png/48px-Reviewer.png)](../Image/Reviewer.png "Reviewer.png")
+__[VojtechSvatek](../User/VojtechSvatek "User:VojtechSvatek") about [Reactor pattern](../Submissions/Reactor_pattern "Submissions:Reactor pattern") (Revision ID: [pattern?oldid=11175 11175](../Submissions/Reactor "http://ontologydesignpatterns.org/wiki/Submissions:Reactor"))__
 Overall suggestion (score): 0 - needs major revision
 
 
@@ -29,8 +29,8 @@ _Posted:_ 2012/8/31 _Last modified:_ 2012/8/31
 
 
 
-[All reviews](../Reviews/Main.md "Reviews:Main") | [Add a comment at the bottom of this page](index.php@title=Odp%253AAdd_comment&target=../Reviews/VojtechSvatek_about_Reactor_pattern.md#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Reviews:VojtechSvatek_about_Reactor_pattern#New_comment")
+[All reviews](../Reviews/Main "Reviews:Main") | [Add a comment at the bottom of this page](index.php@title=Odp%253AAdd_comment&target=../Reviews/VojtechSvatek_about_Reactor_pattern#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Reviews:VojtechSvatek_about_Reactor_pattern#New_comment")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Reviews:VojtechSvatek\_about\_Reactor\_pattern](../Reviews/VojtechSvatek_about_Reactor_pattern.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [QCReview](../Category/QCReview.md "Category:QCReview")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Reviews:VojtechSvatek\_about\_Reactor\_pattern](../Reviews/VojtechSvatek_about_Reactor_pattern)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [QCReview](../Category/QCReview "Category:QCReview")

@@ -1,6 +1,6 @@
-* [Image](../Image/Questionmark.png.md#file)
-* [File history](../Image/Questionmark.png.md#filehistory)
-* [Links](../Image/Questionmark.png.md#filelinks)
+* [Image](../Image/Questionmark.png#file)
+* [File history](../Image/Questionmark.png#filehistory)
+* [Links](../Image/Questionmark.png#filelinks)
 
 [![Image:Questionmark.png](../images/f/f4/Questionmark.png)](../images/f/f4/Questionmark.png)  
 No higher resolution available.  
@@ -23,9 +23,9 @@ Click on a date/time to view the file as it appeared at that time.
 The following 3 pages link to this file:
 
 
-* [Ontology Design Patterns . org (ODP)](../Ontology_Design_Patterns_._org_(ODP).md).md).html "Ontology Design Patterns . org (ODP)")
-* [Community:Images](../Community/Images.md "Community:Images")
-* [Template:MainPageMap](../Template/MainPageMap.md "Template:MainPageMap")
+* [Ontology Design Patterns . org (ODP)](../Ontology_Design_Patterns_._org_(ODP)).md).md).html "Ontology Design Patterns . org (ODP)")
+* [Community:Images](../Community/Images "Community:Images")
+* [Template:MainPageMap](../Template/MainPageMap "Template:MainPageMap")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Questionmark.png](../Image/Questionmark.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Questionmark.png](../Image/Questionmark.png)"

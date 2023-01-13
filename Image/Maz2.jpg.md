@@ -1,6 +1,6 @@
-* [Image](../Image/Maz2.jpg.md#file)
-* [File history](../Image/Maz2.jpg.md#filehistory)
-* [Links](../Image/Maz2.jpg.md#filelinks)
+* [Image](../Image/Maz2.jpg#file)
+* [File history](../Image/Maz2.jpg#filehistory)
+* [Links](../Image/Maz2.jpg#filelinks)
 
 [![Image:Maz2.jpg](../images/c/cb/Maz2.jpg)](../images/c/cb/Maz2.jpg)  
 No higher resolution available.  
@@ -23,7 +23,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [User:Mazenalzyoud](../User/Mazenalzyoud.md "User:Mazenalzyoud")
+* [User:Mazenalzyoud](../User/Mazenalzyoud "User:Mazenalzyoud")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Maz2.jpg](../Image/Maz2.jpg.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Maz2.jpg](../Image/Maz2.jpg)"

@@ -1,6 +1,6 @@
-* [Image](../Image/OR_1.jape.md#file)
-* [File history](../Image/OR_1.jape.md#filehistory)
-* [Links](../Image/OR_1.jape.md#filelinks)
+* [Image](../Image/OR_1.jape#file)
+* [File history](../Image/OR_1.jape#filehistory)
+* [Links](../Image/OR_1.jape#filelinks)
 
 
 [OR\_1.jape](../images/8/80/OR_1.jape "OR 1.jape")‎
@@ -32,8 +32,8 @@ Click on a date/time to view the file as it appeared at that time.
 The following 2 pages link to this file:
 
 
-* [Submissions:Lexico Syntactic ODPs corresponding to Object-Role ODP](../Submissions/Lexico_Syntactic_ODPs_corresponding_to_Object-Role_ODP.md "Submissions:Lexico Syntactic ODPs corresponding to Object-Role ODP")
-* [Submissions:Lexico Syntactic ODPs corresponding to Object-Role ODP/1](../Submissions/Lexico_Syntactic_ODPs_corresponding_to_Object-Role_ODP/1.md "Submissions:Lexico Syntactic ODPs corresponding to Object-Role ODP/1")
+* [Submissions:Lexico Syntactic ODPs corresponding to Object-Role ODP](../Submissions/Lexico_Syntactic_ODPs_corresponding_to_Object-Role_ODP "Submissions:Lexico Syntactic ODPs corresponding to Object-Role ODP")
+* [Submissions:Lexico Syntactic ODPs corresponding to Object-Role ODP/1](../Submissions/Lexico_Syntactic_ODPs_corresponding_to_Object-Role_ODP/1 "Submissions:Lexico Syntactic ODPs corresponding to Object-Role ODP/1")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:OR\_1.jape](../Image/OR_1.jape.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:OR\_1.jape](../Image/OR_1.jape)"

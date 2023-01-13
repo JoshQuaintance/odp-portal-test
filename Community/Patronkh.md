@@ -26,15 +26,15 @@ _(this article has no graphical representation)_
 #  References
 
 
-[Add a reference](index.php@title=Odp%253AAdd_reference&subject=../Community/Patronkh.md "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_reference&subject=Community%3APatronkh")
+[Add a reference](index.php@title=Odp%253AAdd_reference&subject=../Community/Patronkh "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_reference&subject=Community%3APatronkh")
 
 
 
-* A Media Value Chain Ontology for MPEG-21 [Project Home Page](http://portal.acm.org/citation.cfm?id=1685140.1685158&coll=portal&dl=ACM "http://portal.acm.org/citation.cfm?id=1685140.1685158&coll=portal&dl=ACM") | [reference page](../Community/References/A_Media_Value_Chain_Ontology_for_MPEG-21_2.md "Community:References/A Media Value Chain Ontology for MPEG-21 2")
+* A Media Value Chain Ontology for MPEG-21 [Project Home Page](http://portal.acm.org/citation.cfm?id=1685140.1685158&coll=portal&dl=ACM "http://portal.acm.org/citation.cfm?id=1685140.1685158&coll=portal&dl=ACM") | [reference page](../Community/References/A_Media_Value_Chain_Ontology_for_MPEG-21_2 "Community:References/A Media Value Chain Ontology for MPEG-21 2")
 
 
- [List of Modeling Issues](../Community/Main.md "Community:Main") | [Post a new modeling issue](../Community/PostModelingIssue.md "Community:PostModelingIssue") | [Add a comment in the discussion page](index.php@title=Odp%253AAdd_comment&target=Community_talk%253APatronkh.html#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Community_talk:Patronkh#New_comment")
+ [List of Modeling Issues](../Community/Main "Community:Main") | [Post a new modeling issue](../Community/PostModelingIssue "Community:PostModelingIssue") | [Add a comment in the discussion page](index.php@title=Odp%253AAdd_comment&target=Community_talk%253APatronkh.html#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Community_talk:Patronkh#New_comment")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Community:Patronkh](../Community/Patronkh.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ModelingIssue](../Category/ModelingIssue.md "Category:ModelingIssue")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Community:Patronkh](../Community/Patronkh)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ModelingIssue](../Category/ModelingIssue "Category:ModelingIssue")

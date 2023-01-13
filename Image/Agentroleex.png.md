@@ -1,6 +1,6 @@
-* [Image](../Image/Agentroleex.png.md#file)
-* [File history](../Image/Agentroleex.png.md#filehistory)
-* [Links](../Image/Agentroleex.png.md#filelinks)
+* [Image](../Image/Agentroleex.png#file)
+* [File history](../Image/Agentroleex.png#filehistory)
+* [Links](../Image/Agentroleex.png#filelinks)
 
 [![Image:Agentroleex.png](../images/a/a0/Agentroleex.png)](../images/a/a0/Agentroleex.png)  
 No higher resolution available.  
@@ -23,8 +23,8 @@ Click on a date/time to view the file as it appeared at that time.
 The following 2 pages link to this file:
 
 
-* [Community:Images](../Community/Images.md "Community:Images")
-* [Submissions:AgentRole/Scenario 1](../Submissions/AgentRole/Scenario_1.md "Submissions:AgentRole/Scenario 1")
+* [Community:Images](../Community/Images "Community:Images")
+* [Submissions:AgentRole/Scenario 1](../Submissions/AgentRole/Scenario_1 "Submissions:AgentRole/Scenario 1")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Agentroleex.png](../Image/Agentroleex.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Agentroleex.png](../Image/Agentroleex.png)"

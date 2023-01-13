@@ -1507,5 +1507,5 @@ Here the modules are checked for consistency and unit tests for restrictions, di
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Training:PhD\_Course\_on\_Computational\_Ontologies\_%40\_University\_of\_Bologna/Collaborative\_modeling\_with\_XD](../../Training/PhD_Course_on_Computational_Ontologies_@_University_of_Bologna/Collaborative_modeling_with_XD.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Exercise](../../Category/Exercise.md "Category:Exercise")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Training:PhD\_Course\_on\_Computational\_Ontologies\_%40\_University\_of\_Bologna/Collaborative\_modeling\_with\_XD](../../Training/PhD_Course_on_Computational_Ontologies_@_University_of_Bologna/Collaborative_modeling_with_XD)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Exercise](../../Category/Exercise "Category:Exercise")

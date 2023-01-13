@@ -12,8 +12,8 @@
 
 
 
-[Domain list](../Community/Domain.md "Community:Domain") | [Modeling issues](../Community/Main.md "Community:Main")
+[Domain list](../Community/Domain "Community:Domain") | [Modeling issues](../Community/Main "Community:Main")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Community:Building\_and\_Construction](../Community/Building_and_Construction.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Domain](../Category/Domain.md "Category:Domain")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Community:Building\_and\_Construction](../Community/Building_and_Construction)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Domain](../Category/Domain "Category:Domain")

@@ -31,11 +31,11 @@ It would be an interesting exercise to map and merge the ODPs from the bio-ontol
 
 
 
-Go back to the  [Feedback main page](../Feedback/Main.md "Feedback:Main")
+Go back to the  [Feedback main page](../Feedback/Main "Feedback:Main")
 
 
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Feedback:Merge\_additional\_catalog\_of\_ODPs\_into\_this\_Wiki](../Feedback/Merge_additional_catalog_of_ODPs_into_this_Wiki.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Feedback](../Category/Feedback.md "Category:Feedback")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Feedback:Merge\_additional\_catalog\_of\_ODPs\_into\_this\_Wiki](../Feedback/Merge_additional_catalog_of_ODPs_into_this_Wiki)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Feedback](../Category/Feedback "Category:Feedback")

@@ -1,5 +1,5 @@
 Category of pages that are events related to the ODP community.
-This category [Event](../Form/Event.md "Form:Event")
+This category [Event](../Form/Event "Form:Event")
 
 
 
@@ -14,7 +14,7 @@ This category has only the following subcategory.
 ### W
 
 
-* [WOP](../Category/WOP.md "Category:WOP")
+* [WOP](../Category/WOP "Category:WOP")
 
 
 
@@ -26,4 +26,4 @@ The following 17 pages are in this category, out of 17 total.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Category:Event](../Category/Event.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Category:Event](../Category/Event)"

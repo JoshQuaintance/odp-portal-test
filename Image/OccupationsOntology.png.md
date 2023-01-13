@@ -1,6 +1,6 @@
-* [Image](../Image/OccupationsOntology.png.md#file)
-* [File history](../Image/OccupationsOntology.png.md#filehistory)
-* [Links](../Image/OccupationsOntology.png.md#filelinks)
+* [Image](../Image/OccupationsOntology.png#file)
+* [File history](../Image/OccupationsOntology.png#filehistory)
+* [Links](../Image/OccupationsOntology.png#filelinks)
 
 [![Image:OccupationsOntology.png](../images/8/88/OccupationsOntology.png)](../images/8/88/OccupationsOntology.png)  
 No higher resolution available.  
@@ -23,8 +23,8 @@ Click on a date/time to view the file as it appeared at that time.
 The following 2 pages link to this file:
 
 
-* [Submissions:Classification scheme - path enumeration model - to Taxonomy](../Submissions/Classification_scheme_-_path_enumeration_model_-_to_Taxonomy.md "Submissions:Classification scheme - path enumeration model - to Taxonomy")
-* [Submissions:Pattern for re-engineering a classification scheme, which follows the path enumeration data model, into an ontology schema](../Submissions/Pattern_for_re-engineering_a_classification_scheme,_which_follows_the_path_enumeration_data_model,_into_an_ontology_schema.md "Submissions:Pattern for re-engineering a classification scheme, which follows the path enumeration data model, into an ontology schema")
+* [Submissions:Classification scheme - path enumeration model - to Taxonomy](../Submissions/Classification_scheme_-_path_enumeration_model_-_to_Taxonomy "Submissions:Classification scheme - path enumeration model - to Taxonomy")
+* [Submissions:Pattern for re-engineering a classification scheme, which follows the path enumeration data model, into an ontology schema](../Submissions/Pattern_for_re-engineering_a_classification_scheme,_which_follows_the_path_enumeration_data_model,_into_an_ontology_schema "Submissions:Pattern for re-engineering a classification scheme, which follows the path enumeration data model, into an ontology schema")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:OccupationsOntology.png](../Image/OccupationsOntology.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:OccupationsOntology.png](../Image/OccupationsOntology.png)"

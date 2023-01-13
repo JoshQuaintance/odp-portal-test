@@ -1,1 +1,1 @@
-Retrieved from "[http://ontologydesignpatterns.org/wiki/User:Anonymous](../User/Anonymous.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/User:Anonymous](../User/Anonymous)"

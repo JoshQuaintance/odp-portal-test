@@ -1,6 +1,6 @@
-* [Image](../Image/Privacypolicy.png.md#file)
-* [File history](../Image/Privacypolicy.png.md#filehistory)
-* [Links](../Image/Privacypolicy.png.md#filelinks)
+* [Image](../Image/Privacypolicy.png#file)
+* [File history](../Image/Privacypolicy.png#filehistory)
+* [Links](../Image/Privacypolicy.png#filelinks)
 
 [![Image:Privacypolicy.png](../images/thumb/c/cf/Privacypolicy.png/800px-Privacypolicy.png)](../images/c/cf/Privacypolicy.png)  
 Size of this preview: 800 × 396 pixels  
@@ -23,7 +23,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Submissions:PrivacyPolicyPersonalData](../Submissions/PrivacyPolicyPersonalData.md "Submissions:PrivacyPolicyPersonalData")
+* [Submissions:PrivacyPolicyPersonalData](../Submissions/PrivacyPolicyPersonalData "Submissions:PrivacyPolicyPersonalData")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Privacypolicy.png](../Image/Privacypolicy.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Privacypolicy.png](../Image/Privacypolicy.png)"

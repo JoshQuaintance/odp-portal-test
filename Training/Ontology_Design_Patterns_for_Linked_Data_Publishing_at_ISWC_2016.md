@@ -23,7 +23,7 @@ No exercises.
 
 
 
-[Create exercise for this tutorial](http://ontologydesignpatterns.org/wiki/Special:AddData/Form:Tutorial_Exercise_Form?Exercise_Description_Template[Tutorial]=Ontology Design Patterns for Linked Data Publishing at ISWC 2016) | [Training area](../Training/Main.md "Training:Main")
+[Create exercise for this tutorial](http://ontologydesignpatterns.org/wiki/Special:AddData/Form:Tutorial_Exercise_Form?Exercise_Description_Template[Tutorial]=Ontology Design Patterns for Linked Data Publishing at ISWC 2016) | [Training area](../Training/Main "Training:Main")
 
 ##   Tutorial Schedule
 
@@ -44,7 +44,7 @@ This section is focused on methods for ontology reuse. In particular, three poss
 4. __Break__
 5. __Worked examples__ (90 mins including 30 mins of questions)
 	1. Examples in the Chess domain - Pascal Hitzler (~45 min)  
-	In this section, we present a worked example which progresses from a use case description to the design of the corresponding pattern-based ontology. The example is taken from recent work (published e.g. at the COLD 2015 workshop) regarding the usefulness of ontology design patterns for linked data publishing. The scenario is that of chess data on the web; a website accompanies this part of the tutorial. ([slides (pdf)](http://www.pascal-hitzler.de/pub2/2016-10-ISWC-Tutorial-Hitzler.pdf "http://www.pascal-hitzler.de/pub2/2016-10-ISWC-Tutorial-Hitzler.pdf")) ([Website with supplementary material](http://dase.cs.wright.edu/content/pattern-driven-linked-data-publishing-primer "http://dase.cs.wright.edu/content/pattern-driven-linked-data-publishing-primer")) ([New ODP book site, including a 25% discount](../Odp/News/17.md "http://ontologydesignpatterns.org/wiki/Odp:News/17"))
+	In this section, we present a worked example which progresses from a use case description to the design of the corresponding pattern-based ontology. The example is taken from recent work (published e.g. at the COLD 2015 workshop) regarding the usefulness of ontology design patterns for linked data publishing. The scenario is that of chess data on the web; a website accompanies this part of the tutorial. ([slides (pdf)](http://www.pascal-hitzler.de/pub2/2016-10-ISWC-Tutorial-Hitzler.pdf "http://www.pascal-hitzler.de/pub2/2016-10-ISWC-Tutorial-Hitzler.pdf")) ([Website with supplementary material](http://dase.cs.wright.edu/content/pattern-driven-linked-data-publishing-primer "http://dase.cs.wright.edu/content/pattern-driven-linked-data-publishing-primer")) ([New ODP book site, including a 25% discount](../Odp/News/17 "http://ontologydesignpatterns.org/wiki/Odp:News/17"))
 	2. Examples in CH and/or eGov - Giorgia Lodi (~45 min)  
 	This talk proposes real examples of application of ODPs for ontologies defined in linked open data projects. In particular, the talk presents and discuss a number of use cases and lessons learnt from the cultural heritage, agriculture/fishery and smart cities contexts, with a focus on linked open datasets created on the base of the discussed ODPs. ([slides (pdf)](https://www.dropbox.com/s/jbv70ym4uzxyfjf/TutorialExamplesODPsGL.pdf?dl=0 "https://www.dropbox.com/s/jbv70ym4uzxyfjf/TutorialExamplesODPsGL.pdf?dl=0"))
 
@@ -129,5 +129,5 @@ Pascal is (full) Professor and Director of Data Science at the Department of Com
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Training:Ontology\_Design\_Patterns\_for\_Linked\_Data\_Publishing\_at\_ISWC\_2016](../Training/Ontology_Design_Patterns_for_Linked_Data_Publishing_at_ISWC_2016.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Tutorial](../Category/Tutorial.md "Category:Tutorial")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Training:Ontology\_Design\_Patterns\_for\_Linked\_Data\_Publishing\_at\_ISWC\_2016](../Training/Ontology_Design_Patterns_for_Linked_Data_Publishing_at_ISWC_2016)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Tutorial](../Category/Tutorial "Category:Tutorial")

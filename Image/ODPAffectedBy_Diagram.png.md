@@ -1,6 +1,6 @@
-* [Image](../Image/ODPAffectedBy_Diagram.png.md#file)
-* [File history](../Image/ODPAffectedBy_Diagram.png.md#filehistory)
-* [Links](../Image/ODPAffectedBy_Diagram.png.md#filelinks)
+* [Image](../Image/ODPAffectedBy_Diagram.png#file)
+* [File history](../Image/ODPAffectedBy_Diagram.png#filehistory)
+* [Links](../Image/ODPAffectedBy_Diagram.png#filelinks)
 
 [![Image:ODPAffectedBy Diagram.png](../images/thumb/8/8a/ODPAffectedBy_Diagram.png/800px-ODPAffectedBy_Diagram.png)](../images/8/8a/ODPAffectedBy_Diagram.png)  
 Size of this preview: 800 × 441 pixels  
@@ -26,7 +26,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Submissions:AffectedBy](../Submissions/AffectedBy.md "Submissions:AffectedBy")
+* [Submissions:AffectedBy](../Submissions/AffectedBy "Submissions:AffectedBy")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:ODPAffectedBy\_Diagram.png](../Image/ODPAffectedBy_Diagram.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:ODPAffectedBy\_Diagram.png](../Image/ODPAffectedBy_Diagram.png)"

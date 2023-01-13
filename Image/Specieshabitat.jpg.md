@@ -1,6 +1,6 @@
-* [Image](../Image/Specieshabitat.jpg.md#file)
-* [File history](../Image/Specieshabitat.jpg.md#filehistory)
-* [Links](../Image/Specieshabitat.jpg.md#filelinks)
+* [Image](../Image/Specieshabitat.jpg#file)
+* [File history](../Image/Specieshabitat.jpg#filehistory)
+* [Links](../Image/Specieshabitat.jpg#filelinks)
 
 [![Image:Specieshabitat.jpg](../images/6/63/Specieshabitat.jpg)](../images/6/63/Specieshabitat.jpg)  
 No higher resolution available.  
@@ -23,8 +23,8 @@ Click on a date/time to view the file as it appeared at that time.
 The following 2 pages link to this file:
 
 
-* [Community:Images](../Community/Images.md "Community:Images")
-* [Submissions:SpeciesHabitat](../Submissions/SpeciesHabitat.md "Submissions:SpeciesHabitat")
+* [Community:Images](../Community/Images "Community:Images")
+* [Submissions:SpeciesHabitat](../Submissions/SpeciesHabitat "Submissions:SpeciesHabitat")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Specieshabitat.jpg](../Image/Specieshabitat.jpg.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Specieshabitat.jpg](../Image/Specieshabitat.jpg)"

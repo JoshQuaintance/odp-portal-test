@@ -1,4 +1,4 @@
-Hello Valentina, you left a message on my talk\_page and the advice to read the [Help:Contents](http://ontologydesignpatterns.org/wiki/Help:Contents "Help:Contents"), but it is empty... Kind regards --[UlliMoser](../User/UlliMoser.md "User:UlliMoser") 13:43, 8 March 2009 (UTC)
+Hello Valentina, you left a message on my talk\_page and the advice to read the [Help:Contents](http://ontologydesignpatterns.org/wiki/Help:Contents "Help:Contents"), but it is empty... Kind regards --[UlliMoser](../User/UlliMoser "User:UlliMoser") 13:43, 8 March 2009 (UTC)
 
 
 
@@ -17,4 +17,4 @@ Ciao!
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/User\_talk:ValentinaPresutti](../User_talk/ValentinaPresutti.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/User\_talk:ValentinaPresutti](../User_talk/ValentinaPresutti)"

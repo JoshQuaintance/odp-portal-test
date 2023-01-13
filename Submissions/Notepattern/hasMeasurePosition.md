@@ -1,4 +1,4 @@
-___hasMeasurePosition__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [Notepattern](../../Submissions/Notepattern.md "Submissions:Notepattern")_
+___hasMeasurePosition__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [Notepattern](../../Submissions/Notepattern "Submissions:Notepattern")_
 
 
   
@@ -6,7 +6,7 @@ ___hasMeasurePosition__ has [Category:OntologyElement](../../Category/OntologyEl
 
 
 
-[![DatatypeProperty](../../images/thumb/a/a5/DatatypeProperty.gif/45px-DatatypeProperty.gif)](../../Image/DatatypeProperty.gif.md "DatatypeProperty")
+[![DatatypeProperty](../../images/thumb/a/a5/DatatypeProperty.gif/45px-DatatypeProperty.gif)](../../Image/DatatypeProperty.gif "DatatypeProperty")
 __Name__: hasMeasurePosition 
 
 
@@ -19,5 +19,5 @@ __Description__: The position the symbolic note have within the bar
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Notepattern/hasMeasurePosition](../../Submissions/Notepattern/hasMeasurePosition.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Notepattern/hasMeasurePosition](../../Submissions/Notepattern/hasMeasurePosition)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

@@ -1,5 +1,5 @@
-[![](../images/thumb/2/29/Reviewer.png/48px-Reviewer.png)](../Image/Reviewer.png.md "Reviewer.png")
-__[BorisVillazón-Terrazas](../User/BorisVillazón-Terrazas.md "User:BorisVillazón-Terrazas") about [Standard Enforcer Pattern](../Submissions/Standard_Enforcer_Pattern.md "Submissions:Standard Enforcer Pattern") (Revision ID: [Enforcer Pattern?oldid=11210 11210](../Submissions/Standard.md "http://ontologydesignpatterns.org/wiki/Submissions:Standard"))__
+[![](../images/thumb/2/29/Reviewer.png/48px-Reviewer.png)](../Image/Reviewer.png "Reviewer.png")
+__[BorisVillazón-Terrazas](../User/BorisVillazón-Terrazas "User:BorisVillazón-Terrazas") about [Standard Enforcer Pattern](../Submissions/Standard_Enforcer_Pattern "Submissions:Standard Enforcer Pattern") (Revision ID: [Enforcer Pattern?oldid=11210 11210](../Submissions/Standard "http://ontologydesignpatterns.org/wiki/Submissions:Standard"))__
 Overall suggestion (score): 1 - needs minor revision
 
 
@@ -27,8 +27,8 @@ _Posted:_ 2012/8/30 _Last modified:_ 2012/8/30
 
 
 
-[All reviews](../Reviews/Main.md "Reviews:Main") | [Add a comment at the bottom of this page](index.php@title=Odp%253AAdd_comment&target=../Reviews/BorisVillazón-Terrazas_about_Standard_Enforcer_Pattern.md#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Reviews:BorisVillaz%C3%B3n-Terrazas_about_Standard_Enforcer_Pattern#New_comment")
+[All reviews](../Reviews/Main "Reviews:Main") | [Add a comment at the bottom of this page](index.php@title=Odp%253AAdd_comment&target=../Reviews/BorisVillazón-Terrazas_about_Standard_Enforcer_Pattern#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Reviews:BorisVillaz%C3%B3n-Terrazas_about_Standard_Enforcer_Pattern#New_comment")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Reviews:BorisVillaz%C3%B3n-Terrazas\_about\_Standard\_Enforcer\_Pattern](../Reviews/BorisVillazón-Terrazas_about_Standard_Enforcer_Pattern.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [QCReview](../Category/QCReview.md "Category:QCReview")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Reviews:BorisVillaz%C3%B3n-Terrazas\_about\_Standard\_Enforcer\_Pattern](../Reviews/BorisVillazón-Terrazas_about_Standard_Enforcer_Pattern)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [QCReview](../Category/QCReview "Category:QCReview")

@@ -1,6 +1,6 @@
-* [Image](../Image/Literalreification_new.png.md#file)
-* [File history](../Image/Literalreification_new.png.md#filehistory)
-* [Links](../Image/Literalreification_new.png.md#filelinks)
+* [Image](../Image/Literalreification_new.png#file)
+* [File history](../Image/Literalreification_new.png#filehistory)
+* [Links](../Image/Literalreification_new.png#filelinks)
 
 [![Image:Literalreification new.png](../images/1/12/Literalreification_new.png)](../images/1/12/Literalreification_new.png)  
 No higher resolution available.  
@@ -23,7 +23,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Submissions:Literal Reification](../Submissions/Literal_Reification.md "Submissions:Literal Reification")
+* [Submissions:Literal Reification](../Submissions/Literal_Reification "Submissions:Literal Reification")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Literalreification\_new.png](../Image/Literalreification_new.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Literalreification\_new.png](../Image/Literalreification_new.png)"

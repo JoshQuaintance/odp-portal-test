@@ -1,8 +1,8 @@
-* [Image](../Image/Class-equivalence.pdf.md#file)
-* [File history](../Image/Class-equivalence.pdf.md#filehistory)
-* [Links](../Image/Class-equivalence.pdf.md#filelinks)
+* [Image](../Image/Class-equivalence.pdf#file)
+* [File history](../Image/Class-equivalence.pdf#filehistory)
+* [Links](../Image/Class-equivalence.pdf#filelinks)
 
-[![](../skins/common/images/icons/fileicon-pdf.png)](../Image/Class-equivalence.pdf.md "Class-equivalence.pdf")
+[![](../skins/common/images/icons/fileicon-pdf.png)](../Image/Class-equivalence.pdf "Class-equivalence.pdf")
 [Class-equivalence.pdf](../images/b/b1/Class-equivalence.pdf "Class-equivalence.pdf")‎  (file size: 8 KB, MIME type: application/pdf)
 
 
@@ -28,4 +28,4 @@ There are no pages that link to this file.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Class-equivalence.pdf](../Image/Class-equivalence.pdf.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Class-equivalence.pdf](../Image/Class-equivalence.pdf)"

@@ -1,6 +1,6 @@
-* [Image](../Image/Workflow_PR-NOR-TSLO-01_1.png.md#file)
-* [File history](../Image/Workflow_PR-NOR-TSLO-01_1.png.md#filehistory)
-* [Links](../Image/Workflow_PR-NOR-TSLO-01_1.png.md#filelinks)
+* [Image](../Image/Workflow_PR-NOR-TSLO-01_1.png#file)
+* [File history](../Image/Workflow_PR-NOR-TSLO-01_1.png#filehistory)
+* [Links](../Image/Workflow_PR-NOR-TSLO-01_1.png#filelinks)
 
 [![Image:Workflow PR-NOR-TSLO-01 1.png](../images/thumb/4/4c/Workflow_PR-NOR-TSLO-01_1.png/276px-Workflow_PR-NOR-TSLO-01_1.png)](../images/4/4c/Workflow_PR-NOR-TSLO-01_1.png)  
 Size of this preview: 276 × 598 pixels  
@@ -23,7 +23,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Submissions:Pattern for re-engineering a term-based thesaurus, which follows the recordbased data model, into an ontology schema](../Submissions/Pattern_for_re-engineering_a_term-based_thesaurus,_which_follows_the_recordbased_data_model,_into_an_ontology_schema.md "Submissions:Pattern for re-engineering a term-based thesaurus, which follows the recordbased data model, into an ontology schema")
+* [Submissions:Pattern for re-engineering a term-based thesaurus, which follows the recordbased data model, into an ontology schema](../Submissions/Pattern_for_re-engineering_a_term-based_thesaurus,_which_follows_the_recordbased_data_model,_into_an_ontology_schema "Submissions:Pattern for re-engineering a term-based thesaurus, which follows the recordbased data model, into an ontology schema")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Workflow\_PR-NOR-TSLO-01\_1.png](../Image/Workflow_PR-NOR-TSLO-01_1.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Workflow\_PR-NOR-TSLO-01\_1.png](../Image/Workflow_PR-NOR-TSLO-01_1.png)"

@@ -1,6 +1,6 @@
-* [Image](../Image/Specieseat.jpg.md#file)
-* [File history](../Image/Specieseat.jpg.md#filehistory)
-* [Links](../Image/Specieseat.jpg.md#filelinks)
+* [Image](../Image/Specieseat.jpg#file)
+* [File history](../Image/Specieseat.jpg#filehistory)
+* [Links](../Image/Specieseat.jpg#filelinks)
 
 [![Image:Specieseat.jpg](../images/1/13/Specieseat.jpg)](../images/1/13/Specieseat.jpg)  
 No higher resolution available.  
@@ -23,8 +23,8 @@ Click on a date/time to view the file as it appeared at that time.
 The following 2 pages link to this file:
 
 
-* [Community:Images](../Community/Images.md "Community:Images")
-* [Submissions:SpeciesEat](../Submissions/SpeciesEat.md "Submissions:SpeciesEat")
+* [Community:Images](../Community/Images "Community:Images")
+* [Submissions:SpeciesEat](../Submissions/SpeciesEat "Submissions:SpeciesEat")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Specieseat.jpg](../Image/Specieseat.jpg.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Specieseat.jpg](../Image/Specieseat.jpg)"

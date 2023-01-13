@@ -1,5 +1,5 @@
-[![](../images/thumb/2/29/Reviewer.png/48px-Reviewer.png)](../Image/Reviewer.png.md "Reviewer.png")
-__[AlessandroAdamou](../User/AlessandroAdamou.md "User:AlessandroAdamou") about [Inverse n-ary relationship](../Submissions/Inverse_n-ary_relationship.md "Submissions:Inverse n-ary relationship") (Revision ID: [n-ary relationship?oldid=10101 10101](../Submissions/Inverse.md "http://ontologydesignpatterns.org/wiki/Submissions:Inverse"))__
+[![](../images/thumb/2/29/Reviewer.png/48px-Reviewer.png)](../Image/Reviewer.png "Reviewer.png")
+__[AlessandroAdamou](../User/AlessandroAdamou "User:AlessandroAdamou") about [Inverse n-ary relationship](../Submissions/Inverse_n-ary_relationship "Submissions:Inverse n-ary relationship") (Revision ID: [n-ary relationship?oldid=10101 10101](../Submissions/Inverse "http://ontologydesignpatterns.org/wiki/Submissions:Inverse"))__
 Overall suggestion (score): 0 - needs major revision
 
 
@@ -30,8 +30,8 @@ _Posted:_ 2010/9/16 _Last modified:_ 2010/9/16
 
 
 
-[All reviews](../Reviews/Main.md "Reviews:Main") | [Add a comment at the bottom of this page](index.php@title=Odp%253AAdd_comment&target=../Reviews/AlessandroAdamou_about_Inverse_n-ary_relationship.md#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Reviews:AlessandroAdamou_about_Inverse_n-ary_relationship#New_comment")
+[All reviews](../Reviews/Main "Reviews:Main") | [Add a comment at the bottom of this page](index.php@title=Odp%253AAdd_comment&target=../Reviews/AlessandroAdamou_about_Inverse_n-ary_relationship#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Reviews:AlessandroAdamou_about_Inverse_n-ary_relationship#New_comment")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Reviews:AlessandroAdamou\_about\_Inverse\_n-ary\_relationship](../Reviews/AlessandroAdamou_about_Inverse_n-ary_relationship.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [QCReview](../Category/QCReview.md "Category:QCReview")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Reviews:AlessandroAdamou\_about\_Inverse\_n-ary\_relationship](../Reviews/AlessandroAdamou_about_Inverse_n-ary_relationship)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [QCReview](../Category/QCReview "Category:QCReview")

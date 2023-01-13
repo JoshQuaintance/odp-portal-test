@@ -1,4 +1,4 @@
-___Process__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [Reactor pattern](../../Submissions/Reactor_pattern.md "Submissions:Reactor pattern")_
+___Process__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [Reactor pattern](../../Submissions/Reactor_pattern "Submissions:Reactor pattern")_
 
 
   
@@ -6,7 +6,7 @@ ___Process__ has [Category:OntologyElement](../../Category/OntologyElement.md "C
 
 
 
-[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif.md "Class")
+[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif "Class")
 __Name__: Process 
 
 
@@ -19,5 +19,5 @@ __Description__: An entity representing a placeholder for a process.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Reactor\_pattern/Process](../../Community/Event_Processing.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Reactor\_pattern/Process](../../Community/Event_Processing)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

@@ -1,6 +1,6 @@
-* [Image](../Image/Description.jpg.md#file)
-* [File history](../Image/Description.jpg.md#filehistory)
-* [Links](../Image/Description.jpg.md#filelinks)
+* [Image](../Image/Description.jpg#file)
+* [File history](../Image/Description.jpg#filehistory)
+* [Links](../Image/Description.jpg#filelinks)
 
 [![Image:Description.jpg](../images/6/61/Description.jpg)](../images/6/61/Description.jpg)  
 No higher resolution available.  
@@ -23,8 +23,8 @@ Click on a date/time to view the file as it appeared at that time.
 The following 2 pages link to this file:
 
 
-* [Community:Images](../Community/Images.md "Community:Images")
-* [Submissions:Description](../Submissions/Description.md "Submissions:Description")
+* [Community:Images](../Community/Images "Community:Images")
+* [Submissions:Description](../Submissions/Description "Submissions:Description")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Description.jpg](../Image/Description.jpg.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Description.jpg](../Image/Description.jpg)"

@@ -1,6 +1,6 @@
-* [Image](../Image/150px-ValDec2011.jpg.md#file)
-* [File history](../Image/150px-ValDec2011.jpg.md#filehistory)
-* [Links](../Image/150px-ValDec2011.jpg.md#filelinks)
+* [Image](../Image/150px-ValDec2011.jpg#file)
+* [File history](../Image/150px-ValDec2011.jpg#filehistory)
+* [Links](../Image/150px-ValDec2011.jpg#filelinks)
 
 [![Image:150px-ValDec2011.jpg](../images/7/7d/150px-ValDec2011.jpg)](../images/7/7d/150px-ValDec2011.jpg)  
 No higher resolution available.  
@@ -26,7 +26,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [WOP:2014](../WOP/2014.md "WOP:2014")
+* [WOP:2014](../WOP/2014 "WOP:2014")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:150px-ValDec2011.jpg](../Image/150px-ValDec2011.jpg.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:150px-ValDec2011.jpg](../Image/150px-ValDec2011.jpg)"

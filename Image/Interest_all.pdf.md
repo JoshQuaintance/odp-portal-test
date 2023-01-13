@@ -1,8 +1,8 @@
-* [Image](../Image/Interest_all.pdf.md#file)
-* [File history](../Image/Interest_all.pdf.md#filehistory)
-* [Links](../Image/Interest_all.pdf.md#filelinks)
+* [Image](../Image/Interest_all.pdf#file)
+* [File history](../Image/Interest_all.pdf#filehistory)
+* [Links](../Image/Interest_all.pdf#filelinks)
 
-[![](../skins/common/images/icons/fileicon-pdf.png)](../Image/Interest_all.pdf.md "Interest all.pdf")
+[![](../skins/common/images/icons/fileicon-pdf.png)](../Image/Interest_all.pdf "Interest all.pdf")
 [Interest\_all.pdf](../images/5/5d/Interest_all.pdf "Interest all.pdf")‎  (file size: 112 KB, MIME type: application/pdf)
 
 
@@ -28,4 +28,4 @@ There are no pages that link to this file.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Interest\_all.pdf](../Image/Interest_all.pdf.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Interest\_all.pdf](../Image/Interest_all.pdf)"

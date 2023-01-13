@@ -1,4 +1,4 @@
-[![Image:Edew.jpg](../images/4/45/Edew.jpg)](../Image/Edew.jpg.md "Image:Edew.jpg")
+[![Image:Edew.jpg](../images/4/45/Edew.jpg)](../Image/Edew.jpg "Image:Edew.jpg")
 
 
 
@@ -19,17 +19,17 @@ __Domains of interest:__
 
 
 
-* [Ontology](../Community/Ontology-based_models.md "Community:Ontology")
-* [Workflow](../Community/Workflow.md "Community:Workflow")
+* [Ontology](../Community/Ontology-based_models "Community:Ontology")
+* [Workflow](../Community/Workflow "Community:Workflow")
 
 
 __Is expert of:__
 
 
 
-* [Ontology](../Community/Ontology-based_models.md "Community:Ontology")
-* [Software Engineering](../Community/Software_Engineering.md "Community:Software Engineering")
-* [Web2.0](../Community/Web2.0.md "Community:Web2.0")
+* [Ontology](../Community/Ontology-based_models "Community:Ontology")
+* [Software Engineering](../Community/Software_Engineering "Community:Software Engineering")
+* [Web2.0](../Community/Web2.0 "Community:Web2.0")
 * [Linked Data](http://ontologydesignpatterns.org/wiki/Special:AddData/Domain Form/Community:Linked_Data "Community:Linked Data (not yet written)")
 
 
@@ -40,5 +40,5 @@ __How did I know about ODP:__ friends
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/User:EnricoDaga](../User/EnricoDaga.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ODPUser](../Category/ODPUser.md "Category:ODPUser")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/User:EnricoDaga](../User/EnricoDaga)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ODPUser](../Category/ODPUser "Category:ODPUser")

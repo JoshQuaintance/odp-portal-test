@@ -1,8 +1,8 @@
-* [Image](../Image/Activityspec_op1.pdf.md#file)
-* [File history](../Image/Activityspec_op1.pdf.md#filehistory)
-* [Links](../Image/Activityspec_op1.pdf.md#filelinks)
+* [Image](../Image/Activityspec_op1.pdf#file)
+* [File history](../Image/Activityspec_op1.pdf#filehistory)
+* [Links](../Image/Activityspec_op1.pdf#filelinks)
 
-[![](../skins/common/images/icons/fileicon-pdf.png)](../Image/Activityspec_op1.pdf.md "Activityspec op1.pdf")
+[![](../skins/common/images/icons/fileicon-pdf.png)](../Image/Activityspec_op1.pdf "Activityspec op1.pdf")
 [Activityspec\_op1.pdf](../images/a/af/Activityspec_op1.pdf "Activityspec op1.pdf")‎  (file size: 62 KB, MIME type: application/pdf)
 
 
@@ -30,7 +30,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following file is a duplicate of this file:
 
 
-* [Image:Activityspec op.pdf](../Image/Activityspec_op.pdf.md "Image:Activityspec op.pdf")
+* [Image:Activityspec op.pdf](../Image/Activityspec_op.pdf "Image:Activityspec op.pdf")
 
 
 There are no pages that link to this file.
@@ -38,4 +38,4 @@ There are no pages that link to this file.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Activityspec\_op1.pdf](../Image/Activityspec_op1.pdf.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Activityspec\_op1.pdf](../Image/Activityspec_op1.pdf)"

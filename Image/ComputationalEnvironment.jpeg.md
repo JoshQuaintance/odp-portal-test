@@ -1,7 +1,7 @@
-* [Image](../Image/ComputationalEnvironment.jpeg.md#file)
-* [File history](../Image/ComputationalEnvironment.jpeg.md#filehistory)
-* [Links](../Image/ComputationalEnvironment.jpeg.md#filelinks)
-* [Metadata](../Image/ComputationalEnvironment.jpeg.md#metadata)
+* [Image](../Image/ComputationalEnvironment.jpeg#file)
+* [File history](../Image/ComputationalEnvironment.jpeg#filehistory)
+* [Links](../Image/ComputationalEnvironment.jpeg#filelinks)
+* [Metadata](../Image/ComputationalEnvironment.jpeg#metadata)
 
 [![Image:ComputationalEnvironment.jpeg](../images/8/8d/ComputationalEnvironment.jpeg)](../images/8/8d/ComputationalEnvironment.jpeg)  
 No higher resolution available.  
@@ -24,7 +24,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Submissions:ComputationalEnvironment](../Submissions/ComputationalEnvironment.md "Submissions:ComputationalEnvironment")
+* [Submissions:ComputationalEnvironment](../Submissions/ComputationalEnvironment "Submissions:ComputationalEnvironment")
 
 ## Metadata
 
@@ -35,4 +35,4 @@ If the file has been modified from its original state, some details may not full
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:ComputationalEnvironment.jpeg](../Image/ComputationalEnvironment.jpeg.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:ComputationalEnvironment.jpeg](../Image/ComputationalEnvironment.jpeg)"

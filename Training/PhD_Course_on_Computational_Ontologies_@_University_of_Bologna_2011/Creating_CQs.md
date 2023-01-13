@@ -48,11 +48,11 @@ __Solutions__:
 
 
 
-* [Instance-free sentences](../../Training/PhD_Course_on_Computational_Ontologies_@_University_of_Bologna_2011/Creating_CQs/InstanceFree.md "Training:PhD Course on Computational Ontologies @ University of Bologna 2011/Creating CQs:InstanceFree")
-* [Competency Questions](../../Training/PhD_Course_on_Computational_Ontologies_@_University_of_Bologna_2011/Creating_CQs/CQs.md "Training:PhD Course on Computational Ontologies @ University of Bologna 2011/Creating CQs:CQs")
+* [Instance-free sentences](../../Training/PhD_Course_on_Computational_Ontologies_@_University_of_Bologna_2011/Creating_CQs/InstanceFree "Training:PhD Course on Computational Ontologies @ University of Bologna 2011/Creating CQs:InstanceFree")
+* [Competency Questions](../../Training/PhD_Course_on_Computational_Ontologies_@_University_of_Bologna_2011/Creating_CQs/CQs "Training:PhD Course on Computational Ontologies @ University of Bologna 2011/Creating CQs:CQs")
 
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Training:PhD\_Course\_on\_Computational\_Ontologies\_%40\_University\_of\_Bologna\_2011/Creating\_CQs](../../Training/Autumn_2009_-_PhD_course_Jönköping/Creating_CQs_and_SPARQL_queries.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Exercise](../../Category/Exercise.md "Category:Exercise")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Training:PhD\_Course\_on\_Computational\_Ontologies\_%40\_University\_of\_Bologna\_2011/Creating\_CQs](../../Training/Autumn_2009_-_PhD_course_Jönköping/Creating_CQs_and_SPARQL_queries)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Exercise](../../Category/Exercise "Category:Exercise")

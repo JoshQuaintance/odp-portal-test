@@ -1,6 +1,6 @@
-* [Image](../Image/CP-SoA-01v1.jpg.md#file)
-* [File history](../Image/CP-SoA-01v1.jpg.md#filehistory)
-* [Links](../Image/CP-SoA-01v1.jpg.md#filelinks)
+* [Image](../Image/CP-SoA-01v1.jpg#file)
+* [File history](../Image/CP-SoA-01v1.jpg#filehistory)
+* [Links](../Image/CP-SoA-01v1.jpg#filelinks)
 
 [![Image:CP-SoA-01v1.jpg](../images/thumb/f/f5/CP-SoA-01v1.jpg/800px-CP-SoA-01v1.jpg)](../images/f/f5/CP-SoA-01v1.jpg)  
 Size of this preview: 800 × 491 pixels  
@@ -23,7 +23,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following page links to this file:
 
 
-* [Submissions:SimpleOrAggregated](../Submissions/SimpleOrAggregated.md "Submissions:SimpleOrAggregated")
+* [Submissions:SimpleOrAggregated](../Submissions/SimpleOrAggregated "Submissions:SimpleOrAggregated")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:CP-SoA-01v1.jpg](../Image/CP-SoA-01v1.jpg.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:CP-SoA-01v1.jpg](../Image/CP-SoA-01v1.jpg)"

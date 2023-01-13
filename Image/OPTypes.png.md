@@ -1,6 +1,6 @@
-* [Image](../Image/OPTypes.png.md#file)
-* [File history](../Image/OPTypes.png.md#filehistory)
-* [Links](../Image/OPTypes.png.md#filelinks)
+* [Image](../Image/OPTypes.png#file)
+* [File history](../Image/OPTypes.png#filehistory)
+* [Links](../Image/OPTypes.png#filelinks)
 
 [![Image:OPTypes.png](../images/4/4e/OPTypes.png)](../images/4/4e/OPTypes.png)  
 No higher resolution available.  
@@ -23,8 +23,8 @@ Click on a date/time to view the file as it appeared at that time.
 The following 2 pages link to this file:
 
 
-* [Ontology Design Patterns . org (ODP)](../Ontology_Design_Patterns_._org_(ODP).md).md).html "Ontology Design Patterns . org (ODP)")
-* [Template:MainPageMap](../Template/MainPageMap.md "Template:MainPageMap")
+* [Ontology Design Patterns . org (ODP)](../Ontology_Design_Patterns_._org_(ODP)).md).md).html "Ontology Design Patterns . org (ODP)")
+* [Template:MainPageMap](../Template/MainPageMap "Template:MainPageMap")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:OPTypes.png](../Image/OPTypes.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:OPTypes.png](../Image/OPTypes.png)"

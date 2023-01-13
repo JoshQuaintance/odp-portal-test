@@ -1,4 +1,4 @@
-___hasLocalName__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [SpeciesNames](../../Submissions/SpeciesNames.md "Submissions:SpeciesNames")_
+___hasLocalName__ has [Category:OntologyElement](../../Category/OntologyElement "Category:OntologyElement") and is an [element of](../../Property/ElementOf "Property:ElementOf") [SpeciesNames](../../Submissions/SpeciesNames "Submissions:SpeciesNames")_
 
 
   
@@ -6,7 +6,7 @@ ___hasLocalName__ has [Category:OntologyElement](../../Category/OntologyElement.
 
 
 
-[![DatatypeProperty](../../images/thumb/a/a5/DatatypeProperty.gif/45px-DatatypeProperty.gif)](../../Image/DatatypeProperty.gif.md "DatatypeProperty")
+[![DatatypeProperty](../../images/thumb/a/a5/DatatypeProperty.gif/45px-DatatypeProperty.gif)](../../Image/DatatypeProperty.gif "DatatypeProperty")
 __Name__: hasLocalName 
 
 
@@ -19,5 +19,5 @@ __Description__: Property to express a species' localname , where it is used , a
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:SpeciesNames/hasLocalName](../../Submissions/SpeciesNames/hasLocalName.md)"
- [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:SpeciesNames/hasLocalName](../../Submissions/SpeciesNames/hasLocalName)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement "Category:OntologyElement")

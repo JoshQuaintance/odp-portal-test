@@ -1,6 +1,6 @@
-* [Image](../Image/Equivalent-properties.png.md#file)
-* [File history](../Image/Equivalent-properties.png.md#filehistory)
-* [Links](../Image/Equivalent-properties.png.md#filelinks)
+* [Image](../Image/Equivalent-properties.png#file)
+* [File history](../Image/Equivalent-properties.png#filehistory)
+* [Links](../Image/Equivalent-properties.png#filelinks)
 
 [![Image:Equivalent-properties.png](../images/a/ab/Equivalent-properties.png)](../images/a/ab/Equivalent-properties.png)  
 No higher resolution available.  
@@ -25,4 +25,4 @@ There are no pages that link to this file.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Equivalent-properties.png](../Image/Equivalent-properties.png.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Equivalent-properties.png](../Image/Equivalent-properties.png)"
