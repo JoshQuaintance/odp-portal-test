@@ -1,13 +1,12 @@
-markdown: GFM
-
-title: ODPA Portal
-tagline: 'ODPA Portal'
-description: 'A Portal for ODPA'
-baseurl: /
+# This is a generated config. Do not mess with it unless you know what you are doing!
 
 author:
-    name: 'Joshua Quaintance'
-
+  name: Joshua Quaintance
+baseurl: /
 collections:
-    Catalogue:
-        output: true
+  Catalogue:
+    output: true
+description: A Portal for ODPA
+markdown: GFM
+tagline: ODPA Portal
+title: ODPA Portal
