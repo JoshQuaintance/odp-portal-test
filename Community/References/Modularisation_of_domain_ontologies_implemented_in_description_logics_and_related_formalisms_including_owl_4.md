@@ -1,0 +1,5 @@
+[Go to the subject of this reference](../../Submissions/Faceted_Classification_Scheme.md "Submissions:Faceted Classification Scheme") | [All references](../../Community/References.1.md "Community:References") | [Add another reference to Submissions:Faceted Classification Scheme](http://ontologydesignpatterns.org/wiki/Special:AddData/Reference?Reference[Subject]=Submissions:Faceted Classification Scheme&subject=Submissions:Faceted Classification Scheme)
+
+
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Community:References/Modularisation\_of\_domain\_ontologies\_implemented\_in\_description\_logics\_and\_related\_formalisms\_including\_owl\_4](../../Community/References/Modularisation_of_domain_ontologies_implemented_in_description_logics_and_related_formalisms_including_owl_4.md)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Reference](../../Category/Reference.md "Category:Reference")

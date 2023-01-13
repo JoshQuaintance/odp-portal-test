@@ -1,0 +1,5 @@
+[Go to the subject of this reference](../../Community/GI_Proliferation_of_URIs,_Managing_Coreference.md "Community:GI Proliferation of URIs, Managing Coreference") | [All references](../../Community/References.1.md "Community:References") | [Add another reference to Community:GI Proliferation of URIs, Managing Coreference](http://ontologydesignpatterns.org/wiki/Special:AddData/Reference?Reference[Subject]=Community:GI Proliferation of URIs, Managing Coreference&subject=Community:GI Proliferation of URIs, Managing Coreference)
+
+
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Community:References/W3C\_SemWeb\_Thread](../../Community/References/W3C_SemWeb_Thread.md)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Reference](../../Category/Reference.md "Category:Reference")

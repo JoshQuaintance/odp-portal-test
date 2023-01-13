@@ -1,0 +1,5 @@
+[Go to the subject of this reference](../../Submissions/Lexico_Syntactic_ODP_corresponding_to_Equivalence_relation_between_Classes_ODP.md "Submissions:Lexico Syntactic ODP corresponding to Equivalence relation between Classes ODP") | [All references](../../Community/References.1.md "Community:References") | [Add another reference to Submissions:Lexico Syntactic ODP corresponding to Equivalence relation between Classes ODP](http://ontologydesignpatterns.org/wiki/Special:AddData/Reference?Reference[Subject]=Submissions:Lexico Syntactic ODP corresponding to Equivalence relation between Classes ODP&subject=Submissions:Lexico Syntactic ODP corresponding to Equivalence relation between Classes ODP)
+
+
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Community:References/NeOn\_Deliverable\_D5\_1\_1\_3](../../Community/References/NeOn_Deliverable_D5_1_1_3.md)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Reference](../../Category/Reference.md "Category:Reference")

@@ -1,0 +1,21 @@
+Phase: SCRules
+Input:  Lookup Split Token NounChunk
+Options: control = appelt
+
+
+Rule:SC1
+
+// NP<subclass> be  [CN] NP<superclass> 
+// An orphan drug is a type of drug.
+
+(
+({NounChunk}):subclass
+{Lookup.minorType == be}
+({Token.category == DT})?
+{Lookup.majorType == CN}
+({NounChunk}):superclass
+)
+-->
+
+:subclass.Subclass = {rule=SC1},
+:superclass.Superclass = {rule=SC1}

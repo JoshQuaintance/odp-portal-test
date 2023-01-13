@@ -6,6 +6,58 @@ baseurl: /
 collections:
   Catalogue:
     output: true
+  Category:
+    output: true
+  Community:
+    output: true
+  Community_talk:
+    output: true
+  extensions:
+    output: true
+  Feedback:
+    output: true
+  Form:
+    output: true
+  Image:
+    output: true
+  images:
+    output: true
+  List_Patterns:
+    output: true
+  Odp:
+    output: true
+  ODPA:
+    output: true
+  Odp_talk:
+    output: true
+  Ontology:
+    output: true
+  Ontology_talk:
+    output: true
+  Private:
+    output: true
+  Property:
+    output: true
+  Reviews:
+    output: true
+  skins:
+    output: true
+  Submissions:
+    output: true
+  Submissions_talk:
+    output: true
+  Template:
+    output: true
+  Training:
+    output: true
+  Type:
+    output: true
+  User:
+    output: true
+  User_talk:
+    output: true
+  WOP:
+    output: true
 description: A Portal for ODPA
 markdown: GFM
 tagline: ODPA Portal

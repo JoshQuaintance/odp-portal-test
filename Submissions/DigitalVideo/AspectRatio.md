@@ -1,0 +1,26 @@
+___AspectRatio__ has [Category:OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement") and is an [element of](../../Property/ElementOf.md "Property:ElementOf") [DigitalVideo](../../Submissions/DigitalVideo.md "Submissions:DigitalVideo")_
+
+
+  
+
+
+
+
+[![Class](../../images/thumb/2/27/Class.gif/45px-Class.gif)](../../Image/Class.gif.md "Class")
+__Name__: AspectRatio 
+
+
+__Type:__ owl:Class 
+
+
+__Description__: The aspect ratio of an image describes the proportional relationship between its width and its height. It is commonly expressed as two numbers separated by a colon, as in 16:9. 
+
+
+E.g. 16:9, 4:3, etc.
+
+
+
+
+
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:DigitalVideo/AspectRatio](../../Submissions/DigitalVideo/AspectRatio.md)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")

@@ -1,0 +1,2 @@
+Retrieved from "[http://ontologydesignpatterns.org/wiki/User:DennyVrandecic](../User/DennyVrandecic.md)"
+ [Categories](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ODPUser](../Category/ODPUser.md "Category:ODPUser") | [QCMember](../Category/QCMember.md "Category:QCMember")

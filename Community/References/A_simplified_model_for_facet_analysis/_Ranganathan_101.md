@@ -1,0 +1,5 @@
+[Go to the subject of this reference](../../../Submissions/Faceted_Classification_Scheme.md "Submissions:Faceted Classification Scheme") | [All references](../../../Community/References.1.md "Community:References") | [Add another reference to Submissions:Faceted Classification Scheme](http://ontologydesignpatterns.org/wiki/Special:AddData/Reference?Reference[Subject]=Submissions:Faceted Classification Scheme&subject=Submissions:Faceted Classification Scheme)
+
+
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Community:References/A\_simplified\_model\_for\_facet\_analysis:\_Ranganathan\_101](../../../Community/References/A_simplified_model_for_facet_analysis/_Ranganathan_101.md)"
+ [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Reference](../../../Category/Reference.md "Category:Reference")

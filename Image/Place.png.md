@@ -1,0 +1,30 @@
+* [Image](../Image/Place.png.md#file)
+* [File history](../Image/Place.png.md#filehistory)
+* [Links](../Image/Place.png.md#filelinks)
+
+[![Image:Place.png](../../../images/f/f7/Place.png)](../../../images/f/f7/Place.png)  
+No higher resolution available.  
+[Place.png](../../../images/f/f7/Place.png)‎ (296 × 145 pixel, file size: 18 KB, MIME type: image/png)
+
+## File history
+
+Click on a date/time to view the file as it appeared at that time.
+
+
+
+  
+* [Search for duplicate files](http://ontologydesignpatterns.org/wiki/Special:FileDuplicateSearch/Place.png "Special:FileDuplicateSearch/Place.png")
+* [Edit this file using an external application](http://ontologydesignpatterns.org/wiki/index.php?title=Image:Place.png&action=edit&externaledit=true&mode=file "Image:Place.png")See the [setup instructions](http://www.mediawiki.org/wiki/Manual:External_editors "http://www.mediawiki.org/wiki/Manual:External_editors") for more information.
+
+## Links
+
+
+
+The following 2 pages link to this file:
+
+
+* [Submissions:Place](../Submissions/Place.md "Submissions:Place")
+* [Odp:Tasks/Make it easy to add images to Modeling Issues](../Odp/Tasks/Make_it_easy_to_add_images_to_Modeling_Issues.md "Odp:Tasks/Make it easy to add images to Modeling Issues")
+
+
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Place.png](../Image/Place.png.md)"

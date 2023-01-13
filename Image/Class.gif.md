@@ -1,0 +1,131 @@
+* [Image](../Image/Class.gif.md#file)
+* [File history](../Image/Class.gif.md#filehistory)
+* [Links](../Image/Class.gif.md#filelinks)
+
+[![Image:Class.gif](../../../images/2/27/Class.gif)](../../../images/2/27/Class.gif)  
+No higher resolution available.  
+[Class.gif](../../../images/2/27/Class.gif)‎ (128 × 128 pixel, file size: 7 KB, MIME type: image/gif)
+
+## File history
+
+Click on a date/time to view the file as it appeared at that time.
+
+
+
+  
+* [Search for duplicate files](http://ontologydesignpatterns.org/wiki/Special:FileDuplicateSearch/Class.gif "Special:FileDuplicateSearch/Class.gif")
+* [Edit this file using an external application](http://ontologydesignpatterns.org/wiki/index.php?title=Image:Class.gif&action=edit&externaledit=true&mode=file "Image:Class.gif")See the [setup instructions](http://www.mediawiki.org/wiki/Manual:External_editors "http://www.mediawiki.org/wiki/Manual:External_editors") for more information.
+
+## Links
+
+
+
+The following 101 pages link to this file:
+
+
+* [Submissions:Classification](../Submissions/Classification.md "Submissions:Classification")
+* [Submissions:Situation](../Submissions/Situation.md "Submissions:Situation")
+* [Submissions:Situation/Entity](../Submissions/Situation/Entity.md "Submissions:Situation/Entity")
+* [Submissions:Situation/Situation](../Submissions/Situation/Situation.md "Submissions:Situation/Situation")
+* [Community:Images](../Community/Images.md "Community:Images")
+* [Submissions:Classification/Concept](../Submissions/Classification/Concept.md "Submissions:Classification/Concept")
+* [Submissions:Classification/Entity](../Submissions/Classification/Entity.md "Submissions:Classification/Entity")
+* [Submissions:Description](../Submissions/Description.md "Submissions:Description")
+* [Submissions:Description/Description](../Submissions/Description/Description.md "Submissions:Description/Description")
+* [Submissions:Description/Concept](../Submissions/Description/Concept.md "Submissions:Description/Concept")
+* [Submissions:Types of entities](../Submissions/Types_of_entities.md "Submissions:Types of entities")
+* [Submissions:Types of entities/Abstract](../Submissions/Types_of_entities/Abstract.md "Submissions:Types of entities/Abstract")
+* [Submissions:Types of entities/Event](../Submissions/Types_of_entities/Event.md "Submissions:Types of entities/Event")
+* [Submissions:Types of entities/Object](../Submissions/Types_of_entities/Object.md "Submissions:Types of entities/Object")
+* [Submissions:Types of entities/Quality](../Submissions/Types_of_entities/Quality.md "Submissions:Types of entities/Quality")
+* [Submissions:Objectrole](../Submissions/Objectrole.md "Submissions:Objectrole")
+* [Submissions:Objectrole/Role](../Submissions/Objectrole/Role.md "Submissions:Objectrole/Role")
+* [Submissions:Objectrole/Object](../Submissions/Objectrole/Object.md "Submissions:Objectrole/Object")
+* [Submissions:AgentRole](../Submissions/AgentRole.md "Submissions:AgentRole")
+* [Submissions:AgentRole/Agent](../Submissions/AgentRole/Agent.md "Submissions:AgentRole/Agent")
+* [Submissions:CollectionEntity](../Submissions/CollectionEntity.md "Submissions:CollectionEntity")
+* [Submissions:CollectionEntity/Collection](../Submissions/CollectionEntity/Collection.md "Submissions:CollectionEntity/Collection")
+* [Submissions:CollectionEntity/Entity](../Submissions/CollectionEntity/Entity.md "Submissions:CollectionEntity/Entity")
+* [Submissions:PartOf](../Submissions/PartOf.md "Submissions:PartOf")
+* [Submissions:PartOf/Entity](../Submissions/PartOf/Entity.md "Submissions:PartOf/Entity")
+* [Submissions:Componency](../Submissions/Componency.md "Submissions:Componency")
+* [Submissions:Componency/Object](../Submissions/Componency/Object.md "Submissions:Componency/Object")
+* [Submissions:Constituency](../Submissions/Constituency.md "Submissions:Constituency")
+* [Submissions:Constituency/Entity](../Submissions/Constituency/Entity.md "Submissions:Constituency/Entity")
+* [Submissions:TimeIndexedPartOf](../Submissions/TimeIndexedPartOf.md "Submissions:TimeIndexedPartOf")
+* [Submissions:TimeIndexedPartOf/Object](../Submissions/TimeIndexedPartOf/Object.md "Submissions:TimeIndexedPartOf/Object")
+* [Submissions:TimeIndexedPartOf/TimeIndexedPartOf](../Submissions/TimeIndexedPartOf/TimeIndexedPartOf.md "Submissions:TimeIndexedPartOf/TimeIndexedPartOf")
+* [Submissions:TimeInterval](../Submissions/TimeInterval.md "Submissions:TimeInterval")
+* [Submissions:TimeInterval/TimeInterval](../Submissions/TimeInterval/TimeInterval.md "Submissions:TimeInterval/TimeInterval")
+* [Submissions:GO Top](../Submissions/GO_Top.md "Submissions:GO Top")
+* [Submissions:GO Top/CellularComponent](../Submissions/GO_Top/CellularComponent.md "Submissions:GO Top/CellularComponent")
+* [Submissions:GO Top/MolecularFunction](../Submissions/GO_Top/MolecularFunction.md "Submissions:GO Top/MolecularFunction")
+* [Submissions:GO Top/BiologicalProcess](../Submissions/GO_Top/BiologicalProcess.md "Submissions:GO Top/BiologicalProcess")
+* [Submissions:Biological Entities](../Submissions/Biological_Entities.md "Submissions:Biological Entities")
+* [Submissions:Biological Entities/family](../Submissions/Biological_Entities/family.md "Submissions:Biological Entities/family")
+* [Submissions:Biological Entities/group](../Submissions/Biological_Entities/group.md "Submissions:Biological Entities/group")
+* [Submissions:Biological Entities/order](../Submissions/Biological_Entities/order.md "Submissions:Biological Entities/order")
+* [Submissions:Biological Entities/species](../Submissions/Biological_Entities/species.md "Submissions:Biological Entities/species")
+* [Submissions:Invoice](../Submissions/Invoice.md "Submissions:Invoice")
+* [Submissions:Invoice/Buying](../Submissions/Invoice/Buying.md "Submissions:Invoice/Buying")
+* [Submissions:Invoice/Context](../Submissions/Invoice/Context.md "Submissions:Invoice/Context")
+* [Submissions:Invoice/CurrencyMeasure](../Submissions/Invoice/CurrencyMeasure.md "Submissions:Invoice/CurrencyMeasure")
+* [Submissions:Invoice/Grounding](../Submissions/Invoice/Grounding.md "Submissions:Invoice/Grounding")
+* [Submissions:Invoice/Invoice](../Submissions/Invoice/Invoice.md "Submissions:Invoice/Invoice")
+* [Submissions:Invoice/LineItem](Submissions%253AInvoice/LineItem.html "Submissions:Invoice/LineItem")
+* [Submissions:Invoice/Order](../Submissions/Invoice/Order.md "Submissions:Invoice/Order")
+* [Submissions:Invoice/Selling](../Submissions/Invoice/Selling.md "Submissions:Invoice/Selling")
+* [Submissions:Invoice/TransactionAmount](http://ontologydesignpatterns.org/wiki/Submissions:Invoice/TransactionAmount "Submissions:Invoice/TransactionAmount")
+* [Submissions:Participation](../Submissions/Participation.md "Submissions:Participation")
+* [Submissions:Participation/Object](../Submissions/Participation/Object.md "Submissions:Participation/Object")
+* [Submissions:Participation/Event](../Submissions/Participation/Event.md "Submissions:Participation/Event")
+* [Submissions:Nary Participation](../Submissions/Nary_Participation.md "Submissions:Nary Participation")
+* [Submissions:Nary Participation/NaryParticipation](../Submissions/Nary_Participation/NaryParticipation.md "Submissions:Nary Participation/NaryParticipation")
+* [Submissions:Role task](../Submissions/Role_task.md "Submissions:Role task")
+* [Submissions:Role task/Role](../Submissions/Role_task/Role.md "Submissions:Role task/Role")
+* [Submissions:Role task/Task](../Submissions/Role_task/Task.md "Submissions:Role task/Task")
+* [Submissions:TaskExecution](../Submissions/TaskExecution.md "Submissions:TaskExecution")
+* [Submissions:TaskExecution/Action](../Submissions/TaskExecution/Action.md "Submissions:TaskExecution/Action")
+* [Submissions:AquaticResources](../Submissions/AquaticResources.md "Submissions:AquaticResources")
+* [Submissions:AquaticResources/AquaticSpecies](../Submissions/AquaticResources/AquaticSpecies.md "Submissions:AquaticResources/AquaticSpecies")
+* [Submissions:AquaticResources/AquaticResource](../Submissions/AquaticResources/AquaticResource.md "Submissions:AquaticResources/AquaticResource")
+* [Submissions:AquaticResources/WaterArea](../Submissions/AquaticResources/WaterArea.md "Submissions:AquaticResources/WaterArea")
+* [Submissions:AquaticResourceObservation/AbundanceLevel](../Submissions/AquaticResourceObservation/AbundanceLevel.md "Submissions:AquaticResourceObservation/AbundanceLevel")
+* [Submissions:AquaticResourceObservation/AquaticResource](../Submissions/AquaticResourceObservation/AquaticResource.md "Submissions:AquaticResourceObservation/AquaticResource")
+* [Submissions:AquaticResourceObservation/ExploitationState](../Submissions/AquaticResourceObservation/ExploitationState.md "Submissions:AquaticResourceObservation/ExploitationState")
+* [Submissions:AquaticResourceObservation/ExploitationRate](../Submissions/AquaticResourceObservation/ExploitationRate.md "Submissions:AquaticResourceObservation/ExploitationRate")
+* [Submissions:AquaticResourceObservation/ClimaticZone](../Submissions/AquaticResourceObservation/ClimaticZone.md "Submissions:AquaticResourceObservation/ClimaticZone")
+* [Submissions:AquaticResourceObservation/JurisdictionalDistribution](../Submissions/AquaticResourceObservation/JurisdictionalDistribution.md "Submissions:AquaticResourceObservation/JurisdictionalDistribution")
+* [Submissions:AquaticResourceObservation/VerticalDistribution](../Submissions/AquaticResourceObservation/VerticalDistribution.md "Submissions:AquaticResourceObservation/VerticalDistribution")
+* [Submissions:AquaticResourceObservation/AquaticResourceObservation](../Submissions/AquaticResourceObservation/AquaticResourceObservation.md "Submissions:AquaticResourceObservation/AquaticResourceObservation")
+* [Submissions:GearSpecies](../Submissions/GearSpecies.md "Submissions:GearSpecies")
+* [Submissions:GearSpecies/AquaticSpecies](../Submissions/GearSpecies/AquaticSpecies.md "Submissions:GearSpecies/AquaticSpecies")
+* [Submissions:GearSpecies/GearType](../Submissions/GearSpecies/GearType.md "Submissions:GearSpecies/GearType")
+* [Submissions:GearVessel](../Submissions/GearVessel.md "Submissions:GearVessel")
+* [Submissions:GearVessel/VesselType](../Submissions/GearVessel/VesselType.md "Submissions:GearVessel/VesselType")
+* [Submissions:GearVessel/GearType](../Submissions/GearVessel/GearType.md "Submissions:GearVessel/GearType")
+* [Submissions:GearWaterArea](../Submissions/GearWaterArea.md "Submissions:GearWaterArea")
+* [Submissions:GearWaterArea/GearType](../Submissions/GearWaterArea/GearType.md "Submissions:GearWaterArea/GearType")
+* [Submissions:GearWaterArea/WaterArea](../Submissions/GearWaterArea/WaterArea.md "Submissions:GearWaterArea/WaterArea")
+* [Submissions:Observation](../Submissions/Observation.md "Submissions:Observation")
+* [Submissions:Observation/Parameter](../Submissions/Observation/Parameter.md "Submissions:Observation/Parameter")
+* [Submissions:Observation/Observation](../Submissions/Observation/Observation.md "Submissions:Observation/Observation")
+* [Submissions:RTMSmapping](../Submissions/RTMSmapping.md "Submissions:RTMSmapping")
+* [Submissions:RTMSmapping/RTMS Code](../Submissions/RTMSmapping/RTMS_Code.md "Submissions:RTMSmapping/RTMS Code")
+* [Submissions:SpeciesBathymetry](../Submissions/SpeciesBathymetry.md "Submissions:SpeciesBathymetry")
+* [Submissions:SpeciesBathymetry/BathymetricRange](../Submissions/SpeciesBathymetry/BathymetricRange.md "Submissions:SpeciesBathymetry/BathymetricRange")
+* [Submissions:SpeciesConditions](../Submissions/SpeciesConditions.md "Submissions:SpeciesConditions")
+* [Submissions:SpeciesConditions/Habitat](../Submissions/SpeciesConditions/Habitat.md "Submissions:SpeciesConditions/Habitat")
+* [Submissions:SpeciesConditions/SpeciesConditions](../Submissions/SpeciesConditions/SpeciesConditions.md "Submissions:SpeciesConditions/SpeciesConditions")
+* [Submissions:SpeciesConditions/AquaticSpecies](../Submissions/SpeciesConditions/AquaticSpecies.md "Submissions:SpeciesConditions/AquaticSpecies")
+* [Submissions:SpeciesConditions/BathymetricRange](../Submissions/SpeciesConditions/BathymetricRange.md "Submissions:SpeciesConditions/BathymetricRange")
+* [Submissions:SpeciesConditions/WaterArea](../Submissions/SpeciesConditions/WaterArea.md "Submissions:SpeciesConditions/WaterArea")
+* [Submissions:SpeciesConservation](../Submissions/SpeciesConservation.md "Submissions:SpeciesConservation")
+* [Submissions:SpeciesConservation/AquaticSpecies](../Submissions/SpeciesConservation/AquaticSpecies.md "Submissions:SpeciesConservation/AquaticSpecies")
+* [Submissions:SpeciesEat](../Submissions/SpeciesEat.md "Submissions:SpeciesEat")
+
+View [more links](http://ontologydesignpatterns.org/wiki/Special:WhatLinksHere/Image:Class.gif "Special:WhatLinksHere/Image:Class.gif") to this file.
+
+
+
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Image:Class.gif](../Image/Class.gif.md)"

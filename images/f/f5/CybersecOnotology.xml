@@ -1,0 +1,421 @@
+<?xml version="1.0"?>
+
+
+<!DOCTYPE rdf:RDF [
+    <!ENTITY owl "http://www.w3.org/2002/07/owl#" >
+    <!ENTITY xsd "http://www.w3.org/2001/XMLSchema#" >
+    <!ENTITY rdfs "http://www.w3.org/2000/01/rdf-schema#" >
+    <!ENTITY rdf "http://www.w3.org/1999/02/22-rdf-syntax-ns#" >
+]>
+
+
+<rdf:RDF xmlns="http://ontologies.inopus.de/cybersec/sebastian.jung/ontologies/2013/6/untitled-ontology-7#"
+     xml:base="http://ontologies.inopus.de/cybersec/sebastian.jung/ontologies/2013/6/untitled-ontology-7"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+    <owl:Ontology rdf:about="http://ontologies.inopus.de/cybersec/sebastian.jung/ontologies/2013/6/untitled-ontology-7"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://ontologies.inopus.de/cybersec/sebastian.jung/ontologies/2013/6/untitled-ontology-7#administer -->
+
+    <owl:ObjectProperty rdf:about="http://ontologies.inopus.de/cybersec/sebastian.jung/ontologies/2013/6/untitled-ontology-7#administer"/>
+    
+
+
+    <!-- http://ontologies.inopus.de/cybersec/sebastian.jung/ontologies/2013/6/untitled-ontology-7#administerComputer -->
+
+    <owl:ObjectProperty rdf:about="http://ontologies.inopus.de/cybersec/sebastian.jung/ontologies/2013/6/untitled-ontology-7#administerComputer">
+        <rdfs:subPropertyOf rdf:resource="http://ontologies.inopus.de/cybersec/sebastian.jung/ontologies/2013/6/untitled-ontology-7#administer"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/sebastian.jung/ontologies/2013/6/untitled-ontology-7#Computer"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/sebastian.jung/ontologies/2013/6/untitled-ontology-7#Person"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://ontologies.inopus.de/cybersec/sebastian.jung/ontologies/2013/6/untitled-ontology-7#connects -->
+
+    <owl:ObjectProperty rdf:about="http://ontologies.inopus.de/cybersec/sebastian.jung/ontologies/2013/6/untitled-ontology-7#connects">
+        <rdfs:range rdf:resource="http://ontologies.inopus.de/cybersec/sebastian.jung/ontologies/2013/6/untitled-ontology-7#Network"/>
+        <rdfs:domain rdf:resource="http://ontologies.inopus.de/cybersec/sebastian.jung/ontologies/2013/6/untitled-ontology-7#Network_Device"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://ontologies.inopus.de/cybersec/sebastian.jung/ontologies/2013/6/untitled-ontology-7#effects -->
+
+    <owl:ObjectProperty rdf:about="http://ontologies.inopus.de/cybersec/sebastian.jung/ontologies/2013/6/untitled-ontology-7#effects"/>
+    
+
+
+    <!-- http://ontologies.inopus.de/cybersec/sebastian.jung/ontologies/2013/6/untitled-ontology-7#isPartOf -->
+
+    <owl:ObjectProperty rdf:about="http://ontologies.inopus.de/cybersec/sebastian.jung/ontologies/2013/6/untitled-ontology-7#isPartOf">
+        <rdfs:domain rdf:resource="http://ontologies.inopus.de/cybersec/sebastian.jung/ontologies/2013/6/untitled-ontology-7#Network_Device"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/sebastian.jung/ontologies/2013/6/untitled-ontology-7#Computer"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://ontologies.inopus.de/cybersec/sebastian.jung/ontologies/2013/6/untitled-ontology-7#threatened -->
+
+    <owl:ObjectProperty rdf:about="http://ontologies.inopus.de/cybersec/sebastian.jung/ontologies/2013/6/untitled-ontology-7#threatened">
+        <rdfs:range rdf:resource="http://ontologies.inopus.de/cybersec/sebastian.jung/ontologies/2013/6/untitled-ontology-7#Hardware"/>
+        <rdfs:range rdf:resource="http://ontologies.inopus.de/cybersec/sebastian.jung/ontologies/2013/6/untitled-ontology-7#Infrastructure"/>
+        <rdfs:range rdf:resource="http://ontologies.inopus.de/cybersec/sebastian.jung/ontologies/2013/6/untitled-ontology-7#Software"/>
+        <rdfs:domain rdf:resource="http://ontologies.inopus.de/cybersec/sebastian.jung/ontologies/2013/6/untitled-ontology-7#Threat"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/sebastian.jung/ontologies/2013/6/untitled-ontology-7#owns -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/sebastian.jung/ontologies/2013/6/untitled-ontology-7#owns"/>
+    
+
+
+    <!-- http://www.semanticweb.org/sebastian.jung/ontologies/2013/6/untitled-ontology-7#ownsComputer -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/sebastian.jung/ontologies/2013/6/untitled-ontology-7#ownsComputer">
+        <rdfs:range rdf:resource="http://www.semanticweb.org/sebastian.jung/ontologies/2013/6/untitled-ontology-7#Computer"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/sebastian.jung/ontologies/2013/6/untitled-ontology-7#Person"/>
+        <rdfs:subPropertyOf rdf:resource="http://www.semanticweb.org/sebastian.jung/ontologies/2013/6/untitled-ontology-7#owns"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://ontologies.inopus.de/cybersec/sebastian.jung/ontologies/2013/6/untitled-ontology-7#Adware -->
+
+    <owl:Class rdf:about="http://ontologies.inopus.de/cybersec/sebastian.jung/ontologies/2013/6/untitled-ontology-7#Adware">
+        <owl:equivalentClass rdf:resource="http://ontologies.inopus.de/cybersec/sebastian.jung/ontologies/2013/6/untitled-ontology-7#Spyware"/>
+        <rdfs:subClassOf rdf:resource="http://ontologies.inopus.de/cybersec/sebastian.jung/ontologies/2013/6/untitled-ontology-7#Malware"/>
+    </owl:Class>
+    
+
+
+    <!-- http://ontologies.inopus.de/cybersec/sebastian.jung/ontologies/2013/6/untitled-ontology-7#Backdoor -->
+
+    <owl:Class rdf:about="http://ontologies.inopus.de/cybersec/sebastian.jung/ontologies/2013/6/untitled-ontology-7#Backdoor">
+        <rdfs:subClassOf rdf:resource="http://ontologies.inopus.de/cybersec/sebastian.jung/ontologies/2013/6/untitled-ontology-7#Malware"/>
+    </owl:Class>
+    
+
+
+    <!-- http://ontologies.inopus.de/cybersec/sebastian.jung/ontologies/2013/6/untitled-ontology-7#Botnet -->
+
+    <owl:Class rdf:about="http://ontologies.inopus.de/cybersec/sebastian.jung/ontologies/2013/6/untitled-ontology-7#Botnet">
+        <rdfs:subClassOf rdf:resource="http://ontologies.inopus.de/cybersec/sebastian.jung/ontologies/2013/6/untitled-ontology-7#Malware"/>
+    </owl:Class>
+    
+
+
+    <!-- http://ontologies.inopus.de/cybersec/sebastian.jung/ontologies/2013/6/untitled-ontology-7#Client -->
+
+    <owl:Class rdf:about="http://ontologies.inopus.de/cybersec/sebastian.jung/ontologies/2013/6/untitled-ontology-7#Client">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/sebastian.jung/ontologies/2013/6/untitled-ontology-7#Computer"/>
+    </owl:Class>
+    
+
+
+    <!-- http://ontologies.inopus.de/cybersec/sebastian.jung/ontologies/2013/6/untitled-ontology-7#Dependability_Failure -->
+
+    <owl:Class rdf:about="http://ontologies.inopus.de/cybersec/sebastian.jung/ontologies/2013/6/untitled-ontology-7#Dependability_Failure">
+        <rdfs:subClassOf rdf:resource="http://ontologies.inopus.de/cybersec/sebastian.jung/ontologies/2013/6/untitled-ontology-7#Failures"/>
+    </owl:Class>
+    
+
+
+    <!-- http://ontologies.inopus.de/cybersec/sebastian.jung/ontologies/2013/6/untitled-ontology-7#Development_Failure -->
+
+    <owl:Class rdf:about="http://ontologies.inopus.de/cybersec/sebastian.jung/ontologies/2013/6/untitled-ontology-7#Development_Failure">
+        <rdfs:subClassOf rdf:resource="http://ontologies.inopus.de/cybersec/sebastian.jung/ontologies/2013/6/untitled-ontology-7#Failures"/>
+    </owl:Class>
+    
+
+
+    <!-- http://ontologies.inopus.de/cybersec/sebastian.jung/ontologies/2013/6/untitled-ontology-7#Development_Fault -->
+
+    <owl:Class rdf:about="http://ontologies.inopus.de/cybersec/sebastian.jung/ontologies/2013/6/untitled-ontology-7#Development_Fault">
+        <rdfs:subClassOf rdf:resource="http://ontologies.inopus.de/cybersec/sebastian.jung/ontologies/2013/6/untitled-ontology-7#Faults"/>
+    </owl:Class>
+    
+
+
+    <!-- http://ontologies.inopus.de/cybersec/sebastian.jung/ontologies/2013/6/untitled-ontology-7#Dialer -->
+
+    <owl:Class rdf:about="http://ontologies.inopus.de/cybersec/sebastian.jung/ontologies/2013/6/untitled-ontology-7#Dialer">
+        <rdfs:subClassOf rdf:resource="http://ontologies.inopus.de/cybersec/sebastian.jung/ontologies/2013/6/untitled-ontology-7#Malware"/>
+    </owl:Class>
+    
+
+
+    <!-- http://ontologies.inopus.de/cybersec/sebastian.jung/ontologies/2013/6/untitled-ontology-7#Errors -->
+
+    <owl:Class rdf:about="http://ontologies.inopus.de/cybersec/sebastian.jung/ontologies/2013/6/untitled-ontology-7#Errors">
+        <rdfs:subClassOf rdf:resource="http://ontologies.inopus.de/cybersec/sebastian.jung/ontologies/2013/6/untitled-ontology-7#Threat"/>
+    </owl:Class>
+    
+
+
+    <!-- http://ontologies.inopus.de/cybersec/sebastian.jung/ontologies/2013/6/untitled-ontology-7#Failures -->
+
+    <owl:Class rdf:about="http://ontologies.inopus.de/cybersec/sebastian.jung/ontologies/2013/6/untitled-ontology-7#Failures">
+        <rdfs:subClassOf rdf:resource="http://ontologies.inopus.de/cybersec/sebastian.jung/ontologies/2013/6/untitled-ontology-7#Threat"/>
+    </owl:Class>
+    
+
+
+    <!-- http://ontologies.inopus.de/cybersec/sebastian.jung/ontologies/2013/6/untitled-ontology-7#Faults -->
+
+    <owl:Class rdf:about="http://ontologies.inopus.de/cybersec/sebastian.jung/ontologies/2013/6/untitled-ontology-7#Faults">
+        <rdfs:subClassOf rdf:resource="http://ontologies.inopus.de/cybersec/sebastian.jung/ontologies/2013/6/untitled-ontology-7#Threat"/>
+    </owl:Class>
+    
+
+
+    <!-- http://ontologies.inopus.de/cybersec/sebastian.jung/ontologies/2013/6/untitled-ontology-7#Hardware -->
+
+    <owl:Class rdf:about="http://ontologies.inopus.de/cybersec/sebastian.jung/ontologies/2013/6/untitled-ontology-7#Hardware"/>
+    
+
+
+    <!-- http://ontologies.inopus.de/cybersec/sebastian.jung/ontologies/2013/6/untitled-ontology-7#Infrastructure -->
+
+    <owl:Class rdf:about="http://ontologies.inopus.de/cybersec/sebastian.jung/ontologies/2013/6/untitled-ontology-7#Infrastructure">
+        <rdfs:subClassOf rdf:resource="http://ontologies.inopus.de/cybersec/sebastian.jung/ontologies/2013/6/untitled-ontology-7#Hardware"/>
+    </owl:Class>
+    
+
+
+    <!-- http://ontologies.inopus.de/cybersec/sebastian.jung/ontologies/2013/6/untitled-ontology-7#Interaction_Fault -->
+
+    <owl:Class rdf:about="http://ontologies.inopus.de/cybersec/sebastian.jung/ontologies/2013/6/untitled-ontology-7#Interaction_Fault">
+        <rdfs:subClassOf rdf:resource="http://ontologies.inopus.de/cybersec/sebastian.jung/ontologies/2013/6/untitled-ontology-7#Faults"/>
+    </owl:Class>
+    
+
+
+    <!-- http://ontologies.inopus.de/cybersec/sebastian.jung/ontologies/2013/6/untitled-ontology-7#Malware -->
+
+    <owl:Class rdf:about="http://ontologies.inopus.de/cybersec/sebastian.jung/ontologies/2013/6/untitled-ontology-7#Malware">
+        <rdfs:subClassOf rdf:resource="http://ontologies.inopus.de/cybersec/sebastian.jung/ontologies/2013/6/untitled-ontology-7#Software"/>
+    </owl:Class>
+    
+
+
+    <!-- http://ontologies.inopus.de/cybersec/sebastian.jung/ontologies/2013/6/untitled-ontology-7#Modem -->
+
+    <owl:Class rdf:about="http://ontologies.inopus.de/cybersec/sebastian.jung/ontologies/2013/6/untitled-ontology-7#Modem">
+        <rdfs:subClassOf rdf:resource="http://ontologies.inopus.de/cybersec/sebastian.jung/ontologies/2013/6/untitled-ontology-7#Network_Device"/>
+    </owl:Class>
+    
+
+
+    <!-- http://ontologies.inopus.de/cybersec/sebastian.jung/ontologies/2013/6/untitled-ontology-7#Network -->
+
+    <owl:Class rdf:about="http://ontologies.inopus.de/cybersec/sebastian.jung/ontologies/2013/6/untitled-ontology-7#Network">
+        <rdfs:subClassOf rdf:resource="http://ontologies.inopus.de/cybersec/sebastian.jung/ontologies/2013/6/untitled-ontology-7#Infrastructure"/>
+    </owl:Class>
+    
+
+
+    <!-- http://ontologies.inopus.de/cybersec/sebastian.jung/ontologies/2013/6/untitled-ontology-7#Network_Device -->
+
+    <owl:Class rdf:about="http://ontologies.inopus.de/cybersec/sebastian.jung/ontologies/2013/6/untitled-ontology-7#Network_Device">
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://ontologies.inopus.de/cybersec/sebastian.jung/ontologies/2013/6/untitled-ontology-7#isPartOf"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/sebastian.jung/ontologies/2013/6/untitled-ontology-7#Computer"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://ontologies.inopus.de/cybersec/sebastian.jung/ontologies/2013/6/untitled-ontology-7#connects"/>
+                <owl:someValuesFrom rdf:resource="http://ontologies.inopus.de/cybersec/sebastian.jung/ontologies/2013/6/untitled-ontology-7#Network"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://ontologies.inopus.de/cybersec/sebastian.jung/ontologies/2013/6/untitled-ontology-7#Infrastructure"/>
+    </owl:Class>
+    
+
+
+    <!-- http://ontologies.inopus.de/cybersec/sebastian.jung/ontologies/2013/6/untitled-ontology-7#Operating_System -->
+
+    <owl:Class rdf:about="http://ontologies.inopus.de/cybersec/sebastian.jung/ontologies/2013/6/untitled-ontology-7#Operating_System">
+        <rdfs:subClassOf rdf:resource="http://ontologies.inopus.de/cybersec/sebastian.jung/ontologies/2013/6/untitled-ontology-7#Software"/>
+    </owl:Class>
+    
+
+
+    <!-- http://ontologies.inopus.de/cybersec/sebastian.jung/ontologies/2013/6/untitled-ontology-7#Physical_Fault -->
+
+    <owl:Class rdf:about="http://ontologies.inopus.de/cybersec/sebastian.jung/ontologies/2013/6/untitled-ontology-7#Physical_Fault">
+        <rdfs:subClassOf rdf:resource="http://ontologies.inopus.de/cybersec/sebastian.jung/ontologies/2013/6/untitled-ontology-7#Faults"/>
+    </owl:Class>
+    
+
+
+    <!-- http://ontologies.inopus.de/cybersec/sebastian.jung/ontologies/2013/6/untitled-ontology-7#Ransomware -->
+
+    <owl:Class rdf:about="http://ontologies.inopus.de/cybersec/sebastian.jung/ontologies/2013/6/untitled-ontology-7#Ransomware">
+        <rdfs:subClassOf rdf:resource="http://ontologies.inopus.de/cybersec/sebastian.jung/ontologies/2013/6/untitled-ontology-7#Malware"/>
+    </owl:Class>
+    
+
+
+    <!-- http://ontologies.inopus.de/cybersec/sebastian.jung/ontologies/2013/6/untitled-ontology-7#Rogueware -->
+
+    <owl:Class rdf:about="http://ontologies.inopus.de/cybersec/sebastian.jung/ontologies/2013/6/untitled-ontology-7#Rogueware">
+        <rdfs:subClassOf rdf:resource="http://ontologies.inopus.de/cybersec/sebastian.jung/ontologies/2013/6/untitled-ontology-7#Malware"/>
+    </owl:Class>
+    
+
+
+    <!-- http://ontologies.inopus.de/cybersec/sebastian.jung/ontologies/2013/6/untitled-ontology-7#Router -->
+
+    <owl:Class rdf:about="http://ontologies.inopus.de/cybersec/sebastian.jung/ontologies/2013/6/untitled-ontology-7#Router">
+        <rdfs:subClassOf rdf:resource="http://ontologies.inopus.de/cybersec/sebastian.jung/ontologies/2013/6/untitled-ontology-7#Network_Device"/>
+    </owl:Class>
+    
+
+
+    <!-- http://ontologies.inopus.de/cybersec/sebastian.jung/ontologies/2013/6/untitled-ontology-7#Scareware -->
+
+    <owl:Class rdf:about="http://ontologies.inopus.de/cybersec/sebastian.jung/ontologies/2013/6/untitled-ontology-7#Scareware">
+        <rdfs:subClassOf rdf:resource="http://ontologies.inopus.de/cybersec/sebastian.jung/ontologies/2013/6/untitled-ontology-7#Malware"/>
+    </owl:Class>
+    
+
+
+    <!-- http://ontologies.inopus.de/cybersec/sebastian.jung/ontologies/2013/6/untitled-ontology-7#Service_Failure -->
+
+    <owl:Class rdf:about="http://ontologies.inopus.de/cybersec/sebastian.jung/ontologies/2013/6/untitled-ontology-7#Service_Failure">
+        <rdfs:subClassOf rdf:resource="http://ontologies.inopus.de/cybersec/sebastian.jung/ontologies/2013/6/untitled-ontology-7#Failures"/>
+    </owl:Class>
+    
+
+
+    <!-- http://ontologies.inopus.de/cybersec/sebastian.jung/ontologies/2013/6/untitled-ontology-7#Software -->
+
+    <owl:Class rdf:about="http://ontologies.inopus.de/cybersec/sebastian.jung/ontologies/2013/6/untitled-ontology-7#Software"/>
+    
+
+
+    <!-- http://ontologies.inopus.de/cybersec/sebastian.jung/ontologies/2013/6/untitled-ontology-7#Spyware -->
+
+    <owl:Class rdf:about="http://ontologies.inopus.de/cybersec/sebastian.jung/ontologies/2013/6/untitled-ontology-7#Spyware">
+        <rdfs:subClassOf rdf:resource="http://ontologies.inopus.de/cybersec/sebastian.jung/ontologies/2013/6/untitled-ontology-7#Malware"/>
+    </owl:Class>
+    
+
+
+    <!-- http://ontologies.inopus.de/cybersec/sebastian.jung/ontologies/2013/6/untitled-ontology-7#Switch -->
+
+    <owl:Class rdf:about="http://ontologies.inopus.de/cybersec/sebastian.jung/ontologies/2013/6/untitled-ontology-7#Switch">
+        <rdfs:subClassOf rdf:resource="http://ontologies.inopus.de/cybersec/sebastian.jung/ontologies/2013/6/untitled-ontology-7#Network_Device"/>
+    </owl:Class>
+    
+
+
+    <!-- http://ontologies.inopus.de/cybersec/sebastian.jung/ontologies/2013/6/untitled-ontology-7#Threat -->
+
+    <owl:Class rdf:about="http://ontologies.inopus.de/cybersec/sebastian.jung/ontologies/2013/6/untitled-ontology-7#Threat"/>
+    
+
+
+    <!-- http://ontologies.inopus.de/cybersec/sebastian.jung/ontologies/2013/6/untitled-ontology-7#Trojan_Horse -->
+
+    <owl:Class rdf:about="http://ontologies.inopus.de/cybersec/sebastian.jung/ontologies/2013/6/untitled-ontology-7#Trojan_Horse">
+        <rdfs:subClassOf rdf:resource="http://ontologies.inopus.de/cybersec/sebastian.jung/ontologies/2013/6/untitled-ontology-7#Malware"/>
+    </owl:Class>
+    
+
+
+    <!-- http://ontologies.inopus.de/cybersec/sebastian.jung/ontologies/2013/6/untitled-ontology-7#Virus -->
+
+    <owl:Class rdf:about="http://ontologies.inopus.de/cybersec/sebastian.jung/ontologies/2013/6/untitled-ontology-7#Virus">
+        <rdfs:subClassOf rdf:resource="http://ontologies.inopus.de/cybersec/sebastian.jung/ontologies/2013/6/untitled-ontology-7#Malware"/>
+    </owl:Class>
+    
+
+
+    <!-- http://ontologies.inopus.de/cybersec/sebastian.jung/ontologies/2013/6/untitled-ontology-7#Worm -->
+
+    <owl:Class rdf:about="http://ontologies.inopus.de/cybersec/sebastian.jung/ontologies/2013/6/untitled-ontology-7#Worm">
+        <rdfs:subClassOf rdf:resource="http://ontologies.inopus.de/cybersec/sebastian.jung/ontologies/2013/6/untitled-ontology-7#Malware"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/sebastian.jung/ontologies/2013/6/untitled-ontology-7#Admin -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/sebastian.jung/ontologies/2013/6/untitled-ontology-7#Admin">
+        <owl:equivalentClass rdf:resource="http://www.semanticweb.org/sebastian.jung/ontologies/2013/6/untitled-ontology-7#Administrator"/>
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/sebastian.jung/ontologies/2013/6/untitled-ontology-7#Person"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/sebastian.jung/ontologies/2013/6/untitled-ontology-7#Administrator -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/sebastian.jung/ontologies/2013/6/untitled-ontology-7#Administrator">
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://ontologies.inopus.de/cybersec/sebastian.jung/ontologies/2013/6/untitled-ontology-7#administerComputer"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/sebastian.jung/ontologies/2013/6/untitled-ontology-7#Computer"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/sebastian.jung/ontologies/2013/6/untitled-ontology-7#Person"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/sebastian.jung/ontologies/2013/6/untitled-ontology-7#Computer -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/sebastian.jung/ontologies/2013/6/untitled-ontology-7#Computer">
+        <rdfs:subClassOf rdf:resource="http://ontologies.inopus.de/cybersec/sebastian.jung/ontologies/2013/6/untitled-ontology-7#Hardware"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/sebastian.jung/ontologies/2013/6/untitled-ontology-7#Person -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/sebastian.jung/ontologies/2013/6/untitled-ontology-7#Person"/>
+    
+
+
+    <!-- http://www.semanticweb.org/sebastian.jung/ontologies/2013/6/untitled-ontology-7#Server -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/sebastian.jung/ontologies/2013/6/untitled-ontology-7#Server">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/sebastian.jung/ontologies/2013/6/untitled-ontology-7#Computer"/>
+    </owl:Class>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 3.4.2) http://owlapi.sourceforge.net -->
+
