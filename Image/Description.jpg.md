@@ -2,9 +2,9 @@
 * [File history](../Image/Description.jpg.md#filehistory)
 * [Links](../Image/Description.jpg.md#filelinks)
 
-[![Image:Description.jpg](../../../images/6/61/Description.jpg)](../../../images/6/61/Description.jpg)  
+[![Image:Description.jpg](../images/6/61/Description.jpg)](../images/6/61/Description.jpg)  
 No higher resolution available.  
-[Description.jpg](../../../images/6/61/Description.jpg)‎ (416 × 288 pixel, file size: 19 KB, MIME type: image/jpeg)
+[Description.jpg](../images/6/61/Description.jpg)‎ (416 × 288 pixel, file size: 19 KB, MIME type: image/jpeg)
 
 ## File history
 

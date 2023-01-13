@@ -33,28 +33,28 @@ _The __SmartHome Geometry__ Content OP locally defines the following ontology el
 
 
 
-[![ObjectProperty](../../../../../../../../../../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __eastOf__ (owl:ObjectProperty) 
- [![](../../../../../../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[eastOf](../Submissions/SmartHome_Geometry/eastOf.md "Submissions:SmartHome Geometry/eastOf") page_
-[![ObjectProperty](../../../../../../../../../../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __hasDirectionalRelation__ (owl:ObjectProperty) 
- [![](../../../../../../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[hasDirectionalRelation](../Submissions/SmartHome_Geometry/hasDirectionalRelation.md "Submissions:SmartHome Geometry/hasDirectionalRelation") page_
-[![ObjectProperty](../../../../../../../../../../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __hasSpatialRelation__ (owl:ObjectProperty) 
- [![](../../../../../../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[hasSpatialRelation](../Submissions/SmartHome_Geometry/hasSpatialRelation.md "Submissions:SmartHome Geometry/hasSpatialRelation") page_
-[![ObjectProperty](../../../../../../../../../../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __northEastOf__ (owl:ObjectProperty) 
- [![](../../../../../../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[northEastOf](../Submissions/SmartHome_Geometry/northEastOf.md "Submissions:SmartHome Geometry/northEastOf") page_
-[![ObjectProperty](../../../../../../../../../../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __northOf__ (owl:ObjectProperty) 
- [![](../../../../../../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[northOf](../Submissions/SmartHome_Geometry/northOf.md "Submissions:SmartHome Geometry/northOf") page_
-[![ObjectProperty](../../../../../../../../../../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __northWestOf__ (owl:ObjectProperty) 
- [![](../../../../../../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[northWestOf](../Submissions/SmartHome_Geometry/northWestOf.md "Submissions:SmartHome Geometry/northWestOf") page_
-[![ObjectProperty](../../../../../../../../../../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __southEastOf__ (owl:ObjectProperty) 
- [![](../../../../../../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[southEastOf](../Submissions/SmartHome_Geometry/southEastOf.md "Submissions:SmartHome Geometry/southEastOf") page_
-[![ObjectProperty](../../../../../../../../../../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __southOf__ (owl:ObjectProperty) 
- [![](../../../../../../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[southOf](../Submissions/SmartHome_Geometry/southOf.md "Submissions:SmartHome Geometry/southOf") page_
-[![ObjectProperty](../../../../../../../../../../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __southWestOf__ (owl:ObjectProperty) 
- [![](../../../../../../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[southWestOf](../Submissions/SmartHome_Geometry/southWestOf.md "Submissions:SmartHome Geometry/southWestOf") page_
-[![ObjectProperty](../../../../../../../../../../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __westOf__ (owl:ObjectProperty) 
- [![](../../../../../../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[westOf](../Submissions/SmartHome_Geometry/westOf.md "Submissions:SmartHome Geometry/westOf") page_
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __eastOf__ (owl:ObjectProperty) 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[eastOf](../Submissions/SmartHome_Geometry/eastOf.md "Submissions:SmartHome Geometry/eastOf") page_
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __hasDirectionalRelation__ (owl:ObjectProperty) 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[hasDirectionalRelation](../Submissions/SmartHome_Geometry/hasDirectionalRelation.md "Submissions:SmartHome Geometry/hasDirectionalRelation") page_
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __hasSpatialRelation__ (owl:ObjectProperty) 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[hasSpatialRelation](../Submissions/SmartHome_Geometry/hasSpatialRelation.md "Submissions:SmartHome Geometry/hasSpatialRelation") page_
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __northEastOf__ (owl:ObjectProperty) 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[northEastOf](../Submissions/SmartHome_Geometry/northEastOf.md "Submissions:SmartHome Geometry/northEastOf") page_
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __northOf__ (owl:ObjectProperty) 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[northOf](../Submissions/SmartHome_Geometry/northOf.md "Submissions:SmartHome Geometry/northOf") page_
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __northWestOf__ (owl:ObjectProperty) 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[northWestOf](../Submissions/SmartHome_Geometry/northWestOf.md "Submissions:SmartHome Geometry/northWestOf") page_
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __southEastOf__ (owl:ObjectProperty) 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[southEastOf](../Submissions/SmartHome_Geometry/southEastOf.md "Submissions:SmartHome Geometry/southEastOf") page_
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __southOf__ (owl:ObjectProperty) 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[southOf](../Submissions/SmartHome_Geometry/southOf.md "Submissions:SmartHome Geometry/southOf") page_
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __southWestOf__ (owl:ObjectProperty) 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[southWestOf](../Submissions/SmartHome_Geometry/southWestOf.md "Submissions:SmartHome Geometry/southWestOf") page_
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __westOf__ (owl:ObjectProperty) 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[westOf](../Submissions/SmartHome_Geometry/westOf.md "Submissions:SmartHome Geometry/westOf") page_
 [![Class](../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __SmartHomeGeoFeature__ (owl:Class) 
- [![](../../../../../../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[SmartHomeGeoFeature](../Submissions/SmartHome_Geometry/SmartHomeGeoFeature.md "Submissions:SmartHome Geometry/SmartHomeGeoFeature") page_
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[SmartHomeGeoFeature](../Submissions/SmartHome_Geometry/SmartHomeGeoFeature.md "Submissions:SmartHome Geometry/SmartHomeGeoFeature") page_
 #  Additional information
 
 

@@ -2,9 +2,9 @@
 * [File history](../Image/Scorepart_pattern.png.md#filehistory)
 * [Links](../Image/Scorepart_pattern.png.md#filelinks)
 
-[![Image:Scorepart pattern.png](../images/thumb/0/02/Scorepart_pattern.png/800px-Scorepart_pattern.png)](../../images/0/02/Scorepart_pattern.png)  
+[![Image:Scorepart pattern.png](../images/thumb/0/02/Scorepart_pattern.png/800px-Scorepart_pattern.png)](../images/0/02/Scorepart_pattern.png)  
 Size of this preview: 800 × 567 pixels  
-[Full resolution](../../images/0/02/Scorepart_pattern.png)‎ (823 × 583 pixel, file size: 39 KB, MIME type: image/png)
+[Full resolution](../images/0/02/Scorepart_pattern.png)‎ (823 × 583 pixel, file size: 39 KB, MIME type: image/png)
 
 ## File history
 

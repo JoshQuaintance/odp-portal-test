@@ -34,11 +34,11 @@ _The __SpeciesHabitat__ Content OP locally defines the following ontology elemen
 
 
 [![Class](../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __Habitat__ (owl:Class) Habitat is the biological and ecological context of a species in the area of an aquatic resource. 
- [![](../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[Habitat](../Submissions/SpeciesHabitat/Habitat.md "Submissions:SpeciesHabitat/Habitat") page_
-[![ObjectProperty](../../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __hasHabitat__ (owl:ObjectProperty) 
- [![](../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[hasHabitat](../Submissions/SpeciesHabitat/hasHabitat.md "Submissions:SpeciesHabitat/hasHabitat") page_
-[![ObjectProperty](../../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __isHabitatFor__ (owl:ObjectProperty) 
- [![](../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[isHabitatFor](../Submissions/SpeciesHabitat/isHabitatFor.md "Submissions:SpeciesHabitat/isHabitatFor") page_
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[Habitat](../Submissions/SpeciesHabitat/Habitat.md "Submissions:SpeciesHabitat/Habitat") page_
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __hasHabitat__ (owl:ObjectProperty) 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[hasHabitat](../Submissions/SpeciesHabitat/hasHabitat.md "Submissions:SpeciesHabitat/hasHabitat") page_
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __isHabitatFor__ (owl:ObjectProperty) 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[isHabitatFor](../Submissions/SpeciesHabitat/isHabitatFor.md "Submissions:SpeciesHabitat/isHabitatFor") page_
 #  Additional information
 
 

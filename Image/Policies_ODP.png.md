@@ -2,9 +2,9 @@
 * [File history](../Image/Policies_ODP.png.md#filehistory)
 * [Links](../Image/Policies_ODP.png.md#filelinks)
 
-[![Image:Policies ODP.png](../images/thumb/8/8b/Policies_ODP.png/800px-Policies_ODP.png)](../../images/8/8b/Policies_ODP.png)  
+[![Image:Policies ODP.png](../images/thumb/8/8b/Policies_ODP.png/800px-Policies_ODP.png)](../images/8/8b/Policies_ODP.png)  
 Size of this preview: 800 × 371 pixels  
-[Full resolution](../../images/8/8b/Policies_ODP.png)‎ (868 × 403 pixel, file size: 33 KB, MIME type: image/png)
+[Full resolution](../images/8/8b/Policies_ODP.png)‎ (868 × 403 pixel, file size: 33 KB, MIME type: image/png)
 
 ## File history
 

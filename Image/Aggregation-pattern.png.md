@@ -2,9 +2,9 @@
 * [File history](../Image/Aggregation-pattern.png.md#filehistory)
 * [Links](../Image/Aggregation-pattern.png.md#filelinks)
 
-[![Image:Aggregation-pattern.png](../images/thumb/4/46/Aggregation-pattern.png/800px-Aggregation-pattern.png)](../../images/4/46/Aggregation-pattern.png)  
+[![Image:Aggregation-pattern.png](../images/thumb/4/46/Aggregation-pattern.png/800px-Aggregation-pattern.png)](../images/4/46/Aggregation-pattern.png)  
 Size of this preview: 800 × 303 pixels  
-[Full resolution](../../images/4/46/Aggregation-pattern.png)‎ (1,087 × 412 pixel, file size: 80 KB, MIME type: image/png)
+[Full resolution](../images/4/46/Aggregation-pattern.png)‎ (1,087 × 412 pixel, file size: 80 KB, MIME type: image/png)
 
 ## File history
 

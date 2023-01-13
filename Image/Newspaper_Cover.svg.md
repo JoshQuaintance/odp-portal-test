@@ -2,9 +2,9 @@
 * [File history](../Image/Newspaper_Cover.svg.md#filehistory)
 * [Links](../Image/Newspaper_Cover.svg.md#filelinks)
 
-[![Image:Newspaper Cover.svg](../images/thumb/1/11/Newspaper_Cover.svg/120px-Newspaper_Cover.svg.png)](../../images/1/11/Newspaper_Cover.svg)  
+[![Image:Newspaper Cover.svg](../images/thumb/1/11/Newspaper_Cover.svg/120px-Newspaper_Cover.svg.png)](../images/1/11/Newspaper_Cover.svg)  
 
-[Newspaper\_Cover.svg](../../images/1/11/Newspaper_Cover.svg "Newspaper Cover.svg")‎  (SVG file, nominally 120 × 120 pixels, file size: 139 KB)
+[Newspaper\_Cover.svg](../images/1/11/Newspaper_Cover.svg "Newspaper Cover.svg")‎  (SVG file, nominally 120 × 120 pixels, file size: 139 KB)
 
 
 

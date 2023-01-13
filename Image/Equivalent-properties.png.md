@@ -2,9 +2,9 @@
 * [File history](../Image/Equivalent-properties.png.md#filehistory)
 * [Links](../Image/Equivalent-properties.png.md#filelinks)
 
-[![Image:Equivalent-properties.png](../../../images/a/ab/Equivalent-properties.png)](../../../images/a/ab/Equivalent-properties.png)  
+[![Image:Equivalent-properties.png](../images/a/ab/Equivalent-properties.png)](../images/a/ab/Equivalent-properties.png)  
 No higher resolution available.  
-[Equivalent-properties.png](../../../images/a/ab/Equivalent-properties.png)‎ (607 × 122 pixel, file size: 21 KB, MIME type: image/png)
+[Equivalent-properties.png](../images/a/ab/Equivalent-properties.png)‎ (607 × 122 pixel, file size: 21 KB, MIME type: image/png)
 
 ## File history
 

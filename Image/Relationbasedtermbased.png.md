@@ -2,9 +2,9 @@
 * [File history](../Image/Relationbasedtermbased.png.md#filehistory)
 * [Links](../Image/Relationbasedtermbased.png.md#filelinks)
 
-[![Image:Relationbasedtermbased.png](../../../images/c/c7/Relationbasedtermbased.png)](../../../images/c/c7/Relationbasedtermbased.png)  
+[![Image:Relationbasedtermbased.png](../images/c/c7/Relationbasedtermbased.png)](../images/c/c7/Relationbasedtermbased.png)  
 No higher resolution available.  
-[Relationbasedtermbased.png](../../../images/c/c7/Relationbasedtermbased.png)‎ (620 × 120 pixel, file size: 63 KB, MIME type: image/png)
+[Relationbasedtermbased.png](../images/c/c7/Relationbasedtermbased.png)‎ (620 × 120 pixel, file size: 63 KB, MIME type: image/png)
 
 ## File history
 

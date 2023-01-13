@@ -2,9 +2,9 @@
 * [File history](../Image/Codp.png.md#filehistory)
 * [Links](../Image/Codp.png.md#filelinks)
 
-[![Image:Codp.png](../images/thumb/2/2a/Codp.png/800px-Codp.png)](../../images/2/2a/Codp.png)  
+[![Image:Codp.png](../images/thumb/2/2a/Codp.png/800px-Codp.png)](../images/2/2a/Codp.png)  
 Size of this preview: 800 × 269 pixels  
-[Full resolution](../../images/2/2a/Codp.png)‎ (1,128 × 379 pixel, file size: 73 KB, MIME type: image/png)A visual summary of the Collections Ontology Design Pattern, extending a pre-existing design pattern.
+[Full resolution](../images/2/2a/Codp.png)‎ (1,128 × 379 pixel, file size: 73 KB, MIME type: image/png)A visual summary of the Collections Ontology Design Pattern, extending a pre-existing design pattern.
 
 
 

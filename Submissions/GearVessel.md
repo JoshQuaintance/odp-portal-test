@@ -28,22 +28,22 @@ _The __GearVessel__ Content OP locally defines the following ontology elements:_
 
 
 
-[![Class](../../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __VesselType__ (owl:Class) Vessel types are conceptual entities. 
+[![Class](../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __VesselType__ (owl:Class) Vessel types are conceptual entities. 
 Mappable to fi:VesseltypeRef 
 
 
 
- [![](../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[VesselType](../Submissions/GearVessel/VesselType.md "Submissions:GearVessel/VesselType") page_
-[![Class](../../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __GearType__ (owl:Class) Gear types are conceptual entities that are characterized together with AquaticSpecies that are either targeted or can be incidentally caught. 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[VesselType](../Submissions/GearVessel/VesselType.md "Submissions:GearVessel/VesselType") page_
+[![Class](../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __GearType__ (owl:Class) Gear types are conceptual entities that are characterized together with AquaticSpecies that are either targeted or can be incidentally caught. 
 Mappable to fi:GeartypeRef 
 
 
 
- [![](../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[GearType](../Submissions/GearVessel/GearType.md "Submissions:GearVessel/GearType") page_
-[![ObjectProperty](../../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __usesGearType__ (owl:ObjectProperty) 
- [![](../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[usesGearType](../Submissions/GearVessel/usesGearType.md "Submissions:GearVessel/usesGearType") page_
-[![ObjectProperty](../../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __usedByVesselType__ (owl:ObjectProperty) 
- [![](../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[usedByVesselType](../Submissions/GearVessel/usedByVesselType.md "Submissions:GearVessel/usedByVesselType") page_
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[GearType](../Submissions/GearVessel/GearType.md "Submissions:GearVessel/GearType") page_
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __usesGearType__ (owl:ObjectProperty) 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[usesGearType](../Submissions/GearVessel/usesGearType.md "Submissions:GearVessel/usesGearType") page_
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __usedByVesselType__ (owl:ObjectProperty) 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[usedByVesselType](../Submissions/GearVessel/usedByVesselType.md "Submissions:GearVessel/usedByVesselType") page_
 #  Additional information
 
 

@@ -2,9 +2,9 @@
 * [File history](../Image/Linnaentaxonomy.jpg.md#filehistory)
 * [Links](../Image/Linnaentaxonomy.jpg.md#filelinks)
 
-[![Image:Linnaentaxonomy.jpg](../images/thumb/0/0c/Linnaentaxonomy.jpg/800px-Linnaentaxonomy.jpg)](../../images/0/0c/Linnaentaxonomy.jpg)  
+[![Image:Linnaentaxonomy.jpg](../images/thumb/0/0c/Linnaentaxonomy.jpg/800px-Linnaentaxonomy.jpg)](../images/0/0c/Linnaentaxonomy.jpg)  
 Size of this preview: 800 × 408 pixels  
-[Full resolution](../../images/0/0c/Linnaentaxonomy.jpg)‎ (1,224 × 624 pixel, file size: 131 KB, MIME type: image/jpeg)
+[Full resolution](../images/0/0c/Linnaentaxonomy.jpg)‎ (1,224 × 624 pixel, file size: 131 KB, MIME type: image/jpeg)
 
 ## File history
 

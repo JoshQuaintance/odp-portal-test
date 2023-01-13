@@ -2,9 +2,9 @@
 * [File history](../Image/Descriptionandsituation.jpg.md#filehistory)
 * [Links](../Image/Descriptionandsituation.jpg.md#filelinks)
 
-[![Image:Descriptionandsituation.jpg](../../../images/f/f9/Descriptionandsituation.jpg)](../../../images/f/f9/Descriptionandsituation.jpg)  
+[![Image:Descriptionandsituation.jpg](../images/f/f9/Descriptionandsituation.jpg)](../images/f/f9/Descriptionandsituation.jpg)  
 No higher resolution available.  
-[Descriptionandsituation.jpg](../../../images/f/f9/Descriptionandsituation.jpg)‎ (624 × 272 pixel, file size: 37 KB, MIME type: image/jpeg)
+[Descriptionandsituation.jpg](../images/f/f9/Descriptionandsituation.jpg)‎ (624 × 272 pixel, file size: 37 KB, MIME type: image/jpeg)
 
 ## File history
 

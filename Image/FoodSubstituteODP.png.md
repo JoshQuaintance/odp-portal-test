@@ -2,9 +2,9 @@
 * [File history](../Image/FoodSubstituteODP.png.md#filehistory)
 * [Links](../Image/FoodSubstituteODP.png.md#filelinks)
 
-[![Image:FoodSubstituteODP.png](../images/thumb/e/e7/FoodSubstituteODP.png/800px-FoodSubstituteODP.png)](../../images/e/e7/FoodSubstituteODP.png)  
+[![Image:FoodSubstituteODP.png](../images/thumb/e/e7/FoodSubstituteODP.png/800px-FoodSubstituteODP.png)](../images/e/e7/FoodSubstituteODP.png)  
 Size of this preview: 800 × 465 pixels  
-[Full resolution](../../images/e/e7/FoodSubstituteODP.png)‎ (1,013 × 589 pixel, file size: 115 KB, MIME type: image/png)
+[Full resolution](../images/e/e7/FoodSubstituteODP.png)‎ (1,013 × 589 pixel, file size: 115 KB, MIME type: image/png)
 
 ## File history
 

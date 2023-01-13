@@ -33,36 +33,36 @@ _The __Reactor pattern__ Content OP locally defines the following ontology eleme
 
 
 
- [![ObjectProperty](../../../../../../../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __definesCondition__ (owl:ObjectProperty) 
- [![](../../../../../../../../../../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[definesCondition](../Submissions/Reactor_pattern/definesCondition.md "Submissions:Reactor pattern/definesCondition") page_
-[![ObjectProperty](../../../../../../../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __hasEnvironemntalCondition__ (owl:ObjectProperty) 
- [![](../../../../../../../../../../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[hasEnvironemntalCondition](../Submissions/Reactor_pattern/hasEnvironemntalCondition.md "Submissions:Reactor pattern/hasEnvironemntalCondition") page_
-[![ObjectProperty](../../../../../../../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __hasInputParameter__ (owl:ObjectProperty) 
- [![](../../../../../../../../../../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[hasInputParameter](../Submissions/Reactor_pattern/hasInputParameter.md "Submissions:Reactor pattern/hasInputParameter") page_
-[![ObjectProperty](../../../../../../../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __hasMeasurement__ (owl:ObjectProperty) 
- [![](../../../../../../../../../../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[hasMeasurement](../Submissions/Reactor_pattern/hasMeasurement.md "Submissions:Reactor pattern/hasMeasurement") page_
-[![ObjectProperty](../../../../../../../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __hasOutputParameter__ (owl:ObjectProperty) 
- [![](../../../../../../../../../../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[hasOutputParameter](../Submissions/Reactor_pattern/hasOutputParameter.md "Submissions:Reactor pattern/hasOutputParameter") page_
-[![ObjectProperty](../../../../../../../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __hasProcessParameter__ (owl:ObjectProperty) 
- [![](../../../../../../../../../../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[hasProcessParameter](../Submissions/Reactor_pattern/hasProcessParameter.md "Submissions:Reactor pattern/hasProcessParameter") page_
-[![ObjectProperty](../../../../../../../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __triggeredBy__ (owl:ObjectProperty) 
- [![](../../../../../../../../../../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[triggeredBy](../Submissions/Reactor_pattern/triggeredBy.md "Submissions:Reactor pattern/triggeredBy") page_
+ [![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __definesCondition__ (owl:ObjectProperty) 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[definesCondition](../Submissions/Reactor_pattern/definesCondition.md "Submissions:Reactor pattern/definesCondition") page_
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __hasEnvironemntalCondition__ (owl:ObjectProperty) 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[hasEnvironemntalCondition](../Submissions/Reactor_pattern/hasEnvironemntalCondition.md "Submissions:Reactor pattern/hasEnvironemntalCondition") page_
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __hasInputParameter__ (owl:ObjectProperty) 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[hasInputParameter](../Submissions/Reactor_pattern/hasInputParameter.md "Submissions:Reactor pattern/hasInputParameter") page_
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __hasMeasurement__ (owl:ObjectProperty) 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[hasMeasurement](../Submissions/Reactor_pattern/hasMeasurement.md "Submissions:Reactor pattern/hasMeasurement") page_
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __hasOutputParameter__ (owl:ObjectProperty) 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[hasOutputParameter](../Submissions/Reactor_pattern/hasOutputParameter.md "Submissions:Reactor pattern/hasOutputParameter") page_
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __hasProcessParameter__ (owl:ObjectProperty) 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[hasProcessParameter](../Submissions/Reactor_pattern/hasProcessParameter.md "Submissions:Reactor pattern/hasProcessParameter") page_
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __triggeredBy__ (owl:ObjectProperty) 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[triggeredBy](../Submissions/Reactor_pattern/triggeredBy.md "Submissions:Reactor pattern/triggeredBy") page_
 [![DatatypeProperty](../images/thumb/a/a5/DatatypeProperty.gif/20px-DatatypeProperty.gif)](../Image/DatatypeProperty.gif.md "DatatypeProperty") __hasDescription__ (owl:DatatypeProperty) 
- [![](../../../../../../../../../../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[hasDescription](../Submissions/Reactor_pattern/hasDescription.md "Submissions:Reactor pattern/hasDescription") page_
-[![Class](../../../../../../../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __EnvironmentalCondition__ (owl:Class) An entity that represents the environmental condition 
- [![](../../../../../../../../../../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[EnvironmentalCondition](../Submissions/Reactor_pattern/EnvironmentalCondition.md "Submissions:Reactor pattern/EnvironmentalCondition") page_
-[![Class](../../../../../../../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __Event__ (owl:Class) An entity representing the event that triggers the process 
- [![](../../../../../../../../../../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[Event](../Submissions/Reactor_pattern/Event.md "Submissions:Reactor pattern/Event") page_
-[![Class](../../../../../../../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __InputParameter__ (owl:Class) An entity representing the input to a process 
- [![](../../../../../../../../../../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[InputParameter](../Submissions/Reactor_pattern/InputParameter.md "Submissions:Reactor pattern/InputParameter") page_
-[![Class](../../../../../../../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __OutputParameter__ (owl:Class) An entity representing the output to a process 
- [![](../../../../../../../../../../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[OutputParameter](../Submissions/Reactor_pattern/OutputParameter.md "Submissions:Reactor pattern/OutputParameter") page_
-[![Class](../../../../../../../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __Process__ (owl:Class) An entity representing a placeholder for a process. 
- [![](../../../../../../../../../../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[Process](../Submissions/Reactor_pattern/Process.md "Submissions:Reactor pattern/Process") page_
-[![Class](../../../../../../../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __ProcessParameter__ (owl:Class) An overarching entity representing the parameters defined for the process 
- [![](../../../../../../../../../../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[ProcessParameter](../Submissions/Reactor_pattern/ProcessParameter.md "Submissions:Reactor pattern/ProcessParameter") page_
-[![Class](../../../../../../../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __ReactiveProcess__ (owl:Class) An entity representing a reactive process 
- [![](../../../../../../../../../../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[ReactiveProcess](../Submissions/Reactor_pattern/ReactiveProcess.md "Submissions:Reactor pattern/ReactiveProcess") page_
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[hasDescription](../Submissions/Reactor_pattern/hasDescription.md "Submissions:Reactor pattern/hasDescription") page_
+[![Class](../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __EnvironmentalCondition__ (owl:Class) An entity that represents the environmental condition 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[EnvironmentalCondition](../Submissions/Reactor_pattern/EnvironmentalCondition.md "Submissions:Reactor pattern/EnvironmentalCondition") page_
+[![Class](../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __Event__ (owl:Class) An entity representing the event that triggers the process 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[Event](../Submissions/Reactor_pattern/Event.md "Submissions:Reactor pattern/Event") page_
+[![Class](../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __InputParameter__ (owl:Class) An entity representing the input to a process 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[InputParameter](../Submissions/Reactor_pattern/InputParameter.md "Submissions:Reactor pattern/InputParameter") page_
+[![Class](../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __OutputParameter__ (owl:Class) An entity representing the output to a process 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[OutputParameter](../Submissions/Reactor_pattern/OutputParameter.md "Submissions:Reactor pattern/OutputParameter") page_
+[![Class](../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __Process__ (owl:Class) An entity representing a placeholder for a process. 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[Process](../Submissions/Reactor_pattern/Process.md "Submissions:Reactor pattern/Process") page_
+[![Class](../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __ProcessParameter__ (owl:Class) An overarching entity representing the parameters defined for the process 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[ProcessParameter](../Submissions/Reactor_pattern/ProcessParameter.md "Submissions:Reactor pattern/ProcessParameter") page_
+[![Class](../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __ReactiveProcess__ (owl:Class) An entity representing a reactive process 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[ReactiveProcess](../Submissions/Reactor_pattern/ReactiveProcess.md "Submissions:Reactor pattern/ReactiveProcess") page_
 #  Additional information
 
 

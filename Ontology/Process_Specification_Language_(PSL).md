@@ -111,5 +111,5 @@ Cheng, J., Gruninger, M., Sriram, R., and Law, K. (2003)[Process Specification L
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Ontology:Process\_Specification\_Language\_%28PSL%29](../Ontology/Process_Specification_Language_(PSL).md).html)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Ontology:Process\_Specification\_Language\_%28PSL%29](../Ontology/Process_Specification_Language_(PSL).md).md).html)"
  [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Ontology](../Category/Ontology.md "Category:Ontology")

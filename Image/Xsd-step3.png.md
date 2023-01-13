@@ -2,9 +2,9 @@
 * [File history](../Image/Xsd-step3.png.md#filehistory)
 * [Links](../Image/Xsd-step3.png.md#filelinks)
 
-[![Image:Xsd-step3.png](../images/thumb/3/35/Xsd-step3.png/800px-Xsd-step3.png)](../../images/3/35/Xsd-step3.png)  
+[![Image:Xsd-step3.png](../images/thumb/3/35/Xsd-step3.png/800px-Xsd-step3.png)](../images/3/35/Xsd-step3.png)  
 Size of this preview: 800 × 338 pixels  
-[Full resolution](../../images/3/35/Xsd-step3.png)‎ (1,195 × 505 pixel, file size: 15 KB, MIME type: image/png)
+[Full resolution](../images/3/35/Xsd-step3.png)‎ (1,195 × 505 pixel, file size: 15 KB, MIME type: image/png)
 
 ## File history
 

@@ -3,9 +3,9 @@
 * [Links](../Image/Set.jpg.md#filelinks)
 * [Metadata](../Image/Set.jpg.md#metadata)
 
-[![Image:Set.jpg](../../../images/1/15/Set.jpg)](../../../images/1/15/Set.jpg)  
+[![Image:Set.jpg](../images/1/15/Set.jpg)](../images/1/15/Set.jpg)  
 No higher resolution available.  
-[Set.jpg](../../../images/1/15/Set.jpg)‎ (356 × 261 pixel, file size: 41 KB, MIME type: image/jpeg)Illustration of set.owl
+[Set.jpg](../images/1/15/Set.jpg)‎ (356 × 261 pixel, file size: 41 KB, MIME type: image/jpeg)Illustration of set.owl
 
 
 

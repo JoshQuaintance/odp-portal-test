@@ -2,9 +2,9 @@
 * [File history](../Image/ODPEEP.jpg.md#filehistory)
 * [Links](../Image/ODPEEP.jpg.md#filelinks)
 
-[![Image:ODPEEP.jpg](../images/thumb/d/df/ODPEEP.jpg/800px-ODPEEP.jpg)](../../images/d/df/ODPEEP.jpg)  
+[![Image:ODPEEP.jpg](../images/thumb/d/df/ODPEEP.jpg/800px-ODPEEP.jpg)](../images/d/df/ODPEEP.jpg)  
 Size of this preview: 800 × 550 pixels  
-[Full resolution](../../images/d/df/ODPEEP.jpg)‎ (1,931 × 1,328 pixel, file size: 269 KB, MIME type: image/jpeg)EEP ODP Diagram
+[Full resolution](../images/d/df/ODPEEP.jpg)‎ (1,931 × 1,328 pixel, file size: 269 KB, MIME type: image/jpeg)EEP ODP Diagram
 
 
 

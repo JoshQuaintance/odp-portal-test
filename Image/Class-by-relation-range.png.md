@@ -2,9 +2,9 @@
 * [File history](../Image/Class-by-relation-range.png.md#filehistory)
 * [Links](../Image/Class-by-relation-range.png.md#filelinks)
 
-[![Image:Class-by-relation-range.png](../../../images/1/19/Class-by-relation-range.png)](../../../images/1/19/Class-by-relation-range.png)  
+[![Image:Class-by-relation-range.png](../images/1/19/Class-by-relation-range.png)](../images/1/19/Class-by-relation-range.png)  
 No higher resolution available.  
-[Class-by-relation-range.png](../../../images/1/19/Class-by-relation-range.png)‎ (656 × 245 pixel, file size: 27 KB, MIME type: image/png)
+[Class-by-relation-range.png](../images/1/19/Class-by-relation-range.png)‎ (656 × 245 pixel, file size: 27 KB, MIME type: image/png)
 
 ## File history
 

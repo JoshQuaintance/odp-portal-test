@@ -2,9 +2,9 @@
 * [File history](../Image/HDGI-pattern.jpg.md#filehistory)
 * [Links](../Image/HDGI-pattern.jpg.md#filelinks)
 
-[![Image:HDGI-pattern.jpg](../images/thumb/c/c9/HDGI-pattern.jpg/800px-HDGI-pattern.jpg)](../../images/c/c9/HDGI-pattern.jpg)  
+[![Image:HDGI-pattern.jpg](../images/thumb/c/c9/HDGI-pattern.jpg/800px-HDGI-pattern.jpg)](../images/c/c9/HDGI-pattern.jpg)  
 Size of this preview: 800 × 395 pixels  
-[Full resolution](../../images/c/c9/HDGI-pattern.jpg)‎ (2,219 × 1,095 pixel, file size: 273 KB, MIME type: image/jpeg)
+[Full resolution](../images/c/c9/HDGI-pattern.jpg)‎ (2,219 × 1,095 pixel, file size: 273 KB, MIME type: image/jpeg)
 
 ## File history
 

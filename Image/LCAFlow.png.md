@@ -2,9 +2,9 @@
 * [File history](../Image/LCAFlow.png.md#filehistory)
 * [Links](../Image/LCAFlow.png.md#filelinks)
 
-[![Image:LCAFlow.png](../images/thumb/4/4b/LCAFlow.png/800px-LCAFlow.png)](../../images/4/4b/LCAFlow.png)  
+[![Image:LCAFlow.png](../images/thumb/4/4b/LCAFlow.png/800px-LCAFlow.png)](../images/4/4b/LCAFlow.png)  
 Size of this preview: 800 × 348 pixels  
-[Full resolution](../../images/4/4b/LCAFlow.png)‎ (916 × 398 pixel, file size: 29 KB, MIME type: image/png)
+[Full resolution](../images/4/4b/LCAFlow.png)‎ (916 × 398 pixel, file size: 29 KB, MIME type: image/png)
 
 ## File history
 

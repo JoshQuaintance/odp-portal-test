@@ -2,9 +2,9 @@
 * [File history](../Image/FacetedClassificationSchemeGenericStructure.png.md#filehistory)
 * [Links](../Image/FacetedClassificationSchemeGenericStructure.png.md#filelinks)
 
-[![Image:FacetedClassificationSchemeGenericStructure.png](../../../images/2/22/FacetedClassificationSchemeGenericStructure.png)](../../../images/2/22/FacetedClassificationSchemeGenericStructure.png)  
+[![Image:FacetedClassificationSchemeGenericStructure.png](../images/2/22/FacetedClassificationSchemeGenericStructure.png)](../images/2/22/FacetedClassificationSchemeGenericStructure.png)  
 No higher resolution available.  
-[FacetedClassificationSchemeGenericStructure.png](../../../images/2/22/FacetedClassificationSchemeGenericStructure.png)‎ (266 × 152 pixel, file size: 10 KB, MIME type: image/png)Elements of the generic structure of an ontology model to represent a Faceted Classification Scheme using the Normalization ODP.
+[FacetedClassificationSchemeGenericStructure.png](../images/2/22/FacetedClassificationSchemeGenericStructure.png)‎ (266 × 152 pixel, file size: 10 KB, MIME type: image/png)Elements of the generic structure of an ontology model to represent a Faceted Classification Scheme using the Normalization ODP.
 
 
 

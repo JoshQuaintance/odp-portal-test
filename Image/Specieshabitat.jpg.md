@@ -2,9 +2,9 @@
 * [File history](../Image/Specieshabitat.jpg.md#filehistory)
 * [Links](../Image/Specieshabitat.jpg.md#filelinks)
 
-[![Image:Specieshabitat.jpg](../../../images/6/63/Specieshabitat.jpg)](../../../images/6/63/Specieshabitat.jpg)  
+[![Image:Specieshabitat.jpg](../images/6/63/Specieshabitat.jpg)](../images/6/63/Specieshabitat.jpg)  
 No higher resolution available.  
-[Specieshabitat.jpg](../../../images/6/63/Specieshabitat.jpg)‎ (473 × 225 pixel, file size: 48 KB, MIME type: image/jpeg)
+[Specieshabitat.jpg](../images/6/63/Specieshabitat.jpg)‎ (473 × 225 pixel, file size: 48 KB, MIME type: image/jpeg)
 
 ## File history
 

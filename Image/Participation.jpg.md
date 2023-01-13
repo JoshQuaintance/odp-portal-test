@@ -2,9 +2,9 @@
 * [File history](../Image/Participation.jpg.md#filehistory)
 * [Links](../Image/Participation.jpg.md#filelinks)
 
-[![Image:Participation.jpg](../../../images/8/86/Participation.jpg)](../../../images/8/86/Participation.jpg)  
+[![Image:Participation.jpg](../images/8/86/Participation.jpg)](../images/8/86/Participation.jpg)  
 No higher resolution available.  
-[Participation.jpg](../../../images/8/86/Participation.jpg)‎ (298 × 258 pixel, file size: 14 KB, MIME type: image/jpeg)
+[Participation.jpg](../images/8/86/Participation.jpg)‎ (298 × 258 pixel, file size: 14 KB, MIME type: image/jpeg)
 
 ## File history
 

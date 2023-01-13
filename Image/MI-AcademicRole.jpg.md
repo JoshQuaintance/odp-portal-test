@@ -2,9 +2,9 @@
 * [File history](../Image/MI-AcademicRole.jpg.md#filehistory)
 * [Links](../Image/MI-AcademicRole.jpg.md#filelinks)
 
-[![Image:MI-AcademicRole.jpg](../images/thumb/9/96/MI-AcademicRole.jpg/800px-MI-AcademicRole.jpg)](../../images/9/96/MI-AcademicRole.jpg)  
+[![Image:MI-AcademicRole.jpg](../images/thumb/9/96/MI-AcademicRole.jpg/800px-MI-AcademicRole.jpg)](../images/9/96/MI-AcademicRole.jpg)  
 Size of this preview: 800 × 423 pixels  
-[Full resolution](../../images/9/96/MI-AcademicRole.jpg)‎ (805 × 426 pixel, file size: 35 KB, MIME type: image/jpeg)UML Diagram for the Academic Role modeling issue.
+[Full resolution](../images/9/96/MI-AcademicRole.jpg)‎ (805 × 426 pixel, file size: 35 KB, MIME type: image/jpeg)UML Diagram for the Academic Role modeling issue.
 
 
 

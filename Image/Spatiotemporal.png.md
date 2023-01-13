@@ -2,9 +2,9 @@
 * [File history](../Image/Spatiotemporal.png.md#filehistory)
 * [Links](../Image/Spatiotemporal.png.md#filelinks)
 
-[![Image:Spatiotemporal.png](../../../images/0/02/Spatiotemporal.png)](../../../images/0/02/Spatiotemporal.png)  
+[![Image:Spatiotemporal.png](../images/0/02/Spatiotemporal.png)](../images/0/02/Spatiotemporal.png)  
 No higher resolution available.  
-[Spatiotemporal.png](../../../images/0/02/Spatiotemporal.png)‎ (540 × 413 pixel, file size: 23 KB, MIME type: image/png)
+[Spatiotemporal.png](../images/0/02/Spatiotemporal.png)‎ (540 × 413 pixel, file size: 23 KB, MIME type: image/png)
 
 ## File history
 

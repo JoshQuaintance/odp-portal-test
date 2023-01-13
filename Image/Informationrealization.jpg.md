@@ -2,9 +2,9 @@
 * [File history](../Image/Informationrealization.jpg.md#filehistory)
 * [Links](../Image/Informationrealization.jpg.md#filelinks)
 
-[![Image:Informationrealization.jpg](../../../images/7/7b/Informationrealization.jpg)](../../../images/7/7b/Informationrealization.jpg)  
+[![Image:Informationrealization.jpg](../images/7/7b/Informationrealization.jpg)](../images/7/7b/Informationrealization.jpg)  
 No higher resolution available.  
-[Informationrealization.jpg](../../../images/7/7b/Informationrealization.jpg)‎ (544 × 224 pixel, file size: 17 KB, MIME type: image/jpeg)
+[Informationrealization.jpg](../images/7/7b/Informationrealization.jpg)‎ (544 × 224 pixel, file size: 17 KB, MIME type: image/jpeg)
 
 ## File history
 

@@ -2,9 +2,9 @@
 * [File history](../Image/EventCore.png.md#filehistory)
 * [Links](../Image/EventCore.png.md#filelinks)
 
-[![Image:EventCore.png](../../../images/9/98/EventCore.png)](../../../images/9/98/EventCore.png)  
+[![Image:EventCore.png](../images/9/98/EventCore.png)](../images/9/98/EventCore.png)  
 No higher resolution available.  
-[EventCore.png](../../../images/9/98/EventCore.png)‎ (478 × 269 pixel, file size: 11 KB, MIME type: image/png)
+[EventCore.png](../images/9/98/EventCore.png)‎ (478 × 269 pixel, file size: 11 KB, MIME type: image/png)
 
 ## File history
 

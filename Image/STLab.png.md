@@ -2,9 +2,9 @@
 * [File history](../Image/STLab.png.md#filehistory)
 * [Links](../Image/STLab.png.md#filelinks)
 
-[![Image:STLab.png](../../../images/1/11/STLab.png)](../../../images/1/11/STLab.png)  
+[![Image:STLab.png](../images/1/11/STLab.png)](../images/1/11/STLab.png)  
 No higher resolution available.  
-[STLab.png](../../../images/1/11/STLab.png)‎ (648 × 121 pixel, file size: 26 KB, MIME type: image/png)
+[STLab.png](../images/1/11/STLab.png)‎ (648 × 121 pixel, file size: 26 KB, MIME type: image/png)
 
 ## File history
 

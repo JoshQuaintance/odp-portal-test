@@ -2,9 +2,9 @@
 * [File history](../Image/CaRePa_Ontology_image2.jpg.md#filehistory)
 * [Links](../Image/CaRePa_Ontology_image2.jpg.md#filelinks)
 
-[![Image:CaRePa Ontology image2.jpg](../images/thumb/a/a4/CaRePa_Ontology_image2.jpg/800px-CaRePa_Ontology_image2.jpg)](../../images/a/a4/CaRePa_Ontology_image2.jpg)  
+[![Image:CaRePa Ontology image2.jpg](../images/thumb/a/a4/CaRePa_Ontology_image2.jpg/800px-CaRePa_Ontology_image2.jpg)](../images/a/a4/CaRePa_Ontology_image2.jpg)  
 Size of this preview: 800 × 218 pixels  
-[Full resolution](../../images/a/a4/CaRePa_Ontology_image2.jpg)‎ (1,761 × 480 pixel, file size: 336 KB, MIME type: image/jpeg)This tree based image show the Context aware Requirement Pattern as ontology
+[Full resolution](../images/a/a4/CaRePa_Ontology_image2.jpg)‎ (1,761 × 480 pixel, file size: 336 KB, MIME type: image/jpeg)This tree based image show the Context aware Requirement Pattern as ontology
 
 
 

@@ -2,9 +2,9 @@
 * [File history](../Image/KarlHammar.jpg.md#filehistory)
 * [Links](../Image/KarlHammar.jpg.md#filelinks)
 
-[![Image:KarlHammar.jpg](../../../images/0/05/KarlHammar.jpg)](../../../images/0/05/KarlHammar.jpg)  
+[![Image:KarlHammar.jpg](../images/0/05/KarlHammar.jpg)](../images/0/05/KarlHammar.jpg)  
 No higher resolution available.  
-[KarlHammar.jpg](../../../images/0/05/KarlHammar.jpg)‎ (500 × 500 pixel, file size: 62 KB, MIME type: image/jpeg)
+[KarlHammar.jpg](../images/0/05/KarlHammar.jpg)‎ (500 × 500 pixel, file size: 62 KB, MIME type: image/jpeg)
 
 ## File history
 

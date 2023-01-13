@@ -2,9 +2,9 @@
 * [File history](../Image/DataTransformation.jpg.md#filehistory)
 * [Links](../Image/DataTransformation.jpg.md#filelinks)
 
-[![Image:DataTransformation.jpg](../images/thumb/d/d4/DataTransformation.jpg/800px-DataTransformation.jpg)](../../images/d/d4/DataTransformation.jpg)  
+[![Image:DataTransformation.jpg](../images/thumb/d/d4/DataTransformation.jpg/800px-DataTransformation.jpg)](../images/d/d4/DataTransformation.jpg)  
 Size of this preview: 800 × 216 pixels  
-[Full resolution](../../images/d/d4/DataTransformation.jpg)‎ (859 × 232 pixel, file size: 36 KB, MIME type: image/jpeg)
+[Full resolution](../images/d/d4/DataTransformation.jpg)‎ (859 × 232 pixel, file size: 36 KB, MIME type: image/jpeg)
 
 ## File history
 

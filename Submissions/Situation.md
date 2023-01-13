@@ -33,10 +33,10 @@ _The __Situation__ Content OP locally defines the following ontology elements:_
 
 
 
-[![ObjectProperty](../../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __hasSetting__ (owl:ObjectProperty) A relation between entities and situations, e.g. 'this morning I've prepared my coffee with a new fantastic Arabica' (i.e.: (an amount of) a new fantastic Arabica hasSetting the preparation of my coffee this morning). 
- [![](../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[hasSetting](../Submissions/Situation/hasSetting.md "Submissions:Situation/hasSetting") page_
-[![ObjectProperty](../../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __isSettingFor__ (owl:ObjectProperty) 
- [![](../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[isSettingFor](../Submissions/Situation/isSettingFor.md "Submissions:Situation/isSettingFor") page_
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __hasSetting__ (owl:ObjectProperty) A relation between entities and situations, e.g. 'this morning I've prepared my coffee with a new fantastic Arabica' (i.e.: (an amount of) a new fantastic Arabica hasSetting the preparation of my coffee this morning). 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[hasSetting](../Submissions/Situation/hasSetting.md "Submissions:Situation/hasSetting") page_
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __isSettingFor__ (owl:ObjectProperty) 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[isSettingFor](../Submissions/Situation/isSettingFor.md "Submissions:Situation/isSettingFor") page_
 [![Class](../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __Situation__ (owl:Class) A view on a set of entities. It can be seen as a 'relational context', reifying a relation.
 For example, a PlanExecution is a context including some actions executed by agents according to certain parameters and expected tasks to be achieved from a Plan; a DiagnosedSituation is a context of observed entities that is interpreted on the basis of a Diagnosis, etc.
 
@@ -51,7 +51,7 @@ Situation is also able to represent reified n-ary relations, where isSettingFor 
 
 
 
- [![](../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[Situation](../Submissions/Situation/Situation.md "Submissions:Situation/Situation") page_
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[Situation](../Submissions/Situation/Situation.md "Submissions:Situation/Situation") page_
 #  Additional information
 
 

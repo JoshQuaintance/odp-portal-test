@@ -2,9 +2,9 @@
 * [File history](../Image/TimeIndexedSituation.png.md#filehistory)
 * [Links](../Image/TimeIndexedSituation.png.md#filelinks)
 
-[![Image:TimeIndexedSituation.png](../../../images/e/e7/TimeIndexedSituation.png)](../../../images/e/e7/TimeIndexedSituation.png)  
+[![Image:TimeIndexedSituation.png](../images/e/e7/TimeIndexedSituation.png)](../images/e/e7/TimeIndexedSituation.png)  
 No higher resolution available.  
-[TimeIndexedSituation.png](../../../images/e/e7/TimeIndexedSituation.png)‎ (303 × 226 pixel, file size: 11 KB, MIME type: image/png)
+[TimeIndexedSituation.png](../images/e/e7/TimeIndexedSituation.png)‎ (303 × 226 pixel, file size: 11 KB, MIME type: image/png)
 
 ## File history
 

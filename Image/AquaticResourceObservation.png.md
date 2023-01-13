@@ -2,9 +2,9 @@
 * [File history](../Image/AquaticResourceObservation.png.md#filehistory)
 * [Links](../Image/AquaticResourceObservation.png.md#filelinks)
 
-[![Image:AquaticResourceObservation.png](../../../images/0/0a/AquaticResourceObservation.png)](../../../images/0/0a/AquaticResourceObservation.png)  
+[![Image:AquaticResourceObservation.png](../images/0/0a/AquaticResourceObservation.png)](../images/0/0a/AquaticResourceObservation.png)  
 No higher resolution available.  
-[AquaticResourceObservation.png](../../../images/0/0a/AquaticResourceObservation.png)‎ (491 × 423 pixel, file size: 54 KB, MIME type: image/png)
+[AquaticResourceObservation.png](../images/0/0a/AquaticResourceObservation.png)‎ (491 × 423 pixel, file size: 54 KB, MIME type: image/png)
 
 ## File history
 

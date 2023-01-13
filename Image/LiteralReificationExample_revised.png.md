@@ -2,9 +2,9 @@
 * [File history](../Image/LiteralReificationExample_revised.png.md#filehistory)
 * [Links](../Image/LiteralReificationExample_revised.png.md#filelinks)
 
-[![Image:LiteralReificationExample revised.png](../images/thumb/6/68/LiteralReificationExample_revised.png/627px-LiteralReificationExample_revised.png)](../../images/6/68/LiteralReificationExample_revised.png)  
+[![Image:LiteralReificationExample revised.png](../images/thumb/6/68/LiteralReificationExample_revised.png/627px-LiteralReificationExample_revised.png)](../images/6/68/LiteralReificationExample_revised.png)  
 Size of this preview: 627 × 600 pixels  
-[Full resolution](../../images/6/68/LiteralReificationExample_revised.png)‎ (685 × 655 pixel, file size: 47 KB, MIME type: image/png)
+[Full resolution](../images/6/68/LiteralReificationExample_revised.png)‎ (685 × 655 pixel, file size: 47 KB, MIME type: image/png)
 
 ## File history
 

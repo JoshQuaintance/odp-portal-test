@@ -2,9 +2,9 @@
 * [File history](../Image/RelationbasedtermbasedOntology.png.md#filehistory)
 * [Links](../Image/RelationbasedtermbasedOntology.png.md#filelinks)
 
-[![Image:RelationbasedtermbasedOntology.png](../../../images/e/ee/RelationbasedtermbasedOntology.png)](../../../images/e/ee/RelationbasedtermbasedOntology.png)  
+[![Image:RelationbasedtermbasedOntology.png](../images/e/ee/RelationbasedtermbasedOntology.png)](../images/e/ee/RelationbasedtermbasedOntology.png)  
 No higher resolution available.  
-[RelationbasedtermbasedOntology.png](../../../images/e/ee/RelationbasedtermbasedOntology.png)‎ (417 × 141 pixel, file size: 33 KB, MIME type: image/png)
+[RelationbasedtermbasedOntology.png](../images/e/ee/RelationbasedtermbasedOntology.png)‎ (417 × 141 pixel, file size: 33 KB, MIME type: image/png)
 
 ## File history
 

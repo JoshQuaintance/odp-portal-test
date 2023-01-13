@@ -2,9 +2,9 @@
 * [File history](../Image/Class-by-attribute-value.png.md#filehistory)
 * [Links](../Image/Class-by-attribute-value.png.md#filelinks)
 
-[![Image:Class-by-attribute-value.png](../../../images/f/fa/Class-by-attribute-value.png)](../../../images/f/fa/Class-by-attribute-value.png)  
+[![Image:Class-by-attribute-value.png](../images/f/fa/Class-by-attribute-value.png)](../images/f/fa/Class-by-attribute-value.png)  
 No higher resolution available.  
-[Class-by-attribute-value.png](../../../images/f/fa/Class-by-attribute-value.png)‎ (548 × 229 pixel, file size: 27 KB, MIME type: image/png)
+[Class-by-attribute-value.png](../images/f/fa/Class-by-attribute-value.png)‎ (548 × 229 pixel, file size: 27 KB, MIME type: image/png)
 
 ## File history
 

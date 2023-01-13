@@ -2,9 +2,9 @@
 * [File history](../Image/Timeindexedpartof.jpg.md#filehistory)
 * [Links](../Image/Timeindexedpartof.jpg.md#filelinks)
 
-[![Image:Timeindexedpartof.jpg](../../../images/c/c0/Timeindexedpartof.jpg)](../../../images/c/c0/Timeindexedpartof.jpg)  
+[![Image:Timeindexedpartof.jpg](../images/c/c0/Timeindexedpartof.jpg)](../images/c/c0/Timeindexedpartof.jpg)  
 No higher resolution available.  
-[Timeindexedpartof.jpg](../../../images/c/c0/Timeindexedpartof.jpg)‎ (665 × 337 pixel, file size: 45 KB, MIME type: image/jpeg)
+[Timeindexedpartof.jpg](../images/c/c0/Timeindexedpartof.jpg)‎ (665 × 337 pixel, file size: 45 KB, MIME type: image/jpeg)
 
 ## File history
 

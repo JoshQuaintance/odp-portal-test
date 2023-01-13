@@ -48,11 +48,11 @@ __Solutions__:
 
 
 
-* [Instance-free sentences](../../../Training/Extreme_Design_(XD)/_Pattern-based_Ontology_Design/XD_Hands-on/InstanceFree.md "Training:EXtreme Design (XD): Pattern-based Ontology Design/XD Hands-on:InstanceFree")
-* [Competency Questions](../../../Training/Extreme_Design_(XD)/_Pattern-based_Ontology_Design/XD_Hands-on/CQs.md "Training:EXtreme Design (XD): Pattern-based Ontology Design/XD Hands-on:CQs")
+* [Instance-free sentences](../../../Training/Extreme_Design_(XD)/_Pattern-based_Ontology_Design.md)/_Pattern-based_Ontology_Design.md)/_Pattern-based_Ontology_Design.md)/_Pattern-based_Ontology_Design/XD_Hands-on/InstanceFree.md "Training:EXtreme Design (XD): Pattern-based Ontology Design/XD Hands-on:InstanceFree")
+* [Competency Questions](../../../Training/Extreme_Design_(XD)/_Pattern-based_Ontology_Design.md)/_Pattern-based_Ontology_Design.md)/_Pattern-based_Ontology_Design.md)/_Pattern-based_Ontology_Design/XD_Hands-on/CQs.md "Training:EXtreme Design (XD): Pattern-based Ontology Design/XD Hands-on:CQs")
 
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Training:EXtreme\_Design\_%28XD%29:\_Pattern-based\_Ontology\_Design/XD\_Hands-on](../../../Training/Extreme_Design_(XD)/_Pattern-based_Ontology_Design/XD_Hands-on.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Training:EXtreme\_Design\_%28XD%29:\_Pattern-based\_Ontology\_Design/XD\_Hands-on](../../../Training/Extreme_Design_(XD)/_Pattern-based_Ontology_Design.md)/_Pattern-based_Ontology_Design.md)/_Pattern-based_Ontology_Design.md)/_Pattern-based_Ontology_Design/XD_Hands-on.md)"
  [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Exercise](../../../Category/Exercise.md "Category:Exercise")

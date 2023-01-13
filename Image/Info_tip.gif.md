@@ -2,9 +2,9 @@
 * [File history](../Image/Info_tip.gif.md#filehistory)
 * [Links](../Image/Info_tip.gif.md#filelinks)
 
-[![Image:Info tip.gif](../../../images/a/a4/Info_tip.gif)](../../../images/a/a4/Info_tip.gif)  
+[![Image:Info tip.gif](../images/a/a4/Info_tip.gif)](../images/a/a4/Info_tip.gif)  
 No higher resolution available.  
-[Info\_tip.gif](../../../images/a/a4/Info_tip.gif)‎ (64 × 64 pixel, file size: 3 KB, MIME type: image/gif)
+[Info\_tip.gif](../images/a/a4/Info_tip.gif)‎ (64 × 64 pixel, file size: 3 KB, MIME type: image/gif)
 
 ## File history
 
@@ -23,7 +23,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following 42 pages link to this file:
 
 
-* [Ontology Design Patterns . org (ODP)](../Ontology_Design_Patterns_._org_(ODP).md).html "Ontology Design Patterns . org (ODP)")
+* [Ontology Design Patterns . org (ODP)](../Ontology_Design_Patterns_._org_(ODP).md).md).html "Ontology Design Patterns . org (ODP)")
 * [Reviews:PostReview](../Reviews/PostReview.md "Reviews:PostReview")
 * [Community:PostModelingIssue](../Community/PostModelingIssue.md "Community:PostModelingIssue")
 * [Form:Modeling Issue Form](../Form/Modeling_Issue_Form.md "Form:Modeling Issue Form")

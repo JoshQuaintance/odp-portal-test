@@ -2,9 +2,9 @@
 * [File history](../Image/HasSymptoms.JPG.md#filehistory)
 * [Links](../Image/HasSymptoms.JPG.md#filelinks)
 
-[![Image:HasSymptoms.JPG](../images/thumb/7/75/HasSymptoms.JPG/800px-HasSymptoms.JPG)](../../images/7/75/HasSymptoms.JPG)  
+[![Image:HasSymptoms.JPG](../images/thumb/7/75/HasSymptoms.JPG/800px-HasSymptoms.JPG)](../images/7/75/HasSymptoms.JPG)  
 Size of this preview: 800 × 514 pixels  
-[Full resolution](../../images/7/75/HasSymptoms.JPG)‎ (844 × 542 pixel, file size: 94 KB, MIME type: image/jpeg)Image of the hasSymptoms objectProperty as implemented in the AOS initiative (in aos.owl) visualized with the Neon Toolkit.
+[Full resolution](../images/7/75/HasSymptoms.JPG)‎ (844 × 542 pixel, file size: 94 KB, MIME type: image/jpeg)Image of the hasSymptoms objectProperty as implemented in the AOS initiative (in aos.owl) visualized with the Neon Toolkit.
 
 
 

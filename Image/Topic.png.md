@@ -2,9 +2,9 @@
 * [File history](../Image/Topic.png.md#filehistory)
 * [Links](../Image/Topic.png.md#filelinks)
 
-[![Image:Topic.png](../../../images/a/a8/Topic.png)](../../../images/a/a8/Topic.png)  
+[![Image:Topic.png](../images/a/a8/Topic.png)](../images/a/a8/Topic.png)  
 No higher resolution available.  
-[Topic.png](../../../images/a/a8/Topic.png)‎ (297 × 177 pixel, file size: 15 KB, MIME type: image/png)
+[Topic.png](../images/a/a8/Topic.png)‎ (297 × 177 pixel, file size: 15 KB, MIME type: image/png)
 
 ## File history
 

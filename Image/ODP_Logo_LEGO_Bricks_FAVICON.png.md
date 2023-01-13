@@ -2,9 +2,9 @@
 * [File history](../Image/ODP_Logo_LEGO_Bricks_FAVICON.png.md#filehistory)
 * [Links](../Image/ODP_Logo_LEGO_Bricks_FAVICON.png.md#filelinks)
 
-[![Image:ODP Logo LEGO Bricks FAVICON.png](../../../images/4/4e/ODP_Logo_LEGO_Bricks_FAVICON.png)](../../../images/4/4e/ODP_Logo_LEGO_Bricks_FAVICON.png)  
+[![Image:ODP Logo LEGO Bricks FAVICON.png](../images/4/4e/ODP_Logo_LEGO_Bricks_FAVICON.png)](../images/4/4e/ODP_Logo_LEGO_Bricks_FAVICON.png)  
 No higher resolution available.  
-[ODP\_Logo\_LEGO\_Bricks\_FAVICON.png](../../../images/4/4e/ODP_Logo_LEGO_Bricks_FAVICON.png)‎ (16 × 14 pixel, file size: 483 B, MIME type: image/png)Very smal sized (16x14px) version, useful for site favicon
+[ODP\_Logo\_LEGO\_Bricks\_FAVICON.png](../images/4/4e/ODP_Logo_LEGO_Bricks_FAVICON.png)‎ (16 × 14 pixel, file size: 483 B, MIME type: image/png)Very smal sized (16x14px) version, useful for site favicon
 
 
 

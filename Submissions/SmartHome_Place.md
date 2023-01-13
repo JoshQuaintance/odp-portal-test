@@ -28,10 +28,10 @@ _The __SmartHome Place__ Content OP locally defines the following ontology eleme
 
 
 
-[![Class](../../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __SmartHome__ (owl:Class) 
- [![](../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[SmartHome](../Submissions/SmartHome_Place/SmartHome.md "Submissions:SmartHome Place/SmartHome") page_
-[![Class](../../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __SmartHomeSection__ (owl:Class) Sections belonging to a SmartHome 
- [![](../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[SmartHomeSection](../Submissions/SmartHome_Place/SmartHomeSection.md "Submissions:SmartHome Place/SmartHomeSection") page_
+[![Class](../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __SmartHome__ (owl:Class) 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[SmartHome](../Submissions/SmartHome_Place/SmartHome.md "Submissions:SmartHome Place/SmartHome") page_
+[![Class](../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __SmartHomeSection__ (owl:Class) Sections belonging to a SmartHome 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[SmartHomeSection](../Submissions/SmartHome_Place/SmartHomeSection.md "Submissions:SmartHome Place/SmartHomeSection") page_
 #  Additional information
 
 

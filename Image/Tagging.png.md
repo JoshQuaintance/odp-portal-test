@@ -2,9 +2,9 @@
 * [File history](../Image/Tagging.png.md#filehistory)
 * [Links](../Image/Tagging.png.md#filelinks)
 
-[![Image:Tagging.png](../../../images/0/00/Tagging.png)](../../../images/0/00/Tagging.png)  
+[![Image:Tagging.png](../images/0/00/Tagging.png)](../images/0/00/Tagging.png)  
 No higher resolution available.  
-[Tagging.png](../../../images/0/00/Tagging.png)‎ (339 × 304 pixel, file size: 18 KB, MIME type: image/png)
+[Tagging.png](../images/0/00/Tagging.png)‎ (339 × 304 pixel, file size: 18 KB, MIME type: image/png)
 
 ## File history
 

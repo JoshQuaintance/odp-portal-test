@@ -28,7 +28,7 @@ __Is expert of:__
 
 
 
-* [Internet of Things (IoT)](../Community/Internet_of_Things_(IoT).md).html "Community:Internet of Things (IoT)")
+* [Internet of Things (IoT)](../Community/Internet_of_Things_(IoT).md).md).html "Community:Internet of Things (IoT)")
 * [Interoperability](../Community/Interoperability.md "Community:Interoperability")
 
 

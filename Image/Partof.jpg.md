@@ -2,9 +2,9 @@
 * [File history](../Image/Partof.jpg.md#filehistory)
 * [Links](../Image/Partof.jpg.md#filelinks)
 
-[![Image:Partof.jpg](../../../images/b/b4/Partof.jpg)](../../../images/b/b4/Partof.jpg)  
+[![Image:Partof.jpg](../images/b/b4/Partof.jpg)](../images/b/b4/Partof.jpg)  
 No higher resolution available.  
-[Partof.jpg](../../../images/b/b4/Partof.jpg)‎ (160 × 96 pixel, file size: 4 KB, MIME type: image/jpeg)
+[Partof.jpg](../images/b/b4/Partof.jpg)‎ (160 × 96 pixel, file size: 4 KB, MIME type: image/jpeg)
 
 ## File history
 

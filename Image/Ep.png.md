@@ -2,9 +2,9 @@
 * [File history](../Image/Ep.png.md#filehistory)
 * [Links](../Image/Ep.png.md#filelinks)
 
-[![Image:Ep.png](../images/thumb/2/20/Ep.png/800px-Ep.png)](../../images/2/20/Ep.png)  
+[![Image:Ep.png](../images/thumb/2/20/Ep.png/800px-Ep.png)](../images/2/20/Ep.png)  
 Size of this preview: 800 × 464 pixels  
-[Full resolution](../../images/2/20/Ep.png)‎ (1,168 × 678 pixel, file size: 153 KB, MIME type: image/png)EventProcessing ODP, core part
+[Full resolution](../images/2/20/Ep.png)‎ (1,168 × 678 pixel, file size: 153 KB, MIME type: image/png)EventProcessing ODP, core part
 
 
 

@@ -2,9 +2,9 @@
 * [File history](../Image/Specieseat.jpg.md#filehistory)
 * [Links](../Image/Specieseat.jpg.md#filelinks)
 
-[![Image:Specieseat.jpg](../../../images/1/13/Specieseat.jpg)](../../../images/1/13/Specieseat.jpg)  
+[![Image:Specieseat.jpg](../images/1/13/Specieseat.jpg)](../images/1/13/Specieseat.jpg)  
 No higher resolution available.  
-[Specieseat.jpg](../../../images/1/13/Specieseat.jpg)‎ (464 × 169 pixel, file size: 39 KB, MIME type: image/jpeg)
+[Specieseat.jpg](../images/1/13/Specieseat.jpg)‎ (464 × 169 pixel, file size: 39 KB, MIME type: image/jpeg)
 
 ## File history
 

@@ -2,9 +2,9 @@
 * [File history](../Image/Biologicalentities.jpg.md#filehistory)
 * [Links](../Image/Biologicalentities.jpg.md#filelinks)
 
-[![Image:Biologicalentities.jpg](../../../images/3/34/Biologicalentities.jpg)](../../../images/3/34/Biologicalentities.jpg)  
+[![Image:Biologicalentities.jpg](../images/3/34/Biologicalentities.jpg)](../images/3/34/Biologicalentities.jpg)  
 No higher resolution available.  
-[Biologicalentities.jpg](../../../images/3/34/Biologicalentities.jpg)‎ (645 × 443 pixel, file size: 51 KB, MIME type: image/jpeg)
+[Biologicalentities.jpg](../images/3/34/Biologicalentities.jpg)‎ (645 × 443 pixel, file size: 51 KB, MIME type: image/jpeg)
 
 ## File history
 

@@ -2,9 +2,9 @@
 * [File history](../Image/Chess-game-core-withevent.svg.md#filehistory)
 * [Links](../Image/Chess-game-core-withevent.svg.md#filelinks)
 
-[![Image:Chess-game-core-withevent.svg](../images/thumb/d/de/Chess-game-core-withevent.svg/800px-Chess-game-core-withevent.svg.png)](../../images/d/de/Chess-game-core-withevent.svg)  
+[![Image:Chess-game-core-withevent.svg](../images/thumb/d/de/Chess-game-core-withevent.svg/800px-Chess-game-core-withevent.svg.png)](../images/d/de/Chess-game-core-withevent.svg)  
 
-[Chess-game-core-withevent.svg](../../images/d/de/Chess-game-core-withevent.svg "Chess-game-core-withevent.svg")‎  (SVG file, nominally 917 × 600 pixels, file size: 40 KB)
+[Chess-game-core-withevent.svg](../images/d/de/Chess-game-core-withevent.svg "Chess-game-core-withevent.svg")‎  (SVG file, nominally 917 × 600 pixels, file size: 40 KB)
 
 
 

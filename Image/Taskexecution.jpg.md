@@ -2,9 +2,9 @@
 * [File history](../Image/Taskexecution.jpg.md#filehistory)
 * [Links](../Image/Taskexecution.jpg.md#filelinks)
 
-[![Image:Taskexecution.jpg](../../../images/d/db/Taskexecution.jpg)](../../../images/d/db/Taskexecution.jpg)  
+[![Image:Taskexecution.jpg](../images/d/db/Taskexecution.jpg)](../images/d/db/Taskexecution.jpg)  
 No higher resolution available.  
-[Taskexecution.jpg](../../../images/d/db/Taskexecution.jpg)‎ (560 × 257 pixel, file size: 54 KB, MIME type: image/jpeg)
+[Taskexecution.jpg](../images/d/db/Taskexecution.jpg)‎ (560 × 257 pixel, file size: 54 KB, MIME type: image/jpeg)
 
 ## File history
 

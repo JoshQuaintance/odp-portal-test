@@ -2,9 +2,9 @@
 * [File history](../Image/Chris.jpg.md#filehistory)
 * [Links](../Image/Chris.jpg.md#filelinks)
 
-[![Image:Chris.jpg](../../../images/d/dd/Chris.jpg)](../../../images/d/dd/Chris.jpg)  
+[![Image:Chris.jpg](../images/d/dd/Chris.jpg)](../images/d/dd/Chris.jpg)  
 No higher resolution available.  
-[Chris.jpg](../../../images/d/dd/Chris.jpg)‎ (220 × 230 pixel, file size: 20 KB, MIME type: image/jpeg)Chris Welty
+[Chris.jpg](../images/d/dd/Chris.jpg)‎ (220 × 230 pixel, file size: 20 KB, MIME type: image/jpeg)Chris Welty
 
 
 

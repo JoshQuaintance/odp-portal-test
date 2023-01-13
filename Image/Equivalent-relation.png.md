@@ -2,9 +2,9 @@
 * [File history](../Image/Equivalent-relation.png.md#filehistory)
 * [Links](../Image/Equivalent-relation.png.md#filelinks)
 
-[![Image:Equivalent-relation.png](../../../images/1/15/Equivalent-relation.png)](../../../images/1/15/Equivalent-relation.png)  
+[![Image:Equivalent-relation.png](../images/1/15/Equivalent-relation.png)](../images/1/15/Equivalent-relation.png)  
 No higher resolution available.  
-[Equivalent-relation.png](../../../images/1/15/Equivalent-relation.png)‎ (529 × 122 pixel, file size: 18 KB, MIME type: image/png)
+[Equivalent-relation.png](../images/1/15/Equivalent-relation.png)‎ (529 × 122 pixel, file size: 18 KB, MIME type: image/png)
 
 ## File history
 

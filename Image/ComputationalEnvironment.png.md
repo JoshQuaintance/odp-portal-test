@@ -2,9 +2,9 @@
 * [File history](../Image/ComputationalEnvironment.png.md#filehistory)
 * [Links](../Image/ComputationalEnvironment.png.md#filelinks)
 
-[![Image:ComputationalEnvironment.png](../images/thumb/5/5b/ComputationalEnvironment.png/800px-ComputationalEnvironment.png)](../../images/5/5b/ComputationalEnvironment.png)  
+[![Image:ComputationalEnvironment.png](../images/thumb/5/5b/ComputationalEnvironment.png/800px-ComputationalEnvironment.png)](../images/5/5b/ComputationalEnvironment.png)  
 Size of this preview: 800 × 485 pixels  
-[Full resolution](../../images/5/5b/ComputationalEnvironment.png)‎ (925 × 561 pixel, file size: 145 KB, MIME type: image/png)The Computational Environment ontology design pattern models the environment in which a computational analysis was conducted down to the hardware level. The pattern is intended to support comparison and reproducibility of computational analyses.
+[Full resolution](../images/5/5b/ComputationalEnvironment.png)‎ (925 × 561 pixel, file size: 145 KB, MIME type: image/png)The Computational Environment ontology design pattern models the environment in which a computational analysis was conducted down to the hardware level. The pattern is intended to support comparison and reproducibility of computational analyses.
 
 
 

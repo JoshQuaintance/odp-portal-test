@@ -2,9 +2,9 @@
 * [File history](../Image/Dir.png.md#filehistory)
 * [Links](../Image/Dir.png.md#filelinks)
 
-[![Image:Dir.png](../images/thumb/b/b4/Dir.png/800px-Dir.png)](../../images/b/b4/Dir.png)  
+[![Image:Dir.png](../images/thumb/b/b4/Dir.png/800px-Dir.png)](../images/b/b4/Dir.png)  
 Size of this preview: 800 × 544 pixels  
-[Full resolution](../../images/b/b4/Dir.png)‎ (1,052 × 715 pixel, file size: 90 KB, MIME type: image/png)
+[Full resolution](../images/b/b4/Dir.png)‎ (1,052 × 715 pixel, file size: 90 KB, MIME type: image/png)
 
 ## File history
 

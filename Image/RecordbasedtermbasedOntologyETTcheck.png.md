@@ -2,9 +2,9 @@
 * [File history](../Image/RecordbasedtermbasedOntologyETTcheck.png.md#filehistory)
 * [Links](../Image/RecordbasedtermbasedOntologyETTcheck.png.md#filelinks)
 
-[![Image:RecordbasedtermbasedOntologyETTcheck.png](../../../images/8/8c/RecordbasedtermbasedOntologyETTcheck.png)](../../../images/8/8c/RecordbasedtermbasedOntologyETTcheck.png)  
+[![Image:RecordbasedtermbasedOntologyETTcheck.png](../images/8/8c/RecordbasedtermbasedOntologyETTcheck.png)](../images/8/8c/RecordbasedtermbasedOntologyETTcheck.png)  
 No higher resolution available.  
-[RecordbasedtermbasedOntologyETTcheck.png](../../../images/8/8c/RecordbasedtermbasedOntologyETTcheck.png)‎ (548 × 248 pixel, file size: 16 KB, MIME type: image/png)
+[RecordbasedtermbasedOntologyETTcheck.png](../images/8/8c/RecordbasedtermbasedOntologyETTcheck.png)‎ (548 × 248 pixel, file size: 16 KB, MIME type: image/png)
 
 ## File history
 

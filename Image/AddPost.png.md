@@ -2,9 +2,9 @@
 * [File history](../Image/AddPost.png.md#filehistory)
 * [Links](../Image/AddPost.png.md#filelinks)
 
-[![Image:AddPost.png](../../../images/1/15/AddPost.png)](../../../images/1/15/AddPost.png)  
+[![Image:AddPost.png](../images/1/15/AddPost.png)](../images/1/15/AddPost.png)  
 No higher resolution available.  
-[AddPost.png](../../../images/1/15/AddPost.png)‎ (256 × 256 pixel, file size: 29 KB, MIME type: image/png)
+[AddPost.png](../images/1/15/AddPost.png)‎ (256 × 256 pixel, file size: 29 KB, MIME type: image/png)
 
 ## File history
 

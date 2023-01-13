@@ -33,11 +33,11 @@ _The __SimpleOrAggregated__ Content OP locally defines the following ontology el
 
 
 
-[![ObjectProperty](../../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __hasAggregatedMember__ (owl:ObjectProperty) 
- [![](../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[hasAggregatedMember](../Submissions/SimpleOrAggregated/hasAggregatedMember.md "Submissions:SimpleOrAggregated/hasAggregatedMember") page_
-[![ObjectProperty](../../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __isAggregatedMemberOf__ (owl:ObjectProperty) 
- [![](../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[isAggregatedMemberOf](../Submissions/SimpleOrAggregated/isAggregatedMemberOf.md "Submissions:SimpleOrAggregated/isAggregatedMemberOf") page_
-[![Class](../../../../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __AggregatedObject__ (owl:Class) An object that is an aggregation of two or more objects.
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __hasAggregatedMember__ (owl:ObjectProperty) 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[hasAggregatedMember](../Submissions/SimpleOrAggregated/hasAggregatedMember.md "Submissions:SimpleOrAggregated/hasAggregatedMember") page_
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __isAggregatedMemberOf__ (owl:ObjectProperty) 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[isAggregatedMemberOf](../Submissions/SimpleOrAggregated/isAggregatedMemberOf.md "Submissions:SimpleOrAggregated/isAggregatedMemberOf") page_
+[![Class](../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __AggregatedObject__ (owl:Class) An object that is an aggregation of two or more objects.
   
 
 
@@ -46,8 +46,8 @@ Un objeto resultante de la agregaciÃ³n de dos o mÃ¡s objetos.
 
 
 
- [![](../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[AggregatedObject](../Submissions/SimpleOrAggregated/AggregatedObject.md "Submissions:SimpleOrAggregated/AggregatedObject") page_
-[![Class](../../../../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __Object__ (owl:Class) Any physical, social, or mental object, or a substance.
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[AggregatedObject](../Submissions/SimpleOrAggregated/AggregatedObject.md "Submissions:SimpleOrAggregated/AggregatedObject") page_
+[![Class](../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __Object__ (owl:Class) Any physical, social, or mental object, or a substance.
   
 
 
@@ -56,10 +56,10 @@ Cualquier objeto fÃ­sico, social o mental o sustancia.
 
 
 
- [![](../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[Object](../Submissions/SimpleOrAggregated/Object.md "Submissions:SimpleOrAggregated/Object") page_
-[![Class](../../../../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __ObjectByCardinality__ (owl:Class) 
- [![](../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[ObjectByCardinality](../Submissions/SimpleOrAggregated/ObjectByCardinality.md "Submissions:SimpleOrAggregated/ObjectByCardinality") page_
-[![Class](../../../../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __SimpleObject__ (owl:Class) A simple object, that is, an object that has no aggregated objects.
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[Object](../Submissions/SimpleOrAggregated/Object.md "Submissions:SimpleOrAggregated/Object") page_
+[![Class](../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __ObjectByCardinality__ (owl:Class) 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[ObjectByCardinality](../Submissions/SimpleOrAggregated/ObjectByCardinality.md "Submissions:SimpleOrAggregated/ObjectByCardinality") page_
+[![Class](../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __SimpleObject__ (owl:Class) A simple object, that is, an object that has no aggregated objects.
   
 
 
@@ -68,7 +68,7 @@ Un objeto simple, es decir, un objeto que no tiene objetos agregados.
 
 
 
- [![](../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[SimpleObject](../Submissions/SimpleOrAggregated/SimpleObject.md "Submissions:SimpleOrAggregated/SimpleObject") page_
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[SimpleObject](../Submissions/SimpleOrAggregated/SimpleObject.md "Submissions:SimpleOrAggregated/SimpleObject") page_
 #  Additional information
 
 

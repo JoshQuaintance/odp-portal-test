@@ -2,9 +2,9 @@
 * [File history](../Image/Digital_Video_ODP_diagram.png.md#filehistory)
 * [Links](../Image/Digital_Video_ODP_diagram.png.md#filelinks)
 
-[![Image:Digital Video ODP diagram.png](../images/thumb/6/6a/Digital_Video_ODP_diagram.png/800px-Digital_Video_ODP_diagram.png)](../../images/6/6a/Digital_Video_ODP_diagram.png)  
+[![Image:Digital Video ODP diagram.png](../images/thumb/6/6a/Digital_Video_ODP_diagram.png/800px-Digital_Video_ODP_diagram.png)](../images/6/6a/Digital_Video_ODP_diagram.png)  
 Size of this preview: 800 × 348 pixels  
-[Full resolution](../../images/6/6a/Digital_Video_ODP_diagram.png)‎ (1,400 × 609 pixel, file size: 216 KB, MIME type: image/png)The class diagram for the DigitalVideo ODP.
+[Full resolution](../images/6/6a/Digital_Video_ODP_diagram.png)‎ (1,400 × 609 pixel, file size: 216 KB, MIME type: image/png)The class diagram for the DigitalVideo ODP.
 
 
 

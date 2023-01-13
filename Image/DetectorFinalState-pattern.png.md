@@ -2,9 +2,9 @@
 * [File history](../Image/DetectorFinalState-pattern.png.md#filehistory)
 * [Links](../Image/DetectorFinalState-pattern.png.md#filelinks)
 
-[![Image:DetectorFinalState-pattern.png](../images/thumb/5/51/DetectorFinalState-pattern.png/800px-DetectorFinalState-pattern.png)](../../images/5/51/DetectorFinalState-pattern.png)  
+[![Image:DetectorFinalState-pattern.png](../images/thumb/5/51/DetectorFinalState-pattern.png/800px-DetectorFinalState-pattern.png)](../images/5/51/DetectorFinalState-pattern.png)  
 Size of this preview: 800 × 516 pixels  
-[Full resolution](../../images/5/51/DetectorFinalState-pattern.png)‎ (1,510 × 974 pixel, file size: 132 KB, MIME type: image/png)Diagram for Detector Final State pattern
+[Full resolution](../images/5/51/DetectorFinalState-pattern.png)‎ (1,510 × 974 pixel, file size: 132 KB, MIME type: image/png)Diagram for Detector Final State pattern
 
 
 

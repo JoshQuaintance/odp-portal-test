@@ -2,9 +2,9 @@
 * [File history](../Image/Property-subsumption.png.md#filehistory)
 * [Links](../Image/Property-subsumption.png.md#filelinks)
 
-[![Image:Property-subsumption.png](../../../images/4/49/Property-subsumption.png)](../../../images/4/49/Property-subsumption.png)  
+[![Image:Property-subsumption.png](../images/4/49/Property-subsumption.png)](../images/4/49/Property-subsumption.png)  
 No higher resolution available.  
-[Property-subsumption.png](../../../images/4/49/Property-subsumption.png)‎ (519 × 203 pixel, file size: 27 KB, MIME type: image/png)
+[Property-subsumption.png](../images/4/49/Property-subsumption.png)‎ (519 × 203 pixel, file size: 27 KB, MIME type: image/png)
 
 ## File history
 

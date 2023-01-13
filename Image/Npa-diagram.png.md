@@ -2,9 +2,9 @@
 * [File history](../Image/Npa-diagram.png.md#filehistory)
 * [Links](../Image/Npa-diagram.png.md#filelinks)
 
-[![Image:Npa-diagram.png](../../../images/f/f1/Npa-diagram.png)](../../../images/f/f1/Npa-diagram.png)  
+[![Image:Npa-diagram.png](../images/f/f1/Npa-diagram.png)](../images/f/f1/Npa-diagram.png)  
 No higher resolution available.  
-[Npa-diagram.png](../../../images/f/f1/Npa-diagram.png)‎ (462 × 246 pixel, file size: 26 KB, MIME type: image/png)Diagram for the NPA pattern
+[Npa-diagram.png](../images/f/f1/Npa-diagram.png)‎ (462 × 246 pixel, file size: 26 KB, MIME type: image/png)Diagram for the NPA pattern
 
 
 

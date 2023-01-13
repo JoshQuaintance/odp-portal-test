@@ -3,9 +3,9 @@
 * [Links](../Image/Bestposter2014.jpg.md#filelinks)
 * [Metadata](../Image/Bestposter2014.jpg.md#metadata)
 
-[![Image:Bestposter2014.jpg](../images/thumb/b/bb/Bestposter2014.jpg/450px-Bestposter2014.jpg)](../../images/b/bb/Bestposter2014.jpg)  
+[![Image:Bestposter2014.jpg](../images/thumb/b/bb/Bestposter2014.jpg/450px-Bestposter2014.jpg)](../images/b/bb/Bestposter2014.jpg)  
 Size of this preview: 450 × 600 pixels  
-[Full resolution](../../images/b/bb/Bestposter2014.jpg)‎ (1,500 × 2,000 pixel, file size: 386 KB, MIME type: image/jpeg)Best poster of WOP2014 as voted by the attendees
+[Full resolution](../images/b/bb/Bestposter2014.jpg)‎ (1,500 × 2,000 pixel, file size: 386 KB, MIME type: image/jpeg)Best poster of WOP2014 as voted by the attendees
 
 
 

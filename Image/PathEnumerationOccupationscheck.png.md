@@ -2,9 +2,9 @@
 * [File history](../Image/PathEnumerationOccupationscheck.png.md#filehistory)
 * [Links](../Image/PathEnumerationOccupationscheck.png.md#filelinks)
 
-[![Image:PathEnumerationOccupationscheck.png](../../../images/c/c5/PathEnumerationOccupationscheck.png)](../../../images/c/c5/PathEnumerationOccupationscheck.png)  
+[![Image:PathEnumerationOccupationscheck.png](../images/c/c5/PathEnumerationOccupationscheck.png)](../images/c/c5/PathEnumerationOccupationscheck.png)  
 No higher resolution available.  
-[PathEnumerationOccupationscheck.png](../../../images/c/c5/PathEnumerationOccupationscheck.png)‎ (459 × 123 pixel, file size: 4 KB, MIME type: image/png)
+[PathEnumerationOccupationscheck.png](../images/c/c5/PathEnumerationOccupationscheck.png)‎ (459 × 123 pixel, file size: 4 KB, MIME type: image/png)
 
 ## File history
 

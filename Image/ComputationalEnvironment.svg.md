@@ -2,9 +2,9 @@
 * [File history](../Image/ComputationalEnvironment.svg.md#filehistory)
 * [Links](../Image/ComputationalEnvironment.svg.md#filelinks)
 
-[![Image:ComputationalEnvironment.svg](../images/thumb/2/26/ComputationalEnvironment.svg/800px-ComputationalEnvironment.svg.png)](../../images/2/26/ComputationalEnvironment.svg)  
+[![Image:ComputationalEnvironment.svg](../images/thumb/2/26/ComputationalEnvironment.svg/800px-ComputationalEnvironment.svg.png)](../images/2/26/ComputationalEnvironment.svg)  
 
-[ComputationalEnvironment.svg](../../images/2/26/ComputationalEnvironment.svg "ComputationalEnvironment.svg")‎  (SVG file, nominally 1,322 × 801 pixels, file size: 39 KB)
+[ComputationalEnvironment.svg](../images/2/26/ComputationalEnvironment.svg "ComputationalEnvironment.svg")‎  (SVG file, nominally 1,322 × 801 pixels, file size: 39 KB)
 
 
 

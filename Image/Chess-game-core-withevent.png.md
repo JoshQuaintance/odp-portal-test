@@ -2,9 +2,9 @@
 * [File history](../Image/Chess-game-core-withevent.png.md#filehistory)
 * [Links](../Image/Chess-game-core-withevent.png.md#filelinks)
 
-[![Image:Chess-game-core-withevent.png](../images/thumb/2/25/Chess-game-core-withevent.png/800px-Chess-game-core-withevent.png)](../../images/2/25/Chess-game-core-withevent.png)  
+[![Image:Chess-game-core-withevent.png](../images/thumb/2/25/Chess-game-core-withevent.png/800px-Chess-game-core-withevent.png)](../images/2/25/Chess-game-core-withevent.png)  
 Size of this preview: 800 × 523 pixels  
-[Full resolution](../../images/2/25/Chess-game-core-withevent.png)‎ (917 × 600 pixel, file size: 74 KB, MIME type: image/png)Diagram of ChessGame pattern
+[Full resolution](../images/2/25/Chess-game-core-withevent.png)‎ (917 × 600 pixel, file size: 74 KB, MIME type: image/png)Diagram of ChessGame pattern
 
 
 

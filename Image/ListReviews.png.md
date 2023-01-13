@@ -2,9 +2,9 @@
 * [File history](../Image/ListReviews.png.md#filehistory)
 * [Links](../Image/ListReviews.png.md#filelinks)
 
-[![Image:ListReviews.png](../../../images/c/c5/ListReviews.png)](../../../images/c/c5/ListReviews.png)  
+[![Image:ListReviews.png](../images/c/c5/ListReviews.png)](../images/c/c5/ListReviews.png)  
 No higher resolution available.  
-[ListReviews.png](../../../images/c/c5/ListReviews.png)‎ (166 × 157 pixel, file size: 18 KB, MIME type: image/png)
+[ListReviews.png](../images/c/c5/ListReviews.png)‎ (166 × 157 pixel, file size: 18 KB, MIME type: image/png)
 
 ## File history
 
@@ -23,7 +23,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following 4 pages link to this file:
 
 
-* [Ontology Design Patterns . org (ODP)](../Ontology_Design_Patterns_._org_(ODP).md).html "Ontology Design Patterns . org (ODP)")
+* [Ontology Design Patterns . org (ODP)](../Ontology_Design_Patterns_._org_(ODP).md).md).html "Ontology Design Patterns . org (ODP)")
 * [Reviews:Main](../Reviews/Main.md "Reviews:Main")
 * [Community:Images](../Community/Images.md "Community:Images")
 * [Template:MainPageMap](../Template/MainPageMap.md "Template:MainPageMap")

@@ -2,9 +2,9 @@
 * [File history](../Image/Recordbasedtermbased.png.md#filehistory)
 * [Links](../Image/Recordbasedtermbased.png.md#filelinks)
 
-[![Image:Recordbasedtermbased.png](../../../images/a/af/Recordbasedtermbased.png)](../../../images/a/af/Recordbasedtermbased.png)  
+[![Image:Recordbasedtermbased.png](../images/a/af/Recordbasedtermbased.png)](../images/a/af/Recordbasedtermbased.png)  
 No higher resolution available.  
-[Recordbasedtermbased.png](../../../images/a/af/Recordbasedtermbased.png)‎ (400 × 152 pixel, file size: 12 KB, MIME type: image/png)
+[Recordbasedtermbased.png](../images/a/af/Recordbasedtermbased.png)‎ (400 × 152 pixel, file size: 12 KB, MIME type: image/png)
 
 ## File history
 

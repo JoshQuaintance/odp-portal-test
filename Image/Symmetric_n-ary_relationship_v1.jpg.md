@@ -2,9 +2,9 @@
 * [File history](../Image/Symmetric_n-ary_relationship_v1.jpg.md#filehistory)
 * [Links](../Image/Symmetric_n-ary_relationship_v1.jpg.md#filelinks)
 
-[![Image:Symmetric n-ary relationship v1.jpg](../../../images/4/49/Symmetric_n-ary_relationship_v1.jpg)](../../../images/4/49/Symmetric_n-ary_relationship_v1.jpg)  
+[![Image:Symmetric n-ary relationship v1.jpg](../images/4/49/Symmetric_n-ary_relationship_v1.jpg)](../images/4/49/Symmetric_n-ary_relationship_v1.jpg)  
 No higher resolution available.  
-[Symmetric\_n-ary\_relationship\_v1.jpg](../../../images/4/49/Symmetric_n-ary_relationship_v1.jpg)‎ (383 × 82 pixel, file size: 6 KB, MIME type: image/jpeg)
+[Symmetric\_n-ary\_relationship\_v1.jpg](../images/4/49/Symmetric_n-ary_relationship_v1.jpg)‎ (383 × 82 pixel, file size: 6 KB, MIME type: image/jpeg)
 
 ## File history
 

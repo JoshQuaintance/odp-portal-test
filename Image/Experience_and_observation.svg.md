@@ -2,9 +2,9 @@
 * [File history](../Image/Experience_and_observation.svg.md#filehistory)
 * [Links](../Image/Experience_and_observation.svg.md#filelinks)
 
-[![Image:Experience and observation.svg](../images/thumb/7/7e/Experience_and_observation.svg/256px-Experience_and_observation.svg.png)](../../images/7/7e/Experience_and_observation.svg)  
+[![Image:Experience and observation.svg](../images/thumb/7/7e/Experience_and_observation.svg/256px-Experience_and_observation.svg.png)](../images/7/7e/Experience_and_observation.svg)  
 
-[Experience\_and\_observation.svg](../../images/7/7e/Experience_and_observation.svg "Experience and observation.svg")‎  (SVG file, nominally 256 × 256 pixels, file size: 91 KB)
+[Experience\_and\_observation.svg](../images/7/7e/Experience_and_observation.svg "Experience and observation.svg")‎  (SVG file, nominally 256 × 256 pixels, file size: 91 KB)
 
 
 

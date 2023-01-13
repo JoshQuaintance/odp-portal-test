@@ -2,9 +2,9 @@
 * [File history](../Image/RelativeRelationshipPattern.jpg.md#filehistory)
 * [Links](../Image/RelativeRelationshipPattern.jpg.md#filelinks)
 
-[![Image:RelativeRelationshipPattern.jpg](../images/thumb/2/27/RelativeRelationshipPattern.jpg/800px-RelativeRelationshipPattern.jpg)](../../images/2/27/RelativeRelationshipPattern.jpg)  
+[![Image:RelativeRelationshipPattern.jpg](../images/thumb/2/27/RelativeRelationshipPattern.jpg/800px-RelativeRelationshipPattern.jpg)](../images/2/27/RelativeRelationshipPattern.jpg)  
 Size of this preview: 800 × 383 pixels  
-[Full resolution](../../images/2/27/RelativeRelationshipPattern.jpg)‎ (1,110 × 532 pixel, file size: 77 KB, MIME type: image/jpeg)
+[Full resolution](../images/2/27/RelativeRelationshipPattern.jpg)‎ (1,110 × 532 pixel, file size: 77 KB, MIME type: image/jpeg)
 
 ## File history
 

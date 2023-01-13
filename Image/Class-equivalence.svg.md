@@ -2,9 +2,9 @@
 * [File history](../Image/Class-equivalence.svg.md#filehistory)
 * [Links](../Image/Class-equivalence.svg.md#filelinks)
 
-[![Image:Class-equivalence.svg](../images/thumb/a/ae/Class-equivalence.svg/237px-Class-equivalence.svg.png)](../../images/a/ae/Class-equivalence.svg)  
+[![Image:Class-equivalence.svg](../images/thumb/a/ae/Class-equivalence.svg/237px-Class-equivalence.svg.png)](../images/a/ae/Class-equivalence.svg)  
 
-[Class-equivalence.svg](../../images/a/ae/Class-equivalence.svg "Class-equivalence.svg")‎  (SVG file, nominally 237 × 61 pixels, file size: 8 KB)
+[Class-equivalence.svg](../images/a/ae/Class-equivalence.svg "Class-equivalence.svg")‎  (SVG file, nominally 237 × 61 pixels, file size: 8 KB)
 
 
 

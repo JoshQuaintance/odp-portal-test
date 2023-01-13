@@ -2,9 +2,9 @@
 * [File history](../Image/Timeinterval.jpg.md#filehistory)
 * [Links](../Image/Timeinterval.jpg.md#filelinks)
 
-[![Image:Timeinterval.jpg](../../../images/1/13/Timeinterval.jpg)](../../../images/1/13/Timeinterval.jpg)  
+[![Image:Timeinterval.jpg](../images/1/13/Timeinterval.jpg)](../images/1/13/Timeinterval.jpg)  
 No higher resolution available.  
-[Timeinterval.jpg](../../../images/1/13/Timeinterval.jpg)‎ (214 × 94 pixel, file size: 9 KB, MIME type: image/jpeg)
+[Timeinterval.jpg](../images/1/13/Timeinterval.jpg)‎ (214 × 94 pixel, file size: 9 KB, MIME type: image/jpeg)
 
 ## File history
 

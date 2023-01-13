@@ -2,9 +2,9 @@
 * [File history](../Image/FacetedClassificationStructureOntologyExample.png.md#filehistory)
 * [Links](../Image/FacetedClassificationStructureOntologyExample.png.md#filelinks)
 
-[![Image:FacetedClassificationStructureOntologyExample.png](../images/thumb/0/03/FacetedClassificationStructureOntologyExample.png/424px-FacetedClassificationStructureOntologyExample.png)](../../images/0/03/FacetedClassificationStructureOntologyExample.png)  
+[![Image:FacetedClassificationStructureOntologyExample.png](../images/thumb/0/03/FacetedClassificationStructureOntologyExample.png/424px-FacetedClassificationStructureOntologyExample.png)](../images/0/03/FacetedClassificationStructureOntologyExample.png)  
 Size of this preview: 424 × 599 pixels  
-[Full resolution](../../images/0/03/FacetedClassificationStructureOntologyExample.png)‎ (462 × 653 pixel, file size: 62 KB, MIME type: image/png)Example ontology model of a Faceted Classification Scheme using the Normalization ODP.
+[Full resolution](../images/0/03/FacetedClassificationStructureOntologyExample.png)‎ (462 × 653 pixel, file size: 62 KB, MIME type: image/png)Example ontology model of a Faceted Classification Scheme using the Normalization ODP.
 
 
 

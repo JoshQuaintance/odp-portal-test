@@ -112,5 +112,5 @@ There is no Modeling issue related to this proposal.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:N-Ary\_Relation\_Pattern\_%28OWL\_2%29](../Submissions/N-Ary_Relation_Pattern_(OWL_2).md).html)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:N-Ary\_Relation\_Pattern\_%28OWL\_2%29](../Submissions/N-Ary_Relation_Pattern_(OWL_2).md).md).html)"
  [Categories](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [LogicalOP](../Category/LogicalOP.md "Category:LogicalOP") | [ProposedLogicalOP](../Category/ProposedLogicalOP.md "Category:ProposedLogicalOP") | [Waiting for review](../Category/Waiting_for_review.md "Category:Waiting for review")

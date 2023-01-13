@@ -2,9 +2,9 @@
 * [File history](../Image/FacetedClassificationScheme_GenericStructure.png.md#filehistory)
 * [Links](../Image/FacetedClassificationScheme_GenericStructure.png.md#filelinks)
 
-[![Image:FacetedClassificationScheme GenericStructure.png](../../../images/9/99/FacetedClassificationScheme_GenericStructure.png)](../../../images/9/99/FacetedClassificationScheme_GenericStructure.png)  
+[![Image:FacetedClassificationScheme GenericStructure.png](../images/9/99/FacetedClassificationScheme_GenericStructure.png)](../images/9/99/FacetedClassificationScheme_GenericStructure.png)  
 No higher resolution available.  
-[FacetedClassificationScheme\_GenericStructure.png](../../../images/9/99/FacetedClassificationScheme_GenericStructure.png)‎ (410 × 189 pixel, file size: 20 KB, MIME type: image/png)Elements of the generic structure of a Faceted Classification Scheme from the field of Information and Library Science.
+[FacetedClassificationScheme\_GenericStructure.png](../images/9/99/FacetedClassificationScheme_GenericStructure.png)‎ (410 × 189 pixel, file size: 20 KB, MIME type: image/png)Elements of the generic structure of a Faceted Classification Scheme from the field of Information and Library Science.
 
 
 

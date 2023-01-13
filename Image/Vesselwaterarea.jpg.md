@@ -2,9 +2,9 @@
 * [File history](../Image/Vesselwaterarea.jpg.md#filehistory)
 * [Links](../Image/Vesselwaterarea.jpg.md#filelinks)
 
-[![Image:Vesselwaterarea.jpg](../../../images/d/db/Vesselwaterarea.jpg)](../../../images/d/db/Vesselwaterarea.jpg)  
+[![Image:Vesselwaterarea.jpg](../images/d/db/Vesselwaterarea.jpg)](../images/d/db/Vesselwaterarea.jpg)  
 No higher resolution available.  
-[Vesselwaterarea.jpg](../../../images/d/db/Vesselwaterarea.jpg)‎ (256 × 145 pixel, file size: 26 KB, MIME type: image/jpeg)
+[Vesselwaterarea.jpg](../images/d/db/Vesselwaterarea.jpg)‎ (256 × 145 pixel, file size: 26 KB, MIME type: image/jpeg)
 
 ## File history
 

@@ -26,7 +26,7 @@ _The __VesselSpecies__ Content OP locally defines the following ontology element
 
 
 
-[![Class](../../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __AquaticSpecies__ (owl:Class) Aquatic species are conceptual entities that are characterized together with resources and water areas. 
+[![Class](../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __AquaticSpecies__ (owl:Class) Aquatic species are conceptual entities that are characterized together with resources and water areas. 
 Mappable to fi:Species, fi:SpeciesRef, fi:SpeciesFeature, etc.
 
 
@@ -34,14 +34,14 @@ It has related axioms from FIGIS Schema that are included in the classes linked 
 
 
 
- [![](../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[AquaticSpecies](http://ontologydesignpatterns.org/wiki/Submissions:VesselSpecies/AquaticSpecies "Submissions:VesselSpecies/AquaticSpecies") page_
-[![Class](../../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __VesselType__ (owl:Class) Vessel types are conceptual entities. 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[AquaticSpecies](http://ontologydesignpatterns.org/wiki/Submissions:VesselSpecies/AquaticSpecies "Submissions:VesselSpecies/AquaticSpecies") page_
+[![Class](../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __VesselType__ (owl:Class) Vessel types are conceptual entities. 
 Mappable to fi:VesseltypeRef 
 
 
 
- [![](../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[VesselType](http://ontologydesignpatterns.org/wiki/Submissions:VesselSpecies/VesselType "Submissions:VesselSpecies/VesselType") page_
-[![ObjectProperty](../../../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __catchesSpecies__ (owl:ObjectProperty) Actually a composed property: this needs either a property chain, a SPARQL query, or a SWRL rule to gather a value. E.g. in SPARQL:
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[VesselType](http://ontologydesignpatterns.org/wiki/Submissions:VesselSpecies/VesselType "Submissions:VesselSpecies/VesselType") page_
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __catchesSpecies__ (owl:ObjectProperty) Actually a composed property: this needs either a property chain, a SPARQL query, or a SWRL rule to gather a value. E.g. in SPARQL:
   
 
 
@@ -62,8 +62,8 @@ WHERE {
 
 
 
- [![](../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[catchesSpecies](../Submissions/VesselSpecies/catchesSpecies.md "Submissions:VesselSpecies/catchesSpecies") page_
-[![ObjectProperty](../../../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __isCaughtBy__ (owl:ObjectProperty) Actually a composed property: this needs either a property chain, a SPARQL query, or a SWRL rule to gather a value. E.g. in SPARQL:
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[catchesSpecies](../Submissions/VesselSpecies/catchesSpecies.md "Submissions:VesselSpecies/catchesSpecies") page_
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __isCaughtBy__ (owl:ObjectProperty) Actually a composed property: this needs either a property chain, a SPARQL query, or a SWRL rule to gather a value. E.g. in SPARQL:
   
 
 
@@ -84,9 +84,9 @@ WHERE {
 
 
 
- [![](../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[isCaughtBy](../Submissions/VesselSpecies/isCaughtBy.md "Submissions:VesselSpecies/isCaughtBy") page_
-[![ObjectProperty](../../../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __isCaughtByVesselType__ (owl:ObjectProperty) 
- [![](../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[isCaughtByVesselType](../Submissions/VesselSpecies/isCaughtByVesselType.md "Submissions:VesselSpecies/isCaughtByVesselType") page_
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[isCaughtBy](../Submissions/VesselSpecies/isCaughtBy.md "Submissions:VesselSpecies/isCaughtBy") page_
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __isCaughtByVesselType__ (owl:ObjectProperty) 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[isCaughtByVesselType](../Submissions/VesselSpecies/isCaughtByVesselType.md "Submissions:VesselSpecies/isCaughtByVesselType") page_
 (type): [http://www.w3.org/2002/07/owl#Ontology](http://www.w3.org/2002/07/owl#Ontology "http://www.w3.org/2002/07/owl#Ontology")
 
 

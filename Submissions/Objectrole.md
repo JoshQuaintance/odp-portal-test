@@ -34,29 +34,29 @@ _The __Objectrole__ Content OP locally defines the following ontology elements:_
 
 
 
-[![Class](../../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __Role__ (owl:Class) A  [Concept](../Submissions/Classification/Concept.md "Submissions:Classification/Concept") that classifies an  [Object](../Submissions/Objectrole/Object.md "Submissions:Objectrole/Object"). 
+[![Class](../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __Role__ (owl:Class) A  [Concept](../Submissions/Classification/Concept.md "Submissions:Classification/Concept") that classifies an  [Object](../Submissions/Objectrole/Object.md "Submissions:Objectrole/Object"). 
 
 
 
- [![](../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[Role](../Submissions/Objectrole/Role.md "Submissions:Objectrole/Role") page_
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[Role](../Submissions/Objectrole/Role.md "Submissions:Objectrole/Role") page_
 
-[![Class](../../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __Object__ (owl:Class) Any physical, social, or mental object, or a substance. 
-
-
-
- [![](../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[Object](../Submissions/Objectrole/Object.md "Submissions:Objectrole/Object") page_
-
-[![ObjectProperty](../../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __isRoleOf__ (owl:ObjectProperty) A relation between an  [Object](../Submissions/Objectrole/Object.md "Submissions:Objectrole/Object") and a  [Role](../Submissions/Objectrole/Role.md "Submissions:Objectrole/Role"), e.g. the 'student' is the role of 'John'.  [hasRole](../Submissions/Objectrole/hasRole.md "Submissions:Objectrole/hasRole") is its inverse. 
+[![Class](../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __Object__ (owl:Class) Any physical, social, or mental object, or a substance. 
 
 
 
- [![](../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[isRoleOf](../Submissions/Objectrole/isRoleOf.md "Submissions:Objectrole/isRoleOf") page_
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[Object](../Submissions/Objectrole/Object.md "Submissions:Objectrole/Object") page_
 
-[![ObjectProperty](../../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __hasRole__ (owl:ObjectProperty) A relation between an  [Object](../Submissions/Objectrole/Object.md "Submissions:Objectrole/Object") and a  [Role](../Submissions/Objectrole/Role.md "Submissions:Objectrole/Role"), e.g. the person 'John' has role 'student'.  [isRoleOf](../Submissions/Objectrole/isRoleOf.md "Submissions:Objectrole/isRoleOf") is its inverse. 
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __isRoleOf__ (owl:ObjectProperty) A relation between an  [Object](../Submissions/Objectrole/Object.md "Submissions:Objectrole/Object") and a  [Role](../Submissions/Objectrole/Role.md "Submissions:Objectrole/Role"), e.g. the 'student' is the role of 'John'.  [hasRole](../Submissions/Objectrole/hasRole.md "Submissions:Objectrole/hasRole") is its inverse. 
 
 
 
- [![](../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[hasRole](../Submissions/Objectrole/hasRole.md "Submissions:Objectrole/hasRole") page_
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[isRoleOf](../Submissions/Objectrole/isRoleOf.md "Submissions:Objectrole/isRoleOf") page_
+
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __hasRole__ (owl:ObjectProperty) A relation between an  [Object](../Submissions/Objectrole/Object.md "Submissions:Objectrole/Object") and a  [Role](../Submissions/Objectrole/Role.md "Submissions:Objectrole/Role"), e.g. the person 'John' has role 'student'.  [isRoleOf](../Submissions/Objectrole/isRoleOf.md "Submissions:Objectrole/isRoleOf") is its inverse. 
+
+
+
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[hasRole](../Submissions/Objectrole/hasRole.md "Submissions:Objectrole/hasRole") page_
 #  Additional information
 
 

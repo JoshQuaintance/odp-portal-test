@@ -2,9 +2,9 @@
 * [File history](../Image/Standard-enforcer-pattern.png.md#filehistory)
 * [Links](../Image/Standard-enforcer-pattern.png.md#filelinks)
 
-[![Image:Standard-enforcer-pattern.png](../images/thumb/d/df/Standard-enforcer-pattern.png/800px-Standard-enforcer-pattern.png)](../../images/d/df/Standard-enforcer-pattern.png)  
+[![Image:Standard-enforcer-pattern.png](../images/thumb/d/df/Standard-enforcer-pattern.png/800px-Standard-enforcer-pattern.png)](../images/d/df/Standard-enforcer-pattern.png)  
 Size of this preview: 800 × 349 pixels  
-[Full resolution](../../images/d/df/Standard-enforcer-pattern.png)‎ (1,186 × 517 pixel, file size: 44 KB, MIME type: image/png)
+[Full resolution](../images/d/df/Standard-enforcer-pattern.png)‎ (1,186 × 517 pixel, file size: 44 KB, MIME type: image/png)
 
 ## File history
 

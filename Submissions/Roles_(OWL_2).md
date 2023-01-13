@@ -109,5 +109,5 @@ There is no Modeling issue related to this proposal.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Roles\_%28OWL\_2%29](../Submissions/Roles_(OWL_2).md).html)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Roles\_%28OWL\_2%29](../Submissions/Roles_(OWL_2).md).md).html)"
  [Categories](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ProposedContentOP](../Category/ProposedContentOP.md "Category:ProposedContentOP") | [Waiting for review](../Category/Waiting_for_review.md "Category:Waiting for review")

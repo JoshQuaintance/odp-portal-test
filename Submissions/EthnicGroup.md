@@ -28,7 +28,7 @@ _The __EthnicGroup__ Content OP locally defines the following ontology elements:
 
 
 
-[![ObjectProperty](../../../../../../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __hasIsland__ (owl:ObjectProperty) Relation between Ethnic Group and Island
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __hasIsland__ (owl:ObjectProperty) Relation between Ethnic Group and Island
   
 
 
@@ -37,12 +37,12 @@ Relazione tra Ethnic Group e Island
 
 
 
- [![](../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[hasIsland](../Submissions/EthnicGroup/hasIsland.md "Submissions:EthnicGroup/hasIsland") page_
-[![ObjectProperty](../../../../../../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __hasTown__ (owl:ObjectProperty) 
- [![](../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[hasTown](../Submissions/EthnicGroup/hasTown.md "Submissions:EthnicGroup/hasTown") page_
-[![ObjectProperty](../../../../../../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __hasCountry__ (owl:ObjectProperty) Relation between Ethnic Group and Country 
- [![](../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[hasCountry](../Submissions/EthnicGroup/hasCountry.md "Submissions:EthnicGroup/hasCountry") page_
-[![ObjectProperty](../../../../../../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __hasEthnicGroup__ (owl:ObjectProperty) Relation between Ethnic Group and Ethnic Group
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[hasIsland](../Submissions/EthnicGroup/hasIsland.md "Submissions:EthnicGroup/hasIsland") page_
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __hasTown__ (owl:ObjectProperty) 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[hasTown](../Submissions/EthnicGroup/hasTown.md "Submissions:EthnicGroup/hasTown") page_
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __hasCountry__ (owl:ObjectProperty) Relation between Ethnic Group and Country 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[hasCountry](../Submissions/EthnicGroup/hasCountry.md "Submissions:EthnicGroup/hasCountry") page_
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __hasEthnicGroup__ (owl:ObjectProperty) Relation between Ethnic Group and Ethnic Group
   
 
 
@@ -51,10 +51,10 @@ Relazione tra Ethnic Group e Ethnic Group
 
 
 
- [![](../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[hasEthnicGroup](../Submissions/EthnicGroup/hasEthnicGroup.md "Submissions:EthnicGroup/hasEthnicGroup") page_
-[![ObjectProperty](../../../../../../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __hasContinent__ (owl:ObjectProperty) Relation between Ethnic Group and Continent 
- [![](../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[hasContinent](../Submissions/EthnicGroup/hasContinent.md "Submissions:EthnicGroup/hasContinent") page_
-[![ObjectProperty](../../../../../../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __hasOfficeHolder__ (owl:ObjectProperty) Relation between Ethnic Group and Office Holder
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[hasEthnicGroup](../Submissions/EthnicGroup/hasEthnicGroup.md "Submissions:EthnicGroup/hasEthnicGroup") page_
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __hasContinent__ (owl:ObjectProperty) Relation between Ethnic Group and Continent 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[hasContinent](../Submissions/EthnicGroup/hasContinent.md "Submissions:EthnicGroup/hasContinent") page_
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __hasOfficeHolder__ (owl:ObjectProperty) Relation between Ethnic Group and Office Holder
   
 
 
@@ -63,7 +63,7 @@ Relazione tra Ethnic Group e Office Holder
 
 
 
- [![](../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[hasOfficeHolder](../Submissions/EthnicGroup/hasOfficeHolder.md "Submissions:EthnicGroup/hasOfficeHolder") page_
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[hasOfficeHolder](../Submissions/EthnicGroup/hasOfficeHolder.md "Submissions:EthnicGroup/hasOfficeHolder") page_
 #  Additional information
 
 

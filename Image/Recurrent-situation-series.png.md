@@ -2,9 +2,9 @@
 * [File history](../Image/Recurrent-situation-series.png.md#filehistory)
 * [Links](../Image/Recurrent-situation-series.png.md#filelinks)
 
-[![Image:Recurrent-situation-series.png](../images/thumb/e/ee/Recurrent-situation-series.png/800px-Recurrent-situation-series.png)](../../images/e/ee/Recurrent-situation-series.png)  
+[![Image:Recurrent-situation-series.png](../images/thumb/e/ee/Recurrent-situation-series.png/800px-Recurrent-situation-series.png)](../images/e/ee/Recurrent-situation-series.png)  
 Size of this preview: 800 × 510 pixels  
-[Full resolution](../../images/e/ee/Recurrent-situation-series.png)‎ (1,746 × 1,114 pixel, file size: 279 KB, MIME type: image/png)
+[Full resolution](../images/e/ee/Recurrent-situation-series.png)‎ (1,746 × 1,114 pixel, file size: 279 KB, MIME type: image/png)
 
 ## File history
 

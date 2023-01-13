@@ -2,9 +2,9 @@
 * [File history](../Image/Ontology.png.md#filehistory)
 * [Links](../Image/Ontology.png.md#filelinks)
 
-[![Image:Ontology.png](../../../images/8/8d/Ontology.png)](../../../images/8/8d/Ontology.png)  
+[![Image:Ontology.png](../images/8/8d/Ontology.png)](../images/8/8d/Ontology.png)  
 No higher resolution available.  
-[Ontology.png](../../../images/8/8d/Ontology.png)‎ (395 × 229 pixel, file size: 21 KB, MIME type: image/png)
+[Ontology.png](../images/8/8d/Ontology.png)‎ (395 × 229 pixel, file size: 21 KB, MIME type: image/png)
 
 ## File history
 

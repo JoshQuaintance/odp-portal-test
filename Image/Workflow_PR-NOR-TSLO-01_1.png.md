@@ -2,9 +2,9 @@
 * [File history](../Image/Workflow_PR-NOR-TSLO-01_1.png.md#filehistory)
 * [Links](../Image/Workflow_PR-NOR-TSLO-01_1.png.md#filelinks)
 
-[![Image:Workflow PR-NOR-TSLO-01 1.png](../images/thumb/4/4c/Workflow_PR-NOR-TSLO-01_1.png/276px-Workflow_PR-NOR-TSLO-01_1.png)](../../images/4/4c/Workflow_PR-NOR-TSLO-01_1.png)  
+[![Image:Workflow PR-NOR-TSLO-01 1.png](../images/thumb/4/4c/Workflow_PR-NOR-TSLO-01_1.png/276px-Workflow_PR-NOR-TSLO-01_1.png)](../images/4/4c/Workflow_PR-NOR-TSLO-01_1.png)  
 Size of this preview: 276 × 598 pixels  
-[Full resolution](../../images/4/4c/Workflow_PR-NOR-TSLO-01_1.png)‎ (300 × 650 pixel, file size: 51 KB, MIME type: image/png)
+[Full resolution](../images/4/4c/Workflow_PR-NOR-TSLO-01_1.png)‎ (300 × 650 pixel, file size: 51 KB, MIME type: image/png)
 
 ## File history
 

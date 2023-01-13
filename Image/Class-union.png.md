@@ -2,9 +2,9 @@
 * [File history](../Image/Class-union.png.md#filehistory)
 * [Links](../Image/Class-union.png.md#filelinks)
 
-[![Image:Class-union.png](../images/thumb/5/53/Class-union.png/800px-Class-union.png)](../../images/5/53/Class-union.png)  
+[![Image:Class-union.png](../images/thumb/5/53/Class-union.png/800px-Class-union.png)](../images/5/53/Class-union.png)  
 Size of this preview: 800 × 227 pixels  
-[Full resolution](../../images/5/53/Class-union.png)‎ (818 × 232 pixel, file size: 29 KB, MIME type: image/png)
+[Full resolution](../images/5/53/Class-union.png)‎ (818 × 232 pixel, file size: 29 KB, MIME type: image/png)
 
 ## File history
 

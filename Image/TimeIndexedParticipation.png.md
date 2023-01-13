@@ -2,9 +2,9 @@
 * [File history](../Image/TimeIndexedParticipation.png.md#filehistory)
 * [Links](../Image/TimeIndexedParticipation.png.md#filelinks)
 
-[![Image:TimeIndexedParticipation.png](../../../images/7/73/TimeIndexedParticipation.png)](../../../images/7/73/TimeIndexedParticipation.png)  
+[![Image:TimeIndexedParticipation.png](../images/7/73/TimeIndexedParticipation.png)](../images/7/73/TimeIndexedParticipation.png)  
 No higher resolution available.  
-[TimeIndexedParticipation.png](../../../images/7/73/TimeIndexedParticipation.png)‎ (330 × 285 pixel, file size: 16 KB, MIME type: image/png)
+[TimeIndexedParticipation.png](../images/7/73/TimeIndexedParticipation.png)‎ (330 × 285 pixel, file size: 16 KB, MIME type: image/png)
 
 ## File history
 

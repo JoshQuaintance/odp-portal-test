@@ -66,5 +66,5 @@ Contextual statement:
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Training:Advanced\_Ontology\_Engineering\_at\_FOI\_-\_2011/Ontology\_Design\_Patterns](../../Ontology_Design_Patterns_._org_(ODP).md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Training:Advanced\_Ontology\_Engineering\_at\_FOI\_-\_2011/Ontology\_Design\_Patterns](../../Ontology_Design_Patterns_._org_(ODP).md).md)"
  [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Exercise](../../Category/Exercise.md "Category:Exercise")

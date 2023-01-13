@@ -2,9 +2,9 @@
 * [File history](../Image/Certified.png.md#filehistory)
 * [Links](../Image/Certified.png.md#filelinks)
 
-[![Image:Certified.png](../../../images/b/b5/Certified.png)](../../../images/b/b5/Certified.png)  
+[![Image:Certified.png](../images/b/b5/Certified.png)](../images/b/b5/Certified.png)  
 No higher resolution available.  
-[Certified.png](../../../images/b/b5/Certified.png)‎ (160 × 160 pixel, file size: 10 KB, MIME type: image/png)
+[Certified.png](../images/b/b5/Certified.png)‎ (160 × 160 pixel, file size: 10 KB, MIME type: image/png)
 
 ## File history
 
@@ -75,9 +75,9 @@ The following 101 pages link to this file:
 * [Submissions:Place](../Submissions/Place.md "Submissions:Place")
 * [Submissions:Collection](../Submissions/Collection.md "Submissions:Collection")
 * [Submissions:AOS AGROVOC Concept Server fundation ontology model](../Submissions/AOS_AGROVOC_Concept_Server_fundation_ontology_model.md "Submissions:AOS AGROVOC Concept Server fundation ontology model")
-* [Submissions:OnlynessIsLoneliness (OIL)](../Submissions/OnlynessIsLoneliness_(OIL).md).html "Submissions:OnlynessIsLoneliness (OIL)")
-* [Submissions:SynonymOrEquivalence (SOE)](../Submissions/SynonymOrEquivalence_(SOE).md).html "Submissions:SynonymOrEquivalence (SOE)")
-* [Submissions:DisjointnessOfComplement (DOC)](../Submissions/DisjointnessOfComplement_(DOC).md).html "Submissions:DisjointnessOfComplement (DOC)")
+* [Submissions:OnlynessIsLoneliness (OIL)](../Submissions/OnlynessIsLoneliness_(OIL).md).md).html "Submissions:OnlynessIsLoneliness (OIL)")
+* [Submissions:SynonymOrEquivalence (SOE)](../Submissions/SynonymOrEquivalence_(SOE).md).md).html "Submissions:SynonymOrEquivalence (SOE)")
+* [Submissions:DisjointnessOfComplement (DOC)](../Submissions/DisjointnessOfComplement_(DOC).md).md).html "Submissions:DisjointnessOfComplement (DOC)")
 * [Submissions:Classification scheme - path enumeration model - to Taxonomy](../Submissions/Classification_scheme_-_path_enumeration_model_-_to_Taxonomy.md "Submissions:Classification scheme - path enumeration model - to Taxonomy")
 * [Submissions:Xsd:sequence embedding](../Submissions/Xsd/sequence_embedding.md "Submissions:Xsd:sequence embedding")
 * [Submissions:ConceptTerms](../Submissions/ConceptTerms.md "Submissions:ConceptTerms")

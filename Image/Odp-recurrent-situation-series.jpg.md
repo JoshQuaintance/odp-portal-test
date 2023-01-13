@@ -2,9 +2,9 @@
 * [File history](../Image/Odp-recurrent-situation-series.jpg.md#filehistory)
 * [Links](../Image/Odp-recurrent-situation-series.jpg.md#filelinks)
 
-[![Image:Odp-recurrent-situation-series.jpg](../images/thumb/4/4e/Odp-recurrent-situation-series.jpg/800px-Odp-recurrent-situation-series.jpg)](../../images/4/4e/Odp-recurrent-situation-series.jpg)  
+[![Image:Odp-recurrent-situation-series.jpg](../images/thumb/4/4e/Odp-recurrent-situation-series.jpg/800px-Odp-recurrent-situation-series.jpg)](../images/4/4e/Odp-recurrent-situation-series.jpg)  
 Size of this preview: 800 × 502 pixels  
-[Full resolution](../../images/4/4e/Odp-recurrent-situation-series.jpg)‎ (1,240 × 778 pixel, file size: 118 KB, MIME type: image/jpeg)
+[Full resolution](../images/4/4e/Odp-recurrent-situation-series.jpg)‎ (1,240 × 778 pixel, file size: 118 KB, MIME type: image/jpeg)
 
 ## File history
 

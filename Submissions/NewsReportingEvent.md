@@ -33,40 +33,40 @@ _The __NewsReportingEvent__ Content OP locally defines the following ontology el
 
 
 
-[![ObjectProperty](../../../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __hasPresentationContext__ (owl:ObjectProperty) This property can be used to link NewsReportingEvent to a NewsPresentationContext. 
- [![](../../../../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[hasPresentationContext](../Submissions/NewsReportingEvent/hasPresentationContext.md "Submissions:NewsReportingEvent/hasPresentationContext") page_
-[![ObjectProperty](../../../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __owns__ (owl:ObjectProperty) This property can be used to link a certain NewsProvider with a Media that the NewsProvider ows, e.g. Fox News Channel is owned by Fox Entertainment Group, which also owns other Media (FXX Channel, etc.).
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __hasPresentationContext__ (owl:ObjectProperty) This property can be used to link NewsReportingEvent to a NewsPresentationContext. 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[hasPresentationContext](../Submissions/NewsReportingEvent/hasPresentationContext.md "Submissions:NewsReportingEvent/hasPresentationContext") page_
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __owns__ (owl:ObjectProperty) This property can be used to link a certain NewsProvider with a Media that the NewsProvider ows, e.g. Fox News Channel is owned by Fox Entertainment Group, which also owns other Media (FXX Channel, etc.).
 This is an universal property, it can be also used in different context (e.g. Ruslana owns a Persian cat). 
 
 
 
- [![](../../../../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[owns](../Submissions/NewsReportingEvent/owns.md "Submissions:NewsReportingEvent/owns") page_
-[![ObjectProperty](../../../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __presentedAt__ (owl:ObjectProperty) This property can be used to link a NewsReportingEvent to a Media (TV station, radio station, newspaper, webpage) at which a certain ActualEventView was presented. 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[owns](../Submissions/NewsReportingEvent/owns.md "Submissions:NewsReportingEvent/owns") page_
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __presentedAt__ (owl:ObjectProperty) This property can be used to link a NewsReportingEvent to a Media (TV station, radio station, newspaper, webpage) at which a certain ActualEventView was presented. 
 This is an universal property and can be used in different contexts. 
 
 
 
- [![](../../../../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[presentedAt](../Submissions/NewsReportingEvent/presentedAt.md "Submissions:NewsReportingEvent/presentedAt") page_
-[![Class](../../../../../../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __Media__ (owl:Class) An entity that allows a communication of news messages, for example a TV station, radio station, newspaper, website, etc. 
- [![](../../../../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[Media](../Submissions/NewsReportingEvent/Media.md "Submissions:NewsReportingEvent/Media") page_
-[![Class](../../../../../../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __NewsEventReporter__ (owl:Class) An Actor (usually a Person) that is an author of a certain ActualEventView.
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[presentedAt](../Submissions/NewsReportingEvent/presentedAt.md "Submissions:NewsReportingEvent/presentedAt") page_
+[![Class](../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __Media__ (owl:Class) An entity that allows a communication of news messages, for example a TV station, radio station, newspaper, website, etc. 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[Media](../Submissions/NewsReportingEvent/Media.md "Submissions:NewsReportingEvent/Media") page_
+[![Class](../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __NewsEventReporter__ (owl:Class) An Actor (usually a Person) that is an author of a certain ActualEventView.
 NewsEventReporter is not linked to an ActualEventView directly, it is connected to NewsReportingEvent, which is designed to document the act of reporting. 
 
 
 
- [![](../../../../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[NewsEventReporter](../Submissions/NewsReportingEvent/NewsEventReporter.md "Submissions:NewsReportingEvent/NewsEventReporter") page_
-[![Class](../../../../../../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __NewsPresentationContext__ (owl:Class) Class for denoting circumstances of an actual event presentation. For example if an event was presented at the end of website, then end of website is its NewsPresentationContext.
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[NewsEventReporter](../Submissions/NewsReportingEvent/NewsEventReporter.md "Submissions:NewsReportingEvent/NewsEventReporter") page_
+[![Class](../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __NewsPresentationContext__ (owl:Class) Class for denoting circumstances of an actual event presentation. For example if an event was presented at the end of website, then end of website is its NewsPresentationContext.
 NewsPresentationContext is not directly attached to an ActualEventView, it is attached to NewsReportingEvent, which designates the act of an event reporting. 
 
 
 
- [![](../../../../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[NewsPresentationContext](../Submissions/NewsReportingEvent/NewsPresentationContext.md "Submissions:NewsReportingEvent/NewsPresentationContext") page_
-[![Class](../../../../../../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __NewsProvider__ (owl:Class) An entity, usually a company, that ows a certain Media. For example Fox Entertainment Group owns the Fox News Channel. Fox Entertainment Group is a NewsProvider. 
- [![](../../../../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[NewsProvider](../Submissions/NewsReportingEvent/NewsProvider.md "Submissions:NewsReportingEvent/NewsProvider") page_
-[![Class](../../../../../../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __NewsReportingEvent__ (owl:Class) This is a subclass of ReportingEvent, designed to represent an act of reporting a certain actual event during a news programme or via other news media. 
- [![](../../../../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[NewsReportingEvent](../Submissions/NewsReportingEvent/NewsReportingEvent.md "Submissions:NewsReportingEvent/NewsReportingEvent") page_
-[![Class](../../../../../../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __PresentationContext__ (owl:Class) Class for denoting circumstances of an entity presentation. If a waiter presented a dish with an apologetic smile, then the apologetic smile is a PresentationContext. 
- [![](../../../../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[PresentationContext](../Submissions/NewsReportingEvent/PresentationContext.md "Submissions:NewsReportingEvent/PresentationContext") page_
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[NewsPresentationContext](../Submissions/NewsReportingEvent/NewsPresentationContext.md "Submissions:NewsReportingEvent/NewsPresentationContext") page_
+[![Class](../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __NewsProvider__ (owl:Class) An entity, usually a company, that ows a certain Media. For example Fox Entertainment Group owns the Fox News Channel. Fox Entertainment Group is a NewsProvider. 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[NewsProvider](../Submissions/NewsReportingEvent/NewsProvider.md "Submissions:NewsReportingEvent/NewsProvider") page_
+[![Class](../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __NewsReportingEvent__ (owl:Class) This is a subclass of ReportingEvent, designed to represent an act of reporting a certain actual event during a news programme or via other news media. 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[NewsReportingEvent](../Submissions/NewsReportingEvent/NewsReportingEvent.md "Submissions:NewsReportingEvent/NewsReportingEvent") page_
+[![Class](../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __PresentationContext__ (owl:Class) Class for denoting circumstances of an entity presentation. If a waiter presented a dish with an apologetic smile, then the apologetic smile is a PresentationContext. 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[PresentationContext](../Submissions/NewsReportingEvent/PresentationContext.md "Submissions:NewsReportingEvent/PresentationContext") page_
 #  Additional information
 
 

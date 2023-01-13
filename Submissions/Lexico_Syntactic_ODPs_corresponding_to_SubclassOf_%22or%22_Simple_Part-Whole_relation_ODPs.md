@@ -50,7 +50,7 @@ __Reusable JAPE code__: [SC\_PW\_1.jape](../images/9/93/SC_PW_1.jape "SC PW 1.ja
 
 
 
-[![](../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[1](Submissions%253ALexico_Syntactic_ODPs_corresponding_to_SubclassOf_%2522or%2522_Simple_Part-Whole_relation_ODPs/1.html "Submissions:Lexico Syntactic ODPs corresponding to SubclassOf \"or\" Simple Part-Whole relation ODPs/1") page_
+[![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[1](Submissions%253ALexico_Syntactic_ODPs_corresponding_to_SubclassOf_%2522or%2522_Simple_Part-Whole_relation_ODPs/1.html "Submissions:Lexico Syntactic ODPs corresponding to SubclassOf \"or\" Simple Part-Whole relation ODPs/1") page_
 
 
 
@@ -80,7 +80,7 @@ __Reusable JAPE code__: [SC\_PW\_2.jape](../images/3/3b/SC_PW_2.jape "SC PW 2.ja
 
 
 
-[![](../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[2](Submissions%253ALexico_Syntactic_ODPs_corresponding_to_SubclassOf_%2522or%2522_Simple_Part-Whole_relation_ODPs/2.html "Submissions:Lexico Syntactic ODPs corresponding to SubclassOf \"or\" Simple Part-Whole relation ODPs/2") page_
+[![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[2](Submissions%253ALexico_Syntactic_ODPs_corresponding_to_SubclassOf_%2522or%2522_Simple_Part-Whole_relation_ODPs/2.html "Submissions:Lexico Syntactic ODPs corresponding to SubclassOf \"or\" Simple Part-Whole relation ODPs/2") page_
 
 
 

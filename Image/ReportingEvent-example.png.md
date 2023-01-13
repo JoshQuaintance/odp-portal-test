@@ -2,9 +2,9 @@
 * [File history](../Image/ReportingEvent-example.png.md#filehistory)
 * [Links](../Image/ReportingEvent-example.png.md#filelinks)
 
-[![Image:ReportingEvent-example.png](../../../images/0/0a/ReportingEvent-example.png)](../../../images/0/0a/ReportingEvent-example.png)  
+[![Image:ReportingEvent-example.png](../images/0/0a/ReportingEvent-example.png)](../images/0/0a/ReportingEvent-example.png)  
 No higher resolution available.  
-[ReportingEvent-example.png](../../../images/0/0a/ReportingEvent-example.png)‎ (393 × 497 pixel, file size: 9 KB, MIME type: image/png)
+[ReportingEvent-example.png](../images/0/0a/ReportingEvent-example.png)‎ (393 × 497 pixel, file size: 9 KB, MIME type: image/png)
 
 ## File history
 

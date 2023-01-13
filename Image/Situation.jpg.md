@@ -2,9 +2,9 @@
 * [File history](../Image/Situation.jpg.md#filehistory)
 * [Links](../Image/Situation.jpg.md#filelinks)
 
-[![Image:Situation.jpg](../../../images/d/de/Situation.jpg)](../../../images/d/de/Situation.jpg)  
+[![Image:Situation.jpg](../images/d/de/Situation.jpg)](../images/d/de/Situation.jpg)  
 No higher resolution available.  
-[Situation.jpg](../../../images/d/de/Situation.jpg)‎ (288 × 168 pixel, file size: 20 KB, MIME type: image/jpeg)
+[Situation.jpg](../images/d/de/Situation.jpg)‎ (288 × 168 pixel, file size: 20 KB, MIME type: image/jpeg)
 
 ## File history
 

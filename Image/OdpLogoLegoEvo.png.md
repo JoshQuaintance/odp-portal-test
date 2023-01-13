@@ -2,9 +2,9 @@
 * [File history](../Image/OdpLogoLegoEvo.png.md#filehistory)
 * [Links](../Image/OdpLogoLegoEvo.png.md#filelinks)
 
-[![Image:OdpLogoLegoEvo.png](../../../images/6/68/OdpLogoLegoEvo.png)](../../../images/6/68/OdpLogoLegoEvo.png)  
+[![Image:OdpLogoLegoEvo.png](../images/6/68/OdpLogoLegoEvo.png)](../images/6/68/OdpLogoLegoEvo.png)  
 No higher resolution available.  
-[OdpLogoLegoEvo.png](../../../images/6/68/OdpLogoLegoEvo.png)‎ (400 × 394 pixel, file size: 14 KB, MIME type: image/png)New \*BETA\* version.
+[OdpLogoLegoEvo.png](../images/6/68/OdpLogoLegoEvo.png)‎ (400 × 394 pixel, file size: 14 KB, MIME type: image/png)New \*BETA\* version.
 
 
 

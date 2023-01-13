@@ -2,9 +2,9 @@
 * [File history](../Image/RelationbasedtermbasedSubClassOfExample.png.md#filehistory)
 * [Links](../Image/RelationbasedtermbasedSubClassOfExample.png.md#filelinks)
 
-[![Image:RelationbasedtermbasedSubClassOfExample.png](../../../images/9/9f/RelationbasedtermbasedSubClassOfExample.png)](../../../images/9/9f/RelationbasedtermbasedSubClassOfExample.png)  
+[![Image:RelationbasedtermbasedSubClassOfExample.png](../images/9/9f/RelationbasedtermbasedSubClassOfExample.png)](../images/9/9f/RelationbasedtermbasedSubClassOfExample.png)  
 No higher resolution available.  
-[RelationbasedtermbasedSubClassOfExample.png](../../../images/9/9f/RelationbasedtermbasedSubClassOfExample.png)‎ (398 × 224 pixel, file size: 36 KB, MIME type: image/png)
+[RelationbasedtermbasedSubClassOfExample.png](../images/9/9f/RelationbasedtermbasedSubClassOfExample.png)‎ (398 × 224 pixel, file size: 36 KB, MIME type: image/png)
 
 ## File history
 

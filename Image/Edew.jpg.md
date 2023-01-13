@@ -2,9 +2,9 @@
 * [File history](../Image/Edew.jpg.md#filehistory)
 * [Links](../Image/Edew.jpg.md#filelinks)
 
-[![Image:Edew.jpg](../../../images/4/45/Edew.jpg)](../../../images/4/45/Edew.jpg)  
+[![Image:Edew.jpg](../images/4/45/Edew.jpg)](../images/4/45/Edew.jpg)  
 No higher resolution available.  
-[Edew.jpg](../../../images/4/45/Edew.jpg)‎ (300 × 225 pixel, file size: 33 KB, MIME type: image/jpeg)
+[Edew.jpg](../images/4/45/Edew.jpg)‎ (300 × 225 pixel, file size: 33 KB, MIME type: image/jpeg)
 
 ## File history
 

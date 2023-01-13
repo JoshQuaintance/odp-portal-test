@@ -465,7 +465,7 @@
 * [![SalzburgLogo.png](../images/thumb/0/0f/SalzburgLogo.png/180px-SalzburgLogo.png)](../Image/SalzburgLogo.png.md "SalzburgLogo.png")
 * [![Scorepart pattern.png](../images/thumb/0/02/Scorepart_pattern.png/180px-Scorepart_pattern.png)](../Image/Scorepart_pattern.png.md "Scorepart pattern.png")
 * [![Scorepart.png](../images/thumb/8/8f/Scorepart.png/180px-Scorepart.png)](../Image/Scorepart.png.md "Scorepart.png")
-* [![Screenshot (21).png](../images/thumb/6/63/Screenshot_(21).png).png/180px-Screenshot_(21).png)](../Image/Screenshot_(21).png.md).png.html "Screenshot (21).png")
+* [![Screenshot (21).png](../images/thumb/6/63/Screenshot_(21).png).png).png/180px-Screenshot_(21).png)](../Image/Screenshot_(21).png.md).png.md).png.html "Screenshot (21).png")
 * [![Sequence.png](../images/thumb/b/b2/Sequence.png/180px-Sequence.png)](../Image/Sequence.png.md "Sequence.png")
 * [![ServiceProviderSoA v1.jpg](../images/thumb/b/b7/ServiceProviderSoA_v1.jpg/180px-ServiceProviderSoA_v1.jpg)](../Image/ServiceProviderSoA_v1.jpg.md "ServiceProviderSoA v1.jpg")
 * [![ServiceProviderSoA.jpg](../images/thumb/2/27/ServiceProviderSoA.jpg/180px-ServiceProviderSoA.jpg)](../Image/ServiceProviderSoA.jpg.md "ServiceProviderSoA.jpg")

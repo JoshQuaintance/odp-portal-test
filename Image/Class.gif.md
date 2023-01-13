@@ -2,9 +2,9 @@
 * [File history](../Image/Class.gif.md#filehistory)
 * [Links](../Image/Class.gif.md#filelinks)
 
-[![Image:Class.gif](../../../images/2/27/Class.gif)](../../../images/2/27/Class.gif)  
+[![Image:Class.gif](../images/2/27/Class.gif)](../images/2/27/Class.gif)  
 No higher resolution available.  
-[Class.gif](../../../images/2/27/Class.gif)‎ (128 × 128 pixel, file size: 7 KB, MIME type: image/gif)
+[Class.gif](../images/2/27/Class.gif)‎ (128 × 128 pixel, file size: 7 KB, MIME type: image/gif)
 
 ## File history
 

@@ -2,9 +2,9 @@
 * [File history](../Image/Workflow_PR-NOR-CLTX-02_example.png.md#filehistory)
 * [Links](../Image/Workflow_PR-NOR-CLTX-02_example.png.md#filelinks)
 
-[![Image:Workflow PR-NOR-CLTX-02 example.png](../images/thumb/9/9e/Workflow_PR-NOR-CLTX-02_example.png/144px-Workflow_PR-NOR-CLTX-02_example.png)](../../images/9/9e/Workflow_PR-NOR-CLTX-02_example.png)  
+[![Image:Workflow PR-NOR-CLTX-02 example.png](../images/thumb/9/9e/Workflow_PR-NOR-CLTX-02_example.png/144px-Workflow_PR-NOR-CLTX-02_example.png)](../images/9/9e/Workflow_PR-NOR-CLTX-02_example.png)  
 Size of this preview: 144 × 598 pixels  
-[Full resolution](../../images/9/9e/Workflow_PR-NOR-CLTX-02_example.png)‎ (150 × 623 pixel, file size: 64 KB, MIME type: image/png)
+[Full resolution](../images/9/9e/Workflow_PR-NOR-CLTX-02_example.png)‎ (150 × 623 pixel, file size: 64 KB, MIME type: image/png)
 
 ## File history
 

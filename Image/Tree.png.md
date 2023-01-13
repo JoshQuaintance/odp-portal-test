@@ -2,9 +2,9 @@
 * [File history](../Image/Tree.png.md#filehistory)
 * [Links](../Image/Tree.png.md#filelinks)
 
-[![Image:Tree.png](../images/thumb/a/ac/Tree.png/800px-Tree.png)](../../images/a/ac/Tree.png)  
+[![Image:Tree.png](../images/thumb/a/ac/Tree.png/800px-Tree.png)](../images/a/ac/Tree.png)  
 Size of this preview: 800 × 389 pixels  
-[Full resolution](../../images/a/ac/Tree.png)‎ (1,506 × 732 pixel, file size: 139 KB, MIME type: image/png)
+[Full resolution](../images/a/ac/Tree.png)‎ (1,506 × 732 pixel, file size: 139 KB, MIME type: image/png)
 
 ## File history
 

@@ -2,9 +2,9 @@
 * [File history](../Image/Resourceabundanceobservation.jpg.md#filehistory)
 * [Links](../Image/Resourceabundanceobservation.jpg.md#filelinks)
 
-[![Image:Resourceabundanceobservation.jpg](../images/thumb/7/7a/Resourceabundanceobservation.jpg/800px-Resourceabundanceobservation.jpg)](../../images/7/7a/Resourceabundanceobservation.jpg)  
+[![Image:Resourceabundanceobservation.jpg](../images/thumb/7/7a/Resourceabundanceobservation.jpg/800px-Resourceabundanceobservation.jpg)](../images/7/7a/Resourceabundanceobservation.jpg)  
 Size of this preview: 800 × 236 pixels  
-[Full resolution](../../images/7/7a/Resourceabundanceobservation.jpg)‎ (953 × 281 pixel, file size: 117 KB, MIME type: image/jpeg)
+[Full resolution](../images/7/7a/Resourceabundanceobservation.jpg)‎ (953 × 281 pixel, file size: 117 KB, MIME type: image/jpeg)
 
 ## File history
 

@@ -2,9 +2,9 @@
 * [File history](../Image/Time-period.jpg.md#filehistory)
 * [Links](../Image/Time-period.jpg.md#filelinks)
 
-[![Image:Time-period.jpg](../../../images/e/ee/Time-period.jpg)](../../../images/e/ee/Time-period.jpg)  
+[![Image:Time-period.jpg](../images/e/ee/Time-period.jpg)](../images/e/ee/Time-period.jpg)  
 No higher resolution available.  
-[Time-period.jpg](../../../images/e/ee/Time-period.jpg)‎ (555 × 391 pixel, file size: 24 KB, MIME type: image/jpeg)Diagram for time period pattern
+[Time-period.jpg](../images/e/ee/Time-period.jpg)‎ (555 × 391 pixel, file size: 24 KB, MIME type: image/jpeg)Diagram for time period pattern
 
 
 

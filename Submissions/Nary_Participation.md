@@ -38,19 +38,19 @@ _The __Nary Participation__ Content OP locally defines the following ontology el
 
 
 
- [![](../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[NaryParticipation](../Submissions/Nary_Participation/NaryParticipation.md "Submissions:Nary Participation/NaryParticipation") page_
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[NaryParticipation](../Submissions/Nary_Participation/NaryParticipation.md "Submissions:Nary Participation/NaryParticipation") page_
 
-[![ObjectProperty](../../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __participationIncludes__ (owl:ObjectProperty) The relation holding between an  [NaryParticipation](../Submissions/Nary_Participation/NaryParticipation.md "Submissions:Nary Participation/NaryParticipation") and any  [Entity](../Submissions/Situation/Entity.md "Submissions:Situation/Entity"). 
-
-
-
- [![](../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[participationIncludes](../Submissions/Nary_Participation/participationIncludes.md "Submissions:Nary Participation/participationIncludes") page_
-
-[![ObjectProperty](../../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __isIncludedInParticipation__ (owl:ObjectProperty) The relation holding between any  [Entity](../Submissions/Situation/Entity.md "Submissions:Situation/Entity") and a  [NaryParticipation](../Submissions/Nary_Participation/NaryParticipation.md "Submissions:Nary Participation/NaryParticipation"). 
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __participationIncludes__ (owl:ObjectProperty) The relation holding between an  [NaryParticipation](../Submissions/Nary_Participation/NaryParticipation.md "Submissions:Nary Participation/NaryParticipation") and any  [Entity](../Submissions/Situation/Entity.md "Submissions:Situation/Entity"). 
 
 
 
- [![](../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[isIncludedInParticipation](../Submissions/Nary_Participation/isIncludedInParticipation.md "Submissions:Nary Participation/isIncludedInParticipation") page_
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[participationIncludes](../Submissions/Nary_Participation/participationIncludes.md "Submissions:Nary Participation/participationIncludes") page_
+
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __isIncludedInParticipation__ (owl:ObjectProperty) The relation holding between any  [Entity](../Submissions/Situation/Entity.md "Submissions:Situation/Entity") and a  [NaryParticipation](../Submissions/Nary_Participation/NaryParticipation.md "Submissions:Nary Participation/NaryParticipation"). 
+
+
+
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[isIncludedInParticipation](../Submissions/Nary_Participation/isIncludedInParticipation.md "Submissions:Nary Participation/isIncludedInParticipation") page_
 #  Additional information
 
 

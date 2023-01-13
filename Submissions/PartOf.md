@@ -38,19 +38,19 @@ _The __PartOf__ Content OP locally defines the following ontology elements:_
 
 
 
- [![](../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[Entity](../Submissions/PartOf/Entity.md "Submissions:PartOf/Entity") page_
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[Entity](../Submissions/PartOf/Entity.md "Submissions:PartOf/Entity") page_
 
-[![ObjectProperty](../../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __hasPart__ (owl:ObjectProperty) A transitive relation expressing parthood between any entities, e.g. _the human body has a brain as part_. When specializing this Content OP, take care of restricting the domain and range appropriately, since it could be counterintuitive to use this relation arbitrarily, e.g. between animals and planets. For an intransitive part-of Content OP, see  [componency](../Submissions/Componency.md "Submissions:Componency"). 
-
-
-
- [![](../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[hasPart](../Submissions/PartOf/hasPart.md "Submissions:PartOf/hasPart") page_
-
-[![ObjectProperty](../../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __isPartOf__ (owl:ObjectProperty) A transitive relation expressing parthood between any entities, e.g. _brain is a part of the human body_. When specializing this Content OP, take care of restricting the domain and range appropriately, since it could be counterintuitive to use this relation arbitrarily, e.g. between animals and planets. For an intransitive part-of Content OP, see  [componency](../Submissions/Componency.md "Submissions:Componency"). 
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __hasPart__ (owl:ObjectProperty) A transitive relation expressing parthood between any entities, e.g. _the human body has a brain as part_. When specializing this Content OP, take care of restricting the domain and range appropriately, since it could be counterintuitive to use this relation arbitrarily, e.g. between animals and planets. For an intransitive part-of Content OP, see  [componency](../Submissions/Componency.md "Submissions:Componency"). 
 
 
 
- [![](../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[isPartOf](../Submissions/PartOf/isPartOf.md "Submissions:PartOf/isPartOf") page_
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[hasPart](../Submissions/PartOf/hasPart.md "Submissions:PartOf/hasPart") page_
+
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __isPartOf__ (owl:ObjectProperty) A transitive relation expressing parthood between any entities, e.g. _brain is a part of the human body_. When specializing this Content OP, take care of restricting the domain and range appropriately, since it could be counterintuitive to use this relation arbitrarily, e.g. between animals and planets. For an intransitive part-of Content OP, see  [componency](../Submissions/Componency.md "Submissions:Componency"). 
+
+
+
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[isPartOf](../Submissions/PartOf/isPartOf.md "Submissions:PartOf/isPartOf") page_
 #  Additional information
 
 

@@ -2,9 +2,9 @@
 * [File history](../Image/Info_locked.png.md#filehistory)
 * [Links](../Image/Info_locked.png.md#filelinks)
 
-[![Image:Info locked.png](../images/thumb/4/49/Info_locked.png/600px-Info_locked.png)](../../images/4/49/Info_locked.png)  
+[![Image:Info locked.png](../images/thumb/4/49/Info_locked.png/600px-Info_locked.png)](../images/4/49/Info_locked.png)  
 Size of this preview: 600 × 600 pixels  
-[Full resolution](../../images/4/49/Info_locked.png)‎ (1,707 × 1,707 pixel, file size: 544 KB, MIME type: image/png)
+[Full resolution](../images/4/49/Info_locked.png)‎ (1,707 × 1,707 pixel, file size: 544 KB, MIME type: image/png)
 
 ## File history
 

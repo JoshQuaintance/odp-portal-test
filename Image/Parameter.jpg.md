@@ -2,9 +2,9 @@
 * [File history](../Image/Parameter.jpg.md#filehistory)
 * [Links](../Image/Parameter.jpg.md#filelinks)
 
-[![Image:Parameter.jpg](../../../images/5/56/Parameter.jpg)](../../../images/5/56/Parameter.jpg)  
+[![Image:Parameter.jpg](../images/5/56/Parameter.jpg)](../images/5/56/Parameter.jpg)  
 No higher resolution available.  
-[Parameter.jpg](../../../images/5/56/Parameter.jpg)‎ (230 × 216 pixel, file size: 14 KB, MIME type: image/jpeg)
+[Parameter.jpg](../images/5/56/Parameter.jpg)‎ (230 × 216 pixel, file size: 14 KB, MIME type: image/jpeg)
 
 ## File history
 

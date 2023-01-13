@@ -33,20 +33,20 @@ _The __ResourceAbundanceObservation__ Content OP locally defines the following o
 
 
 
-[![Class](../../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __AbundanceLevel__ (owl:Class) 
- [![](../../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[AbundanceLevel](../Submissions/ResourceAbundanceObservation/AbundanceLevel.md "Submissions:ResourceAbundanceObservation/AbundanceLevel") page_
-[![Class](../../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __ResourceAbundanceObservation__ (owl:Class) An observation of a resource characterised by different parameters. 
- [![](../../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[ResourceAbundanceObservation](../Submissions/ResourceAbundanceObservation/ResourceAbundanceObservation.md "Submissions:ResourceAbundanceObservation/ResourceAbundanceObservation") page_
+[![Class](../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __AbundanceLevel__ (owl:Class) 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[AbundanceLevel](../Submissions/ResourceAbundanceObservation/AbundanceLevel.md "Submissions:ResourceAbundanceObservation/AbundanceLevel") page_
+[![Class](../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __ResourceAbundanceObservation__ (owl:Class) An observation of a resource characterised by different parameters. 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[ResourceAbundanceObservation](../Submissions/ResourceAbundanceObservation/ResourceAbundanceObservation.md "Submissions:ResourceAbundanceObservation/ResourceAbundanceObservation") page_
 [![DatatypeProperty](../images/thumb/a/a5/DatatypeProperty.gif/20px-DatatypeProperty.gif)](../Image/DatatypeProperty.gif.md "DatatypeProperty") __hasReferenceYear__ (owl:DatatypeProperty) 
- [![](../../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[hasReferenceYear](../Submissions/ResourceAbundanceObservation/hasReferenceYear.md "Submissions:ResourceAbundanceObservation/hasReferenceYear") page_
-[![ObjectProperty](../../../../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __hasAbundanceLevel__ (owl:ObjectProperty) 
- [![](../../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[hasAbundanceLevel](../Submissions/ResourceAbundanceObservation/hasAbundanceLevel.md "Submissions:ResourceAbundanceObservation/hasAbundanceLevel") page_
-[![ObjectProperty](../../../../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __hasResource__ (owl:ObjectProperty) 
- [![](../../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[hasResource](../Submissions/ResourceAbundanceObservation/hasResource.md "Submissions:ResourceAbundanceObservation/hasResource") page_
-[![ObjectProperty](../../../../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __isResourceOf__ (owl:ObjectProperty) 
- [![](../../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[isResourceOf](../Submissions/ResourceAbundanceObservation/isResourceOf.md "Submissions:ResourceAbundanceObservation/isResourceOf") page_
-[![ObjectProperty](../../../../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __isAbundanceLevelOf__ (owl:ObjectProperty) 
- [![](../../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[isAbundanceLevelOf](../Submissions/ResourceAbundanceObservation/isAbundanceLevelOf.md "Submissions:ResourceAbundanceObservation/isAbundanceLevelOf") page_
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[hasReferenceYear](../Submissions/ResourceAbundanceObservation/hasReferenceYear.md "Submissions:ResourceAbundanceObservation/hasReferenceYear") page_
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __hasAbundanceLevel__ (owl:ObjectProperty) 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[hasAbundanceLevel](../Submissions/ResourceAbundanceObservation/hasAbundanceLevel.md "Submissions:ResourceAbundanceObservation/hasAbundanceLevel") page_
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __hasResource__ (owl:ObjectProperty) 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[hasResource](../Submissions/ResourceAbundanceObservation/hasResource.md "Submissions:ResourceAbundanceObservation/hasResource") page_
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __isResourceOf__ (owl:ObjectProperty) 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[isResourceOf](../Submissions/ResourceAbundanceObservation/isResourceOf.md "Submissions:ResourceAbundanceObservation/isResourceOf") page_
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __isAbundanceLevelOf__ (owl:ObjectProperty) 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[isAbundanceLevelOf](../Submissions/ResourceAbundanceObservation/isAbundanceLevelOf.md "Submissions:ResourceAbundanceObservation/isAbundanceLevelOf") page_
 #  Additional information
 
 

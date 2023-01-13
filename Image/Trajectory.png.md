@@ -2,9 +2,9 @@
 * [File history](../Image/Trajectory.png.md#filehistory)
 * [Links](../Image/Trajectory.png.md#filelinks)
 
-[![Image:Trajectory.png](../../../images/8/87/Trajectory.png)](../../../images/8/87/Trajectory.png)  
+[![Image:Trajectory.png](../images/8/87/Trajectory.png)](../images/8/87/Trajectory.png)  
 No higher resolution available.  
-[Trajectory.png](../../../images/8/87/Trajectory.png)‎ (468 × 284 pixel, file size: 20 KB, MIME type: image/png)
+[Trajectory.png](../images/8/87/Trajectory.png)‎ (468 × 284 pixel, file size: 20 KB, MIME type: image/png)
 
 ## File history
 

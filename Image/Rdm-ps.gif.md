@@ -2,9 +2,9 @@
 * [File history](../Image/Rdm-ps.gif.md#filehistory)
 * [Links](../Image/Rdm-ps.gif.md#filelinks)
 
-[![Image:Rdm-ps.gif](../../../images/1/1a/Rdm-ps.gif)](../../../images/1/1a/Rdm-ps.gif)  
+[![Image:Rdm-ps.gif](../images/1/1a/Rdm-ps.gif)](../images/1/1a/Rdm-ps.gif)  
 No higher resolution available.  
-[Rdm-ps.gif](../../../images/1/1a/Rdm-ps.gif)‎ (91 × 114 pixel, file size: 6 KB, MIME type: image/gif)
+[Rdm-ps.gif](../images/1/1a/Rdm-ps.gif)‎ (91 × 114 pixel, file size: 6 KB, MIME type: image/gif)
 
 ## File history
 

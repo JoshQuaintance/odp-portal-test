@@ -2,9 +2,9 @@
 * [File history](../Image/KmiLogo.png.md#filehistory)
 * [Links](../Image/KmiLogo.png.md#filelinks)
 
-[![Image:KmiLogo.png](../../../images/3/36/KmiLogo.png)](../../../images/3/36/KmiLogo.png)  
+[![Image:KmiLogo.png](../images/3/36/KmiLogo.png)](../images/3/36/KmiLogo.png)  
 No higher resolution available.  
-[KmiLogo.png](../../../images/3/36/KmiLogo.png)‎ (124 × 53 pixel, file size: 3 KB, MIME type: image/png)
+[KmiLogo.png](../images/3/36/KmiLogo.png)‎ (124 × 53 pixel, file size: 3 KB, MIME type: image/png)
 
 ## File history
 

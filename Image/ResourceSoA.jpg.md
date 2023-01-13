@@ -2,9 +2,9 @@
 * [File history](../Image/ResourceSoA.jpg.md#filehistory)
 * [Links](../Image/ResourceSoA.jpg.md#filelinks)
 
-[![Image:ResourceSoA.jpg](../../../images/a/a4/ResourceSoA.jpg)](../../../images/a/a4/ResourceSoA.jpg)  
+[![Image:ResourceSoA.jpg](../images/a/a4/ResourceSoA.jpg)](../images/a/a4/ResourceSoA.jpg)  
 No higher resolution available.  
-[ResourceSoA.jpg](../../../images/a/a4/ResourceSoA.jpg)‎ (568 × 254 pixel, file size: 17 KB, MIME type: image/jpeg)
+[ResourceSoA.jpg](../images/a/a4/ResourceSoA.jpg)‎ (568 × 254 pixel, file size: 17 KB, MIME type: image/jpeg)
 
 ## File history
 

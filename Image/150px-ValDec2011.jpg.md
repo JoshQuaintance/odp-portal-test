@@ -2,9 +2,9 @@
 * [File history](../Image/150px-ValDec2011.jpg.md#filehistory)
 * [Links](../Image/150px-ValDec2011.jpg.md#filelinks)
 
-[![Image:150px-ValDec2011.jpg](../../../images/7/7d/150px-ValDec2011.jpg)](../../../images/7/7d/150px-ValDec2011.jpg)  
+[![Image:150px-ValDec2011.jpg](../images/7/7d/150px-ValDec2011.jpg)](../images/7/7d/150px-ValDec2011.jpg)  
 No higher resolution available.  
-[150px-ValDec2011.jpg](../../../images/7/7d/150px-ValDec2011.jpg)‎ (150 × 113 pixel, file size: 3 KB, MIME type: image/jpeg)Valentina Presutti
+[150px-ValDec2011.jpg](../images/7/7d/150px-ValDec2011.jpg)‎ (150 × 113 pixel, file size: 3 KB, MIME type: image/jpeg)Valentina Presutti
 
 
 

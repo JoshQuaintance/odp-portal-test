@@ -2,9 +2,9 @@
 * [File history](../Image/CyclisSubClassOf.png.md#filehistory)
 * [Links](../Image/CyclisSubClassOf.png.md#filelinks)
 
-[![Image:CyclisSubClassOf.png](../../../images/7/74/CyclisSubClassOf.png)](../../../images/7/74/CyclisSubClassOf.png)  
+[![Image:CyclisSubClassOf.png](../images/7/74/CyclisSubClassOf.png)](../images/7/74/CyclisSubClassOf.png)  
 No higher resolution available.  
-[CyclisSubClassOf.png](../../../images/7/74/CyclisSubClassOf.png)‎ (90 × 273 pixel, file size: 4 KB, MIME type: image/png)
+[CyclisSubClassOf.png](../images/7/74/CyclisSubClassOf.png)‎ (90 × 273 pixel, file size: 4 KB, MIME type: image/png)
 
 ## File history
 

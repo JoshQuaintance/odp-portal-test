@@ -2,9 +2,9 @@
 * [File history](../Image/Network.png.md#filehistory)
 * [Links](../Image/Network.png.md#filelinks)
 
-[![Image:Network.png](../../../images/d/d7/Network.png)](../../../images/d/d7/Network.png)  
+[![Image:Network.png](../images/d/d7/Network.png)](../images/d/d7/Network.png)  
 No higher resolution available.  
-[Network.png](../../../images/d/d7/Network.png)‎ (472 × 354 pixel, file size: 89 KB, MIME type: image/png)
+[Network.png](../images/d/d7/Network.png)‎ (472 × 354 pixel, file size: 89 KB, MIME type: image/png)
 
 ## File history
 

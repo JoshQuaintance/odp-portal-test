@@ -33,13 +33,13 @@ _The __SmartHome Event__ Content OP locally defines the following ontology eleme
 
 
 
-[![Class](../../../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __ComplexEvent__ (owl:Class) 
- [![](../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[ComplexEvent](../Submissions/SmartHome_Event/ComplexEvent.md "Submissions:SmartHome Event/ComplexEvent") page_
-[![Class](../../../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __EventCondition__ (owl:Class) 
- [![](../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[EventCondition](../Submissions/SmartHome_Event/EventCondition.md "Submissions:SmartHome Event/EventCondition") page_
-[![Class](../../../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __Manifestation__ (owl:Class) 
- [![](../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[Manifestation](../Submissions/SmartHome_Event/Manifestation.md "Submissions:SmartHome Event/Manifestation") page_
-[Submissions:SmartHome Event/event](http://ontologydesignpatterns.org/wiki/Special:AddData/Ontology Element Form/Submissions:SmartHome_Event/event "Submissions:SmartHome Event/event (not yet written)") [![](../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[event](http://ontologydesignpatterns.org/wiki/Special:AddData/Ontology Element Form/Submissions:SmartHome_Event/event "Submissions:SmartHome Event/event (not yet written)") page_
+[![Class](../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __ComplexEvent__ (owl:Class) 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[ComplexEvent](../Submissions/SmartHome_Event/ComplexEvent.md "Submissions:SmartHome Event/ComplexEvent") page_
+[![Class](../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __EventCondition__ (owl:Class) 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[EventCondition](../Submissions/SmartHome_Event/EventCondition.md "Submissions:SmartHome Event/EventCondition") page_
+[![Class](../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __Manifestation__ (owl:Class) 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[Manifestation](../Submissions/SmartHome_Event/Manifestation.md "Submissions:SmartHome Event/Manifestation") page_
+[Submissions:SmartHome Event/event](http://ontologydesignpatterns.org/wiki/Special:AddData/Ontology Element Form/Submissions:SmartHome_Event/event "Submissions:SmartHome Event/event (not yet written)") [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[event](http://ontologydesignpatterns.org/wiki/Special:AddData/Ontology Element Form/Submissions:SmartHome_Event/event "Submissions:SmartHome Event/event (not yet written)") page_
 #  Additional information
 
 

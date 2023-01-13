@@ -2,9 +2,9 @@
 * [File history](../Image/Musicalobject.png.md#filehistory)
 * [Links](../Image/Musicalobject.png.md#filelinks)
 
-[![Image:Musicalobject.png](../images/thumb/a/a3/Musicalobject.png/800px-Musicalobject.png)](../../images/a/a3/Musicalobject.png)  
+[![Image:Musicalobject.png](../images/thumb/a/a3/Musicalobject.png/800px-Musicalobject.png)](../images/a/a3/Musicalobject.png)  
 Size of this preview: 800 × 600 pixels  
-[Full resolution](../../images/a/a3/Musicalobject.png)‎ (1,178 × 883 pixel, file size: 61 KB, MIME type: image/png)Musical object image
+[Full resolution](../images/a/a3/Musicalobject.png)‎ (1,178 × 883 pixel, file size: 61 KB, MIME type: image/png)Musical object image
 
 
 

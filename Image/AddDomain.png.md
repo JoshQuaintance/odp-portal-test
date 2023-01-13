@@ -2,9 +2,9 @@
 * [File history](../Image/AddDomain.png.md#filehistory)
 * [Links](../Image/AddDomain.png.md#filelinks)
 
-[![Image:AddDomain.png](../../../images/c/ca/AddDomain.png)](../../../images/c/ca/AddDomain.png)  
+[![Image:AddDomain.png](../images/c/ca/AddDomain.png)](../images/c/ca/AddDomain.png)  
 No higher resolution available.  
-[AddDomain.png](../../../images/c/ca/AddDomain.png)‎ (142 × 142 pixel, file size: 16 KB, MIME type: image/png)
+[AddDomain.png](../images/c/ca/AddDomain.png)‎ (142 × 142 pixel, file size: 16 KB, MIME type: image/png)
 
 ## File history
 

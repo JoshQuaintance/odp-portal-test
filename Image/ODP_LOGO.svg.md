@@ -2,9 +2,9 @@
 * [File history](../Image/ODP_LOGO.svg.md#filehistory)
 * [Links](../Image/ODP_LOGO.svg.md#filelinks)
 
-[![Image:ODP LOGO.svg](../images/thumb/a/a9/ODP_LOGO.svg/600px-ODP_LOGO.svg.png)](../../images/a/a9/ODP_LOGO.svg)  
+[![Image:ODP LOGO.svg](../images/thumb/a/a9/ODP_LOGO.svg/600px-ODP_LOGO.svg.png)](../images/a/a9/ODP_LOGO.svg)  
 
-[ODP\_LOGO.svg](../../images/a/a9/ODP_LOGO.svg "ODP LOGO.svg")‎  (SVG file, nominally 800 × 800 pixels, file size: 953 B)
+[ODP\_LOGO.svg](../images/a/a9/ODP_LOGO.svg "ODP LOGO.svg")‎  (SVG file, nominally 800 × 800 pixels, file size: 953 B)
 
 
 

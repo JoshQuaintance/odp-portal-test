@@ -2,9 +2,9 @@
 * [File history](../Image/Review.gif.md#filehistory)
 * [Links](../Image/Review.gif.md#filelinks)
 
-[![Image:Review.gif](../../../images/c/ce/Review.gif)](../../../images/c/ce/Review.gif)  
+[![Image:Review.gif](../images/c/ce/Review.gif)](../images/c/ce/Review.gif)  
 No higher resolution available.  
-[Review.gif](../../../images/c/ce/Review.gif)‎ (128 × 128 pixel, file size: 7 KB, MIME type: image/gif)
+[Review.gif](../images/c/ce/Review.gif)‎ (128 × 128 pixel, file size: 7 KB, MIME type: image/gif)
 
 ## File history
 

@@ -2,9 +2,9 @@
 * [File history](../Image/PostExemplary.png.md#filehistory)
 * [Links](../Image/PostExemplary.png.md#filelinks)
 
-[![Image:PostExemplary.png](../../../images/6/60/PostExemplary.png)](../../../images/6/60/PostExemplary.png)  
+[![Image:PostExemplary.png](../images/6/60/PostExemplary.png)](../images/6/60/PostExemplary.png)  
 No higher resolution available.  
-[PostExemplary.png](../../../images/6/60/PostExemplary.png)‎ (120 × 120 pixel, file size: 12 KB, MIME type: image/png)
+[PostExemplary.png](../images/6/60/PostExemplary.png)‎ (120 × 120 pixel, file size: 12 KB, MIME type: image/png)
 
 ## File history
 
@@ -23,7 +23,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following 2 pages link to this file:
 
 
-* [Ontology Design Patterns . org (ODP)](../Ontology_Design_Patterns_._org_(ODP).md).html "Ontology Design Patterns . org (ODP)")
+* [Ontology Design Patterns . org (ODP)](../Ontology_Design_Patterns_._org_(ODP).md).md).html "Ontology Design Patterns . org (ODP)")
 * [Template:MainPageMap](../Template/MainPageMap.md "Template:MainPageMap")
 
 

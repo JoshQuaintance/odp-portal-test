@@ -2,9 +2,9 @@
 * [File history](../Image/Reactor-pattern.png.md#filehistory)
 * [Links](../Image/Reactor-pattern.png.md#filelinks)
 
-[![Image:Reactor-pattern.png](../images/thumb/4/4b/Reactor-pattern.png/800px-Reactor-pattern.png)](../../images/4/4b/Reactor-pattern.png)  
+[![Image:Reactor-pattern.png](../images/thumb/4/4b/Reactor-pattern.png/800px-Reactor-pattern.png)](../images/4/4b/Reactor-pattern.png)  
 Size of this preview: 800 × 316 pixels  
-[Full resolution](../../images/4/4b/Reactor-pattern.png)‎ (1,003 × 396 pixel, file size: 36 KB, MIME type: image/png)
+[Full resolution](../images/4/4b/Reactor-pattern.png)‎ (1,003 × 396 pixel, file size: 36 KB, MIME type: image/png)
 ```
 The Reactor Pattern  enables the
  modelling of processes that consume inputs and produce outputs under

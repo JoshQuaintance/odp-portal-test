@@ -97,5 +97,5 @@ __Solutions__:
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Training:ESWC2010\_Tutorial\_2\_-\_Extreme\_Design\_%28XD%29:\_Pattern-based\_Ontology\_Design/Hands-on\_with\_Content\_ODPs\_-\_Music\_industry\_example](../../../Training/ESWC2010_Tutorial_2_-_Extreme_Design_(XD)/_Pattern-based_Ontology_Design/Hands-on_with_Content_ODPs_-_Music_industry_example.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Training:ESWC2010\_Tutorial\_2\_-\_Extreme\_Design\_%28XD%29:\_Pattern-based\_Ontology\_Design/Hands-on\_with\_Content\_ODPs\_-\_Music\_industry\_example](../../../Training/ESWC2010_Tutorial_2_-_Extreme_Design_(XD)/_Pattern-based_Ontology_Design.md)/_Pattern-based_Ontology_Design/Hands-on_with_Content_ODPs_-_Music_industry_example.md)"
  [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Exercise](../../../Category/Exercise.md "Category:Exercise")

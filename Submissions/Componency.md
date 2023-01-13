@@ -38,20 +38,20 @@ _The __Componency__ Content OP locally defines the following ontology elements:_
 
 
 
- [![](../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[Object](../Submissions/Componency/Object.md "Submissions:Componency/Object") page_
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[Object](../Submissions/Componency/Object.md "Submissions:Componency/Object") page_
 
-[![ObjectProperty](../../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __hasComponent__ (owl:ObjectProperty) The  [hasPart](../Submissions/PartOf/hasPart.md "Submissions:PartOf/hasPart") relation without transitivity, holding between an  [Object](../Submissions/Componency/Object.md "Submissions:Componency/Object") (the system) and another (the component), and assuming a Design that structures the system Object. 
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __hasComponent__ (owl:ObjectProperty) The  [hasPart](../Submissions/PartOf/hasPart.md "Submissions:PartOf/hasPart") relation without transitivity, holding between an  [Object](../Submissions/Componency/Object.md "Submissions:Componency/Object") (the system) and another (the component), and assuming a Design that structures the system Object. 
 The componency Content OP uses the transitive reduction  [logical pattern](../Category/LogicalOP.md "Category:LogicalOP") to preserve transitive on the superproperty from the [part of](../Submissions/PartOf.md "Submissions:PartOf") Content OP. In practice, the [part of](../Submissions/PartOf.md "Submissions:PartOf") acts here as the transitive reduction of the  __componency__ Content OP. 
 
 
 
- [![](../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[hasComponent](../Submissions/Componency/hasComponent.md "Submissions:Componency/hasComponent") page_
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[hasComponent](../Submissions/Componency/hasComponent.md "Submissions:Componency/hasComponent") page_
 
-[![ObjectProperty](../../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __isComponentOf__ (owl:ObjectProperty) The inverse of the  [hasComponent](../Submissions/Componency/hasComponent.md "Submissions:Componency/hasComponent")  object property. 
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __isComponentOf__ (owl:ObjectProperty) The inverse of the  [hasComponent](../Submissions/Componency/hasComponent.md "Submissions:Componency/hasComponent")  object property. 
 
 
 
- [![](../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[isComponentOf](../Submissions/Componency/isComponentOf.md "Submissions:Componency/isComponentOf") page_
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[isComponentOf](../Submissions/Componency/isComponentOf.md "Submissions:Componency/isComponentOf") page_
 #  Additional information
 
 

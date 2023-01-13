@@ -1,5 +1,5 @@
 [![](../images/thumb/2/29/Reviewer.png/48px-Reviewer.png)](../Image/Reviewer.png.md "Reviewer.png")
-__[MathieuDAquin](../User/MathieuDAquin.md "User:MathieuDAquin") about [DisjointnessOfComplement (DOC)](../Submissions/DisjointnessOfComplement_(DOC).md).html "Submissions:DisjointnessOfComplement (DOC)") (Revision ID: [(DOC)?oldid=5716 5716](../Submissions/DisjointnessOfComplement.md "http://ontologydesignpatterns.org/wiki/Submissions:DisjointnessOfComplement"))__
+__[MathieuDAquin](../User/MathieuDAquin.md "User:MathieuDAquin") about [DisjointnessOfComplement (DOC)](../Submissions/DisjointnessOfComplement_(DOC).md).md).html "Submissions:DisjointnessOfComplement (DOC)") (Revision ID: [(DOC)?oldid=5716 5716](../Submissions/DisjointnessOfComplement.md "http://ontologydesignpatterns.org/wiki/Submissions:DisjointnessOfComplement"))__
 Overall suggestion (score): 0 - needs major revision
 
 
@@ -29,8 +29,8 @@ _Posted:_ 2009/9/8 _Last modified:_ 2009/9/8
 
 
 
-[All reviews](../Reviews/Main.md "Reviews:Main") | [Add a comment at the bottom of this page](index.php@title=Odp%253AAdd_comment&target=../Reviews/MathieuDAquin_about_DisjointnessOfComplement_(DOC).md).html#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Reviews:MathieuDAquin_about_DisjointnessOfComplement_(DOC)#New_comment")
+[All reviews](../Reviews/Main.md "Reviews:Main") | [Add a comment at the bottom of this page](index.php@title=Odp%253AAdd_comment&target=../Reviews/MathieuDAquin_about_DisjointnessOfComplement_(DOC).md).md).html#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Reviews:MathieuDAquin_about_DisjointnessOfComplement_(DOC)#New_comment")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Reviews:MathieuDAquin\_about\_DisjointnessOfComplement\_%28DOC%29](../Reviews/MathieuDAquin_about_DisjointnessOfComplement_(DOC).md).html)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Reviews:MathieuDAquin\_about\_DisjointnessOfComplement\_%28DOC%29](../Reviews/MathieuDAquin_about_DisjointnessOfComplement_(DOC).md).md).html)"
  [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [QCReview](../Category/QCReview.md "Category:QCReview")

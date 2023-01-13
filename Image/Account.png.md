@@ -2,9 +2,9 @@
 * [File history](../Image/Account.png.md#filehistory)
 * [Links](../Image/Account.png.md#filelinks)
 
-[![Image:Account.png](../../../images/9/92/Account.png)](../../../images/9/92/Account.png)  
+[![Image:Account.png](../images/9/92/Account.png)](../images/9/92/Account.png)  
 No higher resolution available.  
-[Account.png](../../../images/9/92/Account.png)‎ (128 × 128 pixel, file size: 21 KB, MIME type: image/png)
+[Account.png](../images/9/92/Account.png)‎ (128 × 128 pixel, file size: 21 KB, MIME type: image/png)
 
 ## File history
 
@@ -23,7 +23,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following 3 pages link to this file:
 
 
-* [Ontology Design Patterns . org (ODP)](../Ontology_Design_Patterns_._org_(ODP).md).html "Ontology Design Patterns . org (ODP)")
+* [Ontology Design Patterns . org (ODP)](../Ontology_Design_Patterns_._org_(ODP).md).md).html "Ontology Design Patterns . org (ODP)")
 * [Community:Images](../Community/Images.md "Community:Images")
 * [Template:MainPageMap](../Template/MainPageMap.md "Template:MainPageMap")
 

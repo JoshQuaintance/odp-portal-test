@@ -3,9 +3,9 @@
 * [Links](../Image/ConceptGroupPattern.jpg.md#filelinks)
 * [Metadata](../Image/ConceptGroupPattern.jpg.md#metadata)
 
-[![Image:ConceptGroupPattern.jpg](../../../images/e/e8/ConceptGroupPattern.jpg)](../../../images/e/e8/ConceptGroupPattern.jpg)  
+[![Image:ConceptGroupPattern.jpg](../images/e/e8/ConceptGroupPattern.jpg)](../images/e/e8/ConceptGroupPattern.jpg)  
 No higher resolution available.  
-[ConceptGroupPattern.jpg](../../../images/e/e8/ConceptGroupPattern.jpg)‎ (638 × 473 pixel, file size: 60 KB, MIME type: image/jpeg)Picture describing concept group pattern.
+[ConceptGroupPattern.jpg](../images/e/e8/ConceptGroupPattern.jpg)‎ (638 × 473 pixel, file size: 60 KB, MIME type: image/jpeg)Picture describing concept group pattern.
 
 
 

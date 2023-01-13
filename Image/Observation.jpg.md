@@ -2,9 +2,9 @@
 * [File history](../Image/Observation.jpg.md#filehistory)
 * [Links](../Image/Observation.jpg.md#filelinks)
 
-[![Image:Observation.jpg](../../../images/a/a9/Observation.jpg)](../../../images/a/a9/Observation.jpg)  
+[![Image:Observation.jpg](../images/a/a9/Observation.jpg)](../images/a/a9/Observation.jpg)  
 No higher resolution available.  
-[Observation.jpg](../../../images/a/a9/Observation.jpg)‎ (593 × 353 pixel, file size: 83 KB, MIME type: image/jpeg)
+[Observation.jpg](../images/a/a9/Observation.jpg)‎ (593 × 353 pixel, file size: 83 KB, MIME type: image/jpeg)
 
 ## File history
 

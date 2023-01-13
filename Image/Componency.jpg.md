@@ -2,9 +2,9 @@
 * [File history](../Image/Componency.jpg.md#filehistory)
 * [Links](../Image/Componency.jpg.md#filelinks)
 
-[![Image:Componency.jpg](../../../images/f/fc/Componency.jpg)](../../../images/f/fc/Componency.jpg)  
+[![Image:Componency.jpg](../images/f/fc/Componency.jpg)](../images/f/fc/Componency.jpg)  
 No higher resolution available.  
-[Componency.jpg](../../../images/f/fc/Componency.jpg)‎ (208 × 112 pixel, file size: 6 KB, MIME type: image/jpeg)
+[Componency.jpg](../images/f/fc/Componency.jpg)‎ (208 × 112 pixel, file size: 6 KB, MIME type: image/jpeg)
 
 ## File history
 

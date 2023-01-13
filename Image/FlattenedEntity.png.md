@@ -2,9 +2,9 @@
 * [File history](../Image/FlattenedEntity.png.md#filehistory)
 * [Links](../Image/FlattenedEntity.png.md#filelinks)
 
-[![Image:FlattenedEntity.png](../../../images/a/a2/FlattenedEntity.png)](../../../images/a/a2/FlattenedEntity.png)  
+[![Image:FlattenedEntity.png](../images/a/a2/FlattenedEntity.png)](../images/a/a2/FlattenedEntity.png)  
 No higher resolution available.  
-[FlattenedEntity.png](../../../images/a/a2/FlattenedEntity.png)‎ (548 × 103 pixel, file size: 39 KB, MIME type: image/png)
+[FlattenedEntity.png](../images/a/a2/FlattenedEntity.png)‎ (548 × 103 pixel, file size: 39 KB, MIME type: image/png)
 
 ## File history
 

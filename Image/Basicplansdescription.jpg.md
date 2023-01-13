@@ -2,9 +2,9 @@
 * [File history](../Image/Basicplansdescription.jpg.md#filehistory)
 * [Links](../Image/Basicplansdescription.jpg.md#filelinks)
 
-[![Image:Basicplansdescription.jpg](../images/thumb/5/54/Basicplansdescription.jpg/800px-Basicplansdescription.jpg)](../../images/5/54/Basicplansdescription.jpg)  
+[![Image:Basicplansdescription.jpg](../images/thumb/5/54/Basicplansdescription.jpg/800px-Basicplansdescription.jpg)](../images/5/54/Basicplansdescription.jpg)  
 Size of this preview: 800 × 282 pixels  
-[Full resolution](../../images/5/54/Basicplansdescription.jpg)‎ (816 × 288 pixel, file size: 37 KB, MIME type: image/jpeg)
+[Full resolution](../images/5/54/Basicplansdescription.jpg)‎ (816 × 288 pixel, file size: 37 KB, MIME type: image/jpeg)
 
 ## File history
 

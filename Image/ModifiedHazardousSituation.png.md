@@ -2,9 +2,9 @@
 * [File history](../Image/ModifiedHazardousSituation.png.md#filehistory)
 * [Links](../Image/ModifiedHazardousSituation.png.md#filelinks)
 
-[![Image:ModifiedHazardousSituation.png](../images/thumb/4/45/ModifiedHazardousSituation.png/800px-ModifiedHazardousSituation.png)](../../images/4/45/ModifiedHazardousSituation.png)  
+[![Image:ModifiedHazardousSituation.png](../images/thumb/4/45/ModifiedHazardousSituation.png/800px-ModifiedHazardousSituation.png)](../images/4/45/ModifiedHazardousSituation.png)  
 Size of this preview: 800 × 482 pixels  
-[Full resolution](../../images/4/45/ModifiedHazardousSituation.png)‎ (864 × 521 pixel, file size: 106 KB, MIME type: image/png)A modification to the existing HazardousSituation ODP to support risk analysis and mitigation planning.
+[Full resolution](../images/4/45/ModifiedHazardousSituation.png)‎ (864 × 521 pixel, file size: 106 KB, MIME type: image/png)A modification to the existing HazardousSituation ODP to support risk analysis and mitigation planning.
 
 
 

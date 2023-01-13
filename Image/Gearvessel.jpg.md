@@ -2,9 +2,9 @@
 * [File history](../Image/Gearvessel.jpg.md#filehistory)
 * [Links](../Image/Gearvessel.jpg.md#filelinks)
 
-[![Image:Gearvessel.jpg](../../../images/f/f3/Gearvessel.jpg)](../../../images/f/f3/Gearvessel.jpg)  
+[![Image:Gearvessel.jpg](../images/f/f3/Gearvessel.jpg)](../images/f/f3/Gearvessel.jpg)  
 No higher resolution available.  
-[Gearvessel.jpg](../../../images/f/f3/Gearvessel.jpg)‎ (217 × 145 pixel, file size: 26 KB, MIME type: image/jpeg)
+[Gearvessel.jpg](../images/f/f3/Gearvessel.jpg)‎ (217 × 145 pixel, file size: 26 KB, MIME type: image/jpeg)
 
 ## File history
 

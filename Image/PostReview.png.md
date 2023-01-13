@@ -2,9 +2,9 @@
 * [File history](../Image/PostReview.png.md#filehistory)
 * [Links](../Image/PostReview.png.md#filelinks)
 
-[![Image:PostReview.png](../../../images/7/73/PostReview.png)](../../../images/7/73/PostReview.png)  
+[![Image:PostReview.png](../images/7/73/PostReview.png)](../images/7/73/PostReview.png)  
 No higher resolution available.  
-[PostReview.png](../../../images/7/73/PostReview.png)‎ (128 × 128 pixel, file size: 15 KB, MIME type: image/png)
+[PostReview.png](../images/7/73/PostReview.png)‎ (128 × 128 pixel, file size: 15 KB, MIME type: image/png)
 
 ## File history
 
@@ -23,7 +23,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following 2 pages link to this file:
 
 
-* [Ontology Design Patterns . org (ODP)](../Ontology_Design_Patterns_._org_(ODP).md).html "Ontology Design Patterns . org (ODP)")
+* [Ontology Design Patterns . org (ODP)](../Ontology_Design_Patterns_._org_(ODP).md).md).html "Ontology Design Patterns . org (ODP)")
 * [Template:MainPageMap](../Template/MainPageMap.md "Template:MainPageMap")
 
 

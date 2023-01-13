@@ -2,9 +2,9 @@
 * [File history](../Image/Types_of_entitiesExampleDiagram.jpg.md#filehistory)
 * [Links](../Image/Types_of_entitiesExampleDiagram.jpg.md#filelinks)
 
-[![Image:Types of entitiesExampleDiagram.jpg](../../../images/a/ae/Types_of_entitiesExampleDiagram.jpg)](../../../images/a/ae/Types_of_entitiesExampleDiagram.jpg)  
+[![Image:Types of entitiesExampleDiagram.jpg](../images/a/ae/Types_of_entitiesExampleDiagram.jpg)](../images/a/ae/Types_of_entitiesExampleDiagram.jpg)  
 No higher resolution available.  
-[Types\_of\_entitiesExampleDiagram.jpg](../../../images/a/ae/Types_of_entitiesExampleDiagram.jpg)‎ (564 × 272 pixel, file size: 46 KB, MIME type: image/jpeg)
+[Types\_of\_entitiesExampleDiagram.jpg](../images/a/ae/Types_of_entitiesExampleDiagram.jpg)‎ (564 × 272 pixel, file size: 46 KB, MIME type: image/jpeg)
 
 ## File history
 

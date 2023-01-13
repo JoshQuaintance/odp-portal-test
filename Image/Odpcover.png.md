@@ -2,9 +2,9 @@
 * [File history](../Image/Odpcover.png.md#filehistory)
 * [Links](../Image/Odpcover.png.md#filelinks)
 
-[![Image:Odpcover.png](../images/thumb/7/7e/Odpcover.png/387px-Odpcover.png)](../../images/7/7e/Odpcover.png)  
+[![Image:Odpcover.png](../images/thumb/7/7e/Odpcover.png/387px-Odpcover.png)](../images/7/7e/Odpcover.png)  
 Size of this preview: 387 × 600 pixels  
-[Full resolution](../../images/7/7e/Odpcover.png)‎ (667 × 1,034 pixel, file size: 44 KB, MIME type: image/png)2016 ODP book cover picture
+[Full resolution](../images/7/7e/Odpcover.png)‎ (667 × 1,034 pixel, file size: 44 KB, MIME type: image/png)2016 ODP book cover picture
 
 
 

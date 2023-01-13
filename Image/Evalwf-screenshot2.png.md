@@ -2,9 +2,9 @@
 * [File history](../Image/Evalwf-screenshot2.png.md#filehistory)
 * [Links](../Image/Evalwf-screenshot2.png.md#filelinks)
 
-[![Image:Evalwf-screenshot2.png](../images/thumb/8/8e/Evalwf-screenshot2.png/800px-Evalwf-screenshot2.png)](../../images/8/8e/Evalwf-screenshot2.png)  
+[![Image:Evalwf-screenshot2.png](../images/thumb/8/8e/Evalwf-screenshot2.png/800px-Evalwf-screenshot2.png)](../images/8/8e/Evalwf-screenshot2.png)  
 Size of this preview: 800 × 500 pixels  
-[Full resolution](../../images/8/8e/Evalwf-screenshot2.png)‎ (1,280 × 800 pixel, file size: 154 KB, MIME type: image/png)
+[Full resolution](../images/8/8e/Evalwf-screenshot2.png)‎ (1,280 × 800 pixel, file size: 154 KB, MIME type: image/png)
 
 ## File history
 

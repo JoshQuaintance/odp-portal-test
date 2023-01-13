@@ -2,9 +2,9 @@
 * [File history](../Image/Negated-relation.png.md#filehistory)
 * [Links](../Image/Negated-relation.png.md#filelinks)
 
-[![Image:Negated-relation.png](../../../images/7/7f/Negated-relation.png)](../../../images/7/7f/Negated-relation.png)  
+[![Image:Negated-relation.png](../images/7/7f/Negated-relation.png)](../images/7/7f/Negated-relation.png)  
 No higher resolution available.  
-[Negated-relation.png](../../../images/7/7f/Negated-relation.png)‎ (587 × 122 pixel, file size: 20 KB, MIME type: image/png)
+[Negated-relation.png](../images/7/7f/Negated-relation.png)‎ (587 × 122 pixel, file size: 20 KB, MIME type: image/png)
 
 ## File history
 

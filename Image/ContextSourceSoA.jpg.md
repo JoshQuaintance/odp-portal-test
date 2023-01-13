@@ -2,9 +2,9 @@
 * [File history](../Image/ContextSourceSoA.jpg.md#filehistory)
 * [Links](../Image/ContextSourceSoA.jpg.md#filelinks)
 
-[![Image:ContextSourceSoA.jpg](../../../images/9/98/ContextSourceSoA.jpg)](../../../images/9/98/ContextSourceSoA.jpg)  
+[![Image:ContextSourceSoA.jpg](../images/9/98/ContextSourceSoA.jpg)](../images/9/98/ContextSourceSoA.jpg)  
 No higher resolution available.  
-[ContextSourceSoA.jpg](../../../images/9/98/ContextSourceSoA.jpg)‎ (496 × 269 pixel, file size: 16 KB, MIME type: image/jpeg)
+[ContextSourceSoA.jpg](../images/9/98/ContextSourceSoA.jpg)‎ (496 × 269 pixel, file size: 16 KB, MIME type: image/jpeg)
 
 ## File history
 

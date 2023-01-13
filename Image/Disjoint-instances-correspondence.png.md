@@ -2,9 +2,9 @@
 * [File history](../Image/Disjoint-instances-correspondence.png.md#filehistory)
 * [Links](../Image/Disjoint-instances-correspondence.png.md#filelinks)
 
-[![Image:Disjoint-instances-correspondence.png](../../../images/c/c2/Disjoint-instances-correspondence.png)](../../../images/c/c2/Disjoint-instances-correspondence.png)  
+[![Image:Disjoint-instances-correspondence.png](../images/c/c2/Disjoint-instances-correspondence.png)](../images/c/c2/Disjoint-instances-correspondence.png)  
 No higher resolution available.  
-[Disjoint-instances-correspondence.png](../../../images/c/c2/Disjoint-instances-correspondence.png)‎ (520 × 113 pixel, file size: 17 KB, MIME type: image/png)
+[Disjoint-instances-correspondence.png](../images/c/c2/Disjoint-instances-correspondence.png)‎ (520 × 113 pixel, file size: 17 KB, MIME type: image/png)
 
 ## File history
 

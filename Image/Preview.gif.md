@@ -2,9 +2,9 @@
 * [File history](../Image/Preview.gif.md#filehistory)
 * [Links](../Image/Preview.gif.md#filelinks)
 
-[![Image:Preview.gif](../../../images/7/73/Preview.gif)](../../../images/7/73/Preview.gif)  
+[![Image:Preview.gif](../images/7/73/Preview.gif)](../images/7/73/Preview.gif)  
 No higher resolution available.  
-[Preview.gif](../../../images/7/73/Preview.gif)‎ (100 × 100 pixel, file size: 1 KB, MIME type: image/gif)
+[Preview.gif](../images/7/73/Preview.gif)‎ (100 × 100 pixel, file size: 1 KB, MIME type: image/gif)
 
 ## File history
 

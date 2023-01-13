@@ -2,9 +2,9 @@
 * [File history](../Image/Before-after.png.md#filehistory)
 * [Links](../Image/Before-after.png.md#filelinks)
 
-[![Image:Before-after.png](../../../images/9/97/Before-after.png)](../../../images/9/97/Before-after.png)  
+[![Image:Before-after.png](../images/9/97/Before-after.png)](../images/9/97/Before-after.png)  
 No higher resolution available.  
-[Before-after.png](../../../images/9/97/Before-after.png)‎ (605 × 410 pixel, file size: 26 KB, MIME type: image/png)Example definition of Vehicle before and after the application of the logical design patterns for capturing change.
+[Before-after.png](../images/9/97/Before-after.png)‎ (605 × 410 pixel, file size: 26 KB, MIME type: image/png)Example definition of Vehicle before and after the application of the logical design patterns for capturing change.
 
 
 

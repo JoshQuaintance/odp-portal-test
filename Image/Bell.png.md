@@ -2,9 +2,9 @@
 * [File history](../Image/Bell.png.md#filehistory)
 * [Links](../Image/Bell.png.md#filelinks)
 
-[![Image:Bell.png](../../../images/6/6e/Bell.png)](../../../images/6/6e/Bell.png)  
+[![Image:Bell.png](../images/6/6e/Bell.png)](../images/6/6e/Bell.png)  
 No higher resolution available.  
-[Bell.png](../../../images/6/6e/Bell.png)‎ (128 × 128 pixel, file size: 14 KB, MIME type: image/png)
+[Bell.png](../images/6/6e/Bell.png)‎ (128 × 128 pixel, file size: 14 KB, MIME type: image/png)
 
 ## File history
 

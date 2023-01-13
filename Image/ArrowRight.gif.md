@@ -2,9 +2,9 @@
 * [File history](../Image/ArrowRight.gif.md#filehistory)
 * [Links](../Image/ArrowRight.gif.md#filelinks)
 
-[![Image:ArrowRight.gif](../../../images/8/87/ArrowRight.gif)](../../../images/8/87/ArrowRight.gif)  
+[![Image:ArrowRight.gif](../images/8/87/ArrowRight.gif)](../images/8/87/ArrowRight.gif)  
 No higher resolution available.  
-[ArrowRight.gif](../../../images/8/87/ArrowRight.gif)‎ (243 × 256 pixel, file size: 31 KB, MIME type: image/gif)
+[ArrowRight.gif](../images/8/87/ArrowRight.gif)‎ (243 × 256 pixel, file size: 31 KB, MIME type: image/gif)
 
 ## File history
 

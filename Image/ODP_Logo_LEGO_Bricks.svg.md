@@ -2,9 +2,9 @@
 * [File history](../Image/ODP_Logo_LEGO_Bricks.svg.md#filehistory)
 * [Links](../Image/ODP_Logo_LEGO_Bricks.svg.md#filelinks)
 
-[![Image:ODP Logo LEGO Bricks.svg](../images/thumb/d/d1/ODP_Logo_LEGO_Bricks.svg/685px-ODP_Logo_LEGO_Bricks.svg.png)](../../images/d/d1/ODP_Logo_LEGO_Bricks.svg)  
+[![Image:ODP Logo LEGO Bricks.svg](../images/thumb/d/d1/ODP_Logo_LEGO_Bricks.svg/685px-ODP_Logo_LEGO_Bricks.svg.png)](../images/d/d1/ODP_Logo_LEGO_Bricks.svg)  
 
-[ODP\_Logo\_LEGO\_Bricks.svg](../../images/d/d1/ODP_Logo_LEGO_Bricks.svg "ODP Logo LEGO Bricks.svg")‎  (SVG file, nominally 1,141 × 999 pixels, file size: 19 KB)
+[ODP\_Logo\_LEGO\_Bricks.svg](../images/d/d1/ODP_Logo_LEGO_Bricks.svg "ODP Logo LEGO Bricks.svg")‎  (SVG file, nominally 1,141 × 999 pixels, file size: 19 KB)
 
 
 

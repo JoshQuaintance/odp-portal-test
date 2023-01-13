@@ -19,5 +19,5 @@ __Description__:
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Affordance/Frame](../../Community/References/Frame_Detection_over_the_Semantic_Web_(ESWC09).md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Affordance/Frame](../../Community/References/Frame_Detection_over_the_Semantic_Web_(ESWC09).md).md)"
  [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")

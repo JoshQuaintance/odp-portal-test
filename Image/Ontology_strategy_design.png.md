@@ -2,9 +2,9 @@
 * [File history](../Image/Ontology_strategy_design.png.md#filehistory)
 * [Links](../Image/Ontology_strategy_design.png.md#filelinks)
 
-[![Image:Ontology strategy design.png](../../../images/0/0c/Ontology_strategy_design.png)](../../../images/0/0c/Ontology_strategy_design.png)  
+[![Image:Ontology strategy design.png](../images/0/0c/Ontology_strategy_design.png)](../images/0/0c/Ontology_strategy_design.png)  
 No higher resolution available.  
-[Ontology\_strategy\_design.png](../../../images/0/0c/Ontology_strategy_design.png)‎ (670 × 411 pixel, file size: 93 KB, MIME type: image/png)This ODP aims to help stakeholders to design strategies for cities transformation to smart ones
+[Ontology\_strategy\_design.png](../images/0/0c/Ontology_strategy_design.png)‎ (670 × 411 pixel, file size: 93 KB, MIME type: image/png)This ODP aims to help stakeholders to design strategies for cities transformation to smart ones
 
 
 

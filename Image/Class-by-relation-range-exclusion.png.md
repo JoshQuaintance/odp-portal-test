@@ -2,9 +2,9 @@
 * [File history](../Image/Class-by-relation-range-exclusion.png.md#filehistory)
 * [Links](../Image/Class-by-relation-range-exclusion.png.md#filelinks)
 
-[![Image:Class-by-relation-range-exclusion.png](../../../images/5/56/Class-by-relation-range-exclusion.png)](../../../images/5/56/Class-by-relation-range-exclusion.png)  
+[![Image:Class-by-relation-range-exclusion.png](../images/5/56/Class-by-relation-range-exclusion.png)](../images/5/56/Class-by-relation-range-exclusion.png)  
 No higher resolution available.  
-[Class-by-relation-range-exclusion.png](../../../images/5/56/Class-by-relation-range-exclusion.png)‎ (633 × 266 pixel, file size: 30 KB, MIME type: image/png)
+[Class-by-relation-range-exclusion.png](../images/5/56/Class-by-relation-range-exclusion.png)‎ (633 × 266 pixel, file size: 30 KB, MIME type: image/png)
 
 ## File history
 

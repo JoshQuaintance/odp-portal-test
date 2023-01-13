@@ -2,9 +2,9 @@
 * [File history](../Image/OOPMetrics.png.md#filehistory)
 * [Links](../Image/OOPMetrics.png.md#filelinks)
 
-[![Image:OOPMetrics.png](../images/thumb/a/a2/OOPMetrics.png/800px-OOPMetrics.png)](../../images/a/a2/OOPMetrics.png)  
+[![Image:OOPMetrics.png](../images/thumb/a/a2/OOPMetrics.png/800px-OOPMetrics.png)](../images/a/a2/OOPMetrics.png)  
 Size of this preview: 800 × 314 pixels  
-[Full resolution](../../images/a/a2/OOPMetrics.png)‎ (862 × 338 pixel, file size: 42 KB, MIME type: image/png)
+[Full resolution](../images/a/a2/OOPMetrics.png)‎ (862 × 338 pixel, file size: 42 KB, MIME type: image/png)
 
 ## File history
 

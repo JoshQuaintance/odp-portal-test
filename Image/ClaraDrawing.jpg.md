@@ -2,9 +2,9 @@
 * [File history](../Image/ClaraDrawing.jpg.md#filehistory)
 * [Links](../Image/ClaraDrawing.jpg.md#filelinks)
 
-[![Image:ClaraDrawing.jpg](../../../images/c/cc/ClaraDrawing.jpg)](../../../images/c/cc/ClaraDrawing.jpg)  
+[![Image:ClaraDrawing.jpg](../images/c/cc/ClaraDrawing.jpg)](../images/c/cc/ClaraDrawing.jpg)  
 No higher resolution available.  
-[ClaraDrawing.jpg](../../../images/c/cc/ClaraDrawing.jpg)‎ (189 × 259 pixel, file size: 15 KB, MIME type: image/jpeg)
+[ClaraDrawing.jpg](../images/c/cc/ClaraDrawing.jpg)‎ (189 × 259 pixel, file size: 15 KB, MIME type: image/jpeg)
 
 ## File history
 

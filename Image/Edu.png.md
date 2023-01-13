@@ -2,9 +2,9 @@
 * [File history](../Image/Edu.png.md#filehistory)
 * [Links](../Image/Edu.png.md#filelinks)
 
-[![Image:Edu.png](../../../images/a/ad/Edu.png)](../../../images/a/ad/Edu.png)  
+[![Image:Edu.png](../images/a/ad/Edu.png)](../images/a/ad/Edu.png)  
 No higher resolution available.  
-[Edu.png](../../../images/a/ad/Edu.png)‎ (128 × 128 pixel, file size: 14 KB, MIME type: image/png)
+[Edu.png](../images/a/ad/Edu.png)‎ (128 × 128 pixel, file size: 14 KB, MIME type: image/png)
 
 ## File history
 

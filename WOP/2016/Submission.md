@@ -64,7 +64,7 @@ The following is a list of detailed instructions that authors have to take into 
 __Review Process__
 
 
-Each submission will be reviewed by at least two members of the Pattern PC (in case of disagreement a third reviewer will be assigned). Note that all reviews and discussions of patterns done in  [ODP portal](../../Ontology_Design_Patterns_._org_(ODP).md).html "Ontology Design Patterns . org (ODP)") are __public__ and __not__ anonymous, hence, all visitors of the portal can see the reviews and any subsequent discussion. Your pattern will be reviewed based on the following set of criteria:
+Each submission will be reviewed by at least two members of the Pattern PC (in case of disagreement a third reviewer will be assigned). Note that all reviews and discussions of patterns done in  [ODP portal](../../Ontology_Design_Patterns_._org_(ODP).md).md).html "Ontology Design Patterns . org (ODP)") are __public__ and __not__ anonymous, hence, all visitors of the portal can see the reviews and any subsequent discussion. Your pattern will be reviewed based on the following set of criteria:
 
 
 

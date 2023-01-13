@@ -1,5 +1,5 @@
 [![](../images/thumb/2/29/Reviewer.png/48px-Reviewer.png)](../Image/Reviewer.png.md "Reviewer.png")
-__[GerdGroener](../User/GerdGroener.md "User:GerdGroener") about [SynonymOrEquivalence (SOE)](../Submissions/SynonymOrEquivalence_(SOE).md).html "Submissions:SynonymOrEquivalence (SOE)") (Revision ID: [(SOE)?oldid=5709 5709](../Submissions/SynonymOrEquivalence.md "http://ontologydesignpatterns.org/wiki/Submissions:SynonymOrEquivalence"))__
+__[GerdGroener](../User/GerdGroener.md "User:GerdGroener") about [SynonymOrEquivalence (SOE)](../Submissions/SynonymOrEquivalence_(SOE).md).md).html "Submissions:SynonymOrEquivalence (SOE)") (Revision ID: [(SOE)?oldid=5709 5709](../Submissions/SynonymOrEquivalence.md "http://ontologydesignpatterns.org/wiki/Submissions:SynonymOrEquivalence"))__
 Overall suggestion (score): 0 - needs major revision
 
 
@@ -39,7 +39,7 @@ _Posted:_ 2009/9/8 _Last modified:_ 2009/9/10
 
 
 
-[All reviews](../Reviews/Main.md "Reviews:Main") | [Add a comment at the bottom of this page](index.php@title=Odp%253AAdd_comment&target=../Reviews/GerdGroener_about_SynonymOrEquivalence_(SOE).md).html#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Reviews:GerdGroener_about_SynonymOrEquivalence_(SOE)#New_comment")
+[All reviews](../Reviews/Main.md "Reviews:Main") | [Add a comment at the bottom of this page](index.php@title=Odp%253AAdd_comment&target=../Reviews/GerdGroener_about_SynonymOrEquivalence_(SOE).md).md).html#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Reviews:GerdGroener_about_SynonymOrEquivalence_(SOE)#New_comment")
 #####  10-09-2009 [GerdGroener](../User/GerdGroener.md "User:GerdGroener") says:
 
 
@@ -53,5 +53,5 @@ Clear Relevance and Consequences: medium
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Reviews:GerdGroener\_about\_SynonymOrEquivalence\_%28SOE%29](../Reviews/GerdGroener_about_SynonymOrEquivalence_(SOE).md).html)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Reviews:GerdGroener\_about\_SynonymOrEquivalence\_%28SOE%29](../Reviews/GerdGroener_about_SynonymOrEquivalence_(SOE).md).md).html)"
  [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [QCReview](../Category/QCReview.md "Category:QCReview")

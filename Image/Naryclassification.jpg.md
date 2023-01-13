@@ -2,9 +2,9 @@
 * [File history](../Image/Naryclassification.jpg.md#filehistory)
 * [Links](../Image/Naryclassification.jpg.md#filelinks)
 
-[![Image:Naryclassification.jpg](../../../images/2/2b/Naryclassification.jpg)](../../../images/2/2b/Naryclassification.jpg)  
+[![Image:Naryclassification.jpg](../images/2/2b/Naryclassification.jpg)](../images/2/2b/Naryclassification.jpg)  
 No higher resolution available.  
-[Naryclassification.jpg](../../../images/2/2b/Naryclassification.jpg)‎ (639 × 251 pixel, file size: 49 KB, MIME type: image/jpeg)
+[Naryclassification.jpg](../images/2/2b/Naryclassification.jpg)‎ (639 × 251 pixel, file size: 49 KB, MIME type: image/jpeg)
 
 ## File history
 

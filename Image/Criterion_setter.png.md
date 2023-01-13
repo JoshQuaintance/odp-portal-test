@@ -2,9 +2,9 @@
 * [File history](../Image/Criterion_setter.png.md#filehistory)
 * [Links](../Image/Criterion_setter.png.md#filelinks)
 
-[![Image:Criterion setter.png](../images/thumb/c/cf/Criterion_setter.png/800px-Criterion_setter.png)](../../images/c/cf/Criterion_setter.png)  
+[![Image:Criterion setter.png](../images/thumb/c/cf/Criterion_setter.png/800px-Criterion_setter.png)](../images/c/cf/Criterion_setter.png)  
 Size of this preview: 800 × 240 pixels  
-[Full resolution](../../images/c/cf/Criterion_setter.png)‎ (908 × 272 pixel, file size: 43 KB, MIME type: image/png)
+[Full resolution](../images/c/cf/Criterion_setter.png)‎ (908 × 272 pixel, file size: 43 KB, MIME type: image/png)
 
 ## File history
 

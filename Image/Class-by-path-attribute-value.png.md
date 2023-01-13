@@ -2,9 +2,9 @@
 * [File history](../Image/Class-by-path-attribute-value.png.md#filehistory)
 * [Links](../Image/Class-by-path-attribute-value.png.md#filelinks)
 
-[![Image:Class-by-path-attribute-value.png](../../../images/f/f8/Class-by-path-attribute-value.png)](../../../images/f/f8/Class-by-path-attribute-value.png)  
+[![Image:Class-by-path-attribute-value.png](../images/f/f8/Class-by-path-attribute-value.png)](../images/f/f8/Class-by-path-attribute-value.png)  
 No higher resolution available.  
-[Class-by-path-attribute-value.png](../../../images/f/f8/Class-by-path-attribute-value.png)‎ (552 × 261 pixel, file size: 34 KB, MIME type: image/png)
+[Class-by-path-attribute-value.png](../images/f/f8/Class-by-path-attribute-value.png)‎ (552 × 261 pixel, file size: 34 KB, MIME type: image/png)
 
 ## File history
 

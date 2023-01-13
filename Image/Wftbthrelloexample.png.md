@@ -2,9 +2,9 @@
 * [File history](../Image/Wftbthrelloexample.png.md#filehistory)
 * [Links](../Image/Wftbthrelloexample.png.md#filelinks)
 
-[![Image:Wftbthrelloexample.png](../../../images/e/e5/Wftbthrelloexample.png)](../../../images/e/e5/Wftbthrelloexample.png)  
+[![Image:Wftbthrelloexample.png](../images/e/e5/Wftbthrelloexample.png)](../images/e/e5/Wftbthrelloexample.png)  
 No higher resolution available.  
-[Wftbthrelloexample.png](../../../images/e/e5/Wftbthrelloexample.png)‎ (174 × 466 pixel, file size: 14 KB, MIME type: image/png)
+[Wftbthrelloexample.png](../images/e/e5/Wftbthrelloexample.png)‎ (174 × 466 pixel, file size: 14 KB, MIME type: image/png)
 
 ## File history
 

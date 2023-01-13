@@ -3,9 +3,9 @@
 * [Links](../Image/Xsd-embedding2.JPG.md#filelinks)
 * [Metadata](../Image/Xsd-embedding2.JPG.md#metadata)
 
-[![Image:Xsd-embedding2.JPG](../../../images/d/dd/Xsd-embedding2.JPG)](../../../images/d/dd/Xsd-embedding2.JPG)  
+[![Image:Xsd-embedding2.JPG](../images/d/dd/Xsd-embedding2.JPG)](../images/d/dd/Xsd-embedding2.JPG)  
 No higher resolution available.  
-[Xsd-embedding2.JPG](../../../images/d/dd/Xsd-embedding2.JPG)‎ (629 × 259 pixel, file size: 21 KB, MIME type: image/jpeg)graphical representation of the resulting ontological pattern
+[Xsd-embedding2.JPG](../images/d/dd/Xsd-embedding2.JPG)‎ (629 × 259 pixel, file size: 21 KB, MIME type: image/jpeg)graphical representation of the resulting ontological pattern
 
 
 

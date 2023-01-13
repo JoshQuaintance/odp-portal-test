@@ -2,9 +2,9 @@
 * [File history](../Image/Basicplans.jpg.md#filehistory)
 * [Links](../Image/Basicplans.jpg.md#filelinks)
 
-[![Image:Basicplans.jpg](../../../images/e/e5/Basicplans.jpg)](../../../images/e/e5/Basicplans.jpg)  
+[![Image:Basicplans.jpg](../images/e/e5/Basicplans.jpg)](../images/e/e5/Basicplans.jpg)  
 No higher resolution available.  
-[Basicplans.jpg](../../../images/e/e5/Basicplans.jpg)‎ (237 × 332 pixel, file size: 33 KB, MIME type: image/jpeg)
+[Basicplans.jpg](../images/e/e5/Basicplans.jpg)‎ (237 × 332 pixel, file size: 33 KB, MIME type: image/jpeg)
 
 ## File history
 

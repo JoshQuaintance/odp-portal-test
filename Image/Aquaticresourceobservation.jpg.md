@@ -2,9 +2,9 @@
 * [File history](../Image/Aquaticresourceobservation.jpg.md#filehistory)
 * [Links](../Image/Aquaticresourceobservation.jpg.md#filelinks)
 
-[![Image:Aquaticresourceobservation.jpg](../images/thumb/1/13/Aquaticresourceobservation.jpg/800px-Aquaticresourceobservation.jpg)](../../images/1/13/Aquaticresourceobservation.jpg)  
+[![Image:Aquaticresourceobservation.jpg](../images/thumb/1/13/Aquaticresourceobservation.jpg/800px-Aquaticresourceobservation.jpg)](../images/1/13/Aquaticresourceobservation.jpg)  
 Size of this preview: 800 × 205 pixels  
-[Full resolution](../../images/1/13/Aquaticresourceobservation.jpg)‎ (1,473 × 377 pixel, file size: 238 KB, MIME type: image/jpeg)
+[Full resolution](../images/1/13/Aquaticresourceobservation.jpg)‎ (1,473 × 377 pixel, file size: 238 KB, MIME type: image/jpeg)
 
 ## File history
 

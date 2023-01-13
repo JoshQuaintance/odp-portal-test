@@ -3,9 +3,9 @@
 * [Links](../Image/Johannes.jpg.md#filelinks)
 * [Metadata](../Image/Johannes.jpg.md#metadata)
 
-[![Image:Johannes.jpg](../../../images/b/b6/Johannes.jpg)](../../../images/b/b6/Johannes.jpg)  
+[![Image:Johannes.jpg](../images/b/b6/Johannes.jpg)](../images/b/b6/Johannes.jpg)  
 No higher resolution available.  
-[Johannes.jpg](../../../images/b/b6/Johannes.jpg)‎ (96 × 98 pixel, file size: 32 KB, MIME type: image/jpeg)Profile picture of Johannes
+[Johannes.jpg](../images/b/b6/Johannes.jpg)‎ (96 × 98 pixel, file size: 32 KB, MIME type: image/jpeg)Profile picture of Johannes
 
 
 

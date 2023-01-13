@@ -2,9 +2,9 @@
 * [File history](../Image/Timer.png.md#filehistory)
 * [Links](../Image/Timer.png.md#filelinks)
 
-[![Image:Timer.png](../../../images/b/bf/Timer.png)](../../../images/b/bf/Timer.png)  
+[![Image:Timer.png](../images/b/bf/Timer.png)](../images/b/bf/Timer.png)  
 No higher resolution available.  
-[Timer.png](../../../images/b/bf/Timer.png)‎ (128 × 128 pixel, file size: 17 KB, MIME type: image/png)
+[Timer.png](../images/b/bf/Timer.png)‎ (128 × 128 pixel, file size: 17 KB, MIME type: image/png)
 
 ## File history
 
@@ -24,9 +24,9 @@ The following 58 pages link to this file:
 
 
 * [Community:Images](../Community/Images.md "Community:Images")
-* [Submissions:OnlynessIsLoneliness (OIL)](../Submissions/OnlynessIsLoneliness_(OIL).md).html "Submissions:OnlynessIsLoneliness (OIL)")
-* [Submissions:SynonymOrEquivalence (SOE)](../Submissions/SynonymOrEquivalence_(SOE).md).html "Submissions:SynonymOrEquivalence (SOE)")
-* [Submissions:DisjointnessOfComplement (DOC)](../Submissions/DisjointnessOfComplement_(DOC).md).html "Submissions:DisjointnessOfComplement (DOC)")
+* [Submissions:OnlynessIsLoneliness (OIL)](../Submissions/OnlynessIsLoneliness_(OIL).md).md).html "Submissions:OnlynessIsLoneliness (OIL)")
+* [Submissions:SynonymOrEquivalence (SOE)](../Submissions/SynonymOrEquivalence_(SOE).md).md).html "Submissions:SynonymOrEquivalence (SOE)")
+* [Submissions:DisjointnessOfComplement (DOC)](../Submissions/DisjointnessOfComplement_(DOC).md).md).html "Submissions:DisjointnessOfComplement (DOC)")
 * [Submissions:Classification scheme - path enumeration model - to Taxonomy](../Submissions/Classification_scheme_-_path_enumeration_model_-_to_Taxonomy.md "Submissions:Classification scheme - path enumeration model - to Taxonomy")
 * [Submissions:Xsd:sequence embedding](../Submissions/Xsd/sequence_embedding.md "Submissions:Xsd:sequence embedding")
 * [Submissions:ConceptTerms](../Submissions/ConceptTerms.md "Submissions:ConceptTerms")
@@ -71,8 +71,8 @@ The following 58 pages link to this file:
 * [Submissions:Complaint Design Pattern](../Submissions/Complaint_Design_Pattern.md "Submissions:Complaint Design Pattern")
 * [Submissions:ReportingEvent](../Submissions/ReportingEvent.md "Submissions:ReportingEvent")
 * [Submissions:Description in Range](../Submissions/Description_in_Range.md "Submissions:Description in Range")
-* [Submissions:Spatial Graph Adapter Pattern (moved to Content ODPs)](../Submissions/Spatial_Graph_Adapter_Pattern_(moved_to_Content_ODPs).md).html "Submissions:Spatial Graph Adapter Pattern (moved to Content ODPs)")
-* [Submissions:Spatial Graph Adapter (SGA)](../Submissions/Spatial_Graph_Adapter_(SGA).md).html "Submissions:Spatial Graph Adapter (SGA)")
+* [Submissions:Spatial Graph Adapter Pattern (moved to Content ODPs)](../Submissions/Spatial_Graph_Adapter_Pattern_(moved_to_Content_ODPs).md).md).html "Submissions:Spatial Graph Adapter Pattern (moved to Content ODPs)")
+* [Submissions:Spatial Graph Adapter (SGA)](../Submissions/Spatial_Graph_Adapter_(SGA).md).md).html "Submissions:Spatial Graph Adapter (SGA)")
 * [Submissions:EventCore](../Submissions/EventCore.md "Submissions:EventCore")
 * [Submissions:Stub Metapattern](../Submissions/Stub_Metapattern.md "Submissions:Stub Metapattern")
 * [Submissions:NewsReportingEvent](../Submissions/NewsReportingEvent.md "Submissions:NewsReportingEvent")

@@ -2,9 +2,9 @@
 * [File history](../Image/Stub-metapattern.png.md#filehistory)
 * [Links](../Image/Stub-metapattern.png.md#filelinks)
 
-[![Image:Stub-metapattern.png](../../../images/c/cd/Stub-metapattern.png)](../../../images/c/cd/Stub-metapattern.png)  
+[![Image:Stub-metapattern.png](../images/c/cd/Stub-metapattern.png)](../images/c/cd/Stub-metapattern.png)  
 No higher resolution available.  
-[Stub-metapattern.png](../../../images/c/cd/Stub-metapattern.png)‎ (659 × 92 pixel, file size: 9 KB, MIME type: image/png)
+[Stub-metapattern.png](../images/c/cd/Stub-metapattern.png)‎ (659 × 92 pixel, file size: 9 KB, MIME type: image/png)
 
 ## File history
 

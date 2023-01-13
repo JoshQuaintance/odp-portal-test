@@ -2,9 +2,9 @@
 * [File history](../Image/HistoricalMap.jpg.md#filehistory)
 * [Links](../Image/HistoricalMap.jpg.md#filelinks)
 
-[![Image:HistoricalMap.jpg](../../../images/3/3a/HistoricalMap.jpg)](../../../images/3/3a/HistoricalMap.jpg)  
+[![Image:HistoricalMap.jpg](../images/3/3a/HistoricalMap.jpg)](../images/3/3a/HistoricalMap.jpg)  
 No higher resolution available.  
-[HistoricalMap.jpg](../../../images/3/3a/HistoricalMap.jpg)‎ (793 × 360 pixel, file size: 39 KB, MIME type: image/jpeg)
+[HistoricalMap.jpg](../images/3/3a/HistoricalMap.jpg)‎ (793 × 360 pixel, file size: 39 KB, MIME type: image/jpeg)
 
 ## File history
 

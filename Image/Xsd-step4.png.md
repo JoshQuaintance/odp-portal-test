@@ -2,9 +2,9 @@
 * [File history](../Image/Xsd-step4.png.md#filehistory)
 * [Links](../Image/Xsd-step4.png.md#filelinks)
 
-[![Image:Xsd-step4.png](../../../images/6/63/Xsd-step4.png)](../../../images/6/63/Xsd-step4.png)  
+[![Image:Xsd-step4.png](../images/6/63/Xsd-step4.png)](../images/6/63/Xsd-step4.png)  
 No higher resolution available.  
-[Xsd-step4.png](../../../images/6/63/Xsd-step4.png)‎ (455 × 245 pixel, file size: 4 KB, MIME type: image/png)
+[Xsd-step4.png](../images/6/63/Xsd-step4.png)‎ (455 × 245 pixel, file size: 4 KB, MIME type: image/png)
 
 ## File history
 

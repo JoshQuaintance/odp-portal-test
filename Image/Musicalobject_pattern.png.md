@@ -2,9 +2,9 @@
 * [File history](../Image/Musicalobject_pattern.png.md#filehistory)
 * [Links](../Image/Musicalobject_pattern.png.md#filelinks)
 
-[![Image:Musicalobject pattern.png](../images/thumb/b/ba/Musicalobject_pattern.png/800px-Musicalobject_pattern.png)](../../images/b/ba/Musicalobject_pattern.png)  
+[![Image:Musicalobject pattern.png](../images/thumb/b/ba/Musicalobject_pattern.png/800px-Musicalobject_pattern.png)](../images/b/ba/Musicalobject_pattern.png)  
 Size of this preview: 800 × 600 pixels  
-[Full resolution](../../images/b/ba/Musicalobject_pattern.png)‎ (1,178 × 883 pixel, file size: 61 KB, MIME type: image/png)
+[Full resolution](../images/b/ba/Musicalobject_pattern.png)‎ (1,178 × 883 pixel, file size: 61 KB, MIME type: image/png)
 
 ## File history
 

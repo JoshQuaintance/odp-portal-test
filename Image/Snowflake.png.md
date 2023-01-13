@@ -2,9 +2,9 @@
 * [File history](../Image/Snowflake.png.md#filehistory)
 * [Links](../Image/Snowflake.png.md#filelinks)
 
-[![Image:Snowflake.png](../../../images/2/27/Snowflake.png)](../../../images/2/27/Snowflake.png)  
+[![Image:Snowflake.png](../images/2/27/Snowflake.png)](../images/2/27/Snowflake.png)  
 No higher resolution available.  
-[Snowflake.png](../../../images/2/27/Snowflake.png)‎ (441 × 270 pixel, file size: 101 KB, MIME type: image/png)
+[Snowflake.png](../images/2/27/Snowflake.png)‎ (441 × 270 pixel, file size: 101 KB, MIME type: image/png)
 
 ## File history
 

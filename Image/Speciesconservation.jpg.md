@@ -2,9 +2,9 @@
 * [File history](../Image/Speciesconservation.jpg.md#filehistory)
 * [Links](../Image/Speciesconservation.jpg.md#filelinks)
 
-[![Image:Speciesconservation.jpg](../../../images/1/1b/Speciesconservation.jpg)](../../../images/1/1b/Speciesconservation.jpg)  
+[![Image:Speciesconservation.jpg](../images/1/1b/Speciesconservation.jpg)](../images/1/1b/Speciesconservation.jpg)  
 No higher resolution available.  
-[Speciesconservation.jpg](../../../images/1/1b/Speciesconservation.jpg)‎ (232 × 185 pixel, file size: 23 KB, MIME type: image/jpeg)
+[Speciesconservation.jpg](../images/1/1b/Speciesconservation.jpg)‎ (232 × 185 pixel, file size: 23 KB, MIME type: image/jpeg)
 
 ## File history
 

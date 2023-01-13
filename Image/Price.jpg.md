@@ -2,9 +2,9 @@
 * [File history](../Image/Price.jpg.md#filehistory)
 * [Links](../Image/Price.jpg.md#filelinks)
 
-[![Image:Price.jpg](../../../images/8/85/Price.jpg)](../../../images/8/85/Price.jpg)  
+[![Image:Price.jpg](../images/8/85/Price.jpg)](../images/8/85/Price.jpg)  
 No higher resolution available.  
-[Price.jpg](../../../images/8/85/Price.jpg)‎ (202 × 197 pixel, file size: 10 KB, MIME type: image/jpeg)
+[Price.jpg](../images/8/85/Price.jpg)‎ (202 × 197 pixel, file size: 10 KB, MIME type: image/jpeg)
 
 ## File history
 

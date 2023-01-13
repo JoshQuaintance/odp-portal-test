@@ -2,9 +2,9 @@
 * [File history](../Image/Fig_view_inheritance_structure.png.md#filehistory)
 * [Links](../Image/Fig_view_inheritance_structure.png.md#filelinks)
 
-[![Image:Fig view inheritance structure.png](../../../images/0/0a/Fig_view_inheritance_structure.png)](../../../images/0/0a/Fig_view_inheritance_structure.png)  
+[![Image:Fig view inheritance structure.png](../images/0/0a/Fig_view_inheritance_structure.png)](../images/0/0a/Fig_view_inheritance_structure.png)  
 No higher resolution available.  
-[Fig\_view\_inheritance\_structure.png](../../../images/0/0a/Fig_view_inheritance_structure.png)‎ (564 × 332 pixel, file size: 27 KB, MIME type: image/png)The figure shows a graphical generic structure of the View Inheritance OP
+[Fig\_view\_inheritance\_structure.png](../images/0/0a/Fig_view_inheritance_structure.png)‎ (564 × 332 pixel, file size: 27 KB, MIME type: image/png)The figure shows a graphical generic structure of the View Inheritance OP
 
 
 

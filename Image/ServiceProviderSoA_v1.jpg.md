@@ -2,9 +2,9 @@
 * [File history](../Image/ServiceProviderSoA_v1.jpg.md#filehistory)
 * [Links](../Image/ServiceProviderSoA_v1.jpg.md#filelinks)
 
-[![Image:ServiceProviderSoA v1.jpg](../../../images/b/b7/ServiceProviderSoA_v1.jpg)](../../../images/b/b7/ServiceProviderSoA_v1.jpg)  
+[![Image:ServiceProviderSoA v1.jpg](../images/b/b7/ServiceProviderSoA_v1.jpg)](../images/b/b7/ServiceProviderSoA_v1.jpg)  
 No higher resolution available.  
-[ServiceProviderSoA\_v1.jpg](../../../images/b/b7/ServiceProviderSoA_v1.jpg)‎ (741 × 450 pixel, file size: 38 KB, MIME type: image/jpeg)
+[ServiceProviderSoA\_v1.jpg](../images/b/b7/ServiceProviderSoA_v1.jpg)‎ (741 × 450 pixel, file size: 38 KB, MIME type: image/jpeg)
 
 ## File history
 

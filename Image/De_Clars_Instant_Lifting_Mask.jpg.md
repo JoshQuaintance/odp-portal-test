@@ -3,9 +3,9 @@
 * [Links](../Image/De_Clars_Instant_Lifting_Mask.jpg.md#filelinks)
 * [Metadata](../Image/De_Clars_Instant_Lifting_Mask.jpg.md#metadata)
 
-[![Image:De Clars Instant Lifting Mask.jpg](../../../images/a/aa/De_Clars_Instant_Lifting_Mask.jpg)](../../../images/a/aa/De_Clars_Instant_Lifting_Mask.jpg)  
+[![Image:De Clars Instant Lifting Mask.jpg](../images/a/aa/De_Clars_Instant_Lifting_Mask.jpg)](../images/a/aa/De_Clars_Instant_Lifting_Mask.jpg)  
 No higher resolution available.  
-[De\_Clars\_Instant\_Lifting\_Mask.jpg](../../../images/a/aa/De_Clars_Instant_Lifting_Mask.jpg)‎ (353 × 275 pixel, file size: 23 KB, MIME type: image/jpeg)de Clars Intensive Lifting Mask
+[De\_Clars\_Instant\_Lifting\_Mask.jpg](../images/a/aa/De_Clars_Instant_Lifting_Mask.jpg)‎ (353 × 275 pixel, file size: 23 KB, MIME type: image/jpeg)de Clars Intensive Lifting Mask
 
 
 This mask gives you supple and youthful looking skin. It supplies the skin with deep penetrating moisture. Smoothes lines and wrinkles visibly and immediate. Strengthens skin structure and improves elasticity Natural extracts reduce the signs of an aging skin. Skin instantly appears fresh, smooth, radiant and revitalized. 

@@ -2,9 +2,9 @@
 * [File history](../Image/Class-subsumption.png.md#filehistory)
 * [Links](../Image/Class-subsumption.png.md#filelinks)
 
-[![Image:Class-subsumption.png](../../../images/6/60/Class-subsumption.png)](../../../images/6/60/Class-subsumption.png)  
+[![Image:Class-subsumption.png](../images/6/60/Class-subsumption.png)](../images/6/60/Class-subsumption.png)  
 No higher resolution available.  
-[Class-subsumption.png](../../../images/6/60/Class-subsumption.png)‎ (565 × 154 pixel, file size: 19 KB, MIME type: image/png)
+[Class-subsumption.png](../images/6/60/Class-subsumption.png)‎ (565 × 154 pixel, file size: 19 KB, MIME type: image/png)
 
 ## File history
 

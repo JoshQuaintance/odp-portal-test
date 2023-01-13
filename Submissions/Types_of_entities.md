@@ -34,33 +34,33 @@ _The __Types of entities__ Content OP locally defines the following ontology ele
 
 
 
-[![Class](../../../../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __Abstract__ (owl:Class) any entity that cannot be located in space-time. E.g. mathematical entities, formal semantics
+[![Class](../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __Abstract__ (owl:Class) any entity that cannot be located in space-time. E.g. mathematical entities, formal semantics
 elements, regions within dimensional spaces, etc. 
 
 
 
- [![](../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[Abstract](../Submissions/Types_of_entities/Abstract.md "Submissions:Types of entities/Abstract") page_
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[Abstract](../Submissions/Types_of_entities/Abstract.md "Submissions:Types of entities/Abstract") page_
 
-[![Class](../../../../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __Event__ (owl:Class) any physical, social, or mental process, event, or state. More theoretically, events can be
+[![Class](../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __Event__ (owl:Class) any physical, social, or mental process, event, or state. More theoretically, events can be
 classified in different ways, possibly based on aspect (e.g. stative, continuous, achievements, etc.), or
 on agentivity, typical participants (e.g. human, physical, abstract, food, etc.). 
 
 
 
- [![](../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[Event](../Submissions/Types_of_entities/Event.md "Submissions:Types of entities/Event") page_
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[Event](../Submissions/Types_of_entities/Event.md "Submissions:Types of entities/Event") page_
 
-[![Class](../../../../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __Object__ (owl:Class) any physical, social, or mental object, or a substance. 
+[![Class](../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __Object__ (owl:Class) any physical, social, or mental object, or a substance. 
 
 
 
- [![](../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[Object](../Submissions/Types_of_entities/Object.md "Submissions:Types of entities/Object") page_
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[Object](../Submissions/Types_of_entities/Object.md "Submissions:Types of entities/Object") page_
 
-[![Class](../../../../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __Quality__ (owl:Class) any aspect of an entity (but not a part of it), which cannot exist without that entity. For
+[![Class](../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __Quality__ (owl:Class) any aspect of an entity (but not a part of it), which cannot exist without that entity. For
 example, the way the surface of a specific physical object looks like is a Quality. 
 
 
 
- [![](../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[Quality](../Submissions/Types_of_entities/Quality.md "Submissions:Types of entities/Quality") page_
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[Quality](../Submissions/Types_of_entities/Quality.md "Submissions:Types of entities/Quality") page_
 #  Additional information
 
 

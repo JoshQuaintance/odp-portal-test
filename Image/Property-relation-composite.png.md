@@ -2,9 +2,9 @@
 * [File history](../Image/Property-relation-composite.png.md#filehistory)
 * [Links](../Image/Property-relation-composite.png.md#filelinks)
 
-[![Image:Property-relation-composite.png](../../../images/7/73/Property-relation-composite.png)](../../../images/7/73/Property-relation-composite.png)  
+[![Image:Property-relation-composite.png](../images/7/73/Property-relation-composite.png)](../images/7/73/Property-relation-composite.png)  
 No higher resolution available.  
-[Property-relation-composite.png](../../../images/7/73/Property-relation-composite.png)‎ (519 × 203 pixel, file size: 25 KB, MIME type: image/png)
+[Property-relation-composite.png](../images/7/73/Property-relation-composite.png)‎ (519 × 203 pixel, file size: 25 KB, MIME type: image/png)
 
 ## File history
 

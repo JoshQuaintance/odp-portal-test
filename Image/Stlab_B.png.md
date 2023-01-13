@@ -2,9 +2,9 @@
 * [File history](../Image/Stlab_B.png.md#filehistory)
 * [Links](../Image/Stlab_B.png.md#filelinks)
 
-[![Image:Stlab B.png](../images/thumb/9/9e/Stlab_B.png/800px-Stlab_B.png)](../../images/9/9e/Stlab_B.png)  
+[![Image:Stlab B.png](../images/thumb/9/9e/Stlab_B.png/800px-Stlab_B.png)](../images/9/9e/Stlab_B.png)  
 Size of this preview: 800 × 300 pixels  
-[Full resolution](../../images/9/9e/Stlab_B.png)‎ (904 × 339 pixel, file size: 129 KB, MIME type: image/png)
+[Full resolution](../images/9/9e/Stlab_B.png)‎ (904 × 339 pixel, file size: 129 KB, MIME type: image/png)
 
 ## File history
 

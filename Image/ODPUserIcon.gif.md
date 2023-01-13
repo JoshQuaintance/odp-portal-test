@@ -2,9 +2,9 @@
 * [File history](../Image/ODPUserIcon.gif.md#filehistory)
 * [Links](../Image/ODPUserIcon.gif.md#filelinks)
 
-[![Image:ODPUserIcon.gif](../../../images/2/22/ODPUserIcon.gif)](../../../images/2/22/ODPUserIcon.gif)  
+[![Image:ODPUserIcon.gif](../images/2/22/ODPUserIcon.gif)](../images/2/22/ODPUserIcon.gif)  
 No higher resolution available.  
-[ODPUserIcon.gif](../../../images/2/22/ODPUserIcon.gif)‎ (160 × 160 pixel, file size: 9 KB, MIME type: image/gif)
+[ODPUserIcon.gif](../images/2/22/ODPUserIcon.gif)‎ (160 × 160 pixel, file size: 9 KB, MIME type: image/gif)
 
 ## File history
 

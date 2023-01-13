@@ -3,9 +3,9 @@
 * [Links](../Image/Complaint_UML.jpg.md#filelinks)
 * [Metadata](../Image/Complaint_UML.jpg.md#metadata)
 
-[![Image:Complaint UML.jpg](../../../images/1/1d/Complaint_UML.jpg)](../../../images/1/1d/Complaint_UML.jpg)  
+[![Image:Complaint UML.jpg](../images/1/1d/Complaint_UML.jpg)](../images/1/1d/Complaint_UML.jpg)  
 No higher resolution available.  
-[Complaint\_UML.jpg](../../../images/1/1d/Complaint_UML.jpg)‎ (750 × 462 pixel, file size: 149 KB, MIME type: image/jpeg)
+[Complaint\_UML.jpg](../images/1/1d/Complaint_UML.jpg)‎ (750 × 462 pixel, file size: 149 KB, MIME type: image/jpeg)
 
 ## File history
 

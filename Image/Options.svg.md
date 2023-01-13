@@ -2,9 +2,9 @@
 * [File history](../Image/Options.svg.md#filehistory)
 * [Links](../Image/Options.svg.md#filelinks)
 
-[![Image:Options.svg](../images/thumb/d/d7/Options.svg/128px-Options.svg.png)](../../images/d/d7/Options.svg)  
+[![Image:Options.svg](../images/thumb/d/d7/Options.svg/128px-Options.svg.png)](../images/d/d7/Options.svg)  
 
-[Options.svg](../../images/d/d7/Options.svg "Options.svg")‎  (SVG file, nominally 128 × 128 pixels, file size: 10 KB)
+[Options.svg](../images/d/d7/Options.svg "Options.svg")‎  (SVG file, nominally 128 × 128 pixels, file size: 10 KB)
 
 
 

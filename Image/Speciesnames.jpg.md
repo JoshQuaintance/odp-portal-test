@@ -2,9 +2,9 @@
 * [File history](../Image/Speciesnames.jpg.md#filehistory)
 * [Links](../Image/Speciesnames.jpg.md#filelinks)
 
-[![Image:Speciesnames.jpg](../../../images/3/32/Speciesnames.jpg)](../../../images/3/32/Speciesnames.jpg)  
+[![Image:Speciesnames.jpg](../images/3/32/Speciesnames.jpg)](../images/3/32/Speciesnames.jpg)  
 No higher resolution available.  
-[Speciesnames.jpg](../../../images/3/32/Speciesnames.jpg)‎ (185 × 89 pixel, file size: 17 KB, MIME type: image/jpeg)
+[Speciesnames.jpg](../images/3/32/Speciesnames.jpg)‎ (185 × 89 pixel, file size: 17 KB, MIME type: image/jpeg)
 
 ## File history
 

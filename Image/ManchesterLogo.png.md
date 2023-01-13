@@ -2,9 +2,9 @@
 * [File history](../Image/ManchesterLogo.png.md#filehistory)
 * [Links](../Image/ManchesterLogo.png.md#filelinks)
 
-[![Image:ManchesterLogo.png](../images/thumb/1/1f/ManchesterLogo.png/636px-ManchesterLogo.png)](../../images/1/1f/ManchesterLogo.png)  
+[![Image:ManchesterLogo.png](../images/thumb/1/1f/ManchesterLogo.png/636px-ManchesterLogo.png)](../images/1/1f/ManchesterLogo.png)  
 Size of this preview: 636 × 600 pixels  
-[Full resolution](../../images/1/1f/ManchesterLogo.png)‎ (680 × 641 pixel, file size: 32 KB, MIME type: image/png)
+[Full resolution](../images/1/1f/ManchesterLogo.png)‎ (680 × 641 pixel, file size: 32 KB, MIME type: image/png)
 
 ## File history
 

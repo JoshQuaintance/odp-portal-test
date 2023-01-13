@@ -3,9 +3,9 @@
 * [Links](../Image/Xsd-step5.JPG.md#filelinks)
 * [Metadata](../Image/Xsd-step5.JPG.md#metadata)
 
-[![Image:Xsd-step5.JPG](../../../images/b/b4/Xsd-step5.JPG)](../../../images/b/b4/Xsd-step5.JPG)  
+[![Image:Xsd-step5.JPG](../images/b/b4/Xsd-step5.JPG)](../images/b/b4/Xsd-step5.JPG)  
 No higher resolution available.  
-[Xsd-step5.JPG](../../../images/b/b4/Xsd-step5.JPG)‎ (739 × 404 pixel, file size: 41 KB, MIME type: image/jpeg)
+[Xsd-step5.JPG](../images/b/b4/Xsd-step5.JPG)‎ (739 × 404 pixel, file size: 41 KB, MIME type: image/jpeg)
 
 ## File history
 

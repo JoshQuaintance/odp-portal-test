@@ -2,9 +2,9 @@
 * [File history](../Image/Inverse-sub-relation.png.md#filehistory)
 * [Links](../Image/Inverse-sub-relation.png.md#filelinks)
 
-[![Image:Inverse-sub-relation.png](../../../images/8/85/Inverse-sub-relation.png)](../../../images/8/85/Inverse-sub-relation.png)  
+[![Image:Inverse-sub-relation.png](../images/8/85/Inverse-sub-relation.png)](../images/8/85/Inverse-sub-relation.png)  
 No higher resolution available.  
-[Inverse-sub-relation.png](../../../images/8/85/Inverse-sub-relation.png)‎ (505 × 108 pixel, file size: 18 KB, MIME type: image/png)
+[Inverse-sub-relation.png](../images/8/85/Inverse-sub-relation.png)‎ (505 × 108 pixel, file size: 18 KB, MIME type: image/png)
 
 ## File history
 

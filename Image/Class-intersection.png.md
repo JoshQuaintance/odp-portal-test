@@ -2,9 +2,9 @@
 * [File history](../Image/Class-intersection.png.md#filehistory)
 * [Links](../Image/Class-intersection.png.md#filelinks)
 
-[![Image:Class-intersection.png](../../../images/f/f2/Class-intersection.png)](../../../images/f/f2/Class-intersection.png)  
+[![Image:Class-intersection.png](../images/f/f2/Class-intersection.png)](../images/f/f2/Class-intersection.png)  
 No higher resolution available.  
-[Class-intersection.png](../../../images/f/f2/Class-intersection.png)‎ (657 × 232 pixel, file size: 29 KB, MIME type: image/png)
+[Class-intersection.png](../images/f/f2/Class-intersection.png)‎ (657 × 232 pixel, file size: 29 KB, MIME type: image/png)
 
 ## File history
 

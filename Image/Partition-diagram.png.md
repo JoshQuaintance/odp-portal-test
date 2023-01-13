@@ -2,9 +2,9 @@
 * [File history](../Image/Partition-diagram.png.md#filehistory)
 * [Links](../Image/Partition-diagram.png.md#filelinks)
 
-[![Image:Partition-diagram.png](../../../images/e/e1/Partition-diagram.png)](../../../images/e/e1/Partition-diagram.png)  
+[![Image:Partition-diagram.png](../images/e/e1/Partition-diagram.png)](../images/e/e1/Partition-diagram.png)  
 No higher resolution available.  
-[Partition-diagram.png](../../../images/e/e1/Partition-diagram.png)‎ (318 × 296 pixel, file size: 27 KB, MIME type: image/png)Diagram of the Partition pattern
+[Partition-diagram.png](../images/e/e1/Partition-diagram.png)‎ (318 × 296 pixel, file size: 27 KB, MIME type: image/png)Diagram of the Partition pattern
 
 
 

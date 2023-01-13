@@ -2,9 +2,9 @@
 * [File history](../Image/ODP_Logo_LEGO_Bricks_ICO32_simple.png.md#filehistory)
 * [Links](../Image/ODP_Logo_LEGO_Bricks_ICO32_simple.png.md#filelinks)
 
-[![Image:ODP Logo LEGO Bricks ICO32 simple.png](../../../images/2/2f/ODP_Logo_LEGO_Bricks_ICO32_simple.png)](../../../images/2/2f/ODP_Logo_LEGO_Bricks_ICO32_simple.png)  
+[![Image:ODP Logo LEGO Bricks ICO32 simple.png](../images/2/2f/ODP_Logo_LEGO_Bricks_ICO32_simple.png)](../images/2/2f/ODP_Logo_LEGO_Bricks_ICO32_simple.png)  
 No higher resolution available.  
-[ODP\_Logo\_LEGO\_Bricks\_ICO32\_simple.png](../../../images/2/2f/ODP_Logo_LEGO_Bricks_ICO32_simple.png)‎ (32 × 29 pixel, file size: 691 B, MIME type: image/png)Simplified (better for small images) small sized ODP Logo (you can use for icons?).
+[ODP\_Logo\_LEGO\_Bricks\_ICO32\_simple.png](../images/2/2f/ODP_Logo_LEGO_Bricks_ICO32_simple.png)‎ (32 × 29 pixel, file size: 691 B, MIME type: image/png)Simplified (better for small images) small sized ODP Logo (you can use for icons?).
 
 
 

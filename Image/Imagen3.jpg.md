@@ -2,9 +2,9 @@
 * [File history](../Image/Imagen3.jpg.md#filehistory)
 * [Links](../Image/Imagen3.jpg.md#filelinks)
 
-[![Image:Imagen3.jpg](../../../images/b/b4/Imagen3.jpg)](../../../images/b/b4/Imagen3.jpg)  
+[![Image:Imagen3.jpg](../images/b/b4/Imagen3.jpg)](../images/b/b4/Imagen3.jpg)  
 No higher resolution available.  
-[Imagen3.jpg](../../../images/b/b4/Imagen3.jpg)‎ (419 × 368 pixel, file size: 25 KB, MIME type: image/jpeg)
+[Imagen3.jpg](../images/b/b4/Imagen3.jpg)‎ (419 × 368 pixel, file size: 25 KB, MIME type: image/jpeg)
 
 ## File history
 

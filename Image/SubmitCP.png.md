@@ -2,9 +2,9 @@
 * [File history](../Image/SubmitCP.png.md#filehistory)
 * [Links](../Image/SubmitCP.png.md#filelinks)
 
-[![Image:SubmitCP.png](../../../images/5/5d/SubmitCP.png)](../../../images/5/5d/SubmitCP.png)  
+[![Image:SubmitCP.png](../images/5/5d/SubmitCP.png)](../images/5/5d/SubmitCP.png)  
 No higher resolution available.  
-[SubmitCP.png](../../../images/5/5d/SubmitCP.png)‎ (128 × 128 pixel, file size: 17 KB, MIME type: image/png)
+[SubmitCP.png](../images/5/5d/SubmitCP.png)‎ (128 × 128 pixel, file size: 17 KB, MIME type: image/png)
 
 ## File history
 

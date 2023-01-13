@@ -2,9 +2,9 @@
 * [File history](../Image/Privacypolicy2.png.md#filehistory)
 * [Links](../Image/Privacypolicy2.png.md#filelinks)
 
-[![Image:Privacypolicy2.png](../images/thumb/1/14/Privacypolicy2.png/800px-Privacypolicy2.png)](../../images/1/14/Privacypolicy2.png)  
+[![Image:Privacypolicy2.png](../images/thumb/1/14/Privacypolicy2.png/800px-Privacypolicy2.png)](../images/1/14/Privacypolicy2.png)  
 Size of this preview: 800 × 541 pixels  
-[Full resolution](../../images/1/14/Privacypolicy2.png)‎ (963 × 651 pixel, file size: 58 KB, MIME type: image/png)
+[Full resolution](../images/1/14/Privacypolicy2.png)‎ (963 × 651 pixel, file size: 58 KB, MIME type: image/png)
 
 ## File history
 

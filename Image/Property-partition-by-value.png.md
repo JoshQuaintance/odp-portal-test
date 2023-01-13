@@ -2,9 +2,9 @@
 * [File history](../Image/Property-partition-by-value.png.md#filehistory)
 * [Links](../Image/Property-partition-by-value.png.md#filelinks)
 
-[![Image:Property-partition-by-value.png](../../../images/4/48/Property-partition-by-value.png)](../../../images/4/48/Property-partition-by-value.png)  
+[![Image:Property-partition-by-value.png](../images/4/48/Property-partition-by-value.png)](../images/4/48/Property-partition-by-value.png)  
 No higher resolution available.  
-[Property-partition-by-value.png](../../../images/4/48/Property-partition-by-value.png)‎ (741 × 507 pixel, file size: 56 KB, MIME type: image/png)
+[Property-partition-by-value.png](../images/4/48/Property-partition-by-value.png)‎ (741 × 507 pixel, file size: 56 KB, MIME type: image/png)
 
 ## File history
 

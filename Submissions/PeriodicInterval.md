@@ -33,12 +33,12 @@ _The __PeriodicInterval__ Content OP locally defines the following ontology elem
 
 
 
-[![ObjectProperty](../../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __hasIntervalDurationPerPeriod__ (owl:ObjectProperty) 
- [![](../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[hasIntervalDurationPerPeriod](../Submissions/PeriodicInterval/hasIntervalDurationPerPeriod.md "Submissions:PeriodicInterval/hasIntervalDurationPerPeriod") page_
-[![ObjectProperty](../../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __hasPeriod__ (owl:ObjectProperty) 
- [![](../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[hasPeriod](../Submissions/PeriodicInterval/hasPeriod.md "Submissions:PeriodicInterval/hasPeriod") page_
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __hasIntervalDurationPerPeriod__ (owl:ObjectProperty) 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[hasIntervalDurationPerPeriod](../Submissions/PeriodicInterval/hasIntervalDurationPerPeriod.md "Submissions:PeriodicInterval/hasIntervalDurationPerPeriod") page_
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __hasPeriod__ (owl:ObjectProperty) 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[hasPeriod](../Submissions/PeriodicInterval/hasPeriod.md "Submissions:PeriodicInterval/hasPeriod") page_
 [![Class](../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __PeriodicInterval__ (owl:Class) 
- [![](../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[PeriodicInterval](../Submissions/PeriodicInterval/PeriodicInterval.md "Submissions:PeriodicInterval/PeriodicInterval") page_
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[PeriodicInterval](../Submissions/PeriodicInterval/PeriodicInterval.md "Submissions:PeriodicInterval/PeriodicInterval") page_
 #  Additional information
 
 

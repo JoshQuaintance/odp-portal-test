@@ -3,9 +3,9 @@
 * [Links](../Image/ParticipantRole.jpg.md#filelinks)
 * [Metadata](../Image/ParticipantRole.jpg.md#metadata)
 
-[![Image:ParticipantRole.jpg](../images/thumb/3/34/ParticipantRole.jpg/800px-ParticipantRole.jpg)](../../images/3/34/ParticipantRole.jpg)  
+[![Image:ParticipantRole.jpg](../images/thumb/3/34/ParticipantRole.jpg/800px-ParticipantRole.jpg)](../images/3/34/ParticipantRole.jpg)  
 Size of this preview: 800 × 301 pixels  
-[Full resolution](../../images/3/34/ParticipantRole.jpg)‎ (913 × 344 pixel, file size: 93 KB, MIME type: image/jpeg)Illustration of the ParticipantRole content pattern.
+[Full resolution](../images/3/34/ParticipantRole.jpg)‎ (913 × 344 pixel, file size: 93 KB, MIME type: image/jpeg)Illustration of the ParticipantRole content pattern.
 
 
 

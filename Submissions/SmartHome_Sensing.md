@@ -28,12 +28,12 @@ _The __SmartHome Sensing__ Content OP locally defines the following ontology ele
 
 
 
-[![Class](../../../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __SensingProcess__ (owl:Class) 
- [![](../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[SensingProcess](../Submissions/SmartHome_Sensing/SensingProcess.md "Submissions:SmartHome Sensing/SensingProcess") page_
-[![Class](../../../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __SmartHomeSensor__ (owl:Class) 
- [![](../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[SmartHomeSensor](../Submissions/SmartHome_Sensing/SmartHomeSensor.md "Submissions:SmartHome Sensing/SmartHomeSensor") page_
-[![Class](../../../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __SmartHomeSensorOutput__ (owl:Class) 
- [![](../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[SmartHomeSensorOutput](../Submissions/SmartHome_Sensing/SmartHomeSensorOutput.md "Submissions:SmartHome Sensing/SmartHomeSensorOutput") page_
+[![Class](../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __SensingProcess__ (owl:Class) 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[SensingProcess](../Submissions/SmartHome_Sensing/SensingProcess.md "Submissions:SmartHome Sensing/SensingProcess") page_
+[![Class](../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __SmartHomeSensor__ (owl:Class) 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[SmartHomeSensor](../Submissions/SmartHome_Sensing/SmartHomeSensor.md "Submissions:SmartHome Sensing/SmartHomeSensor") page_
+[![Class](../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __SmartHomeSensorOutput__ (owl:Class) 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[SmartHomeSensorOutput](../Submissions/SmartHome_Sensing/SmartHomeSensorOutput.md "Submissions:SmartHome Sensing/SmartHomeSensorOutput") page_
 #  Additional information
 
 

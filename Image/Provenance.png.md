@@ -2,9 +2,9 @@
 * [File history](../Image/Provenance.png.md#filehistory)
 * [Links](../Image/Provenance.png.md#filelinks)
 
-[![Image:Provenance.png](../../../images/b/b7/Provenance.png)](../../../images/b/b7/Provenance.png)  
+[![Image:Provenance.png](../images/b/b7/Provenance.png)](../images/b/b7/Provenance.png)  
 No higher resolution available.  
-[Provenance.png](../../../images/b/b7/Provenance.png)‎ (279 × 220 pixel, file size: 10 KB, MIME type: image/png)
+[Provenance.png](../images/b/b7/Provenance.png)‎ (279 × 220 pixel, file size: 10 KB, MIME type: image/png)
 
 ## File history
 

@@ -2,9 +2,9 @@
 * [File history](../Image/Sequence.png.md#filehistory)
 * [Links](../Image/Sequence.png.md#filelinks)
 
-[![Image:Sequence.png](../../../images/b/b2/Sequence.png)](../../../images/b/b2/Sequence.png)  
+[![Image:Sequence.png](../images/b/b2/Sequence.png)](../images/b/b2/Sequence.png)  
 No higher resolution available.  
-[Sequence.png](../../../images/b/b2/Sequence.png)‎ (728 × 176 pixel, file size: 40 KB, MIME type: image/png)
+[Sequence.png](../images/b/b2/Sequence.png)‎ (728 × 176 pixel, file size: 40 KB, MIME type: image/png)
 
 ## File history
 

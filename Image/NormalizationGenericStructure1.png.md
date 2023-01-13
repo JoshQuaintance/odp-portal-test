@@ -2,9 +2,9 @@
 * [File history](../Image/NormalizationGenericStructure1.png.md#filehistory)
 * [Links](../Image/NormalizationGenericStructure1.png.md#filelinks)
 
-[![Image:NormalizationGenericStructure1.png](../../../images/2/23/NormalizationGenericStructure1.png)](../../../images/2/23/NormalizationGenericStructure1.png)  
+[![Image:NormalizationGenericStructure1.png](../images/2/23/NormalizationGenericStructure1.png)](../images/2/23/NormalizationGenericStructure1.png)  
 No higher resolution available.  
-[NormalizationGenericStructure1.png](../../../images/2/23/NormalizationGenericStructure1.png)‎ (392 × 426 pixel, file size: 31 KB, MIME type: image/png)Generic structure of the Normalization ODP.
+[NormalizationGenericStructure1.png](../images/2/23/NormalizationGenericStructure1.png)‎ (392 × 426 pixel, file size: 31 KB, MIME type: image/png)Generic structure of the Normalization ODP.
 
 
 

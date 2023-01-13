@@ -2,9 +2,9 @@
 * [File history](../Image/ODP_Logo_LEGO_Bricks_155.png.md#filehistory)
 * [Links](../Image/ODP_Logo_LEGO_Bricks_155.png.md#filelinks)
 
-[![Image:ODP Logo LEGO Bricks 155.png](../../../images/3/3c/ODP_Logo_LEGO_Bricks_155.png)](../../../images/3/3c/ODP_Logo_LEGO_Bricks_155.png)  
+[![Image:ODP Logo LEGO Bricks 155.png](../images/3/3c/ODP_Logo_LEGO_Bricks_155.png)](../images/3/3c/ODP_Logo_LEGO_Bricks_155.png)  
 No higher resolution available.  
-[ODP\_Logo\_LEGO\_Bricks\_155.png](../../../images/3/3c/ODP_Logo_LEGO_Bricks_155.png)‎ (155 × 136 pixel, file size: 11 KB, MIME type: image/png)Web site logo size
+[ODP\_Logo\_LEGO\_Bricks\_155.png](../images/3/3c/ODP_Logo_LEGO_Bricks_155.png)‎ (155 × 136 pixel, file size: 11 KB, MIME type: image/png)Web site logo size
 
 
 

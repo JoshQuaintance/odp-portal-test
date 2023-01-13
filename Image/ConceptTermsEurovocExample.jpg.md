@@ -3,9 +3,9 @@
 * [Links](../Image/ConceptTermsEurovocExample.jpg.md#filelinks)
 * [Metadata](../Image/ConceptTermsEurovocExample.jpg.md#metadata)
 
-[![Image:ConceptTermsEurovocExample.jpg](../images/thumb/9/9e/ConceptTermsEurovocExample.jpg/800px-ConceptTermsEurovocExample.jpg)](../../images/9/9e/ConceptTermsEurovocExample.jpg)  
+[![Image:ConceptTermsEurovocExample.jpg](../images/thumb/9/9e/ConceptTermsEurovocExample.jpg/800px-ConceptTermsEurovocExample.jpg)](../images/9/9e/ConceptTermsEurovocExample.jpg)  
 Size of this preview: 800 × 542 pixels  
-[Full resolution](../../images/9/9e/ConceptTermsEurovocExample.jpg)‎ (820 × 556 pixel, file size: 136 KB, MIME type: image/jpeg)
+[Full resolution](../images/9/9e/ConceptTermsEurovocExample.jpg)‎ (820 × 556 pixel, file size: 136 KB, MIME type: image/jpeg)
 
 ## File history
 

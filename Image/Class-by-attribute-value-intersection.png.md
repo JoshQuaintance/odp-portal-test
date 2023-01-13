@@ -2,9 +2,9 @@
 * [File history](../Image/Class-by-attribute-value-intersection.png.md#filehistory)
 * [Links](../Image/Class-by-attribute-value-intersection.png.md#filelinks)
 
-[![Image:Class-by-attribute-value-intersection.png](../../../images/d/d4/Class-by-attribute-value-intersection.png)](../../../images/d/d4/Class-by-attribute-value-intersection.png)  
+[![Image:Class-by-attribute-value-intersection.png](../images/d/d4/Class-by-attribute-value-intersection.png)](../images/d/d4/Class-by-attribute-value-intersection.png)  
 No higher resolution available.  
-[Class-by-attribute-value-intersection.png](../../../images/d/d4/Class-by-attribute-value-intersection.png)‎ (470 × 351 pixel, file size: 43 KB, MIME type: image/png)
+[Class-by-attribute-value-intersection.png](../images/d/d4/Class-by-attribute-value-intersection.png)‎ (470 × 351 pixel, file size: 43 KB, MIME type: image/png)
 
 ## File history
 

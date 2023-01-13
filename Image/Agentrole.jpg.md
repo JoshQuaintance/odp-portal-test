@@ -2,9 +2,9 @@
 * [File history](../Image/Agentrole.jpg.md#filehistory)
 * [Links](../Image/Agentrole.jpg.md#filelinks)
 
-[![Image:Agentrole.jpg](../../../images/1/1d/Agentrole.jpg)](../../../images/1/1d/Agentrole.jpg)  
+[![Image:Agentrole.jpg](../images/1/1d/Agentrole.jpg)](../images/1/1d/Agentrole.jpg)  
 No higher resolution available.  
-[Agentrole.jpg](../../../images/1/1d/Agentrole.jpg)‎ (304 × 288 pixel, file size: 19 KB, MIME type: image/jpeg)
+[Agentrole.jpg](../images/1/1d/Agentrole.jpg)‎ (304 × 288 pixel, file size: 19 KB, MIME type: image/jpeg)
 
 ## File history
 

@@ -2,9 +2,9 @@
 * [File history](../Image/Notepattern_pattern.png.md#filehistory)
 * [Links](../Image/Notepattern_pattern.png.md#filelinks)
 
-[![Image:Notepattern pattern.png](../images/thumb/3/3d/Notepattern_pattern.png/800px-Notepattern_pattern.png)](../../images/3/3d/Notepattern_pattern.png)  
+[![Image:Notepattern pattern.png](../images/thumb/3/3d/Notepattern_pattern.png/800px-Notepattern_pattern.png)](../images/3/3d/Notepattern_pattern.png)  
 Size of this preview: 800 × 316 pixels  
-[Full resolution](../../images/3/3d/Notepattern_pattern.png)‎ (1,291 × 510 pixel, file size: 47 KB, MIME type: image/png)
+[Full resolution](../images/3/3d/Notepattern_pattern.png)‎ (1,291 × 510 pixel, file size: 47 KB, MIME type: image/png)
 
 ## File history
 

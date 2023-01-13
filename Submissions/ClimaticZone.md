@@ -28,26 +28,26 @@ _The __ClimaticZone__ Content OP locally defines the following ontology elements
 
 
 
-[![Class](../../../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __ClimaticZone__ (owl:Class) 
- [![](../../../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[ClimaticZone](../Submissions/ClimaticZone/ClimaticZone.md "Submissions:ClimaticZone/ClimaticZone") page_
-[![Class](../../../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __AquaticResource__ (owl:Class) A fishery resource (a collection of actual aquatic organisms) that can include aquatic organisms from different AquaticSpecies, and is localized in some WaterArea.
+[![Class](../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __ClimaticZone__ (owl:Class) 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[ClimaticZone](../Submissions/ClimaticZone/ClimaticZone.md "Submissions:ClimaticZone/ClimaticZone") page_
+[![Class](../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __AquaticResource__ (owl:Class) A fishery resource (a collection of actual aquatic organisms) that can include aquatic organisms from different AquaticSpecies, and is localized in some WaterArea.
 It can be mapped to fi:AqResRef 
 
 
 
- [![](../../../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[AquaticResource](../Submissions/ClimaticZone/AquaticResource.md "Submissions:ClimaticZone/AquaticResource") page_
-[![Class](../../../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __AquaticResourceObservation__ (owl:Class) An observation of a resource characterised by different parameters. 
- [![](../../../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[AquaticResourceObservation](../Submissions/ClimaticZone/AquaticResourceObservation.md "Submissions:ClimaticZone/AquaticResourceObservation") page_
-[![ObjectProperty](../../../../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __hasResource__ (owl:ObjectProperty) 
- [![](../../../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[hasResource](../Submissions/ClimaticZone/hasResource.md "Submissions:ClimaticZone/hasResource") page_
-[![ObjectProperty](../../../../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __hasClimaticZone__ (owl:ObjectProperty) 
- [![](../../../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[hasClimaticZone](../Submissions/ClimaticZone/hasClimaticZone.md "Submissions:ClimaticZone/hasClimaticZone") page_
-[![ObjectProperty](../../../../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __isClimaticZoneOf__ (owl:ObjectProperty) 
- [![](../../../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[isClimaticZoneOf](../Submissions/ClimaticZone/isClimaticZoneOf.md "Submissions:ClimaticZone/isClimaticZoneOf") page_
-[![ObjectProperty](../../../../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __isResourceOf__ (owl:ObjectProperty) 
- [![](../../../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[isResourceOf](../Submissions/ClimaticZone/isResourceOf.md "Submissions:ClimaticZone/isResourceOf") page_
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[AquaticResource](../Submissions/ClimaticZone/AquaticResource.md "Submissions:ClimaticZone/AquaticResource") page_
+[![Class](../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __AquaticResourceObservation__ (owl:Class) An observation of a resource characterised by different parameters. 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[AquaticResourceObservation](../Submissions/ClimaticZone/AquaticResourceObservation.md "Submissions:ClimaticZone/AquaticResourceObservation") page_
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __hasResource__ (owl:ObjectProperty) 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[hasResource](../Submissions/ClimaticZone/hasResource.md "Submissions:ClimaticZone/hasResource") page_
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __hasClimaticZone__ (owl:ObjectProperty) 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[hasClimaticZone](../Submissions/ClimaticZone/hasClimaticZone.md "Submissions:ClimaticZone/hasClimaticZone") page_
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __isClimaticZoneOf__ (owl:ObjectProperty) 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[isClimaticZoneOf](../Submissions/ClimaticZone/isClimaticZoneOf.md "Submissions:ClimaticZone/isClimaticZoneOf") page_
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __isResourceOf__ (owl:ObjectProperty) 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[isResourceOf](../Submissions/ClimaticZone/isResourceOf.md "Submissions:ClimaticZone/isResourceOf") page_
 [![DatatypeProperty](../images/thumb/a/a5/DatatypeProperty.gif/20px-DatatypeProperty.gif)](../Image/DatatypeProperty.gif.md "DatatypeProperty") __hasReferenceYear__ (owl:DatatypeProperty) 
- [![](../../../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[hasReferenceYear](../Submissions/ClimaticZone/hasReferenceYear.md "Submissions:ClimaticZone/hasReferenceYear") page_
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[hasReferenceYear](../Submissions/ClimaticZone/hasReferenceYear.md "Submissions:ClimaticZone/hasReferenceYear") page_
 #  Additional information
 
 

@@ -2,9 +2,9 @@
 * [File history](../Image/Taglio.jpg.md#filehistory)
 * [Links](../Image/Taglio.jpg.md#filelinks)
 
-[![Image:Taglio.jpg](../../../images/5/52/Taglio.jpg)](../../../images/5/52/Taglio.jpg)  
+[![Image:Taglio.jpg](../images/5/52/Taglio.jpg)](../images/5/52/Taglio.jpg)  
 No higher resolution available.  
-[Taglio.jpg](../../../images/5/52/Taglio.jpg)‎ (111 × 111 pixel, file size: 1 KB, MIME type: image/jpeg)
+[Taglio.jpg](../images/5/52/Taglio.jpg)‎ (111 × 111 pixel, file size: 1 KB, MIME type: image/jpeg)
 
 ## File history
 

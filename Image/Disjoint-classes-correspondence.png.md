@@ -2,9 +2,9 @@
 * [File history](../Image/Disjoint-classes-correspondence.png.md#filehistory)
 * [Links](../Image/Disjoint-classes-correspondence.png.md#filelinks)
 
-[![Image:Disjoint-classes-correspondence.png](../../../images/0/06/Disjoint-classes-correspondence.png)](../../../images/0/06/Disjoint-classes-correspondence.png)  
+[![Image:Disjoint-classes-correspondence.png](../images/0/06/Disjoint-classes-correspondence.png)](../images/0/06/Disjoint-classes-correspondence.png)  
 No higher resolution available.  
-[Disjoint-classes-correspondence.png](../../../images/0/06/Disjoint-classes-correspondence.png)‎ (435 × 113 pixel, file size: 15 KB, MIME type: image/png)
+[Disjoint-classes-correspondence.png](../images/0/06/Disjoint-classes-correspondence.png)‎ (435 × 113 pixel, file size: 15 KB, MIME type: image/png)
 
 ## File history
 

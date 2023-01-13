@@ -2,9 +2,9 @@
 * [File history](../Image/Digital_Video_ODP_diagram.jpg.md#filehistory)
 * [Links](../Image/Digital_Video_ODP_diagram.jpg.md#filelinks)
 
-[![Image:Digital Video ODP diagram.jpg](../images/thumb/2/20/Digital_Video_ODP_diagram.jpg/800px-Digital_Video_ODP_diagram.jpg)](../../images/2/20/Digital_Video_ODP_diagram.jpg)  
+[![Image:Digital Video ODP diagram.jpg](../images/thumb/2/20/Digital_Video_ODP_diagram.jpg/800px-Digital_Video_ODP_diagram.jpg)](../images/2/20/Digital_Video_ODP_diagram.jpg)  
 Size of this preview: 800 × 365 pixels  
-[Full resolution](../../images/2/20/Digital_Video_ODP_diagram.jpg)‎ (4,460 × 2,036 pixel, file size: 774 KB, MIME type: image/jpeg)
+[Full resolution](../images/2/20/Digital_Video_ODP_diagram.jpg)‎ (4,460 × 2,036 pixel, file size: 774 KB, MIME type: image/jpeg)
 
 ## File history
 

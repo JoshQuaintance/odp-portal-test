@@ -3,9 +3,9 @@
 * [Links](../Image/Bag.jpg.md#filelinks)
 * [Metadata](../Image/Bag.jpg.md#metadata)
 
-[![Image:Bag.jpg](../../../images/4/47/Bag.jpg)](../../../images/4/47/Bag.jpg)  
+[![Image:Bag.jpg](../images/4/47/Bag.jpg)](../images/4/47/Bag.jpg)  
 No higher resolution available.  
-[Bag.jpg](../../../images/4/47/Bag.jpg)‎ (488 × 245 pixel, file size: 64 KB, MIME type: image/jpeg)Illustration of bag.owl
+[Bag.jpg](../images/4/47/Bag.jpg)‎ (488 × 245 pixel, file size: 64 KB, MIME type: image/jpeg)Illustration of bag.owl
 
 
 

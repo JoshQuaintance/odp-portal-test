@@ -2,9 +2,9 @@
 * [File history](../Image/ComputerSystemODP_Diagram.png.md#filehistory)
 * [Links](../Image/ComputerSystemODP_Diagram.png.md#filelinks)
 
-[![Image:ComputerSystemODP Diagram.png](../images/thumb/a/ab/ComputerSystemODP_Diagram.png/800px-ComputerSystemODP_Diagram.png)](../../images/a/ab/ComputerSystemODP_Diagram.png)  
+[![Image:ComputerSystemODP Diagram.png](../images/thumb/a/ab/ComputerSystemODP_Diagram.png/800px-ComputerSystemODP_Diagram.png)](../images/a/ab/ComputerSystemODP_Diagram.png)  
 Size of this preview: 800 × 463 pixels  
-[Full resolution](../../images/a/ab/ComputerSystemODP_Diagram.png)‎ (1,214 × 702 pixel, file size: 81 KB, MIME type: image/png)
+[Full resolution](../images/a/ab/ComputerSystemODP_Diagram.png)‎ (1,214 × 702 pixel, file size: 81 KB, MIME type: image/png)
 
 ## File history
 

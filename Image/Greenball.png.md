@@ -2,9 +2,9 @@
 * [File history](../Image/Greenball.png.md#filehistory)
 * [Links](../Image/Greenball.png.md#filelinks)
 
-[![Image:Greenball.png](../../../images/8/8e/Greenball.png)](../../../images/8/8e/Greenball.png)  
+[![Image:Greenball.png](../images/8/8e/Greenball.png)](../images/8/8e/Greenball.png)  
 No higher resolution available.  
-[Greenball.png](../../../images/8/8e/Greenball.png)‎ (120 × 120 pixel, file size: 12 KB, MIME type: image/png)
+[Greenball.png](../images/8/8e/Greenball.png)‎ (120 × 120 pixel, file size: 12 KB, MIME type: image/png)
 
 ## File history
 

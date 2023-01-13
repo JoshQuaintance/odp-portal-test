@@ -41,9 +41,9 @@ It has related axioms from FIGIS Schema that are included in the classes linked 
 
 
 
- [![](../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[AquaticSpecies](../Submissions/SpeciesConservation/AquaticSpecies.md "Submissions:SpeciesConservation/AquaticSpecies") page_
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[AquaticSpecies](../Submissions/SpeciesConservation/AquaticSpecies.md "Submissions:SpeciesConservation/AquaticSpecies") page_
 [![DatatypeProperty](../images/thumb/a/a5/DatatypeProperty.gif/20px-DatatypeProperty.gif)](../Image/DatatypeProperty.gif.md "DatatypeProperty") __hasConservationStatus__ (owl:DatatypeProperty) 
- [![](../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[hasConservationStatus](../Submissions/SpeciesConservation/hasConservationStatus.md "Submissions:SpeciesConservation/hasConservationStatus") page_
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[hasConservationStatus](../Submissions/SpeciesConservation/hasConservationStatus.md "Submissions:SpeciesConservation/hasConservationStatus") page_
 #  Additional information
 
 

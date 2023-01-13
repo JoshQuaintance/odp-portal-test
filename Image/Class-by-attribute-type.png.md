@@ -2,9 +2,9 @@
 * [File history](../Image/Class-by-attribute-type.png.md#filehistory)
 * [Links](../Image/Class-by-attribute-type.png.md#filelinks)
 
-[![Image:Class-by-attribute-type.png](../../../images/d/d2/Class-by-attribute-type.png)](../../../images/d/d2/Class-by-attribute-type.png)  
+[![Image:Class-by-attribute-type.png](../images/d/d2/Class-by-attribute-type.png)](../images/d/d2/Class-by-attribute-type.png)  
 No higher resolution available.  
-[Class-by-attribute-type.png](../../../images/d/d2/Class-by-attribute-type.png)‎ (622 × 235 pixel, file size: 29 KB, MIME type: image/png)
+[Class-by-attribute-type.png](../images/d/d2/Class-by-attribute-type.png)‎ (622 × 235 pixel, file size: 29 KB, MIME type: image/png)
 
 ## File history
 

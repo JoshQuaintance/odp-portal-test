@@ -2,9 +2,9 @@
 * [File history](../Image/Multiple-class-by-attribute-range-partition.png.md#filehistory)
 * [Links](../Image/Multiple-class-by-attribute-range-partition.png.md#filelinks)
 
-[![Image:Multiple-class-by-attribute-range-partition.png](../images/thumb/9/9e/Multiple-class-by-attribute-range-partition.png/744px-Multiple-class-by-attribute-range-partition.png)](../../images/9/9e/Multiple-class-by-attribute-range-partition.png)  
+[![Image:Multiple-class-by-attribute-range-partition.png](../images/thumb/9/9e/Multiple-class-by-attribute-range-partition.png/744px-Multiple-class-by-attribute-range-partition.png)](../images/9/9e/Multiple-class-by-attribute-range-partition.png)  
 Size of this preview: 744 × 600 pixels  
-[Full resolution](../../images/9/9e/Multiple-class-by-attribute-range-partition.png)‎ (811 × 654 pixel, file size: 77 KB, MIME type: image/png)
+[Full resolution](../images/9/9e/Multiple-class-by-attribute-range-partition.png)‎ (811 × 654 pixel, file size: 77 KB, MIME type: image/png)
 
 ## File history
 

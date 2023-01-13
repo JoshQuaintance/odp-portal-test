@@ -2,9 +2,9 @@
 * [File history](../Image/Property-relation.png.md#filehistory)
 * [Links](../Image/Property-relation.png.md#filelinks)
 
-[![Image:Property-relation.png](../../../images/b/be/Property-relation.png)](../../../images/b/be/Property-relation.png)  
+[![Image:Property-relation.png](../images/b/be/Property-relation.png)](../images/b/be/Property-relation.png)  
 No higher resolution available.  
-[Property-relation.png](../../../images/b/be/Property-relation.png)‎ (573 × 183 pixel, file size: 27 KB, MIME type: image/png)
+[Property-relation.png](../images/b/be/Property-relation.png)‎ (573 × 183 pixel, file size: 27 KB, MIME type: image/png)
 
 ## File history
 

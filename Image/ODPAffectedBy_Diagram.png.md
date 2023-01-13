@@ -2,9 +2,9 @@
 * [File history](../Image/ODPAffectedBy_Diagram.png.md#filehistory)
 * [Links](../Image/ODPAffectedBy_Diagram.png.md#filelinks)
 
-[![Image:ODPAffectedBy Diagram.png](../images/thumb/8/8a/ODPAffectedBy_Diagram.png/800px-ODPAffectedBy_Diagram.png)](../../images/8/8a/ODPAffectedBy_Diagram.png)  
+[![Image:ODPAffectedBy Diagram.png](../images/thumb/8/8a/ODPAffectedBy_Diagram.png/800px-ODPAffectedBy_Diagram.png)](../images/8/8a/ODPAffectedBy_Diagram.png)  
 Size of this preview: 800 × 441 pixels  
-[Full resolution](../../images/8/8a/ODPAffectedBy_Diagram.png)‎ (1,888 × 1,040 pixel, file size: 80 KB, MIME type: image/png)Diagram of the AffectedBy ODP
+[Full resolution](../images/8/8a/ODPAffectedBy_Diagram.png)‎ (1,888 × 1,040 pixel, file size: 80 KB, MIME type: image/png)Diagram of the AffectedBy ODP
 
 
 

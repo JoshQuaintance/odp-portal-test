@@ -2,9 +2,9 @@
 * [File history](../Image/Vesselspecies2.jpg.md#filehistory)
 * [Links](../Image/Vesselspecies2.jpg.md#filelinks)
 
-[![Image:Vesselspecies2.jpg](../../../images/6/67/Vesselspecies2.jpg)](../../../images/6/67/Vesselspecies2.jpg)  
+[![Image:Vesselspecies2.jpg](../images/6/67/Vesselspecies2.jpg)](../images/6/67/Vesselspecies2.jpg)  
 No higher resolution available.  
-[Vesselspecies2.jpg](../../../images/6/67/Vesselspecies2.jpg)‎ (793 × 329 pixel, file size: 139 KB, MIME type: image/jpeg)
+[Vesselspecies2.jpg](../images/6/67/Vesselspecies2.jpg)‎ (793 × 329 pixel, file size: 139 KB, MIME type: image/jpeg)
 
 ## File history
 

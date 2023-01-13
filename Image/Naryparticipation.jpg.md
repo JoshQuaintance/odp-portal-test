@@ -2,9 +2,9 @@
 * [File history](../Image/Naryparticipation.jpg.md#filehistory)
 * [Links](../Image/Naryparticipation.jpg.md#filelinks)
 
-[![Image:Naryparticipation.jpg](../images/thumb/e/e2/Naryparticipation.jpg/800px-Naryparticipation.jpg)](../../images/e/e2/Naryparticipation.jpg)  
+[![Image:Naryparticipation.jpg](../images/thumb/e/e2/Naryparticipation.jpg/800px-Naryparticipation.jpg)](../images/e/e2/Naryparticipation.jpg)  
 Size of this preview: 800 × 275 pixels  
-[Full resolution](../../images/e/e2/Naryparticipation.jpg)‎ (976 × 336 pixel, file size: 48 KB, MIME type: image/jpeg)
+[Full resolution](../images/e/e2/Naryparticipation.jpg)‎ (976 × 336 pixel, file size: 48 KB, MIME type: image/jpeg)
 
 ## File history
 

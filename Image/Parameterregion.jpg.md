@@ -2,9 +2,9 @@
 * [File history](../Image/Parameterregion.jpg.md#filehistory)
 * [Links](../Image/Parameterregion.jpg.md#filelinks)
 
-[![Image:Parameterregion.jpg](../../../images/d/d8/Parameterregion.jpg)](../../../images/d/d8/Parameterregion.jpg)  
+[![Image:Parameterregion.jpg](../images/d/d8/Parameterregion.jpg)](../images/d/d8/Parameterregion.jpg)  
 No higher resolution available.  
-[Parameterregion.jpg](../../../images/d/d8/Parameterregion.jpg)‎ (223 × 266 pixel, file size: 21 KB, MIME type: image/jpeg)
+[Parameterregion.jpg](../images/d/d8/Parameterregion.jpg)‎ (223 × 266 pixel, file size: 21 KB, MIME type: image/jpeg)
 
 ## File history
 

@@ -103,5 +103,5 @@ There is no Modeling issue related to this proposal.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Spatial\_Graph\_Adapter\_Pattern\_%28moved\_to\_Content\_ODPs%29](../Submissions/Spatial_Graph_Adapter_Pattern_(moved_to_Content_ODPs).md).html)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Spatial\_Graph\_Adapter\_Pattern\_%28moved\_to\_Content\_ODPs%29](../Submissions/Spatial_Graph_Adapter_Pattern_(moved_to_Content_ODPs).md).md).html)"
  [Categories](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ProposedAlignmentOP](../Category/ProposedAlignmentOP.md "Category:ProposedAlignmentOP") | [AlignmentOP](../Category/AlignmentOP.md "Category:AlignmentOP") | [Waiting for review](../Category/Waiting_for_review.md "Category:Waiting for review") | [Submitted to event](../Category/Submitted_to_event.md "Category:Submitted to event")

@@ -49,7 +49,7 @@ __Reusable JAPE code__: [DP\_1.jape](../images/e/ef/DP_1.jape "DP 1.jape")
 
 
 
-[![](../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[1](../Submissions/Lexico_Syntactic_ODP_corresponding_to_Datatype_Property_ODP/1.md "Submissions:Lexico Syntactic ODP corresponding to Datatype Property ODP/1") page_
+[![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[1](../Submissions/Lexico_Syntactic_ODP_corresponding_to_Datatype_Property_ODP/1.md "Submissions:Lexico Syntactic ODP corresponding to Datatype Property ODP/1") page_
 
 
 
@@ -78,7 +78,7 @@ __Reusable JAPE code__: [DP\_2.jape](../images/c/c9/DP_2.jape "DP 2.jape")
 
 
 
-[![](../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[2](../Submissions/Lexico_Syntactic_ODP_corresponding_to_Datatype_Property_ODP/2.md "Submissions:Lexico Syntactic ODP corresponding to Datatype Property ODP/2") page_
+[![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[2](../Submissions/Lexico_Syntactic_ODP_corresponding_to_Datatype_Property_ODP/2.md "Submissions:Lexico Syntactic ODP corresponding to Datatype Property ODP/2") page_
 
 
 

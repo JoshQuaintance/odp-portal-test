@@ -2,9 +2,9 @@
 * [File history](../Image/Class-by-relation-domain.png.md#filehistory)
 * [Links](../Image/Class-by-relation-domain.png.md#filelinks)
 
-[![Image:Class-by-relation-domain.png](../../../images/b/b4/Class-by-relation-domain.png)](../../../images/b/b4/Class-by-relation-domain.png)  
+[![Image:Class-by-relation-domain.png](../images/b/b4/Class-by-relation-domain.png)](../images/b/b4/Class-by-relation-domain.png)  
 No higher resolution available.  
-[Class-by-relation-domain.png](../../../images/b/b4/Class-by-relation-domain.png)‎ (499 × 245 pixel, file size: 24 KB, MIME type: image/png)
+[Class-by-relation-domain.png](../images/b/b4/Class-by-relation-domain.png)‎ (499 × 245 pixel, file size: 24 KB, MIME type: image/png)
 
 ## File history
 

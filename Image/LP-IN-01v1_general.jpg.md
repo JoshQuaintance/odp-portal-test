@@ -2,9 +2,9 @@
 * [File history](../Image/LP-IN-01v1_general.jpg.md#filehistory)
 * [Links](../Image/LP-IN-01v1_general.jpg.md#filelinks)
 
-[![Image:LP-IN-01v1 general.jpg](../../../images/d/d1/LP-IN-01v1_general.jpg)](../../../images/d/d1/LP-IN-01v1_general.jpg)  
+[![Image:LP-IN-01v1 general.jpg](../images/d/d1/LP-IN-01v1_general.jpg)](../images/d/d1/LP-IN-01v1_general.jpg)  
 No higher resolution available.  
-[LP-IN-01v1\_general.jpg](../../../images/d/d1/LP-IN-01v1_general.jpg)‎ (656 × 226 pixel, file size: 17 KB, MIME type: image/jpeg)
+[LP-IN-01v1\_general.jpg](../images/d/d1/LP-IN-01v1_general.jpg)‎ (656 × 226 pixel, file size: 17 KB, MIME type: image/jpeg)
 
 ## File history
 

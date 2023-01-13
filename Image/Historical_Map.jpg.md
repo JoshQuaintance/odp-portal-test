@@ -2,9 +2,9 @@
 * [File history](../Image/Historical_Map.jpg.md#filehistory)
 * [Links](../Image/Historical_Map.jpg.md#filelinks)
 
-[![Image:Historical Map.jpg](../images/thumb/3/31/Historical_Map.jpg/800px-Historical_Map.jpg)](../../images/3/31/Historical_Map.jpg)  
+[![Image:Historical Map.jpg](../images/thumb/3/31/Historical_Map.jpg/800px-Historical_Map.jpg)](../images/3/31/Historical_Map.jpg)  
 Size of this preview: 800 × 242 pixels  
-[Full resolution](../../images/3/31/Historical_Map.jpg)‎ (849 × 257 pixel, file size: 29 KB, MIME type: image/jpeg)This image shows a generalized diagram of the domain ontology.
+[Full resolution](../images/3/31/Historical_Map.jpg)‎ (849 × 257 pixel, file size: 29 KB, MIME type: image/jpeg)This image shows a generalized diagram of the domain ontology.
 
 
 

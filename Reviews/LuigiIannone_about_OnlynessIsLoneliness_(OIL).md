@@ -1,5 +1,5 @@
 [![](../images/thumb/2/29/Reviewer.png/48px-Reviewer.png)](../Image/Reviewer.png.md "Reviewer.png")
-__[LuigiIannone](../User/LuigiIannone.md "User:LuigiIannone") about [OnlynessIsLoneliness (OIL)](../Submissions/OnlynessIsLoneliness_(OIL).md).html "Submissions:OnlynessIsLoneliness (OIL)") (Revision ID: [(OIL)?oldid=5621 5621](../Submissions/OnlynessIsLoneliness.md "http://ontologydesignpatterns.org/wiki/Submissions:OnlynessIsLoneliness"))__
+__[LuigiIannone](../User/LuigiIannone.md "User:LuigiIannone") about [OnlynessIsLoneliness (OIL)](../Submissions/OnlynessIsLoneliness_(OIL).md).md).html "Submissions:OnlynessIsLoneliness (OIL)") (Revision ID: [(OIL)?oldid=5621 5621](../Submissions/OnlynessIsLoneliness.md "http://ontologydesignpatterns.org/wiki/Submissions:OnlynessIsLoneliness"))__
 Overall suggestion (score): 1 - needs minor revision
 
 
@@ -23,8 +23,8 @@ _Posted:_ 2009/9/1 _Last modified:_ 2009/9/1
 
 
 
-[All reviews](../Reviews/Main.md "Reviews:Main") | [Add a comment at the bottom of this page](index.php@title=Odp%253AAdd_comment&target=../Reviews/LuigiIannone_about_OnlynessIsLoneliness_(OIL).md).html#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Reviews:LuigiIannone_about_OnlynessIsLoneliness_(OIL)#New_comment")
+[All reviews](../Reviews/Main.md "Reviews:Main") | [Add a comment at the bottom of this page](index.php@title=Odp%253AAdd_comment&target=../Reviews/LuigiIannone_about_OnlynessIsLoneliness_(OIL).md).md).html#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Reviews:LuigiIannone_about_OnlynessIsLoneliness_(OIL)#New_comment")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Reviews:LuigiIannone\_about\_OnlynessIsLoneliness\_%28OIL%29](../Reviews/LuigiIannone_about_OnlynessIsLoneliness_(OIL).md).html)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Reviews:LuigiIannone\_about\_OnlynessIsLoneliness\_%28OIL%29](../Reviews/LuigiIannone_about_OnlynessIsLoneliness_(OIL).md).md).html)"
  [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [QCReview](../Category/QCReview.md "Category:QCReview")

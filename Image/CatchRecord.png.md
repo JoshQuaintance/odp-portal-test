@@ -2,9 +2,9 @@
 * [File history](../Image/CatchRecord.png.md#filehistory)
 * [Links](../Image/CatchRecord.png.md#filelinks)
 
-[![Image:CatchRecord.png](../../../images/b/bb/CatchRecord.png)](../../../images/b/bb/CatchRecord.png)  
+[![Image:CatchRecord.png](../images/b/bb/CatchRecord.png)](../images/b/bb/CatchRecord.png)  
 No higher resolution available.  
-[CatchRecord.png](../../../images/b/bb/CatchRecord.png)‎ (359 × 337 pixel, file size: 25 KB, MIME type: image/png)
+[CatchRecord.png](../images/b/bb/CatchRecord.png)‎ (359 × 337 pixel, file size: 25 KB, MIME type: image/png)
 
 ## File history
 

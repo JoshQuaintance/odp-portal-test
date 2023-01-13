@@ -2,9 +2,9 @@
 * [File history](../Image/Complaint.png.md#filehistory)
 * [Links](../Image/Complaint.png.md#filelinks)
 
-[![Image:Complaint.png](../images/thumb/4/4e/Complaint.png/800px-Complaint.png)](../../images/4/4e/Complaint.png)  
+[![Image:Complaint.png](../images/thumb/4/4e/Complaint.png/800px-Complaint.png)](../images/4/4e/Complaint.png)  
 Size of this preview: 800 × 408 pixels  
-[Full resolution](../../images/4/4e/Complaint.png)‎ (2,204 × 1,125 pixel, file size: 103 KB, MIME type: image/png)Constituents of COP: class labels are depicted using yellow nodes, and relationship between the classes are depicted by black arrows
+[Full resolution](../images/4/4e/Complaint.png)‎ (2,204 × 1,125 pixel, file size: 103 KB, MIME type: image/png)Constituents of COP: class labels are depicted using yellow nodes, and relationship between the classes are depicted by black arrows
 
 
 

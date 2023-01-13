@@ -2,9 +2,9 @@
 * [File history](../Image/Salespurchaseordercontracts.jpg.md#filehistory)
 * [Links](../Image/Salespurchaseordercontracts.jpg.md#filelinks)
 
-[![Image:Salespurchaseordercontracts.jpg](../images/thumb/6/69/Salespurchaseordercontracts.jpg/800px-Salespurchaseordercontracts.jpg)](../../images/6/69/Salespurchaseordercontracts.jpg)  
+[![Image:Salespurchaseordercontracts.jpg](../images/thumb/6/69/Salespurchaseordercontracts.jpg/800px-Salespurchaseordercontracts.jpg)](../images/6/69/Salespurchaseordercontracts.jpg)  
 Size of this preview: 800 × 354 pixels  
-[Full resolution](../../images/6/69/Salespurchaseordercontracts.jpg)‎ (976 × 432 pixel, file size: 69 KB, MIME type: image/jpeg)
+[Full resolution](../images/6/69/Salespurchaseordercontracts.jpg)‎ (976 × 432 pixel, file size: 69 KB, MIME type: image/jpeg)
 
 ## File history
 

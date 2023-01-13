@@ -2,9 +2,9 @@
 * [File history](../Image/Region.jpg.md#filehistory)
 * [Links](../Image/Region.jpg.md#filelinks)
 
-[![Image:Region.jpg](../../../images/7/73/Region.jpg)](../../../images/7/73/Region.jpg)  
+[![Image:Region.jpg](../images/7/73/Region.jpg)](../images/7/73/Region.jpg)  
 No higher resolution available.  
-[Region.jpg](../../../images/7/73/Region.jpg)‎ (160 × 208 pixel, file size: 10 KB, MIME type: image/jpeg)
+[Region.jpg](../images/7/73/Region.jpg)‎ (160 × 208 pixel, file size: 10 KB, MIME type: image/jpeg)
 
 ## File history
 

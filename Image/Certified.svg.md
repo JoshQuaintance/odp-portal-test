@@ -2,9 +2,9 @@
 * [File history](../Image/Certified.svg.md#filehistory)
 * [Links](../Image/Certified.svg.md#filelinks)
 
-[![Image:Certified.svg](../images/thumb/c/ca/Certified.svg/60px-Certified.svg.png)](../../images/c/ca/Certified.svg)  
+[![Image:Certified.svg](../images/thumb/c/ca/Certified.svg/60px-Certified.svg.png)](../images/c/ca/Certified.svg)  
 
-[Certified.svg](../../images/c/ca/Certified.svg "Certified.svg")‎  (SVG file, nominally 60 × 60 pixels, file size: 7 KB)
+[Certified.svg](../images/c/ca/Certified.svg "Certified.svg")‎  (SVG file, nominally 60 × 60 pixels, file size: 7 KB)
 
 
 

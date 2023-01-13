@@ -102,5 +102,5 @@ There is no Modeling issue related to this proposal.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Spatial\_Graph\_Adapter\_%28SGA%29](../Submissions/Spatial_Graph_Adapter_(SGA).md).html)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Spatial\_Graph\_Adapter\_%28SGA%29](../Submissions/Spatial_Graph_Adapter_(SGA).md).md).html)"
  [Categories](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ProposedContentOP](../Category/ProposedContentOP.md "Category:ProposedContentOP") | [Waiting for review](../Category/Waiting_for_review.md "Category:Waiting for review") | [Submitted to event](../Category/Submitted_to_event.md "Category:Submitted to event")

@@ -2,9 +2,9 @@
 * [File history](../Image/Diagram.png.md#filehistory)
 * [Links](../Image/Diagram.png.md#filelinks)
 
-[![Image:Diagram.png](../images/thumb/e/ee/Diagram.png/800px-Diagram.png)](../../images/e/ee/Diagram.png)  
+[![Image:Diagram.png](../images/thumb/e/ee/Diagram.png/800px-Diagram.png)](../images/e/ee/Diagram.png)  
 Size of this preview: 800 × 314 pixels  
-[Full resolution](../../images/e/ee/Diagram.png)‎ (862 × 338 pixel, file size: 42 KB, MIME type: image/png)
+[Full resolution](../images/e/ee/Diagram.png)‎ (862 × 338 pixel, file size: 42 KB, MIME type: image/png)
 
 ## File history
 

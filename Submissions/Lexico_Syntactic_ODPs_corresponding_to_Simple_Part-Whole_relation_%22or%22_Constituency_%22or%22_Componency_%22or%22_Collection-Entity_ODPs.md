@@ -49,7 +49,7 @@ __Reusable JAPE code__: [PW\_1.jape](../images/d/db/PW_1.jape "PW 1.jape")
 
 
 
-[![](../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[1](Submissions%253ALexico_Syntactic_ODPs_corresponding_to_Simple_Part-Whole_relation_%2522or%2522_Constituency_%2522or%2522_Componency_%2522or%2522_Collection-Entity_ODPs/1.html "Submissions:Lexico Syntactic ODPs corresponding to Simple Part-Whole relation \"or\" Constituency \"or\" Componency \"or\" Collection-Entity ODPs/1") page_
+[![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[1](Submissions%253ALexico_Syntactic_ODPs_corresponding_to_Simple_Part-Whole_relation_%2522or%2522_Constituency_%2522or%2522_Componency_%2522or%2522_Collection-Entity_ODPs/1.html "Submissions:Lexico Syntactic ODPs corresponding to Simple Part-Whole relation \"or\" Constituency \"or\" Componency \"or\" Collection-Entity ODPs/1") page_
 
 
 
@@ -80,7 +80,7 @@ __Reusable JAPE code__: [PW\_2.jape](../images/8/89/PW_2.jape "PW 2.jape")
 
 
 
-[![](../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[2](Submissions%253ALexico_Syntactic_ODPs_corresponding_to_Simple_Part-Whole_relation_%2522or%2522_Constituency_%2522or%2522_Componency_%2522or%2522_Collection-Entity_ODPs/2.html "Submissions:Lexico Syntactic ODPs corresponding to Simple Part-Whole relation \"or\" Constituency \"or\" Componency \"or\" Collection-Entity ODPs/2") page_
+[![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[2](Submissions%253ALexico_Syntactic_ODPs_corresponding_to_Simple_Part-Whole_relation_%2522or%2522_Constituency_%2522or%2522_Componency_%2522or%2522_Collection-Entity_ODPs/2.html "Submissions:Lexico Syntactic ODPs corresponding to Simple Part-Whole relation \"or\" Constituency \"or\" Componency \"or\" Collection-Entity ODPs/2") page_
 
 
 
@@ -109,7 +109,7 @@ __Reusable JAPE code__: -
 
 
 
-[![](../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[3](Submissions%253ALexico_Syntactic_ODPs_corresponding_to_Simple_Part-Whole_relation_%2522or%2522_Constituency_%2522or%2522_Componency_%2522or%2522_Collection-Entity_ODPs/3.html "Submissions:Lexico Syntactic ODPs corresponding to Simple Part-Whole relation \"or\" Constituency \"or\" Componency \"or\" Collection-Entity ODPs/3") page_
+[![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[3](Submissions%253ALexico_Syntactic_ODPs_corresponding_to_Simple_Part-Whole_relation_%2522or%2522_Constituency_%2522or%2522_Componency_%2522or%2522_Collection-Entity_ODPs/3.html "Submissions:Lexico Syntactic ODPs corresponding to Simple Part-Whole relation \"or\" Constituency \"or\" Componency \"or\" Collection-Entity ODPs/3") page_
 
 
 
@@ -138,7 +138,7 @@ __Reusable JAPE code__: [PW\_3.jape](../images/4/48/PW_3.jape "PW 3.jape")
 
 
 
-[![](../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[4](Submissions%253ALexico_Syntactic_ODPs_corresponding_to_Simple_Part-Whole_relation_%2522or%2522_Constituency_%2522or%2522_Componency_%2522or%2522_Collection-Entity_ODPs/4.html "Submissions:Lexico Syntactic ODPs corresponding to Simple Part-Whole relation \"or\" Constituency \"or\" Componency \"or\" Collection-Entity ODPs/4") page_
+[![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[4](Submissions%253ALexico_Syntactic_ODPs_corresponding_to_Simple_Part-Whole_relation_%2522or%2522_Constituency_%2522or%2522_Componency_%2522or%2522_Collection-Entity_ODPs/4.html "Submissions:Lexico Syntactic ODPs corresponding to Simple Part-Whole relation \"or\" Constituency \"or\" Componency \"or\" Collection-Entity ODPs/4") page_
 
 
 
@@ -167,7 +167,7 @@ __Reusable JAPE code__: [PW\_5.jape](../images/7/7a/PW_5.jape "PW 5.jape")
 
 
 
-[![](../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[5](Submissions%253ALexico_Syntactic_ODPs_corresponding_to_Simple_Part-Whole_relation_%2522or%2522_Constituency_%2522or%2522_Componency_%2522or%2522_Collection-Entity_ODPs/5.html "Submissions:Lexico Syntactic ODPs corresponding to Simple Part-Whole relation \"or\" Constituency \"or\" Componency \"or\" Collection-Entity ODPs/5") page_
+[![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[5](Submissions%253ALexico_Syntactic_ODPs_corresponding_to_Simple_Part-Whole_relation_%2522or%2522_Constituency_%2522or%2522_Componency_%2522or%2522_Collection-Entity_ODPs/5.html "Submissions:Lexico Syntactic ODPs corresponding to Simple Part-Whole relation \"or\" Constituency \"or\" Componency \"or\" Collection-Entity ODPs/5") page_
 
 
 

@@ -2,9 +2,9 @@
 * [File history](../Image/Activityspec_op.png.md#filehistory)
 * [Links](../Image/Activityspec_op.png.md#filelinks)
 
-[![Image:Activityspec op.png](../../../images/2/21/Activityspec_op.png)](../../../images/2/21/Activityspec_op.png)  
+[![Image:Activityspec op.png](../images/2/21/Activityspec_op.png)](../images/2/21/Activityspec_op.png)  
 No higher resolution available.  
-[Activityspec\_op.png](../../../images/2/21/Activityspec_op.png)‎ (685 × 457 pixel, file size: 62 KB, MIME type: image/png)
+[Activityspec\_op.png](../images/2/21/Activityspec_op.png)‎ (685 × 457 pixel, file size: 62 KB, MIME type: image/png)
 
 ## File history
 

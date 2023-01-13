@@ -34,9 +34,9 @@ _The __Set__ Content OP locally defines the following ontology elements:_
 
 
 [![Class](../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __Set__ (owl:Class) Set - A collection that cannot contain duplicate elements. 
- [![](../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[Set](../Submissions/Set/Set.md "Submissions:Set/Set") page_
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[Set](../Submissions/Set/Set.md "Submissions:Set/Set") page_
 [![DatatypeProperty](../images/thumb/a/a5/DatatypeProperty.gif/20px-DatatypeProperty.gif)](../Image/DatatypeProperty.gif.md "DatatypeProperty") __size__ (owl:DatatypeProperty) size - The number of items belonging to a collection 
- [![](../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[size](../Submissions/Set/size.md "Submissions:Set/size") page_
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[size](../Submissions/Set/size.md "Submissions:Set/size") page_
 #  Additional information
 
 

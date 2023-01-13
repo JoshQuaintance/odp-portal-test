@@ -1,7 +1,7 @@
 ##   Best Pattern
 
 
- __[OIL, by Oscar Corcho and Catherine Roussey, receives best pattern award!](../../Submissions/OnlynessIsLoneliness_(OIL).md).html "Submissions:OnlynessIsLoneliness (OIL)")__
+ __[OIL, by Oscar Corcho and Catherine Roussey, receives best pattern award!](../../Submissions/OnlynessIsLoneliness_(OIL).md).md).html "Submissions:OnlynessIsLoneliness (OIL)")__
 
 
   

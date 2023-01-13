@@ -28,22 +28,22 @@ _The __PlanConditions__ Content OP locally defines the following ontology elemen
 
 
 
-[![ObjectProperty](../../../../../../../../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __followsPrecondition__ (owl:ObjectProperty) 
- [![](../../../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[followsPrecondition](../Submissions/PlanConditions/followsPrecondition.md "Submissions:PlanConditions/followsPrecondition") page_
-[![ObjectProperty](../../../../../../../../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __hasPostcondition__ (owl:ObjectProperty) 
- [![](../../../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[hasPostcondition](../Submissions/PlanConditions/hasPostcondition.md "Submissions:PlanConditions/hasPostcondition") page_
-[![ObjectProperty](../../../../../../../../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __hasPrecondition__ (owl:ObjectProperty) 
- [![](../../../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[hasPrecondition](../Submissions/PlanConditions/hasPrecondition.md "Submissions:PlanConditions/hasPrecondition") page_
-[![ObjectProperty](../../../../../../../../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __isPostconditionOf__ (owl:ObjectProperty) 
- [![](../../../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[isPostconditionOf](../Submissions/PlanConditions/isPostconditionOf.md "Submissions:PlanConditions/isPostconditionOf") page_
-[![ObjectProperty](../../../../../../../../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __isPostconditionPrecededBy__ (owl:ObjectProperty) 
- [![](../../../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[isPostconditionPrecededBy](../Submissions/PlanConditions/isPostconditionPrecededBy.md "Submissions:PlanConditions/isPostconditionPrecededBy") page_
-[![ObjectProperty](../../../../../../../../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __isPreconditionFollowedBy__ (owl:ObjectProperty) 
- [![](../../../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[isPreconditionFollowedBy](../Submissions/PlanConditions/isPreconditionFollowedBy.md "Submissions:PlanConditions/isPreconditionFollowedBy") page_
-[![ObjectProperty](../../../../../../../../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __isPreconditionOf__ (owl:ObjectProperty) 
- [![](../../../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[isPreconditionOf](../Submissions/PlanConditions/isPreconditionOf.md "Submissions:PlanConditions/isPreconditionOf") page_
-[![ObjectProperty](../../../../../../../../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __precedesPostcondition__ (owl:ObjectProperty) 
- [![](../../../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[precedesPostcondition](../Submissions/PlanConditions/precedesPostcondition.md "Submissions:PlanConditions/precedesPostcondition") page_
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __followsPrecondition__ (owl:ObjectProperty) 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[followsPrecondition](../Submissions/PlanConditions/followsPrecondition.md "Submissions:PlanConditions/followsPrecondition") page_
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __hasPostcondition__ (owl:ObjectProperty) 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[hasPostcondition](../Submissions/PlanConditions/hasPostcondition.md "Submissions:PlanConditions/hasPostcondition") page_
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __hasPrecondition__ (owl:ObjectProperty) 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[hasPrecondition](../Submissions/PlanConditions/hasPrecondition.md "Submissions:PlanConditions/hasPrecondition") page_
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __isPostconditionOf__ (owl:ObjectProperty) 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[isPostconditionOf](../Submissions/PlanConditions/isPostconditionOf.md "Submissions:PlanConditions/isPostconditionOf") page_
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __isPostconditionPrecededBy__ (owl:ObjectProperty) 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[isPostconditionPrecededBy](../Submissions/PlanConditions/isPostconditionPrecededBy.md "Submissions:PlanConditions/isPostconditionPrecededBy") page_
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __isPreconditionFollowedBy__ (owl:ObjectProperty) 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[isPreconditionFollowedBy](../Submissions/PlanConditions/isPreconditionFollowedBy.md "Submissions:PlanConditions/isPreconditionFollowedBy") page_
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __isPreconditionOf__ (owl:ObjectProperty) 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[isPreconditionOf](../Submissions/PlanConditions/isPreconditionOf.md "Submissions:PlanConditions/isPreconditionOf") page_
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __precedesPostcondition__ (owl:ObjectProperty) 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[precedesPostcondition](../Submissions/PlanConditions/precedesPostcondition.md "Submissions:PlanConditions/precedesPostcondition") page_
 #  Additional information
 
 

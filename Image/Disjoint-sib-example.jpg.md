@@ -3,9 +3,9 @@
 * [Links](../Image/Disjoint-sib-example.jpg.md#filelinks)
 * [Metadata](../Image/Disjoint-sib-example.jpg.md#metadata)
 
-[![Image:Disjoint-sib-example.jpg](../images/thumb/4/47/Disjoint-sib-example.jpg/800px-Disjoint-sib-example.jpg)](../../images/4/47/Disjoint-sib-example.jpg)  
+[![Image:Disjoint-sib-example.jpg](../images/thumb/4/47/Disjoint-sib-example.jpg/800px-Disjoint-sib-example.jpg)](../images/4/47/Disjoint-sib-example.jpg)  
 Size of this preview: 800 × 588 pixels  
-[Full resolution](../../images/4/47/Disjoint-sib-example.jpg)‎ (1,078 × 792 pixel, file size: 35 KB, MIME type: image/jpeg)
+[Full resolution](../images/4/47/Disjoint-sib-example.jpg)‎ (1,078 × 792 pixel, file size: 35 KB, MIME type: image/jpeg)
 
 ## File history
 

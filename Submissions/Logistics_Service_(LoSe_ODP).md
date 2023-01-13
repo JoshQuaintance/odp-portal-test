@@ -78,5 +78,5 @@ There is no Modeling issue related to this proposal.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Logistics\_Service\_%28LoSe\_ODP%29](../Submissions/Logistics_Service_(LoSe_ODP).md).html)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Logistics\_Service\_%28LoSe\_ODP%29](../Submissions/Logistics_Service_(LoSe_ODP).md).md).html)"
  [Categories](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ProposedContentOP](../Category/ProposedContentOP.md "Category:ProposedContentOP") | [Waiting for review](../Category/Waiting_for_review.md "Category:Waiting for review")

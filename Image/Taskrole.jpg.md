@@ -2,9 +2,9 @@
 * [File history](../Image/Taskrole.jpg.md#filehistory)
 * [Links](../Image/Taskrole.jpg.md#filelinks)
 
-[![Image:Taskrole.jpg](../../../images/0/0c/Taskrole.jpg)](../../../images/0/0c/Taskrole.jpg)  
+[![Image:Taskrole.jpg](../images/0/0c/Taskrole.jpg)](../images/0/0c/Taskrole.jpg)  
 No higher resolution available.  
-[Taskrole.jpg](../../../images/0/0c/Taskrole.jpg)‎ (121 × 173 pixel, file size: 8 KB, MIME type: image/jpeg)
+[Taskrole.jpg](../images/0/0c/Taskrole.jpg)‎ (121 × 173 pixel, file size: 8 KB, MIME type: image/jpeg)
 
 ## File history
 

@@ -2,9 +2,9 @@
 * [File history](../Image/Class-relation.png.md#filehistory)
 * [Links](../Image/Class-relation.png.md#filelinks)
 
-[![Image:Class-relation.png](../../../images/6/6b/Class-relation.png)](../../../images/6/6b/Class-relation.png)  
+[![Image:Class-relation.png](../images/6/6b/Class-relation.png)](../images/6/6b/Class-relation.png)  
 No higher resolution available.  
-[Class-relation.png](../../../images/6/6b/Class-relation.png)‎ (765 × 297 pixel, file size: 44 KB, MIME type: image/png)
+[Class-relation.png](../images/6/6b/Class-relation.png)‎ (765 × 297 pixel, file size: 44 KB, MIME type: image/png)
 
 ## File history
 

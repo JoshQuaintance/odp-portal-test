@@ -2,9 +2,9 @@
 * [File history](../Image/Timeindexedpersonrole.jpg.md#filehistory)
 * [Links](../Image/Timeindexedpersonrole.jpg.md#filelinks)
 
-[![Image:Timeindexedpersonrole.jpg](../../../images/d/d2/Timeindexedpersonrole.jpg)](../../../images/d/d2/Timeindexedpersonrole.jpg)  
+[![Image:Timeindexedpersonrole.jpg](../images/d/d2/Timeindexedpersonrole.jpg)](../images/d/d2/Timeindexedpersonrole.jpg)  
 No higher resolution available.  
-[Timeindexedpersonrole.jpg](../../../images/d/d2/Timeindexedpersonrole.jpg)‎ (752 × 480 pixel, file size: 71 KB, MIME type: image/jpeg)
+[Timeindexedpersonrole.jpg](../images/d/d2/Timeindexedpersonrole.jpg)‎ (752 × 480 pixel, file size: 71 KB, MIME type: image/jpeg)
 
 ## File history
 

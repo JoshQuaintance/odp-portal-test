@@ -2,9 +2,9 @@
 * [File history](../Image/LawsonKlein1.jpg.md#filehistory)
 * [Links](../Image/LawsonKlein1.jpg.md#filelinks)
 
-[![Image:LawsonKlein1.jpg](../../../images/8/8b/LawsonKlein1.jpg)](../../../images/8/8b/LawsonKlein1.jpg)  
+[![Image:LawsonKlein1.jpg](../images/8/8b/LawsonKlein1.jpg)](../images/8/8b/LawsonKlein1.jpg)  
 No higher resolution available.  
-[LawsonKlein1.jpg](../../../images/8/8b/LawsonKlein1.jpg)‎ (353 × 193 pixel, file size: 16 KB, MIME type: image/jpeg)
+[LawsonKlein1.jpg](../images/8/8b/LawsonKlein1.jpg)‎ (353 × 193 pixel, file size: 16 KB, MIME type: image/jpeg)
 
 ## File history
 

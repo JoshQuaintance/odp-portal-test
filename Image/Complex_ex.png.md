@@ -2,9 +2,9 @@
 * [File history](../Image/Complex_ex.png.md#filehistory)
 * [Links](../Image/Complex_ex.png.md#filelinks)
 
-[![Image:Complex ex.png](../images/thumb/f/f3/Complex_ex.png/800px-Complex_ex.png)](../../images/f/f3/Complex_ex.png)  
+[![Image:Complex ex.png](../images/thumb/f/f3/Complex_ex.png/800px-Complex_ex.png)](../images/f/f3/Complex_ex.png)  
 Size of this preview: 800 × 510 pixels  
-[Full resolution](../../images/f/f3/Complex_ex.png)‎ (898 × 573 pixel, file size: 51 KB, MIME type: image/png)An example of a complex precondition implemented with the Activity Specification pattern.
+[Full resolution](../images/f/f3/Complex_ex.png)‎ (898 × 573 pixel, file size: 51 KB, MIME type: image/png)An example of a complex precondition implemented with the Activity Specification pattern.
 
 
 

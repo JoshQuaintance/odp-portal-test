@@ -2,9 +2,9 @@
 * [File history](../Image/ODPUser.png.md#filehistory)
 * [Links](../Image/ODPUser.png.md#filelinks)
 
-[![Image:ODPUser.png](../../../images/a/a6/ODPUser.png)](../../../images/a/a6/ODPUser.png)  
+[![Image:ODPUser.png](../images/a/a6/ODPUser.png)](../images/a/a6/ODPUser.png)  
 No higher resolution available.  
-[ODPUser.png](../../../images/a/a6/ODPUser.png)‎ (160 × 160 pixel, file size: 14 KB, MIME type: image/png)[Image:Example.jpg](http://ontologydesignpatterns.org/wiki/index.php?title=Special:Upload&wpDestFile=Example.jpg "Image:Example.jpg")[--[Mazenalzyoud](../User/Mazenalzyoud.md "User:Mazenalzyoud") 22:11, 27 January 2015 (UTC)[http://www.example.com](http://www.example.com "http://www.example.com") link title]
+[ODPUser.png](../images/a/a6/ODPUser.png)‎ (160 × 160 pixel, file size: 14 KB, MIME type: image/png)[Image:Example.jpg](http://ontologydesignpatterns.org/wiki/index.php?title=Special:Upload&wpDestFile=Example.jpg "Image:Example.jpg")[--[Mazenalzyoud](../User/Mazenalzyoud.md "User:Mazenalzyoud") 22:11, 27 January 2015 (UTC)[http://www.example.com](http://www.example.com "http://www.example.com") link title]
 
 
 

@@ -2,9 +2,9 @@
 * [File history](../Image/Speciesbathymetry.jpg.md#filehistory)
 * [Links](../Image/Speciesbathymetry.jpg.md#filelinks)
 
-[![Image:Speciesbathymetry.jpg](../../../images/7/7c/Speciesbathymetry.jpg)](../../../images/7/7c/Speciesbathymetry.jpg)  
+[![Image:Speciesbathymetry.jpg](../images/7/7c/Speciesbathymetry.jpg)](../images/7/7c/Speciesbathymetry.jpg)  
 No higher resolution available.  
-[Speciesbathymetry.jpg](../../../images/7/7c/Speciesbathymetry.jpg)‎ (640 × 257 pixel, file size: 66 KB, MIME type: image/jpeg)
+[Speciesbathymetry.jpg](../images/7/7c/Speciesbathymetry.jpg)‎ (640 × 257 pixel, file size: 66 KB, MIME type: image/jpeg)
 
 ## File history
 

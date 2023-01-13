@@ -2,9 +2,9 @@
 * [File history](../Image/Wftbthrello.png.md#filehistory)
 * [Links](../Image/Wftbthrello.png.md#filelinks)
 
-[![Image:Wftbthrello.png](../images/thumb/4/40/Wftbthrello.png/276px-Wftbthrello.png)](../../images/4/40/Wftbthrello.png)  
+[![Image:Wftbthrello.png](../images/thumb/4/40/Wftbthrello.png/276px-Wftbthrello.png)](../images/4/40/Wftbthrello.png)  
 Size of this preview: 276 × 598 pixels  
-[Full resolution](../../images/4/40/Wftbthrello.png)‎ (552 × 1,196 pixel, file size: 55 KB, MIME type: image/png)
+[Full resolution](../images/4/40/Wftbthrello.png)‎ (552 × 1,196 pixel, file size: 55 KB, MIME type: image/png)
 
 ## File history
 

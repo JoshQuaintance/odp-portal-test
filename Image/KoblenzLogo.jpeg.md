@@ -2,9 +2,9 @@
 * [File history](../Image/KoblenzLogo.jpeg.md#filehistory)
 * [Links](../Image/KoblenzLogo.jpeg.md#filelinks)
 
-[![Image:KoblenzLogo.jpeg](../../../images/5/50/KoblenzLogo.jpeg)](../../../images/5/50/KoblenzLogo.jpeg)  
+[![Image:KoblenzLogo.jpeg](../images/5/50/KoblenzLogo.jpeg)](../images/5/50/KoblenzLogo.jpeg)  
 No higher resolution available.  
-[KoblenzLogo.jpeg](../../../images/5/50/KoblenzLogo.jpeg)‎ (236 × 33 pixel, file size: 8 KB, MIME type: image/jpeg)
+[KoblenzLogo.jpeg](../images/5/50/KoblenzLogo.jpeg)‎ (236 × 33 pixel, file size: 8 KB, MIME type: image/jpeg)
 
 ## File history
 

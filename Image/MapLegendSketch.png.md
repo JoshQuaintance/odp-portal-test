@@ -2,9 +2,9 @@
 * [File history](../Image/MapLegendSketch.png.md#filehistory)
 * [Links](../Image/MapLegendSketch.png.md#filelinks)
 
-[![Image:MapLegendSketch.png](../images/thumb/5/58/MapLegendSketch.png/800px-MapLegendSketch.png)](../../images/5/58/MapLegendSketch.png)  
+[![Image:MapLegendSketch.png](../images/thumb/5/58/MapLegendSketch.png/800px-MapLegendSketch.png)](../images/5/58/MapLegendSketch.png)  
 Size of this preview: 800 × 600 pixels  
-[Full resolution](../../images/5/58/MapLegendSketch.png)‎ (2,880 × 2,160 pixel, file size: 99 KB, MIME type: image/png)A Map Legend Ontology
+[Full resolution](../images/5/58/MapLegendSketch.png)‎ (2,880 × 2,160 pixel, file size: 99 KB, MIME type: image/png)A Map Legend Ontology
 
 
 

@@ -2,9 +2,9 @@
 * [File history](../Image/EcoleCentraleLogo.gif.md#filehistory)
 * [Links](../Image/EcoleCentraleLogo.gif.md#filelinks)
 
-[![Image:EcoleCentraleLogo.gif](../../../images/1/14/EcoleCentraleLogo.gif)](../../../images/1/14/EcoleCentraleLogo.gif)  
+[![Image:EcoleCentraleLogo.gif](../images/1/14/EcoleCentraleLogo.gif)](../images/1/14/EcoleCentraleLogo.gif)  
 No higher resolution available.  
-[EcoleCentraleLogo.gif](../../../images/1/14/EcoleCentraleLogo.gif)‎ (112 × 87 pixel, file size: 1 KB, MIME type: image/gif)
+[EcoleCentraleLogo.gif](../images/1/14/EcoleCentraleLogo.gif)‎ (112 × 87 pixel, file size: 1 KB, MIME type: image/gif)
 
 ## File history
 

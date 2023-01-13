@@ -2,9 +2,9 @@
 * [File history](../Image/Transition.png.md#filehistory)
 * [Links](../Image/Transition.png.md#filelinks)
 
-[![Image:Transition.png](../../../images/7/7a/Transition.png)](../../../images/7/7a/Transition.png)  
+[![Image:Transition.png](../images/7/7a/Transition.png)](../images/7/7a/Transition.png)  
 No higher resolution available.  
-[Transition.png](../../../images/7/7a/Transition.png)‎ (441 × 268 pixel, file size: 18 KB, MIME type: image/png)
+[Transition.png](../images/7/7a/Transition.png)‎ (441 × 268 pixel, file size: 18 KB, MIME type: image/png)
 
 ## File history
 

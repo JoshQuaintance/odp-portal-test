@@ -2,9 +2,9 @@
 * [File history](../Image/Course_diagram.png.md#filehistory)
 * [Links](../Image/Course_diagram.png.md#filelinks)
 
-[![Image:Course diagram.png](../../../images/c/c8/Course_diagram.png)](../../../images/c/c8/Course_diagram.png)  
+[![Image:Course diagram.png](../images/c/c8/Course_diagram.png)](../images/c/c8/Course_diagram.png)  
 No higher resolution available.  
-[Course\_diagram.png](../../../images/c/c8/Course_diagram.png)‎ (609 × 406 pixel, file size: 55 KB, MIME type: image/png)
+[Course\_diagram.png](../images/c/c8/Course_diagram.png)‎ (609 × 406 pixel, file size: 55 KB, MIME type: image/png)
 
 ## File history
 

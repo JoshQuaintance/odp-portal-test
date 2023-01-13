@@ -33,14 +33,14 @@ _The __SpatioTemporalExtent__ Content OP locally defines the following ontology 
 
 
 
-[![ObjectProperty](../../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __hasSpatioTemporalExtent__ (owl:ObjectProperty) Property relating anything (thus the domain is trivially owl:Thing and the range is unscoped) to a SpatioTemporalExtent. 
- [![](../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[hasSpatioTemporalExtent](../Submissions/SpatioTemporalExtent/hasSpatioTemporalExtent.md "Submissions:SpatioTemporalExtent/hasSpatioTemporalExtent") page_
-[![ObjectProperty](../../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __hasTrajectory__ (owl:ObjectProperty) Set to be equivalent to trj:hasTrajectory from the Trajectory pattern, this property relates anything (including SpatioTemporalExtent) to Trajectory. 
- [![](../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[hasTrajectory](../Submissions/SpatioTemporalExtent/hasTrajectory.md "Submissions:SpatioTemporalExtent/hasTrajectory") page_
-[![Class](../../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __SpatioTemporalExtent__ (owl:Class) The class that represents the notion of spatiotemporal extent. A spatiotemporal extent is realized as a collection of generalized trajectories that have no temporal overlap. 
- [![](../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[SpatioTemporalExtent](../Submissions/SpatioTemporalExtent/SpatioTemporalExtent.md "Submissions:SpatioTemporalExtent/SpatioTemporalExtent") page_
-[![Class](../../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __Trajectory__ (owl:Class) The hook to the Trajectory pattern, which acts as a component of the Spatiotemporal Extent pattern. 
- [![](../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[Trajectory](../Submissions/SpatioTemporalExtent/Trajectory.md "Submissions:SpatioTemporalExtent/Trajectory") page_
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __hasSpatioTemporalExtent__ (owl:ObjectProperty) Property relating anything (thus the domain is trivially owl:Thing and the range is unscoped) to a SpatioTemporalExtent. 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[hasSpatioTemporalExtent](../Submissions/SpatioTemporalExtent/hasSpatioTemporalExtent.md "Submissions:SpatioTemporalExtent/hasSpatioTemporalExtent") page_
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __hasTrajectory__ (owl:ObjectProperty) Set to be equivalent to trj:hasTrajectory from the Trajectory pattern, this property relates anything (including SpatioTemporalExtent) to Trajectory. 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[hasTrajectory](../Submissions/SpatioTemporalExtent/hasTrajectory.md "Submissions:SpatioTemporalExtent/hasTrajectory") page_
+[![Class](../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __SpatioTemporalExtent__ (owl:Class) The class that represents the notion of spatiotemporal extent. A spatiotemporal extent is realized as a collection of generalized trajectories that have no temporal overlap. 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[SpatioTemporalExtent](../Submissions/SpatioTemporalExtent/SpatioTemporalExtent.md "Submissions:SpatioTemporalExtent/SpatioTemporalExtent") page_
+[![Class](../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __Trajectory__ (owl:Class) The hook to the Trajectory pattern, which acts as a component of the Spatiotemporal Extent pattern. 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[Trajectory](../Submissions/SpatioTemporalExtent/Trajectory.md "Submissions:SpatioTemporalExtent/Trajectory") page_
 #  Additional information
 
 

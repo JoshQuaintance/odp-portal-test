@@ -2,9 +2,9 @@
 * [File history](../Image/Wfcspesocheck.png.md#filehistory)
 * [Links](../Image/Wfcspesocheck.png.md#filelinks)
 
-[![Image:Wfcspesocheck.png](../images/thumb/a/a0/Wfcspesocheck.png/411px-Wfcspesocheck.png)](../../images/a/a0/Wfcspesocheck.png)  
+[![Image:Wfcspesocheck.png](../images/thumb/a/a0/Wfcspesocheck.png/411px-Wfcspesocheck.png)](../images/a/a0/Wfcspesocheck.png)  
 Size of this preview: 411 × 600 pixels  
-[Full resolution](../../images/a/a0/Wfcspesocheck.png)‎ (553 × 807 pixel, file size: 40 KB, MIME type: image/png)
+[Full resolution](../images/a/a0/Wfcspesocheck.png)‎ (553 × 807 pixel, file size: 40 KB, MIME type: image/png)
 
 ## File history
 

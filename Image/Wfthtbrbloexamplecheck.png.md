@@ -2,9 +2,9 @@
 * [File history](../Image/Wfthtbrbloexamplecheck.png.md#filehistory)
 * [Links](../Image/Wfthtbrbloexamplecheck.png.md#filelinks)
 
-[![Image:Wfthtbrbloexamplecheck.png](../images/thumb/6/6d/Wfthtbrbloexamplecheck.png/143px-Wfthtbrbloexamplecheck.png)](../../images/6/6d/Wfthtbrbloexamplecheck.png)  
+[![Image:Wfthtbrbloexamplecheck.png](../images/thumb/6/6d/Wfthtbrbloexamplecheck.png/143px-Wfthtbrbloexamplecheck.png)](../images/6/6d/Wfthtbrbloexamplecheck.png)  
 Size of this preview: 143 × 596 pixels  
-[Full resolution](../../images/6/6d/Wfthtbrbloexamplecheck.png)‎ (185 × 771 pixel, file size: 26 KB, MIME type: image/png)
+[Full resolution](../images/6/6d/Wfthtbrbloexamplecheck.png)‎ (185 × 771 pixel, file size: 26 KB, MIME type: image/png)
 
 ## File history
 

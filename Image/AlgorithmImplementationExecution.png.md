@@ -2,9 +2,9 @@
 * [File history](../Image/AlgorithmImplementationExecution.png.md#filehistory)
 * [Links](../Image/AlgorithmImplementationExecution.png.md#filelinks)
 
-[![Image:AlgorithmImplementationExecution.png](../images/thumb/7/77/AlgorithmImplementationExecution.png/800px-AlgorithmImplementationExecution.png)](../../images/7/77/AlgorithmImplementationExecution.png)  
+[![Image:AlgorithmImplementationExecution.png](../images/thumb/7/77/AlgorithmImplementationExecution.png/800px-AlgorithmImplementationExecution.png)](../images/7/77/AlgorithmImplementationExecution.png)  
 Size of this preview: 800 × 583 pixels  
-[Full resolution](../../images/7/77/AlgorithmImplementationExecution.png)‎ (999 × 728 pixel, file size: 68 KB, MIME type: image/png)
+[Full resolution](../images/7/77/AlgorithmImplementationExecution.png)‎ (999 × 728 pixel, file size: 68 KB, MIME type: image/png)
 
 ## File history
 

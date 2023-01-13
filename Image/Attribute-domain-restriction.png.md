@@ -2,9 +2,9 @@
 * [File history](../Image/Attribute-domain-restriction.png.md#filehistory)
 * [Links](../Image/Attribute-domain-restriction.png.md#filelinks)
 
-[![Image:Attribute-domain-restriction.png](../../../images/4/4e/Attribute-domain-restriction.png)](../../../images/4/4e/Attribute-domain-restriction.png)  
+[![Image:Attribute-domain-restriction.png](../images/4/4e/Attribute-domain-restriction.png)](../images/4/4e/Attribute-domain-restriction.png)  
 No higher resolution available.  
-[Attribute-domain-restriction.png](../../../images/4/4e/Attribute-domain-restriction.png)‎ (520 × 203 pixel, file size: 23 KB, MIME type: image/png)
+[Attribute-domain-restriction.png](../images/4/4e/Attribute-domain-restriction.png)‎ (520 × 203 pixel, file size: 23 KB, MIME type: image/png)
 
 ## File history
 

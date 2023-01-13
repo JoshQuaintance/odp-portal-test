@@ -2,9 +2,9 @@
 * [File history](../Image/PeriodicIntervalv0.jpg.md#filehistory)
 * [Links](../Image/PeriodicIntervalv0.jpg.md#filelinks)
 
-[![Image:PeriodicIntervalv0.jpg](../../../images/6/60/PeriodicIntervalv0.jpg)](../../../images/6/60/PeriodicIntervalv0.jpg)  
+[![Image:PeriodicIntervalv0.jpg](../images/6/60/PeriodicIntervalv0.jpg)](../images/6/60/PeriodicIntervalv0.jpg)  
 No higher resolution available.  
-[PeriodicIntervalv0.jpg](../../../images/6/60/PeriodicIntervalv0.jpg)‎ (510 × 282 pixel, file size: 17 KB, MIME type: image/jpeg)
+[PeriodicIntervalv0.jpg](../images/6/60/PeriodicIntervalv0.jpg)‎ (510 × 282 pixel, file size: 17 KB, MIME type: image/jpeg)
 
 ## File history
 

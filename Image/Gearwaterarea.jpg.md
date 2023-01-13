@@ -2,9 +2,9 @@
 * [File history](../Image/Gearwaterarea.jpg.md#filehistory)
 * [Links](../Image/Gearwaterarea.jpg.md#filelinks)
 
-[![Image:Gearwaterarea.jpg](../../../images/6/6e/Gearwaterarea.jpg)](../../../images/6/6e/Gearwaterarea.jpg)  
+[![Image:Gearwaterarea.jpg](../images/6/6e/Gearwaterarea.jpg)](../images/6/6e/Gearwaterarea.jpg)  
 No higher resolution available.  
-[Gearwaterarea.jpg](../../../images/6/6e/Gearwaterarea.jpg)‎ (217 × 145 pixel, file size: 25 KB, MIME type: image/jpeg)
+[Gearwaterarea.jpg](../images/6/6e/Gearwaterarea.jpg)‎ (217 × 145 pixel, file size: 25 KB, MIME type: image/jpeg)
 
 ## File history
 

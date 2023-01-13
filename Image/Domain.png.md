@@ -2,9 +2,9 @@
 * [File history](../Image/Domain.png.md#filehistory)
 * [Links](../Image/Domain.png.md#filelinks)
 
-[![Image:Domain.png](../../../images/8/8b/Domain.png)](../../../images/8/8b/Domain.png)  
+[![Image:Domain.png](../images/8/8b/Domain.png)](../images/8/8b/Domain.png)  
 No higher resolution available.  
-[Domain.png](../../../images/8/8b/Domain.png)‎ (128 × 128 pixel, file size: 12 KB, MIME type: image/png)
+[Domain.png](../images/8/8b/Domain.png)‎ (128 × 128 pixel, file size: 12 KB, MIME type: image/png)
 
 ## File history
 
@@ -23,7 +23,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following 3 pages link to this file:
 
 
-* [Ontology Design Patterns . org (ODP)](../Ontology_Design_Patterns_._org_(ODP).md).html "Ontology Design Patterns . org (ODP)")
+* [Ontology Design Patterns . org (ODP)](../Ontology_Design_Patterns_._org_(ODP).md).md).html "Ontology Design Patterns . org (ODP)")
 * [Community:Domain](../Community/Domain.md "Community:Domain")
 * [Template:MainPageMap](../Template/MainPageMap.md "Template:MainPageMap")
 

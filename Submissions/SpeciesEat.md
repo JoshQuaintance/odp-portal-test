@@ -41,15 +41,15 @@ It has related axioms from FIGIS Schema that are included in the classes linked 
 
 
 
- [![](../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[AquaticSpecies](../Submissions/SpeciesEat/AquaticSpecies.md "Submissions:SpeciesEat/AquaticSpecies") page_
-[![ObjectProperty](../../../../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __feedsUpon__ (owl:ObjectProperty) 
- [![](../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[feedsUpon](../Submissions/SpeciesEat/feedsUpon.md "Submissions:SpeciesEat/feedsUpon") page_
-[![ObjectProperty](../../../../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __isPreyedUponBy__ (owl:ObjectProperty) 
- [![](../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[isPreyedUponBy](../Submissions/SpeciesEat/isPreyedUponBy.md "Submissions:SpeciesEat/isPreyedUponBy") page_
-[![ObjectProperty](../../../../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __isFoodOf__ (owl:ObjectProperty) 
- [![](../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[isFoodOf](../Submissions/SpeciesEat/isFoodOf.md "Submissions:SpeciesEat/isFoodOf") page_
-[![ObjectProperty](../../../../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __preyesUpon__ (owl:ObjectProperty) 
- [![](../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[preyesUpon](../Submissions/SpeciesEat/preyesUpon.md "Submissions:SpeciesEat/preyesUpon") page_
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[AquaticSpecies](../Submissions/SpeciesEat/AquaticSpecies.md "Submissions:SpeciesEat/AquaticSpecies") page_
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __feedsUpon__ (owl:ObjectProperty) 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[feedsUpon](../Submissions/SpeciesEat/feedsUpon.md "Submissions:SpeciesEat/feedsUpon") page_
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __isPreyedUponBy__ (owl:ObjectProperty) 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[isPreyedUponBy](../Submissions/SpeciesEat/isPreyedUponBy.md "Submissions:SpeciesEat/isPreyedUponBy") page_
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __isFoodOf__ (owl:ObjectProperty) 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[isFoodOf](../Submissions/SpeciesEat/isFoodOf.md "Submissions:SpeciesEat/isFoodOf") page_
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __preyesUpon__ (owl:ObjectProperty) 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[preyesUpon](../Submissions/SpeciesEat/preyesUpon.md "Submissions:SpeciesEat/preyesUpon") page_
 #  Additional information
 
 

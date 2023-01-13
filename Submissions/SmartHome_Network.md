@@ -33,26 +33,26 @@ _The __SmartHome Network__ Content OP locally defines the following ontology ele
 
 
 
-[![ObjectProperty](../../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __receivesDataFrom__ (owl:ObjectProperty) 
- [![](../../../../../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[receivesDataFrom](../Submissions/SmartHome_Network/receivesDataFrom.md "Submissions:SmartHome Network/receivesDataFrom") page_
-[![ObjectProperty](../../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __sendsDataTo__ (owl:ObjectProperty) 
- [![](../../../../../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[sendsDataTo](../Submissions/SmartHome_Network/sendsDataTo.md "Submissions:SmartHome Network/sendsDataTo") page_
-[![Class](../../../../../../../../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __DataReceiverNode__ (owl:Class) 
- [![](../../../../../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[DataReceiverNode](../Submissions/SmartHome_Network/DataReceiverNode.md "Submissions:SmartHome Network/DataReceiverNode") page_
-[![Class](../../../../../../../../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __DataSenderNode__ (owl:Class) 
- [![](../../../../../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[DataSenderNode](../Submissions/SmartHome_Network/DataSenderNode.md "Submissions:SmartHome Network/DataSenderNode") page_
-[![Class](../../../../../../../../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __Network__ (owl:Class) A network which is a collection of Nodes 
- [![](../../../../../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[Network](../Submissions/SmartHome_Network/Network.md "Submissions:SmartHome Network/Network") page_
-[![Class](../../../../../../../../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __Node__ (owl:Class) 
- [![](../../../../../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[Node](../Submissions/SmartHome_Network/Node.md "Submissions:SmartHome Network/Node") page_
-[![Class](../../../../../../../../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __NodeStation__ (owl:Class) 
- [![](../../../../../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[NodeStation](../Submissions/SmartHome_Network/NodeStation.md "Submissions:SmartHome Network/NodeStation") page_
-[![Class](../../../../../../../../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __ReceiverNodeStation__ (owl:Class) 
- [![](../../../../../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[ReceiverNodeStation](../Submissions/SmartHome_Network/ReceiverNodeStation.md "Submissions:SmartHome Network/ReceiverNodeStation") page_
-[![Class](../../../../../../../../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __SenderNodeStation__ (owl:Class) 
- [![](../../../../../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[SenderNodeStation](../Submissions/SmartHome_Network/SenderNodeStation.md "Submissions:SmartHome Network/SenderNodeStation") page_
-[![Class](../../../../../../../../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __SmartHomeDeployment__ (owl:Class) 
- [![](../../../../../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[SmartHomeDeployment](../Submissions/SmartHome_Network/SmartHomeDeployment.md "Submissions:SmartHome Network/SmartHomeDeployment") page_
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __receivesDataFrom__ (owl:ObjectProperty) 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[receivesDataFrom](../Submissions/SmartHome_Network/receivesDataFrom.md "Submissions:SmartHome Network/receivesDataFrom") page_
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __sendsDataTo__ (owl:ObjectProperty) 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[sendsDataTo](../Submissions/SmartHome_Network/sendsDataTo.md "Submissions:SmartHome Network/sendsDataTo") page_
+[![Class](../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __DataReceiverNode__ (owl:Class) 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[DataReceiverNode](../Submissions/SmartHome_Network/DataReceiverNode.md "Submissions:SmartHome Network/DataReceiverNode") page_
+[![Class](../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __DataSenderNode__ (owl:Class) 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[DataSenderNode](../Submissions/SmartHome_Network/DataSenderNode.md "Submissions:SmartHome Network/DataSenderNode") page_
+[![Class](../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __Network__ (owl:Class) A network which is a collection of Nodes 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[Network](../Submissions/SmartHome_Network/Network.md "Submissions:SmartHome Network/Network") page_
+[![Class](../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __Node__ (owl:Class) 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[Node](../Submissions/SmartHome_Network/Node.md "Submissions:SmartHome Network/Node") page_
+[![Class](../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __NodeStation__ (owl:Class) 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[NodeStation](../Submissions/SmartHome_Network/NodeStation.md "Submissions:SmartHome Network/NodeStation") page_
+[![Class](../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __ReceiverNodeStation__ (owl:Class) 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[ReceiverNodeStation](../Submissions/SmartHome_Network/ReceiverNodeStation.md "Submissions:SmartHome Network/ReceiverNodeStation") page_
+[![Class](../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __SenderNodeStation__ (owl:Class) 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[SenderNodeStation](../Submissions/SmartHome_Network/SenderNodeStation.md "Submissions:SmartHome Network/SenderNodeStation") page_
+[![Class](../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __SmartHomeDeployment__ (owl:Class) 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[SmartHomeDeployment](../Submissions/SmartHome_Network/SmartHomeDeployment.md "Submissions:SmartHome Network/SmartHomeDeployment") page_
 #  Additional information
 
 

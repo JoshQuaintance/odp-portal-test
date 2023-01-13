@@ -2,9 +2,9 @@
 * [File history](../Image/Property-value.png.md#filehistory)
 * [Links](../Image/Property-value.png.md#filelinks)
 
-[![Image:Property-value.png](../../../images/a/a2/Property-value.png)](../../../images/a/a2/Property-value.png)  
+[![Image:Property-value.png](../images/a/a2/Property-value.png)](../images/a/a2/Property-value.png)  
 No higher resolution available.  
-[Property-value.png](../../../images/a/a2/Property-value.png)‎ (556 × 203 pixel, file size: 25 KB, MIME type: image/png)
+[Property-value.png](../images/a/a2/Property-value.png)‎ (556 × 203 pixel, file size: 25 KB, MIME type: image/png)
 
 ## File history
 

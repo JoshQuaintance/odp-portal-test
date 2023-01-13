@@ -2,9 +2,9 @@
 * [File history](../Image/Odp.png.md#filehistory)
 * [Links](../Image/Odp.png.md#filelinks)
 
-[![Image:Odp.png](../images/thumb/0/0a/Odp.png/800px-Odp.png)](../../images/0/0a/Odp.png)  
+[![Image:Odp.png](../images/thumb/0/0a/Odp.png/800px-Odp.png)](../images/0/0a/Odp.png)  
 Size of this preview: 800 × 234 pixels  
-[Full resolution](../../images/0/0a/Odp.png)‎ (1,330 × 389 pixel, file size: 216 KB, MIME type: image/png)
+[Full resolution](../images/0/0a/Odp.png)‎ (1,330 × 389 pixel, file size: 216 KB, MIME type: image/png)
 ```
 Ontology design pattern to define the concept of Explanation
 

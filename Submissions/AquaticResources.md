@@ -33,7 +33,7 @@ _The __AquaticResources__ Content OP locally defines the following ontology elem
 
 
 
-[![Class](../../../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __AquaticSpecies__ (owl:Class) Aquatic species are conceptual entities that are characterized together with resources and water areas. 
+[![Class](../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __AquaticSpecies__ (owl:Class) Aquatic species are conceptual entities that are characterized together with resources and water areas. 
 Mappable to fi:Species, fi:SpeciesRef, fi:SpeciesFeature, etc.
 
 
@@ -41,23 +41,23 @@ It has related axioms from FIGIS Schema that are included in the classes linked 
 
 
 
- [![](../../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[AquaticSpecies](../Submissions/AquaticResources/AquaticSpecies.md "Submissions:AquaticResources/AquaticSpecies") page_
-[![Class](../../../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __AquaticResource__ (owl:Class) A fishery resource (a collection of actual aquatic organisms) that can include aquatic organisms from different AquaticSpecies, and is localized in some WaterArea.
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[AquaticSpecies](../Submissions/AquaticResources/AquaticSpecies.md "Submissions:AquaticResources/AquaticSpecies") page_
+[![Class](../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __AquaticResource__ (owl:Class) A fishery resource (a collection of actual aquatic organisms) that can include aquatic organisms from different AquaticSpecies, and is localized in some WaterArea.
 It can be mapped to fi:AqResRef 
 
 
 
- [![](../../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[AquaticResource](../Submissions/AquaticResources/AquaticResource.md "Submissions:AquaticResources/AquaticResource") page_
-[![Class](../../../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __WaterArea__ (owl:Class) A physical water area. Mappable to fi:WaterAreaRef 
- [![](../../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[WaterArea](../Submissions/AquaticResources/WaterArea.md "Submissions:AquaticResources/WaterArea") page_
-[![ObjectProperty](../../../../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __hasSpecies__ (owl:ObjectProperty) has species 
- [![](../../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[hasSpecies](../Submissions/AquaticResources/hasSpecies.md "Submissions:AquaticResources/hasSpecies") page_
-[![ObjectProperty](../../../../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __hasWaterArea__ (owl:ObjectProperty) 
- [![](../../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[hasWaterArea](../Submissions/AquaticResources/hasWaterArea.md "Submissions:AquaticResources/hasWaterArea") page_
-[![ObjectProperty](../../../../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __isSpeciesPresentIn__ (owl:ObjectProperty) 
- [![](../../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[isSpeciesPresentIn](../Submissions/AquaticResources/isSpeciesPresentIn.md "Submissions:AquaticResources/isSpeciesPresentIn") page_
-[![ObjectProperty](../../../../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __isWaterAreaOf__ (owl:ObjectProperty) 
- [![](../../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[isWaterAreaOf](../Submissions/AquaticResources/isWaterAreaOf.md "Submissions:AquaticResources/isWaterAreaOf") page_
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[AquaticResource](../Submissions/AquaticResources/AquaticResource.md "Submissions:AquaticResources/AquaticResource") page_
+[![Class](../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __WaterArea__ (owl:Class) A physical water area. Mappable to fi:WaterAreaRef 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[WaterArea](../Submissions/AquaticResources/WaterArea.md "Submissions:AquaticResources/WaterArea") page_
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __hasSpecies__ (owl:ObjectProperty) has species 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[hasSpecies](../Submissions/AquaticResources/hasSpecies.md "Submissions:AquaticResources/hasSpecies") page_
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __hasWaterArea__ (owl:ObjectProperty) 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[hasWaterArea](../Submissions/AquaticResources/hasWaterArea.md "Submissions:AquaticResources/hasWaterArea") page_
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __isSpeciesPresentIn__ (owl:ObjectProperty) 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[isSpeciesPresentIn](../Submissions/AquaticResources/isSpeciesPresentIn.md "Submissions:AquaticResources/isSpeciesPresentIn") page_
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __isWaterAreaOf__ (owl:ObjectProperty) 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[isWaterAreaOf](../Submissions/AquaticResources/isWaterAreaOf.md "Submissions:AquaticResources/isWaterAreaOf") page_
 #  Additional information
 
 

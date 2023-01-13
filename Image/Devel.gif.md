@@ -2,9 +2,9 @@
 * [File history](../Image/Devel.gif.md#filehistory)
 * [Links](../Image/Devel.gif.md#filelinks)
 
-[![Image:Devel.gif](../../../images/1/13/Devel.gif)](../../../images/1/13/Devel.gif)  
+[![Image:Devel.gif](../images/1/13/Devel.gif)](../images/1/13/Devel.gif)  
 No higher resolution available.  
-[Devel.gif](../../../images/1/13/Devel.gif)‎ (60 × 60 pixel, file size: 3 KB, MIME type: image/gif)
+[Devel.gif](../images/1/13/Devel.gif)‎ (60 × 60 pixel, file size: 3 KB, MIME type: image/gif)
 
 ## File history
 

@@ -2,9 +2,9 @@
 * [File history](../Image/BDA_ODP_Diagram.png.md#filehistory)
 * [Links](../Image/BDA_ODP_Diagram.png.md#filelinks)
 
-[![Image:BDA ODP Diagram.png](../images/thumb/b/bf/BDA_ODP_Diagram.png/800px-BDA_ODP_Diagram.png)](../../images/b/bf/BDA_ODP_Diagram.png)  
+[![Image:BDA ODP Diagram.png](../images/thumb/b/bf/BDA_ODP_Diagram.png/800px-BDA_ODP_Diagram.png)](../images/b/bf/BDA_ODP_Diagram.png)  
 Size of this preview: 800 × 374 pixels  
-[Full resolution](../../images/b/bf/BDA_ODP_Diagram.png)‎ (1,154 × 540 pixel, file size: 41 KB, MIME type: image/png)
+[Full resolution](../images/b/bf/BDA_ODP_Diagram.png)‎ (1,154 × 540 pixel, file size: 41 KB, MIME type: image/png)
 
 ## File history
 

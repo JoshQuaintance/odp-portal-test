@@ -2,9 +2,9 @@
 * [File history](../Image/Multimediadatasegmentdecomposition.jpg.md#filehistory)
 * [Links](../Image/Multimediadatasegmentdecomposition.jpg.md#filelinks)
 
-[![Image:Multimediadatasegmentdecomposition.jpg](../images/thumb/d/d8/Multimediadatasegmentdecomposition.jpg/800px-Multimediadatasegmentdecomposition.jpg)](../../images/d/d8/Multimediadatasegmentdecomposition.jpg)  
+[![Image:Multimediadatasegmentdecomposition.jpg](../images/thumb/d/d8/Multimediadatasegmentdecomposition.jpg/800px-Multimediadatasegmentdecomposition.jpg)](../images/d/d8/Multimediadatasegmentdecomposition.jpg)  
 Size of this preview: 800 × 420 pixels  
-[Full resolution](../../images/d/d8/Multimediadatasegmentdecomposition.jpg)‎ (874 × 459 pixel, file size: 52 KB, MIME type: image/jpeg)
+[Full resolution](../images/d/d8/Multimediadatasegmentdecomposition.jpg)‎ (874 × 459 pixel, file size: 52 KB, MIME type: image/jpeg)
 
 ## File history
 

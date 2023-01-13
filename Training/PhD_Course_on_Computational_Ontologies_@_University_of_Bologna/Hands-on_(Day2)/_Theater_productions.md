@@ -72,5 +72,5 @@ __Solutions__:
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Training:PhD\_Course\_on\_Computational\_Ontologies\_%40\_University\_of\_Bologna/Hands-on\_%28Day2%29:\_Theater\_productions](../../../Training/PhD_Course_on_Computational_Ontologies_@_University_of_Bologna/Hands-on_(Day2)/_Theater_productions.md)%253A_Theater_productions.html)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Training:PhD\_Course\_on\_Computational\_Ontologies\_%40\_University\_of\_Bologna/Hands-on\_%28Day2%29:\_Theater\_productions](../../../Training/PhD_Course_on_Computational_Ontologies_@_University_of_Bologna/Hands-on_(Day2)/_Theater_productions.md)/_Theater_productions.md)%253A_Theater_productions.html)"
  [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Exercise](../../../Category/Exercise.md "Category:Exercise")

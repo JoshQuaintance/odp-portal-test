@@ -28,18 +28,18 @@ _The __WinstonPartWhole__ Content OP locally defines the following ontology elem
 
 
 
-[![ObjectProperty](../../../../../../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __po-component__ (owl:ObjectProperty) 
- [![](../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[po-component](../Submissions/WinstonPartWhole/po-component.md "Submissions:WinstonPartWhole/po-component") page_
-[![ObjectProperty](../../../../../../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __po-feature__ (owl:ObjectProperty) 
- [![](../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[po-feature](../Submissions/WinstonPartWhole/po-feature.md "Submissions:WinstonPartWhole/po-feature") page_
-[![ObjectProperty](../../../../../../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __po-member__ (owl:ObjectProperty) 
- [![](../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[po-member](../Submissions/WinstonPartWhole/po-member.md "Submissions:WinstonPartWhole/po-member") page_
-[![ObjectProperty](../../../../../../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __po-place__ (owl:ObjectProperty) 
- [![](../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[po-place](../Submissions/WinstonPartWhole/po-place.md "Submissions:WinstonPartWhole/po-place") page_
-[![ObjectProperty](../../../../../../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __po-portion__ (owl:ObjectProperty) 
- [![](../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[po-portion](../Submissions/WinstonPartWhole/po-portion.md "Submissions:WinstonPartWhole/po-portion") page_
-[![ObjectProperty](../../../../../../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __po-stuff__ (owl:ObjectProperty) 
- [![](../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[po-stuff](../Submissions/WinstonPartWhole/po-stuff.md "Submissions:WinstonPartWhole/po-stuff") page_
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __po-component__ (owl:ObjectProperty) 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[po-component](../Submissions/WinstonPartWhole/po-component.md "Submissions:WinstonPartWhole/po-component") page_
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __po-feature__ (owl:ObjectProperty) 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[po-feature](../Submissions/WinstonPartWhole/po-feature.md "Submissions:WinstonPartWhole/po-feature") page_
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __po-member__ (owl:ObjectProperty) 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[po-member](../Submissions/WinstonPartWhole/po-member.md "Submissions:WinstonPartWhole/po-member") page_
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __po-place__ (owl:ObjectProperty) 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[po-place](../Submissions/WinstonPartWhole/po-place.md "Submissions:WinstonPartWhole/po-place") page_
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __po-portion__ (owl:ObjectProperty) 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[po-portion](../Submissions/WinstonPartWhole/po-portion.md "Submissions:WinstonPartWhole/po-portion") page_
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __po-stuff__ (owl:ObjectProperty) 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[po-stuff](../Submissions/WinstonPartWhole/po-stuff.md "Submissions:WinstonPartWhole/po-stuff") page_
 #  Additional information
 
 

@@ -2,9 +2,9 @@
 * [File history](../Image/Scorepart.png.md#filehistory)
 * [Links](../Image/Scorepart.png.md#filelinks)
 
-[![Image:Scorepart.png](../images/thumb/8/8f/Scorepart.png/800px-Scorepart.png)](../../images/8/8f/Scorepart.png)  
+[![Image:Scorepart.png](../images/thumb/8/8f/Scorepart.png/800px-Scorepart.png)](../images/8/8f/Scorepart.png)  
 Size of this preview: 800 × 241 pixels  
-[Full resolution](../../images/8/8f/Scorepart.png)‎ (1,238 × 373 pixel, file size: 29 KB, MIME type: image/png)ScorePart ODP image
+[Full resolution](../images/8/8f/Scorepart.png)‎ (1,238 × 373 pixel, file size: 29 KB, MIME type: image/png)ScorePart ODP image
 
 
 

@@ -2,9 +2,9 @@
 * [File history](../Image/Xsd-embedding-6.png.md#filehistory)
 * [Links](../Image/Xsd-embedding-6.png.md#filelinks)
 
-[![Image:Xsd-embedding-6.png](../images/thumb/0/05/Xsd-embedding-6.png/800px-Xsd-embedding-6.png)](../../images/0/05/Xsd-embedding-6.png)  
+[![Image:Xsd-embedding-6.png](../images/thumb/0/05/Xsd-embedding-6.png/800px-Xsd-embedding-6.png)](../images/0/05/Xsd-embedding-6.png)  
 Size of this preview: 800 × 338 pixels  
-[Full resolution](../../images/0/05/Xsd-embedding-6.png)‎ (1,195 × 505 pixel, file size: 15 KB, MIME type: image/png)
+[Full resolution](../images/0/05/Xsd-embedding-6.png)‎ (1,195 × 505 pixel, file size: 15 KB, MIME type: image/png)
 
 ## File history
 

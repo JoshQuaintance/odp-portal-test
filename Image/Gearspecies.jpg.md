@@ -2,9 +2,9 @@
 * [File history](../Image/Gearspecies.jpg.md#filehistory)
 * [Links](../Image/Gearspecies.jpg.md#filelinks)
 
-[![Image:Gearspecies.jpg](../../../images/9/96/Gearspecies.jpg)](../../../images/9/96/Gearspecies.jpg)  
+[![Image:Gearspecies.jpg](../images/9/96/Gearspecies.jpg)](../images/9/96/Gearspecies.jpg)  
 No higher resolution available.  
-[Gearspecies.jpg](../../../images/9/96/Gearspecies.jpg)‎ (544 × 241 pixel, file size: 58 KB, MIME type: image/jpeg)
+[Gearspecies.jpg](../images/9/96/Gearspecies.jpg)‎ (544 × 241 pixel, file size: 58 KB, MIME type: image/jpeg)
 
 ## File history
 

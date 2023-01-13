@@ -2,9 +2,9 @@
 * [File history](../Image/Basicplansexecution.jpg.md#filehistory)
 * [Links](../Image/Basicplansexecution.jpg.md#filelinks)
 
-[![Image:Basicplansexecution.jpg](../images/thumb/7/71/Basicplansexecution.jpg/800px-Basicplansexecution.jpg)](../../images/7/71/Basicplansexecution.jpg)  
+[![Image:Basicplansexecution.jpg](../images/thumb/7/71/Basicplansexecution.jpg/800px-Basicplansexecution.jpg)](../images/7/71/Basicplansexecution.jpg)  
 Size of this preview: 800 × 487 pixels  
-[Full resolution](../../images/7/71/Basicplansexecution.jpg)‎ (828 × 504 pixel, file size: 59 KB, MIME type: image/jpeg)
+[Full resolution](../images/7/71/Basicplansexecution.jpg)‎ (828 × 504 pixel, file size: 59 KB, MIME type: image/jpeg)
 
 ## File history
 

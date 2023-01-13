@@ -3,9 +3,9 @@
 * [Links](../Image/ComputationalEnvironment.jpeg.md#filelinks)
 * [Metadata](../Image/ComputationalEnvironment.jpeg.md#metadata)
 
-[![Image:ComputationalEnvironment.jpeg](../../../images/8/8d/ComputationalEnvironment.jpeg)](../../../images/8/8d/ComputationalEnvironment.jpeg)  
+[![Image:ComputationalEnvironment.jpeg](../images/8/8d/ComputationalEnvironment.jpeg)](../images/8/8d/ComputationalEnvironment.jpeg)  
 No higher resolution available.  
-[ComputationalEnvironment.jpeg](../../../images/8/8d/ComputationalEnvironment.jpeg)‎ (774 × 429 pixel, file size: 72 KB, MIME type: image/jpeg)
+[ComputationalEnvironment.jpeg](../images/8/8d/ComputationalEnvironment.jpeg)‎ (774 × 429 pixel, file size: 72 KB, MIME type: image/jpeg)
 
 ## File history
 

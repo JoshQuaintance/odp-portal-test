@@ -104,5 +104,5 @@ __Solutions__:
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Training:PhD\_Course\_on\_Computational\_Ontologies\_%40\_University\_of\_Bologna/Hands-on\_%28Day5%29:\_Music\_industry](../../../Training/PhD_Course_on_Computational_Ontologies_@_University_of_Bologna/Hands-on_(Day5)/_Music_industry.md)%253A_Music_industry.html)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Training:PhD\_Course\_on\_Computational\_Ontologies\_%40\_University\_of\_Bologna/Hands-on\_%28Day5%29:\_Music\_industry](../../../Training/PhD_Course_on_Computational_Ontologies_@_University_of_Bologna/Hands-on_(Day5)/_Music_industry.md)/_Music_industry.md)%253A_Music_industry.html)"
  [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Exercise](../../../Category/Exercise.md "Category:Exercise")

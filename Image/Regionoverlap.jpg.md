@@ -2,9 +2,9 @@
 * [File history](../Image/Regionoverlap.jpg.md#filehistory)
 * [Links](../Image/Regionoverlap.jpg.md#filelinks)
 
-[![Image:Regionoverlap.jpg](../../../images/a/a8/Regionoverlap.jpg)](../../../images/a/a8/Regionoverlap.jpg)  
+[![Image:Regionoverlap.jpg](../images/a/a8/Regionoverlap.jpg)](../images/a/a8/Regionoverlap.jpg)  
 No higher resolution available.  
-[Regionoverlap.jpg](../../../images/a/a8/Regionoverlap.jpg)‎ (224 × 240 pixel, file size: 16 KB, MIME type: image/jpeg)
+[Regionoverlap.jpg](../images/a/a8/Regionoverlap.jpg)‎ (224 × 240 pixel, file size: 16 KB, MIME type: image/jpeg)
 
 ## File history
 

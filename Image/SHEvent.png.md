@@ -2,9 +2,9 @@
 * [File history](../Image/SHEvent.png.md#filehistory)
 * [Links](../Image/SHEvent.png.md#filelinks)
 
-[![Image:SHEvent.png](../../../images/5/5b/SHEvent.png)](../../../images/5/5b/SHEvent.png)  
+[![Image:SHEvent.png](../images/5/5b/SHEvent.png)](../images/5/5b/SHEvent.png)  
 No higher resolution available.  
-[SHEvent.png](../../../images/5/5b/SHEvent.png)‎ (472 × 306 pixel, file size: 74 KB, MIME type: image/png)
+[SHEvent.png](../images/5/5b/SHEvent.png)‎ (472 × 306 pixel, file size: 74 KB, MIME type: image/png)
 
 ## File history
 

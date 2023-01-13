@@ -2,9 +2,9 @@
 * [File history](../Image/Literalreification.png.md#filehistory)
 * [Links](../Image/Literalreification.png.md#filelinks)
 
-[![Image:Literalreification.png](../../../images/8/81/Literalreification.png)](../../../images/8/81/Literalreification.png)  
+[![Image:Literalreification.png](../images/8/81/Literalreification.png)](../images/8/81/Literalreification.png)  
 No higher resolution available.  
-[Literalreification.png](../../../images/8/81/Literalreification.png)‎ (511 × 371 pixel, file size: 13 KB, MIME type: image/png)A diagram for the proposed Literal Reification pattern
+[Literalreification.png](../images/8/81/Literalreification.png)‎ (511 × 371 pixel, file size: 13 KB, MIME type: image/png)A diagram for the proposed Literal Reification pattern
 
 
 

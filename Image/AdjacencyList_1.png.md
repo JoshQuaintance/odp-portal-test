@@ -2,9 +2,9 @@
 * [File history](../Image/AdjacencyList_1.png.md#filehistory)
 * [Links](../Image/AdjacencyList_1.png.md#filelinks)
 
-[![Image:AdjacencyList 1.png](../../../images/7/7a/AdjacencyList_1.png)](../../../images/7/7a/AdjacencyList_1.png)  
+[![Image:AdjacencyList 1.png](../images/7/7a/AdjacencyList_1.png)](../images/7/7a/AdjacencyList_1.png)  
 No higher resolution available.  
-[AdjacencyList\_1.png](../../../images/7/7a/AdjacencyList_1.png)‎ (211 × 137 pixel, file size: 28 KB, MIME type: image/png)
+[AdjacencyList\_1.png](../images/7/7a/AdjacencyList_1.png)‎ (211 × 137 pixel, file size: 28 KB, MIME type: image/png)
 
 ## File history
 

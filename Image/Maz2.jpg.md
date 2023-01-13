@@ -2,9 +2,9 @@
 * [File history](../Image/Maz2.jpg.md#filehistory)
 * [Links](../Image/Maz2.jpg.md#filelinks)
 
-[![Image:Maz2.jpg](../../../images/c/cb/Maz2.jpg)](../../../images/c/cb/Maz2.jpg)  
+[![Image:Maz2.jpg](../images/c/cb/Maz2.jpg)](../images/c/cb/Maz2.jpg)  
 No higher resolution available.  
-[Maz2.jpg](../../../images/c/cb/Maz2.jpg)‎ (259 × 311 pixel, file size: 34 KB, MIME type: image/jpeg)
+[Maz2.jpg](../images/c/cb/Maz2.jpg)‎ (259 × 311 pixel, file size: 34 KB, MIME type: image/jpeg)
 
 ## File history
 

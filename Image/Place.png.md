@@ -2,9 +2,9 @@
 * [File history](../Image/Place.png.md#filehistory)
 * [Links](../Image/Place.png.md#filelinks)
 
-[![Image:Place.png](../../../images/f/f7/Place.png)](../../../images/f/f7/Place.png)  
+[![Image:Place.png](../images/f/f7/Place.png)](../images/f/f7/Place.png)  
 No higher resolution available.  
-[Place.png](../../../images/f/f7/Place.png)‎ (296 × 145 pixel, file size: 18 KB, MIME type: image/png)
+[Place.png](../images/f/f7/Place.png)‎ (296 × 145 pixel, file size: 18 KB, MIME type: image/png)
 
 ## File history
 

@@ -2,9 +2,9 @@
 * [File history](../Image/OEGLogo.png.md#filehistory)
 * [Links](../Image/OEGLogo.png.md#filelinks)
 
-[![Image:OEGLogo.png](../../../images/d/d7/OEGLogo.png)](../../../images/d/d7/OEGLogo.png)  
+[![Image:OEGLogo.png](../images/d/d7/OEGLogo.png)](../images/d/d7/OEGLogo.png)  
 No higher resolution available.  
-[OEGLogo.png](../../../images/d/d7/OEGLogo.png)‎ (120 × 85 pixel, file size: 7 KB, MIME type: image/png)
+[OEGLogo.png](../images/d/d7/OEGLogo.png)‎ (120 × 85 pixel, file size: 7 KB, MIME type: image/png)
 
 ## File history
 

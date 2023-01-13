@@ -2,9 +2,9 @@
 * [File history](../Image/Fig_avizienis_fault_5a.jpg.md#filehistory)
 * [Links](../Image/Fig_avizienis_fault_5a.jpg.md#filelinks)
 
-[![Image:Fig avizienis fault 5a.jpg](../../../images/4/45/Fig_avizienis_fault_5a.jpg)](../../../images/4/45/Fig_avizienis_fault_5a.jpg)  
+[![Image:Fig avizienis fault 5a.jpg](../images/4/45/Fig_avizienis_fault_5a.jpg)](../images/4/45/Fig_avizienis_fault_5a.jpg)  
 No higher resolution available.  
-[Fig\_avizienis\_fault\_5a.jpg](../../../images/4/45/Fig_avizienis_fault_5a.jpg)‎ (664 × 467 pixel, file size: 93 KB, MIME type: image/jpeg)Matrix representation of _Fault_ in Avizienis et al. [1] used in the ReSIST KB
+[Fig\_avizienis\_fault\_5a.jpg](../images/4/45/Fig_avizienis_fault_5a.jpg)‎ (664 × 467 pixel, file size: 93 KB, MIME type: image/jpeg)Matrix representation of _Fault_ in Avizienis et al. [1] used in the ReSIST KB
 ontology
 
 

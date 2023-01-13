@@ -83,4 +83,4 @@ Check out the [about ODP page](Odp/About.md "Odp:About") for more information on
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Ontology\_Design\_Patterns\_.\_org\_%28ODP%29](Ontology_Design_Patterns_._org_(ODP).md).html)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Ontology\_Design\_Patterns\_.\_org\_%28ODP%29](Ontology_Design_Patterns_._org_(ODP).md).md).html)"

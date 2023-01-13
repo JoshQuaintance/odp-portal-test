@@ -2,9 +2,9 @@
 * [File history](../Image/PollutionODPFin.png.md#filehistory)
 * [Links](../Image/PollutionODPFin.png.md#filelinks)
 
-[![Image:PollutionODPFin.png](../images/thumb/7/70/PollutionODPFin.png/706px-PollutionODPFin.png)](../../images/7/70/PollutionODPFin.png)  
+[![Image:PollutionODPFin.png](../images/thumb/7/70/PollutionODPFin.png/706px-PollutionODPFin.png)](../images/7/70/PollutionODPFin.png)  
 Size of this preview: 706 × 600 pixels  
-[Full resolution](../../images/7/70/PollutionODPFin.png)‎ (1,084 × 921 pixel, file size: 93 KB, MIME type: image/png)The Pollution ontology design pattern (ODP) intends to model the pollution, the pollutants and their observations at various spatio-temporal points. It also captures the information about the various direct and indirect sources of pollution. The Pollution ODP makes use of Trajectory, Observation and Stub-Metapattern ODPs. The ODP can be used for various kinds of pollution such as air, water, soil, space debris and sound.
+[Full resolution](../images/7/70/PollutionODPFin.png)‎ (1,084 × 921 pixel, file size: 93 KB, MIME type: image/png)The Pollution ontology design pattern (ODP) intends to model the pollution, the pollutants and their observations at various spatio-temporal points. It also captures the information about the various direct and indirect sources of pollution. The Pollution ODP makes use of Trajectory, Observation and Stub-Metapattern ODPs. The ODP can be used for various kinds of pollution such as air, water, soil, space debris and sound.
 
 
 

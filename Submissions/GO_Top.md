@@ -34,29 +34,29 @@ _The __GO Top__ Content OP locally defines the following ontology elements:_
 
 
 
-[![Class](../../../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __Cellular component__ (owl:Class) The part of a cell or its extracellular environment in which a gene product is located. A gene product may be located in one or more parts of a cell and its location may be as specific as a particular macromolecular complex, that is, a stable, persistent association of macromolecules that function together. 
+[![Class](../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __Cellular component__ (owl:Class) The part of a cell or its extracellular environment in which a gene product is located. A gene product may be located in one or more parts of a cell and its location may be as specific as a particular macromolecular complex, that is, a stable, persistent association of macromolecules that function together. 
 
 
 
- [![](../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[CellularComponent](../Submissions/GO_Top/CellularComponent.md "Submissions:GO Top/CellularComponent") page_
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[CellularComponent](../Submissions/GO_Top/CellularComponent.md "Submissions:GO Top/CellularComponent") page_
 
-[![Class](../../../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __Molecular function__ (owl:Class) Elemental activities, such as catalysis or binding, describing the actions of a gene product at the molecular level. A given gene product may exhibit one or more molecular functions. 
-
-
-
- [![](../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[MolecularFunction](../Submissions/GO_Top/MolecularFunction.md "Submissions:GO Top/MolecularFunction") page_
-
-[![Class](../../../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __Biological process__ (owl:Class) Those processes specifically pertinent to the functioning of integrated living units: cells, tissues, organs, and organisms. A process is a collection of molecular events with a defined beginning and end. 
+[![Class](../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __Molecular function__ (owl:Class) Elemental activities, such as catalysis or binding, describing the actions of a gene product at the molecular level. A given gene product may exhibit one or more molecular functions. 
 
 
 
- [![](../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[BiologicalProcess](../Submissions/GO_Top/BiologicalProcess.md "Submissions:GO Top/BiologicalProcess") page_
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[MolecularFunction](../Submissions/GO_Top/MolecularFunction.md "Submissions:GO Top/MolecularFunction") page_
+
+[![Class](../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __Biological process__ (owl:Class) Those processes specifically pertinent to the functioning of integrated living units: cells, tissues, organs, and organisms. A process is a collection of molecular events with a defined beginning and end. 
+
+
+
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[BiologicalProcess](../Submissions/GO_Top/BiologicalProcess.md "Submissions:GO Top/BiologicalProcess") page_
 
 [![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __part of__ (owl:ObjectProperty) Transitive part of relation from obo2owl in the gene ontology 
 
 
 
- [![](../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[partOf](../Submissions/GO_Top/partOf.md "Submissions:GO Top/partOf") page_
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[partOf](../Submissions/GO_Top/partOf.md "Submissions:GO Top/partOf") page_
 #  Additional information
 
 

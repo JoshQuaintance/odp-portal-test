@@ -2,9 +2,9 @@
 * [File history](../Image/Bene-rodriguez-profile-pic.jpeg.md#filehistory)
 * [Links](../Image/Bene-rodriguez-profile-pic.jpeg.md#filelinks)
 
-[![Image:Bene-rodriguez-profile-pic.jpeg](../../../images/5/58/Bene-rodriguez-profile-pic.jpeg)](../../../images/5/58/Bene-rodriguez-profile-pic.jpeg)  
+[![Image:Bene-rodriguez-profile-pic.jpeg](../images/5/58/Bene-rodriguez-profile-pic.jpeg)](../images/5/58/Bene-rodriguez-profile-pic.jpeg)  
 No higher resolution available.  
-[Bene-rodriguez-profile-pic.jpeg](../../../images/5/58/Bene-rodriguez-profile-pic.jpeg)‎ (126 × 168 pixel, file size: 5 KB, MIME type: image/jpeg)
+[Bene-rodriguez-profile-pic.jpeg](../images/5/58/Bene-rodriguez-profile-pic.jpeg)‎ (126 × 168 pixel, file size: 5 KB, MIME type: image/jpeg)
 
 ## File history
 

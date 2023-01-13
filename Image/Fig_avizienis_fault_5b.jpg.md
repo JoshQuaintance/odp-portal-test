@@ -2,9 +2,9 @@
 * [File history](../Image/Fig_avizienis_fault_5b.jpg.md#filehistory)
 * [Links](../Image/Fig_avizienis_fault_5b.jpg.md#filelinks)
 
-[![Image:Fig avizienis fault 5b.jpg](../../../images/d/d1/Fig_avizienis_fault_5b.jpg)](../../../images/d/d1/Fig_avizienis_fault_5b.jpg)  
+[![Image:Fig avizienis fault 5b.jpg](../images/d/d1/Fig_avizienis_fault_5b.jpg)](../images/d/d1/Fig_avizienis_fault_5b.jpg)  
 No higher resolution available.  
-[Fig\_avizienis\_fault\_5b.jpg](../../../images/d/d1/Fig_avizienis_fault_5b.jpg)‎ (787 × 586 pixel, file size: 73 KB, MIME type: image/jpeg)
+[Fig\_avizienis\_fault\_5b.jpg](../images/d/d1/Fig_avizienis_fault_5b.jpg)‎ (787 × 586 pixel, file size: 73 KB, MIME type: image/jpeg)
 
 ## File history
 

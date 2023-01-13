@@ -2,9 +2,9 @@
 * [File history](../Image/N_aria_provider_service.JPG.md#filehistory)
 * [Links](../Image/N_aria_provider_service.JPG.md#filelinks)
 
-[![Image:N aria provider service.JPG](../../../images/4/4f/N_aria_provider_service.JPG)](../../../images/4/4f/N_aria_provider_service.JPG)  
+[![Image:N aria provider service.JPG](../images/4/4f/N_aria_provider_service.JPG)](../images/4/4f/N_aria_provider_service.JPG)  
 No higher resolution available.  
-[N\_aria\_provider\_service.JPG](../../../images/4/4f/N_aria_provider_service.JPG)‎ (726 × 207 pixel, file size: 19 KB, MIME type: image/jpeg)
+[N\_aria\_provider\_service.JPG](../images/4/4f/N_aria_provider_service.JPG)‎ (726 × 207 pixel, file size: 19 KB, MIME type: image/jpeg)
 
 ## File history
 

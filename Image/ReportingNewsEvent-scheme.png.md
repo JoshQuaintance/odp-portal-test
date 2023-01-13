@@ -2,9 +2,9 @@
 * [File history](../Image/ReportingNewsEvent-scheme.png.md#filehistory)
 * [Links](../Image/ReportingNewsEvent-scheme.png.md#filelinks)
 
-[![Image:ReportingNewsEvent-scheme.png](../../../images/d/d9/ReportingNewsEvent-scheme.png)](../../../images/d/d9/ReportingNewsEvent-scheme.png)  
+[![Image:ReportingNewsEvent-scheme.png](../images/d/d9/ReportingNewsEvent-scheme.png)](../images/d/d9/ReportingNewsEvent-scheme.png)  
 No higher resolution available.  
-[ReportingNewsEvent-scheme.png](../../../images/d/d9/ReportingNewsEvent-scheme.png)‎ (565 × 315 pixel, file size: 38 KB, MIME type: image/png)
+[ReportingNewsEvent-scheme.png](../images/d/d9/ReportingNewsEvent-scheme.png)‎ (565 × 315 pixel, file size: 38 KB, MIME type: image/png)
 
 ## File history
 

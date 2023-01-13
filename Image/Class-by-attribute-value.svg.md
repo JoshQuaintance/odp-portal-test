@@ -2,9 +2,9 @@
 * [File history](../Image/Class-by-attribute-value.svg.md#filehistory)
 * [Links](../Image/Class-by-attribute-value.svg.md#filelinks)
 
-[![Image:Class-by-attribute-value.svg](../images/thumb/d/d4/Class-by-attribute-value.svg/274px-Class-by-attribute-value.svg.png)](../../images/d/d4/Class-by-attribute-value.svg)  
+[![Image:Class-by-attribute-value.svg](../images/thumb/d/d4/Class-by-attribute-value.svg/274px-Class-by-attribute-value.svg.png)](../images/d/d4/Class-by-attribute-value.svg)  
 
-[Class-by-attribute-value.svg](../../images/d/d4/Class-by-attribute-value.svg "Class-by-attribute-value.svg")‎  (SVG file, nominally 274 × 114 pixels, file size: 14 KB)
+[Class-by-attribute-value.svg](../images/d/d4/Class-by-attribute-value.svg "Class-by-attribute-value.svg")‎  (SVG file, nominally 274 × 114 pixels, file size: 14 KB)
 
 
 

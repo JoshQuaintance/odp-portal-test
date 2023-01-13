@@ -33,9 +33,9 @@ For species, it can be possibly mapped to fi:FAO3AlphaCode, fi:FAOTaxonomicCode,
 
 
 
- [![](../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[RTMS\_Code](../Submissions/RTMSmapping/RTMS_Code.md "Submissions:RTMSmapping/RTMS Code") page_
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[RTMS\_Code](../Submissions/RTMSmapping/RTMS_Code.md "Submissions:RTMSmapping/RTMS Code") page_
 [![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __hasRTMS\_Code__ (owl:ObjectProperty) 
- [![](../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[hasRTMS\_Code](../Submissions/RTMSmapping/hasRTMS_Code.md "Submissions:RTMSmapping/hasRTMS Code") page_
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[hasRTMS\_Code](../Submissions/RTMSmapping/hasRTMS_Code.md "Submissions:RTMSmapping/hasRTMS Code") page_
 #  Additional information
 
 

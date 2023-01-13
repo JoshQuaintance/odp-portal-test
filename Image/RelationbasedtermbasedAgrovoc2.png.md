@@ -2,9 +2,9 @@
 * [File history](../Image/RelationbasedtermbasedAgrovoc2.png.md#filehistory)
 * [Links](../Image/RelationbasedtermbasedAgrovoc2.png.md#filelinks)
 
-[![Image:RelationbasedtermbasedAgrovoc2.png](../../../images/d/d3/RelationbasedtermbasedAgrovoc2.png)](../../../images/d/d3/RelationbasedtermbasedAgrovoc2.png)  
+[![Image:RelationbasedtermbasedAgrovoc2.png](../images/d/d3/RelationbasedtermbasedAgrovoc2.png)](../images/d/d3/RelationbasedtermbasedAgrovoc2.png)  
 No higher resolution available.  
-[RelationbasedtermbasedAgrovoc2.png](../../../images/d/d3/RelationbasedtermbasedAgrovoc2.png)‎ (254 × 553 pixel, file size: 20 KB, MIME type: image/png)
+[RelationbasedtermbasedAgrovoc2.png](../images/d/d3/RelationbasedtermbasedAgrovoc2.png)‎ (254 × 553 pixel, file size: 20 KB, MIME type: image/png)
 
 ## File history
 

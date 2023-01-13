@@ -2,9 +2,9 @@
 * [File history](../Image/Affordance.png.md#filehistory)
 * [Links](../Image/Affordance.png.md#filelinks)
 
-[![Image:Affordance.png](../images/thumb/b/b3/Affordance.png/800px-Affordance.png)](../../images/b/b3/Affordance.png)  
+[![Image:Affordance.png](../images/thumb/b/b3/Affordance.png/800px-Affordance.png)](../images/b/b3/Affordance.png)  
 Size of this preview: 800 × 565 pixels  
-[Full resolution](../../images/b/b3/Affordance.png)‎ (1,210 × 855 pixel, file size: 271 KB, MIME type: image/png)The diagram of the Affordance ontology expressed with the Graffoo notation.
+[Full resolution](../images/b/b3/Affordance.png)‎ (1,210 × 855 pixel, file size: 271 KB, MIME type: image/png)The diagram of the Affordance ontology expressed with the Graffoo notation.
 
 
 

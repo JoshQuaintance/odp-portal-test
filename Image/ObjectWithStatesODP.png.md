@@ -2,9 +2,9 @@
 * [File history](../Image/ObjectWithStatesODP.png.md#filehistory)
 * [Links](../Image/ObjectWithStatesODP.png.md#filelinks)
 
-[![Image:ObjectWithStatesODP.png](../images/thumb/1/11/ObjectWithStatesODP.png/800px-ObjectWithStatesODP.png)](../../images/1/11/ObjectWithStatesODP.png)  
+[![Image:ObjectWithStatesODP.png](../images/thumb/1/11/ObjectWithStatesODP.png/800px-ObjectWithStatesODP.png)](../images/1/11/ObjectWithStatesODP.png)  
 Size of this preview: 800 × 268 pixels  
-[Full resolution](../../images/1/11/ObjectWithStatesODP.png)‎ (910 × 305 pixel, file size: 40 KB, MIME type: image/png)Picture of the Object with states Content Ontology Design Pattern
+[Full resolution](../images/1/11/ObjectWithStatesODP.png)‎ (910 × 305 pixel, file size: 40 KB, MIME type: image/png)Picture of the Object with states Content Ontology Design Pattern
 
 
 

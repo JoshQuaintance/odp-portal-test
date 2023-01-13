@@ -2,9 +2,9 @@
 * [File history](../Image/Geo.png.md#filehistory)
 * [Links](../Image/Geo.png.md#filelinks)
 
-[![Image:Geo.png](../../../images/c/c9/Geo.png)](../../../images/c/c9/Geo.png)  
+[![Image:Geo.png](../images/c/c9/Geo.png)](../images/c/c9/Geo.png)  
 No higher resolution available.  
-[Geo.png](../../../images/c/c9/Geo.png)‎ (354 × 334 pixel, file size: 59 KB, MIME type: image/png)
+[Geo.png](../images/c/c9/Geo.png)‎ (354 × 334 pixel, file size: 59 KB, MIME type: image/png)
 
 ## File history
 

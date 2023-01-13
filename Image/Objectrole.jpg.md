@@ -2,9 +2,9 @@
 * [File history](../Image/Objectrole.jpg.md#filehistory)
 * [Links](../Image/Objectrole.jpg.md#filelinks)
 
-[![Image:Objectrole.jpg](../../../images/a/a4/Objectrole.jpg)](../../../images/a/a4/Objectrole.jpg)  
+[![Image:Objectrole.jpg](../images/a/a4/Objectrole.jpg)](../images/a/a4/Objectrole.jpg)  
 No higher resolution available.  
-[Objectrole.jpg](../../../images/a/a4/Objectrole.jpg)‎ (224 × 208 pixel, file size: 9 KB, MIME type: image/jpeg)
+[Objectrole.jpg](../images/a/a4/Objectrole.jpg)‎ (224 × 208 pixel, file size: 9 KB, MIME type: image/jpeg)
 
 ## File history
 

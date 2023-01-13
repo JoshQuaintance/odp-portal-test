@@ -2,9 +2,9 @@
 * [File history](../Image/AdjacencyListWaterAreas.png.md#filehistory)
 * [Links](../Image/AdjacencyListWaterAreas.png.md#filelinks)
 
-[![Image:AdjacencyListWaterAreas.png](../../../images/4/4d/AdjacencyListWaterAreas.png)](../../../images/4/4d/AdjacencyListWaterAreas.png)  
+[![Image:AdjacencyListWaterAreas.png](../images/4/4d/AdjacencyListWaterAreas.png)](../images/4/4d/AdjacencyListWaterAreas.png)  
 No higher resolution available.  
-[AdjacencyListWaterAreas.png](../../../images/4/4d/AdjacencyListWaterAreas.png)‎ (300 × 189 pixel, file size: 26 KB, MIME type: image/png)
+[AdjacencyListWaterAreas.png](../images/4/4d/AdjacencyListWaterAreas.png)‎ (300 × 189 pixel, file size: 26 KB, MIME type: image/png)
 
 ## File history
 

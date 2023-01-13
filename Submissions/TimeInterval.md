@@ -38,26 +38,26 @@ _The __TimeInterval__ Content OP locally defines the following ontology elements
 
 
 
- [![](../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[TimeInterval](../Submissions/TimeInterval/TimeInterval.md "Submissions:TimeInterval/TimeInterval") page_
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[TimeInterval](../Submissions/TimeInterval/TimeInterval.md "Submissions:TimeInterval/TimeInterval") page_
 
-[![DatatypeProperty](../../../images/thumb/a/a5/DatatypeProperty.gif/20px-DatatypeProperty.gif)](../Image/DatatypeProperty.gif.md "DatatypeProperty") __has interval date__ (owl:DatatypeProperty) A datatype property that encodes values from xsd:date for a time interval; a 
+[![DatatypeProperty](../images/thumb/a/a5/DatatypeProperty.gif/20px-DatatypeProperty.gif)](../Image/DatatypeProperty.gif.md "DatatypeProperty") __has interval date__ (owl:DatatypeProperty) A datatype property that encodes values from xsd:date for a time interval; a 
 same time interval can have more than one xsd:date value: begin date, end date, date at which the interval holds, as well as dates expressed in different formats: xsd:gYear, xsd:dateTime, etc. 
 
 
 
- [![](../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[hasIntervalDate](../Submissions/TimeInterval/hasIntervalDate.md "Submissions:TimeInterval/hasIntervalDate") page_
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[hasIntervalDate](../Submissions/TimeInterval/hasIntervalDate.md "Submissions:TimeInterval/hasIntervalDate") page_
 
-[![DatatypeProperty](../../../images/thumb/a/a5/DatatypeProperty.gif/20px-DatatypeProperty.gif)](../Image/DatatypeProperty.gif.md "DatatypeProperty") __has interval start date__ (owl:DatatypeProperty) The start date of a  [time interval](../Submissions/TimeInterval/TimeInterval.md "Submissions:TimeInterval/TimeInterval"). 
-
-
-
- [![](../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[hasIntervalStartDate](../Submissions/TimeInterval/hasIntervalStartDate.md "Submissions:TimeInterval/hasIntervalStartDate") page_
-
-[![DatatypeProperty](../../../images/thumb/a/a5/DatatypeProperty.gif/20px-DatatypeProperty.gif)](../Image/DatatypeProperty.gif.md "DatatypeProperty") __has interval end date__ (owl:DatatypeProperty) The end date of a  [time interval](../Submissions/TimeInterval/TimeInterval.md "Submissions:TimeInterval/TimeInterval"). 
+[![DatatypeProperty](../images/thumb/a/a5/DatatypeProperty.gif/20px-DatatypeProperty.gif)](../Image/DatatypeProperty.gif.md "DatatypeProperty") __has interval start date__ (owl:DatatypeProperty) The start date of a  [time interval](../Submissions/TimeInterval/TimeInterval.md "Submissions:TimeInterval/TimeInterval"). 
 
 
 
- [![](../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[hasIntervalEndDate](../Submissions/TimeInterval/hasIntervalEndDate.md "Submissions:TimeInterval/hasIntervalEndDate") page_
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[hasIntervalStartDate](../Submissions/TimeInterval/hasIntervalStartDate.md "Submissions:TimeInterval/hasIntervalStartDate") page_
+
+[![DatatypeProperty](../images/thumb/a/a5/DatatypeProperty.gif/20px-DatatypeProperty.gif)](../Image/DatatypeProperty.gif.md "DatatypeProperty") __has interval end date__ (owl:DatatypeProperty) The end date of a  [time interval](../Submissions/TimeInterval/TimeInterval.md "Submissions:TimeInterval/TimeInterval"). 
+
+
+
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[hasIntervalEndDate](../Submissions/TimeInterval/hasIntervalEndDate.md "Submissions:TimeInterval/hasIntervalEndDate") page_
 #  Additional information
 
 

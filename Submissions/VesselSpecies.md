@@ -33,7 +33,7 @@ _The __VesselSpecies__ Content OP locally defines the following ontology element
 
 
 
-[![ObjectProperty](../../../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __isCaughtBy__ (owl:ObjectProperty) Actually a composed property: this needs either a property chain, a SPARQL query, or a SWRL rule to gather a value. E.g. in SPARQL:
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __isCaughtBy__ (owl:ObjectProperty) Actually a composed property: this needs either a property chain, a SPARQL query, or a SWRL rule to gather a value. E.g. in SPARQL:
   
 
 
@@ -54,8 +54,8 @@ WHERE {
 
 
 
- [![](../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[isCaughtBy](../Submissions/VesselSpecies/isCaughtBy.md "Submissions:VesselSpecies/isCaughtBy") page_
-[![ObjectProperty](../../../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __catchesSpecies__ (owl:ObjectProperty) Actually a composed property: this needs either a property chain, a SPARQL query, or a SWRL rule to gather a value. E.g. in SPARQL:
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[isCaughtBy](../Submissions/VesselSpecies/isCaughtBy.md "Submissions:VesselSpecies/isCaughtBy") page_
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __catchesSpecies__ (owl:ObjectProperty) Actually a composed property: this needs either a property chain, a SPARQL query, or a SWRL rule to gather a value. E.g. in SPARQL:
   
 
 
@@ -76,9 +76,9 @@ WHERE {
 
 
 
- [![](../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[catchesSpecies](../Submissions/VesselSpecies/catchesSpecies.md "Submissions:VesselSpecies/catchesSpecies") page_
-[![ObjectProperty](../../../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __isCaughtByVesselType__ (owl:ObjectProperty) 
- [![](../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[isCaughtByVesselType](../Submissions/VesselSpecies/isCaughtByVesselType.md "Submissions:VesselSpecies/isCaughtByVesselType") page_
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[catchesSpecies](../Submissions/VesselSpecies/catchesSpecies.md "Submissions:VesselSpecies/catchesSpecies") page_
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __isCaughtByVesselType__ (owl:ObjectProperty) 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[isCaughtByVesselType](../Submissions/VesselSpecies/isCaughtByVesselType.md "Submissions:VesselSpecies/isCaughtByVesselType") page_
 #  Additional information
 
 

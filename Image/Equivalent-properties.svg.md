@@ -2,9 +2,9 @@
 * [File history](../Image/Equivalent-properties.svg.md#filehistory)
 * [Links](../Image/Equivalent-properties.svg.md#filelinks)
 
-[![Image:Equivalent-properties.svg](../images/thumb/0/0e/Equivalent-properties.svg/304px-Equivalent-properties.svg.png)](../../images/0/0e/Equivalent-properties.svg)  
+[![Image:Equivalent-properties.svg](../images/thumb/0/0e/Equivalent-properties.svg/304px-Equivalent-properties.svg.png)](../images/0/0e/Equivalent-properties.svg)  
 
-[Equivalent-properties.svg](../../images/0/0e/Equivalent-properties.svg "Equivalent-properties.svg")‎  (SVG file, nominally 304 × 61 pixels, file size: 8 KB)
+[Equivalent-properties.svg](../images/0/0e/Equivalent-properties.svg "Equivalent-properties.svg")‎  (SVG file, nominally 304 × 61 pixels, file size: 8 KB)
 
 
 

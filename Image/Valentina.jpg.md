@@ -3,9 +3,9 @@
 * [Links](../Image/Valentina.jpg.md#filelinks)
 * [Metadata](../Image/Valentina.jpg.md#metadata)
 
-[![Image:Valentina.jpg](../../../images/8/88/Valentina.jpg)](../../../images/8/88/Valentina.jpg)  
+[![Image:Valentina.jpg](../images/8/88/Valentina.jpg)](../images/8/88/Valentina.jpg)  
 No higher resolution available.  
-[Valentina.jpg](../../../images/8/88/Valentina.jpg)‎ (96 × 96 pixel, file size: 7 KB, MIME type: image/jpeg)
+[Valentina.jpg](../images/8/88/Valentina.jpg)‎ (96 × 96 pixel, file size: 7 KB, MIME type: image/jpeg)
 
 ## File history
 

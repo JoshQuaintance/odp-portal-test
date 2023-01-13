@@ -2,9 +2,9 @@
 * [File history](../Image/Symmetric_n-ary_relationship_distance.jpg.md#filehistory)
 * [Links](../Image/Symmetric_n-ary_relationship_distance.jpg.md#filelinks)
 
-[![Image:Symmetric n-ary relationship distance.jpg](../../../images/b/bd/Symmetric_n-ary_relationship_distance.jpg)](../../../images/b/bd/Symmetric_n-ary_relationship_distance.jpg)  
+[![Image:Symmetric n-ary relationship distance.jpg](../images/b/bd/Symmetric_n-ary_relationship_distance.jpg)](../images/b/bd/Symmetric_n-ary_relationship_distance.jpg)  
 No higher resolution available.  
-[Symmetric\_n-ary\_relationship\_distance.jpg](../../../images/b/bd/Symmetric_n-ary_relationship_distance.jpg)‎ (393 × 82 pixel, file size: 7 KB, MIME type: image/jpeg)
+[Symmetric\_n-ary\_relationship\_distance.jpg](../images/b/bd/Symmetric_n-ary_relationship_distance.jpg)‎ (393 × 82 pixel, file size: 7 KB, MIME type: image/jpeg)
 
 ## File history
 

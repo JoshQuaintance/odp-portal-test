@@ -2,9 +2,9 @@
 * [File history](../Image/Constituency.jpg.md#filehistory)
 * [Links](../Image/Constituency.jpg.md#filelinks)
 
-[![Image:Constituency.jpg](../../../images/2/24/Constituency.jpg)](../../../images/2/24/Constituency.jpg)  
+[![Image:Constituency.jpg](../images/2/24/Constituency.jpg)](../images/2/24/Constituency.jpg)  
 No higher resolution available.  
-[Constituency.jpg](../../../images/2/24/Constituency.jpg)‎ (192 × 96 pixel, file size: 5 KB, MIME type: image/jpeg)
+[Constituency.jpg](../images/2/24/Constituency.jpg)‎ (192 × 96 pixel, file size: 5 KB, MIME type: image/jpeg)
 
 ## File history
 

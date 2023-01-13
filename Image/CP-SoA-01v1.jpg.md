@@ -2,9 +2,9 @@
 * [File history](../Image/CP-SoA-01v1.jpg.md#filehistory)
 * [Links](../Image/CP-SoA-01v1.jpg.md#filelinks)
 
-[![Image:CP-SoA-01v1.jpg](../images/thumb/f/f5/CP-SoA-01v1.jpg/800px-CP-SoA-01v1.jpg)](../../images/f/f5/CP-SoA-01v1.jpg)  
+[![Image:CP-SoA-01v1.jpg](../images/thumb/f/f5/CP-SoA-01v1.jpg/800px-CP-SoA-01v1.jpg)](../images/f/f5/CP-SoA-01v1.jpg)  
 Size of this preview: 800 × 491 pixels  
-[Full resolution](../../images/f/f5/CP-SoA-01v1.jpg)‎ (844 × 518 pixel, file size: 43 KB, MIME type: image/jpeg)
+[Full resolution](../images/f/f5/CP-SoA-01v1.jpg)‎ (844 × 518 pixel, file size: 43 KB, MIME type: image/jpeg)
 
 ## File history
 

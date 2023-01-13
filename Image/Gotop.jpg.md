@@ -2,9 +2,9 @@
 * [File history](../Image/Gotop.jpg.md#filehistory)
 * [Links](../Image/Gotop.jpg.md#filelinks)
 
-[![Image:Gotop.jpg](../../../images/d/da/Gotop.jpg)](../../../images/d/da/Gotop.jpg)  
+[![Image:Gotop.jpg](../images/d/da/Gotop.jpg)](../images/d/da/Gotop.jpg)  
 No higher resolution available.  
-[Gotop.jpg](../../../images/d/da/Gotop.jpg)‎ (544 × 89 pixel, file size: 23 KB, MIME type: image/jpeg)
+[Gotop.jpg](../images/d/da/Gotop.jpg)‎ (544 × 89 pixel, file size: 23 KB, MIME type: image/jpeg)
 
 ## File history
 

@@ -2,9 +2,9 @@
 * [File history](../Image/Experience_and_observation.png.md#filehistory)
 * [Links](../Image/Experience_and_observation.png.md#filelinks)
 
-[![Image:Experience and observation.png](../images/thumb/a/a0/Experience_and_observation.png/800px-Experience_and_observation.png)](../../images/a/a0/Experience_and_observation.png)  
+[![Image:Experience and observation.png](../images/thumb/a/a0/Experience_and_observation.png/800px-Experience_and_observation.png)](../images/a/a0/Experience_and_observation.png)  
 Size of this preview: 800 × 266 pixels  
-[Full resolution](../../images/a/a0/Experience_and_observation.png)‎ (841 × 280 pixel, file size: 20 KB, MIME type: image/png)Diagram (as PNG) showing the core relations of the Experience & Observation content pattern.
+[Full resolution](../images/a/a0/Experience_and_observation.png)‎ (841 × 280 pixel, file size: 20 KB, MIME type: image/png)Diagram (as PNG) showing the core relations of the Experience & Observation content pattern.
 
 
 

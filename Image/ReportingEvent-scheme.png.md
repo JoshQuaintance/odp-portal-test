@@ -2,9 +2,9 @@
 * [File history](../Image/ReportingEvent-scheme.png.md#filehistory)
 * [Links](../Image/ReportingEvent-scheme.png.md#filelinks)
 
-[![Image:ReportingEvent-scheme.png](../../../images/b/b6/ReportingEvent-scheme.png)](../../../images/b/b6/ReportingEvent-scheme.png)  
+[![Image:ReportingEvent-scheme.png](../images/b/b6/ReportingEvent-scheme.png)](../images/b/b6/ReportingEvent-scheme.png)  
 No higher resolution available.  
-[ReportingEvent-scheme.png](../../../images/b/b6/ReportingEvent-scheme.png)‎ (500 × 307 pixel, file size: 26 KB, MIME type: image/png)ReportingEvent ontology design pattern
+[ReportingEvent-scheme.png](../images/b/b6/ReportingEvent-scheme.png)‎ (500 × 307 pixel, file size: 26 KB, MIME type: image/png)ReportingEvent ontology design pattern
 
 
 

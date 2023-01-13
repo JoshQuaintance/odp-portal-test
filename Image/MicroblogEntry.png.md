@@ -2,9 +2,9 @@
 * [File history](../Image/MicroblogEntry.png.md#filehistory)
 * [Links](../Image/MicroblogEntry.png.md#filelinks)
 
-[![Image:MicroblogEntry.png](../../../images/5/58/MicroblogEntry.png)](../../../images/5/58/MicroblogEntry.png)  
+[![Image:MicroblogEntry.png](../images/5/58/MicroblogEntry.png)](../images/5/58/MicroblogEntry.png)  
 No higher resolution available.  
-[MicroblogEntry.png](../../../images/5/58/MicroblogEntry.png)‎ (522 × 285 pixel, file size: 18 KB, MIME type: image/png)
+[MicroblogEntry.png](../images/5/58/MicroblogEntry.png)‎ (522 × 285 pixel, file size: 18 KB, MIME type: image/png)
 
 ## File history
 

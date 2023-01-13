@@ -2,9 +2,9 @@
 * [File history](../Image/EP_ODP.png.md#filehistory)
 * [Links](../Image/EP_ODP.png.md#filelinks)
 
-[![Image:EP ODP.png](../images/thumb/9/93/EP_ODP.png/800px-EP_ODP.png)](../../images/9/93/EP_ODP.png)  
+[![Image:EP ODP.png](../images/thumb/9/93/EP_ODP.png/800px-EP_ODP.png)](../images/9/93/EP_ODP.png)  
 Size of this preview: 800 × 362 pixels  
-[Full resolution](../../images/9/93/EP_ODP.png)‎ (1,398 × 632 pixel, file size: 171 KB, MIME type: image/png)Figure illustrating the main classes of the (revised version of the) Event Processing ODP
+[Full resolution](../images/9/93/EP_ODP.png)‎ (1,398 × 632 pixel, file size: 171 KB, MIME type: image/png)Figure illustrating the main classes of the (revised version of the) Event Processing ODP
 
 
 

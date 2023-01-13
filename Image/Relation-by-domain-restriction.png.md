@@ -2,9 +2,9 @@
 * [File history](../Image/Relation-by-domain-restriction.png.md#filehistory)
 * [Links](../Image/Relation-by-domain-restriction.png.md#filelinks)
 
-[![Image:Relation-by-domain-restriction.png](../../../images/1/15/Relation-by-domain-restriction.png)](../../../images/1/15/Relation-by-domain-restriction.png)  
+[![Image:Relation-by-domain-restriction.png](../images/1/15/Relation-by-domain-restriction.png)](../images/1/15/Relation-by-domain-restriction.png)  
 No higher resolution available.  
-[Relation-by-domain-restriction.png](../../../images/1/15/Relation-by-domain-restriction.png)‎ (544 × 194 pixel, file size: 28 KB, MIME type: image/png)
+[Relation-by-domain-restriction.png](../images/1/15/Relation-by-domain-restriction.png)‎ (544 × 194 pixel, file size: 28 KB, MIME type: image/png)
 
 ## File history
 

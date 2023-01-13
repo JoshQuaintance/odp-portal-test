@@ -2,9 +2,9 @@
 * [File history](../Image/Aos.jpg.md#filehistory)
 * [Links](../Image/Aos.jpg.md#filelinks)
 
-[![Image:Aos.jpg](../../../images/b/bf/Aos.jpg)](../../../images/b/bf/Aos.jpg)  
+[![Image:Aos.jpg](../images/b/bf/Aos.jpg)](../images/b/bf/Aos.jpg)  
 No higher resolution available.  
-[Aos.jpg](../../../images/b/bf/Aos.jpg)‎ (713 × 521 pixel, file size: 62 KB, MIME type: image/jpeg)AOS overall schema
+[Aos.jpg](../images/b/bf/Aos.jpg)‎ (713 × 521 pixel, file size: 62 KB, MIME type: image/jpeg)AOS overall schema
 
 
 

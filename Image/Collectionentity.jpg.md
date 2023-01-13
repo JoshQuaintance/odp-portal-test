@@ -2,9 +2,9 @@
 * [File history](../Image/Collectionentity.jpg.md#filehistory)
 * [Links](../Image/Collectionentity.jpg.md#filelinks)
 
-[![Image:Collectionentity.jpg](../../../images/0/03/Collectionentity.jpg)](../../../images/0/03/Collectionentity.jpg)  
+[![Image:Collectionentity.jpg](../images/0/03/Collectionentity.jpg)](../images/0/03/Collectionentity.jpg)  
 No higher resolution available.  
-[Collectionentity.jpg](../../../images/0/03/Collectionentity.jpg)‎ (177 × 155 pixel, file size: 19 KB, MIME type: image/jpeg)
+[Collectionentity.jpg](../images/0/03/Collectionentity.jpg)‎ (177 × 155 pixel, file size: 19 KB, MIME type: image/jpeg)
 
 ## File history
 

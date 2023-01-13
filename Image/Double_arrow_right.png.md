@@ -2,9 +2,9 @@
 * [File history](../Image/Double_arrow_right.png.md#filehistory)
 * [Links](../Image/Double_arrow_right.png.md#filelinks)
 
-[![Image:Double arrow right.png](../../../images/b/bd/Double_arrow_right.png)](../../../images/b/bd/Double_arrow_right.png)  
+[![Image:Double arrow right.png](../images/b/bd/Double_arrow_right.png)](../images/b/bd/Double_arrow_right.png)  
 No higher resolution available.  
-[Double\_arrow\_right.png](../../../images/b/bd/Double_arrow_right.png)‎ (32 × 32 pixel, file size: 2 KB, MIME type: image/png)
+[Double\_arrow\_right.png](../images/b/bd/Double_arrow_right.png)‎ (32 × 32 pixel, file size: 2 KB, MIME type: image/png)
 
 ## File history
 

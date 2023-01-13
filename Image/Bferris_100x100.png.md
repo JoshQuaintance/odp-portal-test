@@ -2,9 +2,9 @@
 * [File history](../Image/Bferris_100x100.png.md#filehistory)
 * [Links](../Image/Bferris_100x100.png.md#filelinks)
 
-[![Image:Bferris 100x100.png](../../../images/1/19/Bferris_100x100.png)](../../../images/1/19/Bferris_100x100.png)  
+[![Image:Bferris 100x100.png](../images/1/19/Bferris_100x100.png)](../images/1/19/Bferris_100x100.png)  
 No higher resolution available.  
-[Bferris\_100x100.png](../../../images/1/19/Bferris_100x100.png)‎ (100 × 100 pixel, file size: 13 KB, MIME type: image/png)
+[Bferris\_100x100.png](../images/1/19/Bferris_100x100.png)‎ (100 × 100 pixel, file size: 13 KB, MIME type: image/png)
 
 ## File history
 

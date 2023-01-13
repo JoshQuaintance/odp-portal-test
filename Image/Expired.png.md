@@ -2,9 +2,9 @@
 * [File history](../Image/Expired.png.md#filehistory)
 * [Links](../Image/Expired.png.md#filelinks)
 
-[![Image:Expired.png](../../../images/5/56/Expired.png)](../../../images/5/56/Expired.png)  
+[![Image:Expired.png](../images/5/56/Expired.png)](../images/5/56/Expired.png)  
 No higher resolution available.  
-[Expired.png](../../../images/5/56/Expired.png)‎ (128 × 128 pixel, file size: 18 KB, MIME type: image/png)
+[Expired.png](../images/5/56/Expired.png)‎ (128 × 128 pixel, file size: 18 KB, MIME type: image/png)
 
 ## File history
 

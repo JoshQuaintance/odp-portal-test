@@ -2,9 +2,9 @@
 * [File history](../Image/ODP_new_fin.jpg.md#filehistory)
 * [Links](../Image/ODP_new_fin.jpg.md#filelinks)
 
-[![Image:ODP new fin.jpg](../images/thumb/8/8e/ODP_new_fin.jpg/800px-ODP_new_fin.jpg)](../../images/8/8e/ODP_new_fin.jpg)  
+[![Image:ODP new fin.jpg](../images/thumb/8/8e/ODP_new_fin.jpg/800px-ODP_new_fin.jpg)](../images/8/8e/ODP_new_fin.jpg)  
 Size of this preview: 800 × 415 pixels  
-[Full resolution](../../images/8/8e/ODP_new_fin.jpg)‎ (2,732 × 1,416 pixel, file size: 158 KB, MIME type: image/jpeg)
+[Full resolution](../images/8/8e/ODP_new_fin.jpg)‎ (2,732 × 1,416 pixel, file size: 158 KB, MIME type: image/jpeg)
 
 ## File history
 

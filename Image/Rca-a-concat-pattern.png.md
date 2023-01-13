@@ -2,9 +2,9 @@
 * [File history](../Image/Rca-a-concat-pattern.png.md#filehistory)
 * [Links](../Image/Rca-a-concat-pattern.png.md#filelinks)
 
-[![Image:Rca-a-concat-pattern.png](../images/thumb/f/fa/Rca-a-concat-pattern.png/777px-Rca-a-concat-pattern.png)](../../images/f/fa/Rca-a-concat-pattern.png)  
+[![Image:Rca-a-concat-pattern.png](../images/thumb/f/fa/Rca-a-concat-pattern.png/777px-Rca-a-concat-pattern.png)](../images/f/fa/Rca-a-concat-pattern.png)  
 Size of this preview: 777 × 599 pixels  
-[Full resolution](../../images/f/fa/Rca-a-concat-pattern.png)‎ (963 × 743 pixel, file size: 103 KB, MIME type: image/png)
+[Full resolution](../images/f/fa/Rca-a-concat-pattern.png)‎ (963 × 743 pixel, file size: 103 KB, MIME type: image/png)
 
 ## File history
 

@@ -2,9 +2,9 @@
 * [File history](../Image/Agentroleex.png.md#filehistory)
 * [Links](../Image/Agentroleex.png.md#filelinks)
 
-[![Image:Agentroleex.png](../../../images/a/a0/Agentroleex.png)](../../../images/a/a0/Agentroleex.png)  
+[![Image:Agentroleex.png](../images/a/a0/Agentroleex.png)](../images/a/a0/Agentroleex.png)  
 No higher resolution available.  
-[Agentroleex.png](../../../images/a/a0/Agentroleex.png)‎ (656 × 128 pixel, file size: 21 KB, MIME type: image/png)
+[Agentroleex.png](../images/a/a0/Agentroleex.png)‎ (656 × 128 pixel, file size: 21 KB, MIME type: image/png)
 
 ## File history
 

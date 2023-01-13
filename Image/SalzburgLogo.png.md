@@ -2,9 +2,9 @@
 * [File history](../Image/SalzburgLogo.png.md#filehistory)
 * [Links](../Image/SalzburgLogo.png.md#filelinks)
 
-[![Image:SalzburgLogo.png](../images/thumb/0/0f/SalzburgLogo.png/800px-SalzburgLogo.png)](../../images/0/0f/SalzburgLogo.png)  
+[![Image:SalzburgLogo.png](../images/thumb/0/0f/SalzburgLogo.png/800px-SalzburgLogo.png)](../images/0/0f/SalzburgLogo.png)  
 Size of this preview: 800 × 167 pixels  
-[Full resolution](../../images/0/0f/SalzburgLogo.png)‎ (827 × 173 pixel, file size: 49 KB, MIME type: image/png)
+[Full resolution](../images/0/0f/SalzburgLogo.png)‎ (827 × 173 pixel, file size: 49 KB, MIME type: image/png)
 
 ## File history
 

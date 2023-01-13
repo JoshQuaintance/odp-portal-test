@@ -2,9 +2,9 @@
 * [File history](../Image/Intensionextension.jpg.md#filehistory)
 * [Links](../Image/Intensionextension.jpg.md#filelinks)
 
-[![Image:Intensionextension.jpg](../../../images/0/01/Intensionextension.jpg)](../../../images/0/01/Intensionextension.jpg)  
+[![Image:Intensionextension.jpg](../images/0/01/Intensionextension.jpg)](../images/0/01/Intensionextension.jpg)  
 No higher resolution available.  
-[Intensionextension.jpg](../../../images/0/01/Intensionextension.jpg)‎ (608 × 240 pixel, file size: 22 KB, MIME type: image/jpeg)
+[Intensionextension.jpg](../images/0/01/Intensionextension.jpg)‎ (608 × 240 pixel, file size: 22 KB, MIME type: image/jpeg)
 
 ## File history
 

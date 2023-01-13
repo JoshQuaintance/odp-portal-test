@@ -2,9 +2,9 @@
 * [File history](../Image/Fig_fault_f1_f2_asserted_prot4x.png.md#filehistory)
 * [Links](../Image/Fig_fault_f1_f2_asserted_prot4x.png.md#filelinks)
 
-[![Image:Fig fault f1 f2 asserted prot4x.png](../images/thumb/a/ac/Fig_fault_f1_f2_asserted_prot4x.png/447px-Fig_fault_f1_f2_asserted_prot4x.png)](../../images/a/ac/Fig_fault_f1_f2_asserted_prot4x.png)  
+[![Image:Fig fault f1 f2 asserted prot4x.png](../images/thumb/a/ac/Fig_fault_f1_f2_asserted_prot4x.png/447px-Fig_fault_f1_f2_asserted_prot4x.png)](../images/a/ac/Fig_fault_f1_f2_asserted_prot4x.png)  
 Size of this preview: 447 × 600 pixels  
-[Full resolution](../../images/a/ac/Fig_fault_f1_f2_asserted_prot4x.png)‎ (744 × 998 pixel, file size: 119 KB, MIME type: image/png)
+[Full resolution](../images/a/ac/Fig_fault_f1_f2_asserted_prot4x.png)‎ (744 × 998 pixel, file size: 119 KB, MIME type: image/png)
 
 ## File history
 

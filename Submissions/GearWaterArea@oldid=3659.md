@@ -26,18 +26,18 @@ _The __GearWaterArea__ Content OP locally defines the following ontology element
 
 
 
-[![Class](../../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __GearType__ (owl:Class) Gear types are conceptual entities that are characterized together with AquaticSpecies that are either targeted or can be incidentally caught. 
+[![Class](../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __GearType__ (owl:Class) Gear types are conceptual entities that are characterized together with AquaticSpecies that are either targeted or can be incidentally caught. 
 Mappable to fi:GeartypeRef 
 
 
 
- [![](../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[GearType](../Submissions/GearWaterArea/GearType.md "Submissions:GearWaterArea/GearType") page_
-[![Class](../../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __WaterArea__ (owl:Class) A physical water area. Mappable to fi:WaterAreaRef 
- [![](../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[WaterArea](../Submissions/GearWaterArea/WaterArea.md "Submissions:GearWaterArea/WaterArea") page_
-[![ObjectProperty](../../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __isUsedInWaterArea__ (owl:ObjectProperty) 
- [![](../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[isUsedInWaterArea](../Submissions/GearWaterArea/isUsedInWaterArea.md "Submissions:GearWaterArea/isUsedInWaterArea") page_
-[![ObjectProperty](../../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __isSuitableForGearType__ (owl:ObjectProperty) 
- [![](../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[isSuitableForGearType](../Submissions/GearWaterArea/isSuitableForGearType.md "Submissions:GearWaterArea/isSuitableForGearType") page_
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[GearType](../Submissions/GearWaterArea/GearType.md "Submissions:GearWaterArea/GearType") page_
+[![Class](../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __WaterArea__ (owl:Class) A physical water area. Mappable to fi:WaterAreaRef 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[WaterArea](../Submissions/GearWaterArea/WaterArea.md "Submissions:GearWaterArea/WaterArea") page_
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __isUsedInWaterArea__ (owl:ObjectProperty) 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[isUsedInWaterArea](../Submissions/GearWaterArea/isUsedInWaterArea.md "Submissions:GearWaterArea/isUsedInWaterArea") page_
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __isSuitableForGearType__ (owl:ObjectProperty) 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[isSuitableForGearType](../Submissions/GearWaterArea/isSuitableForGearType.md "Submissions:GearWaterArea/isSuitableForGearType") page_
 (type): [http://www.w3.org/2002/07/owl#Ontology](http://www.w3.org/2002/07/owl#Ontology "http://www.w3.org/2002/07/owl#Ontology")
 
 

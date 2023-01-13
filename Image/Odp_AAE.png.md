@@ -2,9 +2,9 @@
 * [File history](../Image/Odp_AAE.png.md#filehistory)
 * [Links](../Image/Odp_AAE.png.md#filelinks)
 
-[![Image:Odp AAE.png](../../../images/2/20/Odp_AAE.png)](../../../images/2/20/Odp_AAE.png)  
+[![Image:Odp AAE.png](../images/2/20/Odp_AAE.png)](../images/2/20/Odp_AAE.png)  
 No higher resolution available.  
-[Odp\_AAE.png](../../../images/2/20/Odp_AAE.png)‎ (729 × 227 pixel, file size: 63 KB, MIME type: image/png)Illustration of the AAE (Actuation-Actuator-Effect) design pattern.
+[Odp\_AAE.png](../images/2/20/Odp_AAE.png)‎ (729 × 227 pixel, file size: 63 KB, MIME type: image/png)Illustration of the AAE (Actuation-Actuator-Effect) design pattern.
 
 
 

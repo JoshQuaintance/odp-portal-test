@@ -2,9 +2,9 @@
 * [File history](../Image/HazardousSituation_ODP.png.md#filehistory)
 * [Links](../Image/HazardousSituation_ODP.png.md#filelinks)
 
-[![Image:HazardousSituation ODP.png](../images/thumb/9/91/HazardousSituation_ODP.png/800px-HazardousSituation_ODP.png)](../../images/9/91/HazardousSituation_ODP.png)  
+[![Image:HazardousSituation ODP.png](../images/thumb/9/91/HazardousSituation_ODP.png/800px-HazardousSituation_ODP.png)](../images/9/91/HazardousSituation_ODP.png)  
 Size of this preview: 800 × 392 pixels  
-[Full resolution](../../images/9/91/HazardousSituation_ODP.png)‎ (822 × 403 pixel, file size: 26 KB, MIME type: image/png)
+[Full resolution](../images/9/91/HazardousSituation_ODP.png)‎ (822 × 403 pixel, file size: 26 KB, MIME type: image/png)
 
 ## File history
 

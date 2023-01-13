@@ -2,9 +2,9 @@
 * [File history](../Image/Class-by-attribute-value-disjunction.png.md#filehistory)
 * [Links](../Image/Class-by-attribute-value-disjunction.png.md#filelinks)
 
-[![Image:Class-by-attribute-value-disjunction.png](../../../images/a/a4/Class-by-attribute-value-disjunction.png)](../../../images/a/a4/Class-by-attribute-value-disjunction.png)  
+[![Image:Class-by-attribute-value-disjunction.png](../images/a/a4/Class-by-attribute-value-disjunction.png)](../images/a/a4/Class-by-attribute-value-disjunction.png)  
 No higher resolution available.  
-[Class-by-attribute-value-disjunction.png](../../../images/a/a4/Class-by-attribute-value-disjunction.png)‎ (717 × 509 pixel, file size: 70 KB, MIME type: image/png)
+[Class-by-attribute-value-disjunction.png](../images/a/a4/Class-by-attribute-value-disjunction.png)‎ (717 × 509 pixel, file size: 70 KB, MIME type: image/png)
 
 ## File history
 

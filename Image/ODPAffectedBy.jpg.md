@@ -2,9 +2,9 @@
 * [File history](../Image/ODPAffectedBy.jpg.md#filehistory)
 * [Links](../Image/ODPAffectedBy.jpg.md#filelinks)
 
-[![Image:ODPAffectedBy.jpg](../images/thumb/5/55/ODPAffectedBy.jpg/800px-ODPAffectedBy.jpg)](../../images/5/55/ODPAffectedBy.jpg)  
+[![Image:ODPAffectedBy.jpg](../images/thumb/5/55/ODPAffectedBy.jpg/800px-ODPAffectedBy.jpg)](../images/5/55/ODPAffectedBy.jpg)  
 Size of this preview: 800 × 441 pixels  
-[Full resolution](../../images/5/55/ODPAffectedBy.jpg)‎ (1,888 × 1,040 pixel, file size: 208 KB, MIME type: image/jpeg)AffectedBy ODP diagram
+[Full resolution](../images/5/55/ODPAffectedBy.jpg)‎ (1,888 × 1,040 pixel, file size: 208 KB, MIME type: image/jpeg)AffectedBy ODP diagram
 
 
 

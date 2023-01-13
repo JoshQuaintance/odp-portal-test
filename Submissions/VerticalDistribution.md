@@ -28,26 +28,26 @@ _The __VerticalDistribution__ Content OP locally defines the following ontology 
 
 
 
-[![ObjectProperty](../../../../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __hasResource__ (owl:ObjectProperty) 
- [![](../../../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[hasResource](../Submissions/VerticalDistribution/hasResource.md "Submissions:VerticalDistribution/hasResource") page_
-[![ObjectProperty](../../../../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __hasVerticalDistribution__ (owl:ObjectProperty) 
- [![](../../../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[hasVerticalDistribution](../Submissions/VerticalDistribution/hasVerticalDistribution.md "Submissions:VerticalDistribution/hasVerticalDistribution") page_
-[![ObjectProperty](../../../../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __isResourceOf__ (owl:ObjectProperty) 
- [![](../../../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[isResourceOf](../Submissions/VerticalDistribution/isResourceOf.md "Submissions:VerticalDistribution/isResourceOf") page_
-[![ObjectProperty](../../../../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __isVerticalDistributionOf__ (owl:ObjectProperty) 
- [![](../../../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[isVerticalDistributionOf](../Submissions/VerticalDistribution/isVerticalDistributionOf.md "Submissions:VerticalDistribution/isVerticalDistributionOf") page_
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __hasResource__ (owl:ObjectProperty) 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[hasResource](../Submissions/VerticalDistribution/hasResource.md "Submissions:VerticalDistribution/hasResource") page_
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __hasVerticalDistribution__ (owl:ObjectProperty) 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[hasVerticalDistribution](../Submissions/VerticalDistribution/hasVerticalDistribution.md "Submissions:VerticalDistribution/hasVerticalDistribution") page_
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __isResourceOf__ (owl:ObjectProperty) 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[isResourceOf](../Submissions/VerticalDistribution/isResourceOf.md "Submissions:VerticalDistribution/isResourceOf") page_
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __isVerticalDistributionOf__ (owl:ObjectProperty) 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[isVerticalDistributionOf](../Submissions/VerticalDistribution/isVerticalDistributionOf.md "Submissions:VerticalDistribution/isVerticalDistributionOf") page_
 [![DatatypeProperty](../images/thumb/a/a5/DatatypeProperty.gif/20px-DatatypeProperty.gif)](../Image/DatatypeProperty.gif.md "DatatypeProperty") __hasReferenceYear__ (owl:DatatypeProperty) 
- [![](../../../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[hasReferenceYear](../Submissions/VerticalDistribution/hasReferenceYear.md "Submissions:VerticalDistribution/hasReferenceYear") page_
-[![Class](../../../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __AquaticResource__ (owl:Class) A fishery resource (a collection of actual aquatic organisms) that can include aquatic organisms from different AquaticSpecies, and is localized in some WaterArea.
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[hasReferenceYear](../Submissions/VerticalDistribution/hasReferenceYear.md "Submissions:VerticalDistribution/hasReferenceYear") page_
+[![Class](../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __AquaticResource__ (owl:Class) A fishery resource (a collection of actual aquatic organisms) that can include aquatic organisms from different AquaticSpecies, and is localized in some WaterArea.
 It can be mapped to fi:AqResRef 
 
 
 
- [![](../../../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[AquaticResource](../Submissions/VerticalDistribution/AquaticResource.md "Submissions:VerticalDistribution/AquaticResource") page_
-[![Class](../../../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __AquaticResourceObservation__ (owl:Class) An observation of a resource characterised by different parameters. 
- [![](../../../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[AquaticResourceObservation](../Submissions/VerticalDistribution/AquaticResourceObservation.md "Submissions:VerticalDistribution/AquaticResourceObservation") page_
-[![Class](../../../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __VerticalDistribution__ (owl:Class) 
- [![](../../../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[VerticalDistribution](../Submissions/VerticalDistribution/VerticalDistribution.md "Submissions:VerticalDistribution/VerticalDistribution") page_
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[AquaticResource](../Submissions/VerticalDistribution/AquaticResource.md "Submissions:VerticalDistribution/AquaticResource") page_
+[![Class](../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __AquaticResourceObservation__ (owl:Class) An observation of a resource characterised by different parameters. 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[AquaticResourceObservation](../Submissions/VerticalDistribution/AquaticResourceObservation.md "Submissions:VerticalDistribution/AquaticResourceObservation") page_
+[![Class](../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __VerticalDistribution__ (owl:Class) 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[VerticalDistribution](../Submissions/VerticalDistribution/VerticalDistribution.md "Submissions:VerticalDistribution/VerticalDistribution") page_
 #  Additional information
 
 

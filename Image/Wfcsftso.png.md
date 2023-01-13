@@ -2,9 +2,9 @@
 * [File history](../Image/Wfcsftso.png.md#filehistory)
 * [Links](../Image/Wfcsftso.png.md#filelinks)
 
-[![Image:Wfcsftso.png](../images/thumb/4/47/Wfcsftso.png/411px-Wfcsftso.png)](../../images/4/47/Wfcsftso.png)  
+[![Image:Wfcsftso.png](../images/thumb/4/47/Wfcsftso.png/411px-Wfcsftso.png)](../images/4/47/Wfcsftso.png)  
 Size of this preview: 411 × 600 pixels  
-[Full resolution](../../images/4/47/Wfcsftso.png)‎ (553 × 807 pixel, file size: 39 KB, MIME type: image/png)
+[Full resolution](../images/4/47/Wfcsftso.png)‎ (553 × 807 pixel, file size: 39 KB, MIME type: image/png)
 
 ## File history
 

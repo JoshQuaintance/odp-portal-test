@@ -2,9 +2,9 @@
 * [File history](../Image/Disjoint-attributes-correspondence.png.md#filehistory)
 * [Links](../Image/Disjoint-attributes-correspondence.png.md#filelinks)
 
-[![Image:Disjoint-attributes-correspondence.png](../../../images/9/94/Disjoint-attributes-correspondence.png)](../../../images/9/94/Disjoint-attributes-correspondence.png)  
+[![Image:Disjoint-attributes-correspondence.png](../images/9/94/Disjoint-attributes-correspondence.png)](../images/9/94/Disjoint-attributes-correspondence.png)  
 No higher resolution available.  
-[Disjoint-attributes-correspondence.png](../../../images/9/94/Disjoint-attributes-correspondence.png)‎ (520 × 113 pixel, file size: 18 KB, MIME type: image/png)
+[Disjoint-attributes-correspondence.png](../images/9/94/Disjoint-attributes-correspondence.png)‎ (520 × 113 pixel, file size: 18 KB, MIME type: image/png)
 
 ## File history
 

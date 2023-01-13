@@ -2,9 +2,9 @@
 * [File history](../Image/MatlPropBasic_resized.png.md#filehistory)
 * [Links](../Image/MatlPropBasic_resized.png.md#filelinks)
 
-[![Image:MatlPropBasic resized.png](../images/thumb/5/5b/MatlPropBasic_resized.png/490px-MatlPropBasic_resized.png)](../../images/5/5b/MatlPropBasic_resized.png)  
+[![Image:MatlPropBasic resized.png](../images/thumb/5/5b/MatlPropBasic_resized.png/490px-MatlPropBasic_resized.png)](../images/5/5b/MatlPropBasic_resized.png)  
 Size of this preview: 490 × 599 pixels  
-[Full resolution](../../images/5/5b/MatlPropBasic_resized.png)‎ (540 × 660 pixel, file size: 81 KB, MIME type: image/png)
+[Full resolution](../images/5/5b/MatlPropBasic_resized.png)‎ (540 × 660 pixel, file size: 81 KB, MIME type: image/png)
 
 ## File history
 

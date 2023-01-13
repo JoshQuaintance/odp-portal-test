@@ -26,4 +26,4 @@ One possible way to transform the sentences...
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Training:EXtreme\_Design\_%28XD%29:\_Pattern-based\_Ontology\_Design/XD\_Hands-on:InstanceFree](../../../../Training/Extreme_Design_(XD)/_Pattern-based_Ontology_Design/XD_Hands-on/InstanceFree.md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Training:EXtreme\_Design\_%28XD%29:\_Pattern-based\_Ontology\_Design/XD\_Hands-on:InstanceFree](../../../../Training/Extreme_Design_(XD)/_Pattern-based_Ontology_Design.md)/_Pattern-based_Ontology_Design/XD_Hands-on/InstanceFree.md)"

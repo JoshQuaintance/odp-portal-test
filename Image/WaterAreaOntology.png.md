@@ -2,9 +2,9 @@
 * [File history](../Image/WaterAreaOntology.png.md#filehistory)
 * [Links](../Image/WaterAreaOntology.png.md#filelinks)
 
-[![Image:WaterAreaOntology.png](../../../images/5/58/WaterAreaOntology.png)](../../../images/5/58/WaterAreaOntology.png)  
+[![Image:WaterAreaOntology.png](../images/5/58/WaterAreaOntology.png)](../images/5/58/WaterAreaOntology.png)  
 No higher resolution available.  
-[WaterAreaOntology.png](../../../images/5/58/WaterAreaOntology.png)‎ (512 × 226 pixel, file size: 10 KB, MIME type: image/png)
+[WaterAreaOntology.png](../images/5/58/WaterAreaOntology.png)‎ (512 × 226 pixel, file size: 10 KB, MIME type: image/png)
 
 ## File history
 

@@ -2,9 +2,9 @@
 * [File history](../Image/SituationExampleDiagram.jpg.md#filehistory)
 * [Links](../Image/SituationExampleDiagram.jpg.md#filelinks)
 
-[![Image:SituationExampleDiagram.jpg](../../../images/0/0e/SituationExampleDiagram.jpg)](../../../images/0/0e/SituationExampleDiagram.jpg)  
+[![Image:SituationExampleDiagram.jpg](../images/0/0e/SituationExampleDiagram.jpg)](../images/0/0e/SituationExampleDiagram.jpg)  
 No higher resolution available.  
-[SituationExampleDiagram.jpg](../../../images/0/0e/SituationExampleDiagram.jpg)‎ (599 × 123 pixel, file size: 31 KB, MIME type: image/jpeg)
+[SituationExampleDiagram.jpg](../images/0/0e/SituationExampleDiagram.jpg)‎ (599 × 123 pixel, file size: 31 KB, MIME type: image/jpeg)
 
 ## File history
 

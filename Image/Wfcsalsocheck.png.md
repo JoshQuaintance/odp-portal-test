@@ -2,9 +2,9 @@
 * [File history](../Image/Wfcsalsocheck.png.md#filehistory)
 * [Links](../Image/Wfcsalsocheck.png.md#filelinks)
 
-[![Image:Wfcsalsocheck.png](../images/thumb/4/43/Wfcsalsocheck.png/411px-Wfcsalsocheck.png)](../../images/4/43/Wfcsalsocheck.png)  
+[![Image:Wfcsalsocheck.png](../images/thumb/4/43/Wfcsalsocheck.png/411px-Wfcsalsocheck.png)](../images/4/43/Wfcsalsocheck.png)  
 Size of this preview: 411 × 600 pixels  
-[Full resolution](../../images/4/43/Wfcsalsocheck.png)‎ (553 × 807 pixel, file size: 40 KB, MIME type: image/png)
+[Full resolution](../images/4/43/Wfcsalsocheck.png)‎ (553 × 807 pixel, file size: 40 KB, MIME type: image/png)
 
 ## File history
 

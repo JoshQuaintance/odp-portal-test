@@ -3,9 +3,9 @@
 * [Links](../Image/ConceptTermsPattern.jpg.md#filelinks)
 * [Metadata](../Image/ConceptTermsPattern.jpg.md#metadata)
 
-[![Image:ConceptTermsPattern.jpg](../../../images/0/09/ConceptTermsPattern.jpg)](../../../images/0/09/ConceptTermsPattern.jpg)  
+[![Image:ConceptTermsPattern.jpg](../images/0/09/ConceptTermsPattern.jpg)](../images/0/09/ConceptTermsPattern.jpg)  
 No higher resolution available.  
-[ConceptTermsPattern.jpg](../../../images/0/09/ConceptTermsPattern.jpg)‎ (534 × 395 pixel, file size: 51 KB, MIME type: image/jpeg)
+[ConceptTermsPattern.jpg](../images/0/09/ConceptTermsPattern.jpg)‎ (534 × 395 pixel, file size: 51 KB, MIME type: image/jpeg)
 
 ## File history
 

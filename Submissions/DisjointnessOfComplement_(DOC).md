@@ -99,5 +99,5 @@ There is no Modeling issue related to this proposal.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:DisjointnessOfComplement\_%28DOC%29](../Submissions/DisjointnessOfComplement_(DOC).md).html)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:DisjointnessOfComplement\_%28DOC%29](../Submissions/DisjointnessOfComplement_(DOC).md).md).html)"
  [Categories](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [LogicalOP](../Category/LogicalOP.md "Category:LogicalOP") | [ProposedLogicalOP](../Category/ProposedLogicalOP.md "Category:ProposedLogicalOP") | [Review assigned](../Category/Review_assigned.md "Category:Review assigned") | [Submitted to event](../Category/Submitted_to_event.md "Category:Submitted to event")

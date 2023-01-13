@@ -2,9 +2,9 @@
 * [File history](../Image/OccupationsOntology.png.md#filehistory)
 * [Links](../Image/OccupationsOntology.png.md#filelinks)
 
-[![Image:OccupationsOntology.png](../../../images/8/88/OccupationsOntology.png)](../../../images/8/88/OccupationsOntology.png)  
+[![Image:OccupationsOntology.png](../images/8/88/OccupationsOntology.png)](../images/8/88/OccupationsOntology.png)  
 No higher resolution available.  
-[OccupationsOntology.png](../../../images/8/88/OccupationsOntology.png)‎ (473 × 240 pixel, file size: 10 KB, MIME type: image/png)
+[OccupationsOntology.png](../images/8/88/OccupationsOntology.png)‎ (473 × 240 pixel, file size: 10 KB, MIME type: image/png)
 
 ## File history
 

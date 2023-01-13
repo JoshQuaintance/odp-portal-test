@@ -2,9 +2,9 @@
 * [File history](../Image/Definition.gif.md#filehistory)
 * [Links](../Image/Definition.gif.md#filelinks)
 
-[![Image:Definition.gif](../../../images/6/6f/Definition.gif)](../../../images/6/6f/Definition.gif)  
+[![Image:Definition.gif](../images/6/6f/Definition.gif)](../images/6/6f/Definition.gif)  
 No higher resolution available.  
-[Definition.gif](../../../images/6/6f/Definition.gif)‎ (128 × 128 pixel, file size: 7 KB, MIME type: image/gif)
+[Definition.gif](../images/6/6f/Definition.gif)‎ (128 × 128 pixel, file size: 7 KB, MIME type: image/gif)
 
 ## File history
 

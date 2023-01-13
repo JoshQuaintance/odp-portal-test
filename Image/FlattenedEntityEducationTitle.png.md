@@ -2,9 +2,9 @@
 * [File history](../Image/FlattenedEntityEducationTitle.png.md#filehistory)
 * [Links](../Image/FlattenedEntityEducationTitle.png.md#filelinks)
 
-[![Image:FlattenedEntityEducationTitle.png](../images/thumb/3/3b/FlattenedEntityEducationTitle.png/800px-FlattenedEntityEducationTitle.png)](../../images/3/3b/FlattenedEntityEducationTitle.png)  
+[![Image:FlattenedEntityEducationTitle.png](../images/thumb/3/3b/FlattenedEntityEducationTitle.png/800px-FlattenedEntityEducationTitle.png)](../images/3/3b/FlattenedEntityEducationTitle.png)  
 Size of this preview: 800 × 182 pixels  
-[Full resolution](../../images/3/3b/FlattenedEntityEducationTitle.png)‎ (849 × 193 pixel, file size: 21 KB, MIME type: image/png)
+[Full resolution](../images/3/3b/FlattenedEntityEducationTitle.png)‎ (849 × 193 pixel, file size: 21 KB, MIME type: image/png)
 
 ## File history
 

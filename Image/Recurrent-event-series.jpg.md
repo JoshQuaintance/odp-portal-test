@@ -2,9 +2,9 @@
 * [File history](../Image/Recurrent-event-series.jpg.md#filehistory)
 * [Links](../Image/Recurrent-event-series.jpg.md#filelinks)
 
-[![Image:Recurrent-event-series.jpg](../images/thumb/d/d1/Recurrent-event-series.jpg/800px-Recurrent-event-series.jpg)](../../images/d/d1/Recurrent-event-series.jpg)  
+[![Image:Recurrent-event-series.jpg](../images/thumb/d/d1/Recurrent-event-series.jpg/800px-Recurrent-event-series.jpg)](../images/d/d1/Recurrent-event-series.jpg)  
 Size of this preview: 800 × 548 pixels  
-[Full resolution](../../images/d/d1/Recurrent-event-series.jpg)‎ (995 × 681 pixel, file size: 65 KB, MIME type: image/jpeg)Diagram for RecurrentEventSeries pattern
+[Full resolution](../images/d/d1/Recurrent-event-series.jpg)‎ (995 × 681 pixel, file size: 65 KB, MIME type: image/jpeg)Diagram for RecurrentEventSeries pattern
 
 
 

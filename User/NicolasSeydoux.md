@@ -19,14 +19,14 @@ __Domains of interest:__
 
 
 
-* [Internet of Things (IoT)](../Community/Internet_of_Things_(IoT).md).html "Community:Internet of Things (IoT)")
+* [Internet of Things (IoT)](../Community/Internet_of_Things_(IoT).md).md).md).html "Community:Internet of Things (IoT)")
 
 
 __Is expert of:__
 
 
 
-* [Internet of Things (IoT)](../Community/Internet_of_Things_(IoT).md).html "Community:Internet of Things (IoT)")
+* [Internet of Things (IoT)](../Community/Internet_of_Things_(IoT).md).md).md).html "Community:Internet of Things (IoT)")
 
 
 __How did I know about ODP:__ colleagues

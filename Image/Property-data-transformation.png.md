@@ -2,9 +2,9 @@
 * [File history](../Image/Property-data-transformation.png.md#filehistory)
 * [Links](../Image/Property-data-transformation.png.md#filelinks)
 
-[![Image:Property-data-transformation.png](../../../images/8/8b/Property-data-transformation.png)](../../../images/8/8b/Property-data-transformation.png)  
+[![Image:Property-data-transformation.png](../images/8/8b/Property-data-transformation.png)](../images/8/8b/Property-data-transformation.png)  
 No higher resolution available.  
-[Property-data-transformation.png](../../../images/8/8b/Property-data-transformation.png)‎ (528 × 183 pixel, file size: 27 KB, MIME type: image/png)
+[Property-data-transformation.png](../images/8/8b/Property-data-transformation.png)‎ (528 × 183 pixel, file size: 27 KB, MIME type: image/png)
 
 ## File history
 

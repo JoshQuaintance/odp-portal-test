@@ -2,9 +2,9 @@
 * [File history](../Image/Criterion.png.md#filehistory)
 * [Links](../Image/Criterion.png.md#filelinks)
 
-[![Image:Criterion.png](../../../images/a/aa/Criterion.png)](../../../images/a/aa/Criterion.png)  
+[![Image:Criterion.png](../images/a/aa/Criterion.png)](../images/a/aa/Criterion.png)  
 No higher resolution available.  
-[Criterion.png](../../../images/a/aa/Criterion.png)‎ (732 × 271 pixel, file size: 24 KB, MIME type: image/png)
+[Criterion.png](../images/a/aa/Criterion.png)‎ (732 × 271 pixel, file size: 24 KB, MIME type: image/png)
 
 ## File history
 

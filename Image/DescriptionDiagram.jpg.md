@@ -2,9 +2,9 @@
 * [File history](../Image/DescriptionDiagram.jpg.md#filehistory)
 * [Links](../Image/DescriptionDiagram.jpg.md#filelinks)
 
-[![Image:DescriptionDiagram.jpg](../../../images/7/7b/DescriptionDiagram.jpg)](../../../images/7/7b/DescriptionDiagram.jpg)  
+[![Image:DescriptionDiagram.jpg](../images/7/7b/DescriptionDiagram.jpg)](../images/7/7b/DescriptionDiagram.jpg)  
 No higher resolution available.  
-[DescriptionDiagram.jpg](../../../images/7/7b/DescriptionDiagram.jpg)‎ (377 × 259 pixel, file size: 32 KB, MIME type: image/jpeg)
+[DescriptionDiagram.jpg](../images/7/7b/DescriptionDiagram.jpg)‎ (377 × 259 pixel, file size: 32 KB, MIME type: image/jpeg)
 
 ## File history
 

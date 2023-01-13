@@ -2,9 +2,9 @@
 * [File history](../Image/Disjoint-sib-example.png.md#filehistory)
 * [Links](../Image/Disjoint-sib-example.png.md#filelinks)
 
-[![Image:Disjoint-sib-example.png](../images/thumb/7/7e/Disjoint-sib-example.png/800px-Disjoint-sib-example.png)](../../images/7/7e/Disjoint-sib-example.png)  
+[![Image:Disjoint-sib-example.png](../images/thumb/7/7e/Disjoint-sib-example.png/800px-Disjoint-sib-example.png)](../images/7/7e/Disjoint-sib-example.png)  
 Size of this preview: 800 × 597 pixels  
-[Full resolution](../../images/7/7e/Disjoint-sib-example.png)‎ (1,078 × 804 pixel, file size: 101 KB, MIME type: image/png)Illustration of transformation to make disjoint siblings (treating SubClassOf as ProperSubClassOf)
+[Full resolution](../images/7/7e/Disjoint-sib-example.png)‎ (1,078 × 804 pixel, file size: 101 KB, MIME type: image/png)Illustration of transformation to make disjoint siblings (treating SubClassOf as ProperSubClassOf)
 
 
 

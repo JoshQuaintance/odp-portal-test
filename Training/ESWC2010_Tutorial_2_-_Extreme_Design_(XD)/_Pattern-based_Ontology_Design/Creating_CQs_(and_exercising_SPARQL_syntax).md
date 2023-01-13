@@ -32,5 +32,5 @@ __Solutions__:
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Training:ESWC2010\_Tutorial\_2\_-\_Extreme\_Design\_%28XD%29:\_Pattern-based\_Ontology\_Design/Creating\_CQs\_%28and\_exercising\_SPARQL\_syntax%29](../../../Training/ESWC2010_Tutorial_2_-_Extreme_Design_(XD)/_Pattern-based_Ontology_Design/Creating_CQs_(and_exercising_SPARQL_syntax).md).html)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Training:ESWC2010\_Tutorial\_2\_-\_Extreme\_Design\_%28XD%29:\_Pattern-based\_Ontology\_Design/Creating\_CQs\_%28and\_exercising\_SPARQL\_syntax%29](../../../Training/ESWC2010_Tutorial_2_-_Extreme_Design_(XD)/_Pattern-based_Ontology_Design.md)/_Pattern-based_Ontology_Design/Creating_CQs_(and_exercising_SPARQL_syntax).md).html)"
  [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [Exercise](../../../Category/Exercise.md "Category:Exercise")

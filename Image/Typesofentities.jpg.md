@@ -2,9 +2,9 @@
 * [File history](../Image/Typesofentities.jpg.md#filehistory)
 * [Links](../Image/Typesofentities.jpg.md#filelinks)
 
-[![Image:Typesofentities.jpg](../../../images/9/9c/Typesofentities.jpg)](../../../images/9/9c/Typesofentities.jpg)  
+[![Image:Typesofentities.jpg](../images/9/9c/Typesofentities.jpg)](../images/9/9c/Typesofentities.jpg)  
 No higher resolution available.  
-[Typesofentities.jpg](../../../images/9/9c/Typesofentities.jpg)‎ (544 × 272 pixel, file size: 21 KB, MIME type: image/jpeg)
+[Typesofentities.jpg](../images/9/9c/Typesofentities.jpg)‎ (544 × 272 pixel, file size: 21 KB, MIME type: image/jpeg)
 
 ## File history
 

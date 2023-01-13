@@ -2,9 +2,9 @@
 * [File history](../Image/Winstoncontextualized.png.md#filehistory)
 * [Links](../Image/Winstoncontextualized.png.md#filelinks)
 
-[![Image:Winstoncontextualized.png](../../../images/7/77/Winstoncontextualized.png)](../../../images/7/77/Winstoncontextualized.png)  
+[![Image:Winstoncontextualized.png](../images/7/77/Winstoncontextualized.png)](../images/7/77/Winstoncontextualized.png)  
 No higher resolution available.  
-[Winstoncontextualized.png](../../../images/7/77/Winstoncontextualized.png)‎ (630 × 165 pixel, file size: 12 KB, MIME type: image/png)
+[Winstoncontextualized.png](../images/7/77/Winstoncontextualized.png)‎ (630 × 165 pixel, file size: 12 KB, MIME type: image/png)
 
 ## File history
 

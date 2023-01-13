@@ -3,9 +3,9 @@
 * [Links](../Image/List.jpg.md#filelinks)
 * [Metadata](../Image/List.jpg.md#metadata)
 
-[![Image:List.jpg](../../../images/d/d5/List.jpg)](../../../images/d/d5/List.jpg)  
+[![Image:List.jpg](../images/d/d5/List.jpg)](../images/d/d5/List.jpg)  
 No higher resolution available.  
-[List.jpg](../../../images/d/d5/List.jpg)‎ (612 × 472 pixel, file size: 136 KB, MIME type: image/jpeg)Illustration of list.owl
+[List.jpg](../images/d/d5/List.jpg)‎ (612 × 472 pixel, file size: 136 KB, MIME type: image/jpeg)Illustration of list.owl
 
 
 

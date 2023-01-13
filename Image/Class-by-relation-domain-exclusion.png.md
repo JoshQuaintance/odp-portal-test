@@ -2,9 +2,9 @@
 * [File history](../Image/Class-by-relation-domain-exclusion.png.md#filehistory)
 * [Links](../Image/Class-by-relation-domain-exclusion.png.md#filelinks)
 
-[![Image:Class-by-relation-domain-exclusion.png](../../../images/e/e2/Class-by-relation-domain-exclusion.png)](../../../images/e/e2/Class-by-relation-domain-exclusion.png)  
+[![Image:Class-by-relation-domain-exclusion.png](../images/e/e2/Class-by-relation-domain-exclusion.png)](../images/e/e2/Class-by-relation-domain-exclusion.png)  
 No higher resolution available.  
-[Class-by-relation-domain-exclusion.png](../../../images/e/e2/Class-by-relation-domain-exclusion.png)‎ (553 × 261 pixel, file size: 27 KB, MIME type: image/png)
+[Class-by-relation-domain-exclusion.png](../images/e/e2/Class-by-relation-domain-exclusion.png)‎ (553 × 261 pixel, file size: 27 KB, MIME type: image/png)
 
 ## File history
 

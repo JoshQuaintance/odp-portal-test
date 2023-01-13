@@ -2,9 +2,9 @@
 * [File history](../Image/Interest_all.png.md#filehistory)
 * [Links](../Image/Interest_all.png.md#filelinks)
 
-[![Image:Interest all.png](../images/thumb/8/8b/Interest_all.png/800px-Interest_all.png)](../../images/8/8b/Interest_all.png)  
+[![Image:Interest all.png](../images/thumb/8/8b/Interest_all.png/800px-Interest_all.png)](../images/8/8b/Interest_all.png)  
 Size of this preview: 800 × 374 pixels  
-[Full resolution](../../images/8/8b/Interest_all.png)‎ (887 × 415 pixel, file size: 42 KB, MIME type: image/png)
+[Full resolution](../images/8/8b/Interest_all.png)‎ (887 × 415 pixel, file size: 42 KB, MIME type: image/png)
 
 ## File history
 

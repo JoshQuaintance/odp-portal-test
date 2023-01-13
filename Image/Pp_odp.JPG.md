@@ -2,9 +2,9 @@
 * [File history](../Image/Pp_odp.JPG.md#filehistory)
 * [Links](../Image/Pp_odp.JPG.md#filelinks)
 
-[![Image:Pp odp.JPG](../images/thumb/1/13/Pp_odp.JPG/800px-Pp_odp.JPG)](../../images/1/13/Pp_odp.JPG)  
+[![Image:Pp odp.JPG](../images/thumb/1/13/Pp_odp.JPG/800px-Pp_odp.JPG)](../images/1/13/Pp_odp.JPG)  
 Size of this preview: 800 × 401 pixels  
-[Full resolution](../../images/1/13/Pp_odp.JPG)‎ (845 × 424 pixel, file size: 29 KB, MIME type: image/jpeg)
+[Full resolution](../images/1/13/Pp_odp.JPG)‎ (845 × 424 pixel, file size: 29 KB, MIME type: image/jpeg)
 
 ## File history
 

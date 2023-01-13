@@ -2,9 +2,9 @@
 * [File history](../Image/Wfcsftsoexample.png.md#filehistory)
 * [Links](../Image/Wfcsftsoexample.png.md#filelinks)
 
-[![Image:Wfcsftsoexample.png](../images/thumb/2/27/Wfcsftsoexample.png/123px-Wfcsftsoexample.png)](../../images/2/27/Wfcsftsoexample.png)  
+[![Image:Wfcsftsoexample.png](../images/thumb/2/27/Wfcsftsoexample.png/123px-Wfcsftsoexample.png)](../images/2/27/Wfcsftsoexample.png)  
 Size of this preview: 123 × 596 pixels  
-[Full resolution](../../images/2/27/Wfcsftsoexample.png)‎ (203 × 984 pixel, file size: 36 KB, MIME type: image/png)
+[Full resolution](../images/2/27/Wfcsftsoexample.png)‎ (203 × 984 pixel, file size: 36 KB, MIME type: image/png)
 
 ## File history
 

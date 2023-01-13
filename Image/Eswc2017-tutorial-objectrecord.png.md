@@ -2,9 +2,9 @@
 * [File history](../Image/Eswc2017-tutorial-objectrecord.png.md#filehistory)
 * [Links](../Image/Eswc2017-tutorial-objectrecord.png.md#filelinks)
 
-[![Image:Eswc2017-tutorial-objectrecord.png](../../../images/c/cb/Eswc2017-tutorial-objectrecord.png)](../../../images/c/cb/Eswc2017-tutorial-objectrecord.png)  
+[![Image:Eswc2017-tutorial-objectrecord.png](../images/c/cb/Eswc2017-tutorial-objectrecord.png)](../images/c/cb/Eswc2017-tutorial-objectrecord.png)  
 No higher resolution available.  
-[Eswc2017-tutorial-objectrecord.png](../../../images/c/cb/Eswc2017-tutorial-objectrecord.png)‎ (731 × 386 pixel, file size: 32 KB, MIME type: image/png)Illustration for ODP used at Training:Tutorial:\_Modular\_Ontology\_Modeling\_with\_Ontology\_Design\_Patterns\_at\_ESWC2017
+[Eswc2017-tutorial-objectrecord.png](../images/c/cb/Eswc2017-tutorial-objectrecord.png)‎ (731 × 386 pixel, file size: 32 KB, MIME type: image/png)Illustration for ODP used at Training:Tutorial:\_Modular\_Ontology\_Modeling\_with\_Ontology\_Design\_Patterns\_at\_ESWC2017
 
 
 

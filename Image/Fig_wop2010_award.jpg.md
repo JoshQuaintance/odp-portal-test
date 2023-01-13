@@ -2,9 +2,9 @@
 * [File history](../Image/Fig_wop2010_award.jpg.md#filehistory)
 * [Links](../Image/Fig_wop2010_award.jpg.md#filelinks)
 
-[![Image:Fig wop2010 award.jpg](../images/thumb/5/5a/Fig_wop2010_award.jpg/424px-Fig_wop2010_award.jpg)](../../images/5/5a/Fig_wop2010_award.jpg)  
+[![Image:Fig wop2010 award.jpg](../images/thumb/5/5a/Fig_wop2010_award.jpg/424px-Fig_wop2010_award.jpg)](../images/5/5a/Fig_wop2010_award.jpg)  
 Size of this preview: 424 × 599 pixels  
-[Full resolution](../../images/5/5a/Fig_wop2010_award.jpg)‎ (1,240 × 1,753 pixel, file size: 206 KB, MIME type: image/jpeg)Best Pattern Award at WOP2010
+[Full resolution](../images/5/5a/Fig_wop2010_award.jpg)‎ (1,240 × 1,753 pixel, file size: 206 KB, MIME type: image/jpeg)Best Pattern Award at WOP2010
 
 
 

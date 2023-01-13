@@ -2,9 +2,9 @@
 * [File history](../Image/PathEnumerationOccupations.png.md#filehistory)
 * [Links](../Image/PathEnumerationOccupations.png.md#filelinks)
 
-[![Image:PathEnumerationOccupations.png](../../../images/5/56/PathEnumerationOccupations.png)](../../../images/5/56/PathEnumerationOccupations.png)  
+[![Image:PathEnumerationOccupations.png](../images/5/56/PathEnumerationOccupations.png)](../images/5/56/PathEnumerationOccupations.png)  
 No higher resolution available.  
-[PathEnumerationOccupations.png](../../../images/5/56/PathEnumerationOccupations.png)‎ (427 × 141 pixel, file size: 8 KB, MIME type: image/png)
+[PathEnumerationOccupations.png](../images/5/56/PathEnumerationOccupations.png)‎ (427 × 141 pixel, file size: 8 KB, MIME type: image/png)
 
 ## File history
 

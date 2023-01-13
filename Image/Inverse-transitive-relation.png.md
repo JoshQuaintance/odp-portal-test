@@ -2,9 +2,9 @@
 * [File history](../Image/Inverse-transitive-relation.png.md#filehistory)
 * [Links](../Image/Inverse-transitive-relation.png.md#filelinks)
 
-[![Image:Inverse-transitive-relation.png](../../../images/5/5f/Inverse-transitive-relation.png)](../../../images/5/5f/Inverse-transitive-relation.png)  
+[![Image:Inverse-transitive-relation.png](../images/5/5f/Inverse-transitive-relation.png)](../images/5/5f/Inverse-transitive-relation.png)  
 No higher resolution available.  
-[Inverse-transitive-relation.png](../../../images/5/5f/Inverse-transitive-relation.png)‎ (543 × 108 pixel, file size: 21 KB, MIME type: image/png)
+[Inverse-transitive-relation.png](../images/5/5f/Inverse-transitive-relation.png)‎ (543 × 108 pixel, file size: 21 KB, MIME type: image/png)
 
 ## File history
 

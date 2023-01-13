@@ -2,9 +2,9 @@
 * [File history](../Image/Maz.jpg.md#filehistory)
 * [Links](../Image/Maz.jpg.md#filelinks)
 
-[![Image:Maz.jpg](../images/thumb/f/f7/Maz.jpg/800px-Maz.jpg)](../../images/f/f7/Maz.jpg)  
+[![Image:Maz.jpg](../images/thumb/f/f7/Maz.jpg/800px-Maz.jpg)](../images/f/f7/Maz.jpg)  
 Size of this preview: 800 × 600 pixels  
-[Full resolution](../../images/f/f7/Maz.jpg)‎ (2,048 × 1,536 pixel, file size: 286 KB, MIME type: image/jpeg)
+[Full resolution](../images/f/f7/Maz.jpg)‎ (2,048 × 1,536 pixel, file size: 286 KB, MIME type: image/jpeg)
 
 ## File history
 

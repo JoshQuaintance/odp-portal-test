@@ -33,10 +33,10 @@ _The __Time indexed person role__ Content OP locally defines the following ontol
 
 
 
-[![Class](../../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __Person__ (owl:Class) Persons in commonsense intuition, i.e. either as physical agents (humans) or social persons. 
- [![](../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[Person](../Submissions/Time_indexed_person_role/Person.md "Submissions:Time indexed person role/Person") page_
-[![Class](../../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __TimeIndexedPersonRole__ (owl:Class) A situation that expresses time indexing for the relation between persons and roles they play. 
- [![](../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[TimeIndexedPersonRole](../Submissions/Time_indexed_person_role/TimeIndexedPersonRole.md "Submissions:Time indexed person role/TimeIndexedPersonRole") page_
+[![Class](../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __Person__ (owl:Class) Persons in commonsense intuition, i.e. either as physical agents (humans) or social persons. 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[Person](../Submissions/Time_indexed_person_role/Person.md "Submissions:Time indexed person role/Person") page_
+[![Class](../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __TimeIndexedPersonRole__ (owl:Class) A situation that expresses time indexing for the relation between persons and roles they play. 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[TimeIndexedPersonRole](../Submissions/Time_indexed_person_role/TimeIndexedPersonRole.md "Submissions:Time indexed person role/TimeIndexedPersonRole") page_
 #  Additional information
 
 

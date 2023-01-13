@@ -2,9 +2,9 @@
 * [File history](../Image/Cop.png.md#filehistory)
 * [Links](../Image/Cop.png.md#filelinks)
 
-[![Image:Cop.png](../../../images/1/14/Cop.png)](../../../images/1/14/Cop.png)  
+[![Image:Cop.png](../images/1/14/Cop.png)](../images/1/14/Cop.png)  
 No higher resolution available.  
-[Cop.png](../../../images/1/14/Cop.png)‎ (750 × 462 pixel, file size: 194 KB, MIME type: image/png)Main diagram depicting the COP
+[Cop.png](../images/1/14/Cop.png)‎ (750 × 462 pixel, file size: 194 KB, MIME type: image/png)Main diagram depicting the COP
 
 
 

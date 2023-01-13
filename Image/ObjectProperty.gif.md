@@ -2,9 +2,9 @@
 * [File history](../Image/ObjectProperty.gif.md#filehistory)
 * [Links](../Image/ObjectProperty.gif.md#filelinks)
 
-[![Image:ObjectProperty.gif](../../../images/c/c3/ObjectProperty.gif)](../../../images/c/c3/ObjectProperty.gif)  
+[![Image:ObjectProperty.gif](../images/c/c3/ObjectProperty.gif)](../images/c/c3/ObjectProperty.gif)  
 No higher resolution available.  
-[ObjectProperty.gif](../../../images/c/c3/ObjectProperty.gif)‎ (64 × 64 pixel, file size: 3 KB, MIME type: image/gif)
+[ObjectProperty.gif](../images/c/c3/ObjectProperty.gif)‎ (64 × 64 pixel, file size: 3 KB, MIME type: image/gif)
 
 ## File history
 

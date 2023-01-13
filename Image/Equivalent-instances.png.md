@@ -2,9 +2,9 @@
 * [File history](../Image/Equivalent-instances.png.md#filehistory)
 * [Links](../Image/Equivalent-instances.png.md#filelinks)
 
-[![Image:Equivalent-instances.png](../../../images/2/2c/Equivalent-instances.png)](../../../images/2/2c/Equivalent-instances.png)  
+[![Image:Equivalent-instances.png](../images/2/2c/Equivalent-instances.png)](../images/2/2c/Equivalent-instances.png)  
 No higher resolution available.  
-[Equivalent-instances.png](../../../images/2/2c/Equivalent-instances.png)‎ (519 × 113 pixel, file size: 18 KB, MIME type: image/png)
+[Equivalent-instances.png](../images/2/2c/Equivalent-instances.png)‎ (519 × 113 pixel, file size: 18 KB, MIME type: image/png)
 
 ## File history
 

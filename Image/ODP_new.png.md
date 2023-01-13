@@ -2,9 +2,9 @@
 * [File history](../Image/ODP_new.png.md#filehistory)
 * [Links](../Image/ODP_new.png.md#filelinks)
 
-[![Image:ODP new.png](../images/thumb/f/f8/ODP_new.png/800px-ODP_new.png)](../../images/f/f8/ODP_new.png)  
+[![Image:ODP new.png](../images/thumb/f/f8/ODP_new.png/800px-ODP_new.png)](../images/f/f8/ODP_new.png)  
 Size of this preview: 800 × 415 pixels  
-[Full resolution](../../images/f/f8/ODP_new.png)‎ (3,904 × 2,024 pixel, file size: 666 KB, MIME type: image/png)
+[Full resolution](../images/f/f8/ODP_new.png)‎ (3,904 × 2,024 pixel, file size: 666 KB, MIME type: image/png)
 
 ## File history
 

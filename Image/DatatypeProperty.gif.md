@@ -2,9 +2,9 @@
 * [File history](../Image/DatatypeProperty.gif.md#filehistory)
 * [Links](../Image/DatatypeProperty.gif.md#filelinks)
 
-[![Image:DatatypeProperty.gif](../../../images/a/a5/DatatypeProperty.gif)](../../../images/a/a5/DatatypeProperty.gif)  
+[![Image:DatatypeProperty.gif](../images/a/a5/DatatypeProperty.gif)](../images/a/a5/DatatypeProperty.gif)  
 No higher resolution available.  
-[DatatypeProperty.gif](../../../images/a/a5/DatatypeProperty.gif)‎ (64 × 64 pixel, file size: 3 KB, MIME type: image/gif)
+[DatatypeProperty.gif](../images/a/a5/DatatypeProperty.gif)‎ (64 × 64 pixel, file size: 3 KB, MIME type: image/gif)
 
 ## File history
 

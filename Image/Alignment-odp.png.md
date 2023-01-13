@@ -2,9 +2,9 @@
 * [File history](../Image/Alignment-odp.png.md#filehistory)
 * [Links](../Image/Alignment-odp.png.md#filelinks)
 
-[![Image:Alignment-odp.png](../../../images/6/65/Alignment-odp.png)](../../../images/6/65/Alignment-odp.png)  
+[![Image:Alignment-odp.png](../images/6/65/Alignment-odp.png)](../images/6/65/Alignment-odp.png)  
 No higher resolution available.  
-[Alignment-odp.png](../../../images/6/65/Alignment-odp.png)‎ (600 × 278 pixel, file size: 42 KB, MIME type: image/png)This UML diagram shows three commonly used vocabulary alignment patterns.
+[Alignment-odp.png](../images/6/65/Alignment-odp.png)‎ (600 × 278 pixel, file size: 42 KB, MIME type: image/png)This UML diagram shows three commonly used vocabulary alignment patterns.
 
 
 

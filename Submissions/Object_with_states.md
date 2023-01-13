@@ -33,16 +33,16 @@ _The __Object with states__ Content OP locally defines the following ontology el
 
 
 
-[![ObjectProperty](../../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __hasState__ (owl:ObjectProperty) Defines the state of an object. 
- [![](../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[hasState](../Submissions/Object_with_states/hasState.md "Submissions:Object with states/hasState") page_
-[![ObjectProperty](../../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __isStateOf__ (owl:ObjectProperty) Defines the object that has an state 
- [![](../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[isStateOf](../Submissions/Object_with_states/isStateOf.md "Submissions:Object with states/isStateOf") page_
-[![Class](../../../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __Object__ (owl:Class) Objects are entities that have different states and that in each state different restrictions on their properties apply. 
- [![](../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[Object](../Submissions/Object_with_states/Object.md "Submissions:Object with states/Object") page_
-[![Class](../../../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __State__ (owl:Class) States are the different states that an object can have. States must belong to a single collection of non-duplicate elements (i.e., to a set). 
- [![](../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[State](../Submissions/Object_with_states/State.md "Submissions:Object with states/State") page_
-[![Class](../../../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __StateSet__ (owl:Class) State sets are sets of states (i.e., collections of non-duplicate states). 
- [![](../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[StateSet](../Submissions/Object_with_states/StateSet.md "Submissions:Object with states/StateSet") page_
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __hasState__ (owl:ObjectProperty) Defines the state of an object. 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[hasState](../Submissions/Object_with_states/hasState.md "Submissions:Object with states/hasState") page_
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __isStateOf__ (owl:ObjectProperty) Defines the object that has an state 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[isStateOf](../Submissions/Object_with_states/isStateOf.md "Submissions:Object with states/isStateOf") page_
+[![Class](../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __Object__ (owl:Class) Objects are entities that have different states and that in each state different restrictions on their properties apply. 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[Object](../Submissions/Object_with_states/Object.md "Submissions:Object with states/Object") page_
+[![Class](../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __State__ (owl:Class) States are the different states that an object can have. States must belong to a single collection of non-duplicate elements (i.e., to a set). 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[State](../Submissions/Object_with_states/State.md "Submissions:Object with states/State") page_
+[![Class](../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __StateSet__ (owl:Class) State sets are sets of states (i.e., collections of non-duplicate states). 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[StateSet](../Submissions/Object_with_states/StateSet.md "Submissions:Object with states/StateSet") page_
   
 
 

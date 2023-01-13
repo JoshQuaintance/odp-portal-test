@@ -2,9 +2,9 @@
 * [File history](../Image/Event.svg.md#filehistory)
 * [Links](../Image/Event.svg.md#filelinks)
 
-[![Image:Event.svg](../images/thumb/d/d5/Event.svg/48px-Event.svg.png)](../../images/d/d5/Event.svg)  
+[![Image:Event.svg](../images/thumb/d/d5/Event.svg/48px-Event.svg.png)](../images/d/d5/Event.svg)  
 
-[Event.svg](../../images/d/d5/Event.svg "Event.svg")‎  (SVG file, nominally 48 × 48 pixels, file size: 15 KB)
+[Event.svg](../images/d/d5/Event.svg "Event.svg")‎  (SVG file, nominally 48 × 48 pixels, file size: 15 KB)
 
 
 

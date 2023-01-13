@@ -3,9 +3,9 @@
 * [Links](../Image/CommunicationEvent.jpg.md#filelinks)
 * [Metadata](../Image/CommunicationEvent.jpg.md#metadata)
 
-[![Image:CommunicationEvent.jpg](../images/thumb/a/aa/CommunicationEvent.jpg/800px-CommunicationEvent.jpg)](../../images/a/aa/CommunicationEvent.jpg)  
+[![Image:CommunicationEvent.jpg](../images/thumb/a/aa/CommunicationEvent.jpg/800px-CommunicationEvent.jpg)](../images/a/aa/CommunicationEvent.jpg)  
 Size of this preview: 800 × 299 pixels  
-[Full resolution](../../images/a/aa/CommunicationEvent.jpg)‎ (1,307 × 488 pixel, file size: 197 KB, MIME type: image/jpeg)Illustration of the CommunicationEvent content pattern.
+[Full resolution](../images/a/aa/CommunicationEvent.jpg)‎ (1,307 × 488 pixel, file size: 197 KB, MIME type: image/jpeg)Illustration of the CommunicationEvent content pattern.
 
 
 

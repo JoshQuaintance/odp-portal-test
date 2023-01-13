@@ -2,9 +2,9 @@
 * [File history](../Image/Symmetric-relation.png.md#filehistory)
 * [Links](../Image/Symmetric-relation.png.md#filelinks)
 
-[![Image:Symmetric-relation.png](../../../images/4/47/Symmetric-relation.png)](../../../images/4/47/Symmetric-relation.png)  
+[![Image:Symmetric-relation.png](../images/4/47/Symmetric-relation.png)](../images/4/47/Symmetric-relation.png)  
 No higher resolution available.  
-[Symmetric-relation.png](../../../images/4/47/Symmetric-relation.png)‎ (570 × 107 pixel, file size: 21 KB, MIME type: image/png)
+[Symmetric-relation.png](../images/4/47/Symmetric-relation.png)‎ (570 × 107 pixel, file size: 21 KB, MIME type: image/png)
 
 ## File history
 

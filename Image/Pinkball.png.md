@@ -2,9 +2,9 @@
 * [File history](../Image/Pinkball.png.md#filehistory)
 * [Links](../Image/Pinkball.png.md#filelinks)
 
-[![Image:Pinkball.png](../../../images/0/0b/Pinkball.png)](../../../images/0/0b/Pinkball.png)  
+[![Image:Pinkball.png](../images/0/0b/Pinkball.png)](../images/0/0b/Pinkball.png)  
 No higher resolution available.  
-[Pinkball.png](../../../images/0/0b/Pinkball.png)‎ (120 × 120 pixel, file size: 13 KB, MIME type: image/png)
+[Pinkball.png](../images/0/0b/Pinkball.png)‎ (120 × 120 pixel, file size: 13 KB, MIME type: image/png)
 
 ## File history
 

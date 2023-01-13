@@ -2,9 +2,9 @@
 * [File history](../Image/Denton_-_2003_-_FCS_Dishwashing_Detergent.jpg.md#filehistory)
 * [Links](../Image/Denton_-_2003_-_FCS_Dishwashing_Detergent.jpg.md#filelinks)
 
-[![Image:Denton - 2003 - FCS Dishwashing Detergent.jpg](../../../images/9/94/Denton_-_2003_-_FCS_Dishwashing_Detergent.jpg)](../../../images/9/94/Denton_-_2003_-_FCS_Dishwashing_Detergent.jpg)  
+[![Image:Denton - 2003 - FCS Dishwashing Detergent.jpg](../images/9/94/Denton_-_2003_-_FCS_Dishwashing_Detergent.jpg)](../images/9/94/Denton_-_2003_-_FCS_Dishwashing_Detergent.jpg)  
 No higher resolution available.  
-[Denton\_-\_2003\_-\_FCS\_Dishwashing\_Detergent.jpg](../../../images/9/94/Denton_-_2003_-_FCS_Dishwashing_Detergent.jpg)‎ (419 × 288 pixel, file size: 23 KB, MIME type: image/jpeg)Example of Faceted Classification Scheme for the domain concept "Dishwashing Detergent" from (Denton, 2003).
+[Denton\_-\_2003\_-\_FCS\_Dishwashing\_Detergent.jpg](../images/9/94/Denton_-_2003_-_FCS_Dishwashing_Detergent.jpg)‎ (419 × 288 pixel, file size: 23 KB, MIME type: image/jpeg)Example of Faceted Classification Scheme for the domain concept "Dishwashing Detergent" from (Denton, 2003).
 
 
 

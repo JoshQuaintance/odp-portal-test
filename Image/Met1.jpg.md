@@ -2,9 +2,9 @@
 * [File history](../Image/Met1.jpg.md#filehistory)
 * [Links](../Image/Met1.jpg.md#filelinks)
 
-[![Image:Met1.jpg](../../../images/f/fc/Met1.jpg)](../../../images/f/fc/Met1.jpg)  
+[![Image:Met1.jpg](../images/f/fc/Met1.jpg)](../images/f/fc/Met1.jpg)  
 No higher resolution available.  
-[Met1.jpg](../../../images/f/fc/Met1.jpg)‎ (365 × 65 pixel, file size: 5 KB, MIME type: image/jpeg)description of a species-commodity metonymic relation for FAO concepts
+[Met1.jpg](../images/f/fc/Met1.jpg)‎ (365 × 65 pixel, file size: 5 KB, MIME type: image/jpeg)description of a species-commodity metonymic relation for FAO concepts
 
 
 

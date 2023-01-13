@@ -2,9 +2,9 @@
 * [File history](../Image/FacetedClassificationSchemeOntoExObjProp.png.md#filehistory)
 * [Links](../Image/FacetedClassificationSchemeOntoExObjProp.png.md#filelinks)
 
-[![Image:FacetedClassificationSchemeOntoExObjProp.png](../../../images/1/12/FacetedClassificationSchemeOntoExObjProp.png)](../../../images/1/12/FacetedClassificationSchemeOntoExObjProp.png)  
+[![Image:FacetedClassificationSchemeOntoExObjProp.png](../images/1/12/FacetedClassificationSchemeOntoExObjProp.png)](../images/1/12/FacetedClassificationSchemeOntoExObjProp.png)  
 No higher resolution available.  
-[FacetedClassificationSchemeOntoExObjProp.png](../../../images/1/12/FacetedClassificationSchemeOntoExObjProp.png)‎ (175 × 112 pixel, file size: 5 KB, MIME type: image/png)Object Property Hierarchy of the example ontology model of a Faceted Classification Scheme.
+[FacetedClassificationSchemeOntoExObjProp.png](../images/1/12/FacetedClassificationSchemeOntoExObjProp.png)‎ (175 × 112 pixel, file size: 5 KB, MIME type: image/png)Object Property Hierarchy of the example ontology model of a Faceted Classification Scheme.
 
 
 

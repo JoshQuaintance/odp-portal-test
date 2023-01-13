@@ -2,9 +2,9 @@
 * [File history](../Image/Recordbasedtermbasedexample.png.md#filehistory)
 * [Links](../Image/Recordbasedtermbasedexample.png.md#filelinks)
 
-[![Image:Recordbasedtermbasedexample.png](../../../images/5/55/Recordbasedtermbasedexample.png)](../../../images/5/55/Recordbasedtermbasedexample.png)  
+[![Image:Recordbasedtermbasedexample.png](../images/5/55/Recordbasedtermbasedexample.png)](../images/5/55/Recordbasedtermbasedexample.png)  
 No higher resolution available.  
-[Recordbasedtermbasedexample.png](../../../images/5/55/Recordbasedtermbasedexample.png)‎ (400 × 122 pixel, file size: 13 KB, MIME type: image/png)
+[Recordbasedtermbasedexample.png](../images/5/55/Recordbasedtermbasedexample.png)‎ (400 × 122 pixel, file size: 13 KB, MIME type: image/png)
 
 ## File history
 

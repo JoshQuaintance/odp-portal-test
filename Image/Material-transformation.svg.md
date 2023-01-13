@@ -2,9 +2,9 @@
 * [File history](../Image/Material-transformation.svg.md#filehistory)
 * [Links](../Image/Material-transformation.svg.md#filelinks)
 
-[![Image:Material-transformation.svg](../images/thumb/3/33/Material-transformation.svg/800px-Material-transformation.svg.png)](../../images/3/33/Material-transformation.svg)  
+[![Image:Material-transformation.svg](../images/thumb/3/33/Material-transformation.svg/800px-Material-transformation.svg.png)](../images/3/33/Material-transformation.svg)  
 
-[Material-transformation.svg](../../images/3/33/Material-transformation.svg "Material-transformation.svg")‎  (SVG file, nominally 1,089 × 480 pixels, file size: 26 KB)
+[Material-transformation.svg](../images/3/33/Material-transformation.svg "Material-transformation.svg")‎  (SVG file, nominally 1,089 × 480 pixels, file size: 26 KB)
 
 
 

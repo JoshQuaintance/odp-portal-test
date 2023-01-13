@@ -2,9 +2,9 @@
 * [File history](../Image/Material-transformation.jpg.md#filehistory)
 * [Links](../Image/Material-transformation.jpg.md#filelinks)
 
-[![Image:Material-transformation.jpg](../../../images/c/c4/Material-transformation.jpg)](../../../images/c/c4/Material-transformation.jpg)  
+[![Image:Material-transformation.jpg](../images/c/c4/Material-transformation.jpg)](../images/c/c4/Material-transformation.jpg)  
 No higher resolution available.  
-[Material-transformation.jpg](../../../images/c/c4/Material-transformation.jpg)‎ (661 × 372 pixel, file size: 30 KB, MIME type: image/jpeg)Graphical representation of Material Transformation Pattern
+[Material-transformation.jpg](../images/c/c4/Material-transformation.jpg)‎ (661 × 372 pixel, file size: 30 KB, MIME type: image/jpeg)Graphical representation of Material Transformation Pattern
 
 
 

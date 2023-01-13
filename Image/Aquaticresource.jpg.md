@@ -2,9 +2,9 @@
 * [File history](../Image/Aquaticresource.jpg.md#filehistory)
 * [Links](../Image/Aquaticresource.jpg.md#filelinks)
 
-[![Image:Aquaticresource.jpg](../../../images/c/c0/Aquaticresource.jpg)](../../../images/c/c0/Aquaticresource.jpg)  
+[![Image:Aquaticresource.jpg](../images/c/c0/Aquaticresource.jpg)](../images/c/c0/Aquaticresource.jpg)  
 No higher resolution available.  
-[Aquaticresource.jpg](../../../images/c/c0/Aquaticresource.jpg)‎ (473 × 225 pixel, file size: 52 KB, MIME type: image/jpeg)
+[Aquaticresource.jpg](../images/c/c0/Aquaticresource.jpg)‎ (473 × 225 pixel, file size: 52 KB, MIME type: image/jpeg)
 
 ## File history
 

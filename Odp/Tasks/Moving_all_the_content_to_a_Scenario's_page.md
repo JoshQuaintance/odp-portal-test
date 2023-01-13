@@ -30,7 +30,7 @@ __Sub-tasks__:
 
 * [Tasks/Change the range of the Scenario property](../../Odp/Tasks/Change_the_range_of_the_Scenario_property.md "Odp:Tasks/Change the range of the Scenario property") (To be done)
 * [Tasks/Deleting properties from Proposal's definition](../../Odp/Tasks/Deleting_properties_from_Proposal's_definition.md "Odp:Tasks/Deleting properties from Proposal's definition") (dealing with)
-* [Tasks/Remove 'Examples (OWL files)' field from CP proposal form](../../Odp/Tasks/Remove_'Examples_(OWL_files)'_field_from_CP_proposal_form.md)'_field_from_CP_proposal_form.html "Odp:Tasks/Remove 'Examples (OWL files)' field from CP proposal form") (To be done)
+* [Tasks/Remove 'Examples (OWL files)' field from CP proposal form](../../Odp/Tasks/Remove_'Examples_(OWL_files)'_field_from_CP_proposal_form.md)'_field_from_CP_proposal_form.md)'_field_from_CP_proposal_form.html "Odp:Tasks/Remove 'Examples (OWL files)' field from CP proposal form") (To be done)
 
 
 

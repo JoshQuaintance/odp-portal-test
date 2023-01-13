@@ -34,29 +34,29 @@ _The __CollectionEntity__ Content OP locally defines the following ontology elem
 
 
 
-[![Class](../../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __Collection__ (owl:Class) Any container for entities that share one or more common properties. E.g. _stone objects_, _the nurses_, _the Louvre Aegyptian collection_. A collection is not a logical class: a collection is a first-order entity, while a class is a second-order one. 
+[![Class](../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __Collection__ (owl:Class) Any container for entities that share one or more common properties. E.g. _stone objects_, _the nurses_, _the Louvre Aegyptian collection_. A collection is not a logical class: a collection is a first-order entity, while a class is a second-order one. 
 
 
 
- [![](../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[Collection](../Submissions/CollectionEntity/Collection.md "Submissions:CollectionEntity/Collection") page_
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[Collection](../Submissions/CollectionEntity/Collection.md "Submissions:CollectionEntity/Collection") page_
 
-[![Class](../../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __Entity__ (owl:Class) Anything: real, possible, or imaginary, which some modeller wants to talk about for some purpose. 
-
-
-
- [![](../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[Entity](../Submissions/CollectionEntity/Entity.md "Submissions:CollectionEntity/Entity") page_
-
-[![ObjectProperty](../../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __hasMember__ (owl:ObjectProperty) A relation between collections and entities, e.g. 'my collection of saxophones includes an old Adolphe Sax original alto' (i.e. my collection has member an Adolphe Sax alto). The object property  [isMemberOf](../Submissions/CollectionEntity/isMemberOf.md "Submissions:CollectionEntity/isMemberOf") is its inverse. 
+[![Class](../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __Entity__ (owl:Class) Anything: real, possible, or imaginary, which some modeller wants to talk about for some purpose. 
 
 
 
- [![](../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[hasMember](../Submissions/CollectionEntity/hasMember.md "Submissions:CollectionEntity/hasMember") page_
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[Entity](../Submissions/CollectionEntity/Entity.md "Submissions:CollectionEntity/Entity") page_
 
-[![ObjectProperty](../../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __isMemberOf__ (owl:ObjectProperty) The inverse of  [hasMember](../Submissions/CollectionEntity/hasMember.md "Submissions:CollectionEntity/hasMember"). 
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __hasMember__ (owl:ObjectProperty) A relation between collections and entities, e.g. 'my collection of saxophones includes an old Adolphe Sax original alto' (i.e. my collection has member an Adolphe Sax alto). The object property  [isMemberOf](../Submissions/CollectionEntity/isMemberOf.md "Submissions:CollectionEntity/isMemberOf") is its inverse. 
 
 
 
- [![](../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[isMemberOf](../Submissions/CollectionEntity/isMemberOf.md "Submissions:CollectionEntity/isMemberOf") page_
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[hasMember](../Submissions/CollectionEntity/hasMember.md "Submissions:CollectionEntity/hasMember") page_
+
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __isMemberOf__ (owl:ObjectProperty) The inverse of  [hasMember](../Submissions/CollectionEntity/hasMember.md "Submissions:CollectionEntity/hasMember"). 
+
+
+
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[isMemberOf](../Submissions/CollectionEntity/isMemberOf.md "Submissions:CollectionEntity/isMemberOf") page_
 #  Additional information
 
 

@@ -2,9 +2,9 @@
 * [File history](../Image/Move.jpg.md#filehistory)
 * [Links](../Image/Move.jpg.md#filelinks)
 
-[![Image:Move.jpg](../../../images/1/11/Move.jpg)](../../../images/1/11/Move.jpg)  
+[![Image:Move.jpg](../images/1/11/Move.jpg)](../images/1/11/Move.jpg)  
 No higher resolution available.  
-[Move.jpg](../../../images/1/11/Move.jpg)‎ (566 × 268 pixel, file size: 29 KB, MIME type: image/jpeg)
+[Move.jpg](../images/1/11/Move.jpg)‎ (566 × 268 pixel, file size: 29 KB, MIME type: image/jpeg)
 
 ## File history
 

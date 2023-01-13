@@ -2,9 +2,9 @@
 * [File history](../Image/Class-by-path-attribute-occurence.png.md#filehistory)
 * [Links](../Image/Class-by-path-attribute-occurence.png.md#filelinks)
 
-[![Image:Class-by-path-attribute-occurence.png](../../../images/4/43/Class-by-path-attribute-occurence.png)](../../../images/4/43/Class-by-path-attribute-occurence.png)  
+[![Image:Class-by-path-attribute-occurence.png](../images/4/43/Class-by-path-attribute-occurence.png)](../images/4/43/Class-by-path-attribute-occurence.png)  
 No higher resolution available.  
-[Class-by-path-attribute-occurence.png](../../../images/4/43/Class-by-path-attribute-occurence.png)‎ (513 × 265 pixel, file size: 32 KB, MIME type: image/png)
+[Class-by-path-attribute-occurence.png](../images/4/43/Class-by-path-attribute-occurence.png)‎ (513 × 265 pixel, file size: 32 KB, MIME type: image/png)
 
 ## File history
 

@@ -2,9 +2,9 @@
 * [File history](../Image/INRIA.gif.md#filehistory)
 * [Links](../Image/INRIA.gif.md#filelinks)
 
-[![Image:INRIA.gif](../../../images/7/71/INRIA.gif)](../../../images/7/71/INRIA.gif)  
+[![Image:INRIA.gif](../images/7/71/INRIA.gif)](../images/7/71/INRIA.gif)  
 No higher resolution available.  
-[INRIA.gif](../../../images/7/71/INRIA.gif)‎ (284 × 73 pixel, file size: 1 KB, MIME type: image/gif)
+[INRIA.gif](../images/7/71/INRIA.gif)‎ (284 × 73 pixel, file size: 1 KB, MIME type: image/gif)
 
 ## File history
 

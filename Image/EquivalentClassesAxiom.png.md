@@ -2,9 +2,9 @@
 * [File history](../Image/EquivalentClassesAxiom.png.md#filehistory)
 * [Links](../Image/EquivalentClassesAxiom.png.md#filelinks)
 
-[![Image:EquivalentClassesAxiom.png](../../../images/e/e0/EquivalentClassesAxiom.png)](../../../images/e/e0/EquivalentClassesAxiom.png)  
+[![Image:EquivalentClassesAxiom.png](../images/e/e0/EquivalentClassesAxiom.png)](../images/e/e0/EquivalentClassesAxiom.png)  
 No higher resolution available.  
-[EquivalentClassesAxiom.png](../../../images/e/e0/EquivalentClassesAxiom.png)‎ (392 × 140 pixel, file size: 7 KB, MIME type: image/png)
+[EquivalentClassesAxiom.png](../images/e/e0/EquivalentClassesAxiom.png)‎ (392 × 140 pixel, file size: 7 KB, MIME type: image/png)
 
 ## File history
 

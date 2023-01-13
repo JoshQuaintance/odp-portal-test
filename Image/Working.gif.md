@@ -2,9 +2,9 @@
 * [File history](../Image/Working.gif.md#filehistory)
 * [Links](../Image/Working.gif.md#filelinks)
 
-[![Image:Working.gif](../../../images/5/5a/Working.gif)](../../../images/5/5a/Working.gif)  
+[![Image:Working.gif](../images/5/5a/Working.gif)](../images/5/5a/Working.gif)  
 No higher resolution available.  
-[Working.gif](../../../images/5/5a/Working.gif)‎ (128 × 128 pixel, file size: 5 KB, MIME type: image/gif)
+[Working.gif](../images/5/5a/Working.gif)‎ (128 × 128 pixel, file size: 5 KB, MIME type: image/gif)
 
 ## File history
 
@@ -75,9 +75,9 @@ The following 101 pages link to this file:
 * [Submissions:Place](../Submissions/Place.md "Submissions:Place")
 * [Submissions:Collection](../Submissions/Collection.md "Submissions:Collection")
 * [Submissions:AOS AGROVOC Concept Server fundation ontology model](../Submissions/AOS_AGROVOC_Concept_Server_fundation_ontology_model.md "Submissions:AOS AGROVOC Concept Server fundation ontology model")
-* [Submissions:OnlynessIsLoneliness (OIL)](../Submissions/OnlynessIsLoneliness_(OIL).md).html "Submissions:OnlynessIsLoneliness (OIL)")
-* [Submissions:SynonymOrEquivalence (SOE)](../Submissions/SynonymOrEquivalence_(SOE).md).html "Submissions:SynonymOrEquivalence (SOE)")
-* [Submissions:DisjointnessOfComplement (DOC)](../Submissions/DisjointnessOfComplement_(DOC).md).html "Submissions:DisjointnessOfComplement (DOC)")
+* [Submissions:OnlynessIsLoneliness (OIL)](../Submissions/OnlynessIsLoneliness_(OIL).md).md).html "Submissions:OnlynessIsLoneliness (OIL)")
+* [Submissions:SynonymOrEquivalence (SOE)](../Submissions/SynonymOrEquivalence_(SOE).md).md).html "Submissions:SynonymOrEquivalence (SOE)")
+* [Submissions:DisjointnessOfComplement (DOC)](../Submissions/DisjointnessOfComplement_(DOC).md).md).html "Submissions:DisjointnessOfComplement (DOC)")
 * [Submissions:Classification scheme - path enumeration model - to Taxonomy](../Submissions/Classification_scheme_-_path_enumeration_model_-_to_Taxonomy.md "Submissions:Classification scheme - path enumeration model - to Taxonomy")
 * [Submissions:Xsd:sequence embedding](../Submissions/Xsd/sequence_embedding.md "Submissions:Xsd:sequence embedding")
 * [Submissions:ConceptTerms](../Submissions/ConceptTerms.md "Submissions:ConceptTerms")

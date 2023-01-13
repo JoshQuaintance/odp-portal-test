@@ -2,9 +2,9 @@
 * [File history](../Image/Normalisation_instance.png.md#filehistory)
 * [Links](../Image/Normalisation_instance.png.md#filelinks)
 
-[![Image:Normalisation instance.png](../images/thumb/e/ef/Normalisation_instance.png/551px-Normalisation_instance.png)](../../images/e/ef/Normalisation_instance.png)  
+[![Image:Normalisation instance.png](../images/thumb/e/ef/Normalisation_instance.png/551px-Normalisation_instance.png)](../images/e/ef/Normalisation_instance.png)  
 Size of this preview: 551 × 599 pixels  
-[Full resolution](../../images/e/ef/Normalisation_instance.png)‎ (786 × 855 pixel, file size: 103 KB, MIME type: image/png)Sample structure of the Normalization ODP.
+[Full resolution](../images/e/ef/Normalisation_instance.png)‎ (786 × 855 pixel, file size: 103 KB, MIME type: image/png)Sample structure of the Normalization ODP.
 
 
 

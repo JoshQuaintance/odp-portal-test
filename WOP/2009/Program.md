@@ -299,7 +299,7 @@ The following patterns have been accepted for discussion during the pattern writ
 
 
 * Rim Djedidi, Marie-Aude Aufaure:  [Define Hybrid Class Resolving Disjointness due to Subsumption](../../Submissions/Define_Hybrid_Class_Resolving_Disjointness_due_to_Subsumption.md "Submissions:Define Hybrid Class Resolving Disjointness due to Subsumption")
-* Catherine Roussey, Oscar Corcho:  [OnlynessIsLoneliness (OIL)](../../Submissions/OnlynessIsLoneliness_(OIL).md).html "Submissions:OnlynessIsLoneliness (OIL)")
+* Catherine Roussey, Oscar Corcho:  [OnlynessIsLoneliness (OIL)](../../Submissions/OnlynessIsLoneliness_(OIL).md).md).html "Submissions:OnlynessIsLoneliness (OIL)")
 * Boris Villazón Terrazas:  [Term-based – record-based model – thesaurus to lightweight ontology](http://ontologydesignpatterns.org/wiki/Submissions:Term-based_thesaurus_to_lightweight_ontology_%E2%80%93_record-based_model "Submissions:Term-based thesaurus to lightweight ontology – record-based model")
 
 

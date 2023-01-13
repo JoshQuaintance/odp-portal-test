@@ -2,9 +2,9 @@
 * [File history](../Image/Stub-metapattern-instantiationexample.png.md#filehistory)
 * [Links](../Image/Stub-metapattern-instantiationexample.png.md#filelinks)
 
-[![Image:Stub-metapattern-instantiationexample.png](../../../images/b/be/Stub-metapattern-instantiationexample.png)](../../../images/b/be/Stub-metapattern-instantiationexample.png)  
+[![Image:Stub-metapattern-instantiationexample.png](../images/b/be/Stub-metapattern-instantiationexample.png)](../images/b/be/Stub-metapattern-instantiationexample.png)  
 No higher resolution available.  
-[Stub-metapattern-instantiationexample.png](../../../images/b/be/Stub-metapattern-instantiationexample.png)‎ (659 × 92 pixel, file size: 7 KB, MIME type: image/png)
+[Stub-metapattern-instantiationexample.png](../images/b/be/Stub-metapattern-instantiationexample.png)‎ (659 × 92 pixel, file size: 7 KB, MIME type: image/png)
 
 ## File history
 

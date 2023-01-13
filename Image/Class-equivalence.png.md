@@ -2,9 +2,9 @@
 * [File history](../Image/Class-equivalence.png.md#filehistory)
 * [Links](../Image/Class-equivalence.png.md#filelinks)
 
-[![Image:Class-equivalence.png](../../../images/7/79/Class-equivalence.png)](../../../images/7/79/Class-equivalence.png)  
+[![Image:Class-equivalence.png](../images/7/79/Class-equivalence.png)](../images/7/79/Class-equivalence.png)  
 No higher resolution available.  
-[Class-equivalence.png](../../../images/7/79/Class-equivalence.png)‎ (474 × 122 pixel, file size: 17 KB, MIME type: image/png)Illustration of the class equivalence pattern
+[Class-equivalence.png](../images/7/79/Class-equivalence.png)‎ (474 × 122 pixel, file size: 17 KB, MIME type: image/png)Illustration of the class equivalence pattern
 
 
 

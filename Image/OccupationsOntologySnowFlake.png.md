@@ -2,9 +2,9 @@
 * [File history](../Image/OccupationsOntologySnowFlake.png.md#filehistory)
 * [Links](../Image/OccupationsOntologySnowFlake.png.md#filelinks)
 
-[![Image:OccupationsOntologySnowFlake.png](../../../images/2/2c/OccupationsOntologySnowFlake.png)](../../../images/2/2c/OccupationsOntologySnowFlake.png)  
+[![Image:OccupationsOntologySnowFlake.png](../images/2/2c/OccupationsOntologySnowFlake.png)](../images/2/2c/OccupationsOntologySnowFlake.png)  
 No higher resolution available.  
-[OccupationsOntologySnowFlake.png](../../../images/2/2c/OccupationsOntologySnowFlake.png)‎ (617 × 304 pixel, file size: 22 KB, MIME type: image/png)
+[OccupationsOntologySnowFlake.png](../images/2/2c/OccupationsOntologySnowFlake.png)‎ (617 × 304 pixel, file size: 22 KB, MIME type: image/png)
 
 ## File history
 

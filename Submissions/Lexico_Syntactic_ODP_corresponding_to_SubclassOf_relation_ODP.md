@@ -50,7 +50,7 @@ __Reusable JAPE code__: [SC\_1\_2.jape](../images/c/c1/SC_1_2.jape "SC 1 2.jape"
 
 
 
-[![](../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[1](../Submissions/Lexico_Syntactic_ODP_corresponding_to_SubclassOf_relation_ODP/1.md "Submissions:Lexico Syntactic ODP corresponding to SubclassOf relation ODP/1") page_
+[![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[1](../Submissions/Lexico_Syntactic_ODP_corresponding_to_SubclassOf_relation_ODP/1.md "Submissions:Lexico Syntactic ODP corresponding to SubclassOf relation ODP/1") page_
 
 
 
@@ -73,13 +73,13 @@ __LSP Formalization__
 
 ```
 
-__Reusable JAPE code__: [SC\_3.jape](../../images/9/90/SC_3.jape "SC 3.jape")
+__Reusable JAPE code__: [SC\_3.jape](../images/9/90/SC_3.jape "SC 3.jape")
 
 
 
 
 
-[![](../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[2](../Submissions/Lexico_Syntactic_ODP_corresponding_to_SubclassOf_relation_ODP/2.md "Submissions:Lexico Syntactic ODP corresponding to SubclassOf relation ODP/2") page_
+[![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[2](../Submissions/Lexico_Syntactic_ODP_corresponding_to_SubclassOf_relation_ODP/2.md "Submissions:Lexico Syntactic ODP corresponding to SubclassOf relation ODP/2") page_
 
 
 
@@ -103,13 +103,13 @@ __LSP Formalization__
 
 ```
 
-__Reusable JAPE code__: [SC\_3.jape](../../images/9/90/SC_3.jape "SC 3.jape")
+__Reusable JAPE code__: [SC\_3.jape](../images/9/90/SC_3.jape "SC 3.jape")
 
 
 
 
 
-[![](../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[3](../Submissions/Lexico_Syntactic_ODP_corresponding_to_SubclassOf_relation_ODP/3.md "Submissions:Lexico Syntactic ODP corresponding to SubclassOf relation ODP/3") page_
+[![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[3](../Submissions/Lexico_Syntactic_ODP_corresponding_to_SubclassOf_relation_ODP/3.md "Submissions:Lexico Syntactic ODP corresponding to SubclassOf relation ODP/3") page_
 
 
 
@@ -138,7 +138,7 @@ __Reusable JAPE code__: [SC\_4.jape](../images/5/5f/SC_4.jape "SC 4.jape")
 
 
 
-[![](../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[4](../Submissions/Lexico_Syntactic_ODP_corresponding_to_SubclassOf_relation_ODP/4.md "Submissions:Lexico Syntactic ODP corresponding to SubclassOf relation ODP/4") page_
+[![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[4](../Submissions/Lexico_Syntactic_ODP_corresponding_to_SubclassOf_relation_ODP/4.md "Submissions:Lexico Syntactic ODP corresponding to SubclassOf relation ODP/4") page_
 
 
 
@@ -168,7 +168,7 @@ __Reusable JAPE code__: [SC\_5.jape](../images/d/d5/SC_5.jape "SC 5.jape")
 
 
 
-[![](../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[5](../Submissions/Lexico_Syntactic_ODP_corresponding_to_SubclassOf_relation_ODP/5.md "Submissions:Lexico Syntactic ODP corresponding to SubclassOf relation ODP/5") page_
+[![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[5](../Submissions/Lexico_Syntactic_ODP_corresponding_to_SubclassOf_relation_ODP/5.md "Submissions:Lexico Syntactic ODP corresponding to SubclassOf relation ODP/5") page_
 
 
 

@@ -2,9 +2,9 @@
 * [File history](../Image/Wfcspesoexamplecheck.png.md#filehistory)
 * [Links](../Image/Wfcspesoexamplecheck.png.md#filelinks)
 
-[![Image:Wfcspesoexamplecheck.png](../images/thumb/b/b3/Wfcspesoexamplecheck.png/150px-Wfcspesoexamplecheck.png)](../../images/b/b3/Wfcspesoexamplecheck.png)  
+[![Image:Wfcspesoexamplecheck.png](../images/thumb/b/b3/Wfcspesoexamplecheck.png/150px-Wfcspesoexamplecheck.png)](../images/b/b3/Wfcspesoexamplecheck.png)  
 Size of this preview: 150 × 596 pixels  
-[Full resolution](../../images/b/b3/Wfcspesoexamplecheck.png)‎ (202 × 803 pixel, file size: 30 KB, MIME type: image/png)
+[Full resolution](../images/b/b3/Wfcspesoexamplecheck.png)‎ (202 × 803 pixel, file size: 30 KB, MIME type: image/png)
 
 ## File history
 

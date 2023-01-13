@@ -2,9 +2,9 @@
 * [File history](../Image/Eswc2017-tutorial-event.png.md#filehistory)
 * [Links](../Image/Eswc2017-tutorial-event.png.md#filelinks)
 
-[![Image:Eswc2017-tutorial-event.png](../../../images/6/64/Eswc2017-tutorial-event.png)](../../../images/6/64/Eswc2017-tutorial-event.png)  
+[![Image:Eswc2017-tutorial-event.png](../images/6/64/Eswc2017-tutorial-event.png)](../images/6/64/Eswc2017-tutorial-event.png)  
 No higher resolution available.  
-[Eswc2017-tutorial-event.png](../../../images/6/64/Eswc2017-tutorial-event.png)‎ (438 × 279 pixel, file size: 16 KB, MIME type: image/png)Illustration for an ODP used in Training:Tutorial:\_Modular\_Ontology\_Modeling\_with\_Ontology\_Design\_Patterns\_at\_ESWC2017
+[Eswc2017-tutorial-event.png](../images/6/64/Eswc2017-tutorial-event.png)‎ (438 × 279 pixel, file size: 16 KB, MIME type: image/png)Illustration for an ODP used in Training:Tutorial:\_Modular\_Ontology\_Modeling\_with\_Ontology\_Design\_Patterns\_at\_ESWC2017
 
 
 

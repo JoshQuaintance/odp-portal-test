@@ -2,9 +2,9 @@
 * [File history](../Image/Classification.jpg.md#filehistory)
 * [Links](../Image/Classification.jpg.md#filelinks)
 
-[![Image:Classification.jpg](../../../images/c/ca/Classification.jpg)](../../../images/c/ca/Classification.jpg)  
+[![Image:Classification.jpg](../images/c/ca/Classification.jpg)](../images/c/ca/Classification.jpg)  
 No higher resolution available.  
-[Classification.jpg](../../../images/c/ca/Classification.jpg)‎ (192 × 192 pixel, file size: 12 KB, MIME type: image/jpeg)
+[Classification.jpg](../images/c/ca/Classification.jpg)‎ (192 × 192 pixel, file size: 12 KB, MIME type: image/jpeg)
 
 ## File history
 

@@ -33,7 +33,7 @@ _The __GearSpecies__ Content OP locally defines the following ontology elements:
 
 
 
-[![Class](../../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __AquaticSpecies__ (owl:Class) Aquatic species are conceptual entities that are characterized together with resources and water areas. 
+[![Class](../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __AquaticSpecies__ (owl:Class) Aquatic species are conceptual entities that are characterized together with resources and water areas. 
 Mappable to fi:Species, fi:SpeciesRef, fi:SpeciesFeature, etc.
 
 
@@ -41,23 +41,23 @@ It has related axioms from FIGIS Schema that are included in the classes linked 
 
 
 
- [![](../../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[AquaticSpecies](../Submissions/GearSpecies/AquaticSpecies.md "Submissions:GearSpecies/AquaticSpecies") page_
-[![Class](../../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __GearType__ (owl:Class) Gear types are conceptual entities that are characterized together with AquaticSpecies that are either targeted or can be incidentally caught. 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[AquaticSpecies](../Submissions/GearSpecies/AquaticSpecies.md "Submissions:GearSpecies/AquaticSpecies") page_
+[![Class](../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __GearType__ (owl:Class) Gear types are conceptual entities that are characterized together with AquaticSpecies that are either targeted or can be incidentally caught. 
 Mappable to fi:GearTypeRef 
 
 
 
- [![](../../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[GearType](../Submissions/GearSpecies/GearType.md "Submissions:GearSpecies/GearType") page_
-[![ObjectProperty](../../../../../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __incidentallyCatchesSpecies__ (owl:ObjectProperty) 
- [![](../../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[incidentallyCatchesSpecies](../Submissions/GearSpecies/incidentallyCatchesSpecies.md "Submissions:GearSpecies/incidentallyCatchesSpecies") page_
-[![ObjectProperty](../../../../../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __targetsSpecies__ (owl:ObjectProperty) 
- [![](../../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[targetsSpecies](../Submissions/GearSpecies/targetsSpecies.md "Submissions:GearSpecies/targetsSpecies") page_
-[![ObjectProperty](../../../../../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __isCaughtByGearType__ (owl:ObjectProperty) 
- [![](../../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[isCaughtByGearType](../Submissions/GearSpecies/isCaughtByGearType.md "Submissions:GearSpecies/isCaughtByGearType") page_
-[![ObjectProperty](../../../../../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __isCaughtBy__ (owl:ObjectProperty) 
- [![](../../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[isCaughtBy](../Submissions/GearSpecies/isCaughtBy.md "Submissions:GearSpecies/isCaughtBy") page_
-[![ObjectProperty](../../../../../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __catchesSpecies__ (owl:ObjectProperty) 
- [![](../../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[catchesSpecies](../Submissions/GearSpecies/catchesSpecies.md "Submissions:GearSpecies/catchesSpecies") page_
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[GearType](../Submissions/GearSpecies/GearType.md "Submissions:GearSpecies/GearType") page_
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __incidentallyCatchesSpecies__ (owl:ObjectProperty) 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[incidentallyCatchesSpecies](../Submissions/GearSpecies/incidentallyCatchesSpecies.md "Submissions:GearSpecies/incidentallyCatchesSpecies") page_
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __targetsSpecies__ (owl:ObjectProperty) 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[targetsSpecies](../Submissions/GearSpecies/targetsSpecies.md "Submissions:GearSpecies/targetsSpecies") page_
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __isCaughtByGearType__ (owl:ObjectProperty) 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[isCaughtByGearType](../Submissions/GearSpecies/isCaughtByGearType.md "Submissions:GearSpecies/isCaughtByGearType") page_
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __isCaughtBy__ (owl:ObjectProperty) 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[isCaughtBy](../Submissions/GearSpecies/isCaughtBy.md "Submissions:GearSpecies/isCaughtBy") page_
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __catchesSpecies__ (owl:ObjectProperty) 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[catchesSpecies](../Submissions/GearSpecies/catchesSpecies.md "Submissions:GearSpecies/catchesSpecies") page_
 #  Additional information
 
 

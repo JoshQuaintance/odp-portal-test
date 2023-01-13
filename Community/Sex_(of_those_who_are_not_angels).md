@@ -37,5 +37,5 @@ _(this article has no graphical representation)_
  [List of Modeling Issues](../Community/Main.md "Community:Main") | [Post a new modeling issue](../Community/PostModelingIssue.md "Community:PostModelingIssue") | [Add a comment in the discussion page](index.php@title=Odp%253AAdd_comment&target=Community_talk%253ASex_(of_those_who_are_not_angels).html#New_comment "http://ontologydesignpatterns.org/wiki/index.php?title=Odp:Add_comment&target=Community_talk:Sex_(of_those_who_are_not_angels)#New_comment")
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Community:Sex\_%28of\_those\_who\_are\_not\_angels%29](../Community/Sex_(of_those_who_are_not_angels).md).html)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Community:Sex\_%28of\_those\_who\_are\_not\_angels%29](../Community/Sex_(of_those_who_are_not_angels).md).md).html)"
  [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [ModelingIssue](../Category/ModelingIssue.md "Category:ModelingIssue")

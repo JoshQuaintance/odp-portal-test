@@ -2,9 +2,9 @@
 * [File history](../Image/OntologyFlattenedEducationTitles.png.md#filehistory)
 * [Links](../Image/OntologyFlattenedEducationTitles.png.md#filelinks)
 
-[![Image:OntologyFlattenedEducationTitles.png](../../../images/b/b1/OntologyFlattenedEducationTitles.png)](../../../images/b/b1/OntologyFlattenedEducationTitles.png)  
+[![Image:OntologyFlattenedEducationTitles.png](../images/b/b1/OntologyFlattenedEducationTitles.png)](../images/b/b1/OntologyFlattenedEducationTitles.png)  
 No higher resolution available.  
-[OntologyFlattenedEducationTitles.png](../../../images/b/b1/OntologyFlattenedEducationTitles.png)‎ (612 × 298 pixel, file size: 22 KB, MIME type: image/png)
+[OntologyFlattenedEducationTitles.png](../images/b/b1/OntologyFlattenedEducationTitles.png)‎ (612 × 298 pixel, file size: 22 KB, MIME type: image/png)
 
 ## File history
 

@@ -2,9 +2,9 @@
 * [File history](../Image/Coparticipation.jpg.md#filehistory)
 * [Links](../Image/Coparticipation.jpg.md#filelinks)
 
-[![Image:Coparticipation.jpg](../../../images/e/e3/Coparticipation.jpg)](../../../images/e/e3/Coparticipation.jpg)  
+[![Image:Coparticipation.jpg](../images/e/e3/Coparticipation.jpg)](../images/e/e3/Coparticipation.jpg)  
 No higher resolution available.  
-[Coparticipation.jpg](../../../images/e/e3/Coparticipation.jpg)‎ (503 × 236 pixel, file size: 22 KB, MIME type: image/jpeg)
+[Coparticipation.jpg](../images/e/e3/Coparticipation.jpg)‎ (503 × 236 pixel, file size: 22 KB, MIME type: image/jpeg)
 
 ## File history
 

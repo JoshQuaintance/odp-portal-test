@@ -2,9 +2,9 @@
 * [File history](../Image/Speciesconditions.jpg.md#filehistory)
 * [Links](../Image/Speciesconditions.jpg.md#filelinks)
 
-[![Image:Speciesconditions.jpg](../../../images/8/85/Speciesconditions.jpg)](../../../images/8/85/Speciesconditions.jpg)  
+[![Image:Speciesconditions.jpg](../images/8/85/Speciesconditions.jpg)](../images/8/85/Speciesconditions.jpg)  
 No higher resolution available.  
-[Speciesconditions.jpg](../../../images/8/85/Speciesconditions.jpg)‎ (777 × 304 pixel, file size: 91 KB, MIME type: image/jpeg)
+[Speciesconditions.jpg](../images/8/85/Speciesconditions.jpg)‎ (777 × 304 pixel, file size: 91 KB, MIME type: image/jpeg)
 
 ## File history
 

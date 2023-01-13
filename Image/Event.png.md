@@ -2,9 +2,9 @@
 * [File history](../Image/Event.png.md#filehistory)
 * [Links](../Image/Event.png.md#filelinks)
 
-[![Image:Event.png](../../../images/1/10/Event.png)](../../../images/1/10/Event.png)  
+[![Image:Event.png](../images/1/10/Event.png)](../images/1/10/Event.png)  
 No higher resolution available.  
-[Event.png](../../../images/1/10/Event.png)‎ (149 × 149 pixel, file size: 18 KB, MIME type: image/png)
+[Event.png](../images/1/10/Event.png)‎ (149 × 149 pixel, file size: 18 KB, MIME type: image/png)
 
 ## File history
 
@@ -23,7 +23,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following 4 pages link to this file:
 
 
-* [Ontology Design Patterns . org (ODP)](../Ontology_Design_Patterns_._org_(ODP).md).html "Ontology Design Patterns . org (ODP)")
+* [Ontology Design Patterns . org (ODP)](../Ontology_Design_Patterns_._org_(ODP).md).md).html "Ontology Design Patterns . org (ODP)")
 * [Community:Images](../Community/Images.md "Community:Images")
 * [Odp:Events](../Odp/Events.md "Odp:Events")
 * [Template:MainPageMap](../Template/MainPageMap.md "Template:MainPageMap")

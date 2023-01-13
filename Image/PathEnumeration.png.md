@@ -2,9 +2,9 @@
 * [File history](../Image/PathEnumeration.png.md#filehistory)
 * [Links](../Image/PathEnumeration.png.md#filelinks)
 
-[![Image:PathEnumeration.png](../../../images/7/76/PathEnumeration.png)](../../../images/7/76/PathEnumeration.png)  
+[![Image:PathEnumeration.png](../images/7/76/PathEnumeration.png)](../images/7/76/PathEnumeration.png)  
 No higher resolution available.  
-[PathEnumeration.png](../../../images/7/76/PathEnumeration.png)‎ (330 × 137 pixel, file size: 38 KB, MIME type: image/png)
+[PathEnumeration.png](../images/7/76/PathEnumeration.png)‎ (330 × 137 pixel, file size: 38 KB, MIME type: image/png)
 
 ## File history
 

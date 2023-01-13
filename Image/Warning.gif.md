@@ -2,9 +2,9 @@
 * [File history](../Image/Warning.gif.md#filehistory)
 * [Links](../Image/Warning.gif.md#filelinks)
 
-[![Image:Warning.gif](../../../images/c/c2/Warning.gif)](../../../images/c/c2/Warning.gif)  
+[![Image:Warning.gif](../images/c/c2/Warning.gif)](../images/c/c2/Warning.gif)  
 No higher resolution available.  
-[Warning.gif](../../../images/c/c2/Warning.gif)‎ (128 × 128 pixel, file size: 8 KB, MIME type: image/gif)
+[Warning.gif](../images/c/c2/Warning.gif)‎ (128 × 128 pixel, file size: 8 KB, MIME type: image/gif)
 
 ## File history
 

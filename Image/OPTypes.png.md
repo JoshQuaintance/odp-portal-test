@@ -2,9 +2,9 @@
 * [File history](../Image/OPTypes.png.md#filehistory)
 * [Links](../Image/OPTypes.png.md#filelinks)
 
-[![Image:OPTypes.png](../../../images/4/4e/OPTypes.png)](../../../images/4/4e/OPTypes.png)  
+[![Image:OPTypes.png](../images/4/4e/OPTypes.png)](../images/4/4e/OPTypes.png)  
 No higher resolution available.  
-[OPTypes.png](../../../images/4/4e/OPTypes.png)‎ (128 × 128 pixel, file size: 7 KB, MIME type: image/png)
+[OPTypes.png](../images/4/4e/OPTypes.png)‎ (128 × 128 pixel, file size: 7 KB, MIME type: image/png)
 
 ## File history
 
@@ -23,7 +23,7 @@ Click on a date/time to view the file as it appeared at that time.
 The following 2 pages link to this file:
 
 
-* [Ontology Design Patterns . org (ODP)](../Ontology_Design_Patterns_._org_(ODP).md).html "Ontology Design Patterns . org (ODP)")
+* [Ontology Design Patterns . org (ODP)](../Ontology_Design_Patterns_._org_(ODP).md).md).html "Ontology Design Patterns . org (ODP)")
 * [Template:MainPageMap](../Template/MainPageMap.md "Template:MainPageMap")
 
 

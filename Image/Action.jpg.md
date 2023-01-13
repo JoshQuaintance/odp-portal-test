@@ -3,9 +3,9 @@
 * [Links](../Image/Action.jpg.md#filelinks)
 * [Metadata](../Image/Action.jpg.md#metadata)
 
-[![Image:Action.jpg](../images/thumb/9/97/Action.jpg/800px-Action.jpg)](../../images/9/97/Action.jpg)  
+[![Image:Action.jpg](../images/thumb/9/97/Action.jpg/800px-Action.jpg)](../images/9/97/Action.jpg)  
 Size of this preview: 800 × 388 pixels  
-[Full resolution](../../images/9/97/Action.jpg)‎ (950 × 461 pixel, file size: 126 KB, MIME type: image/jpeg)The illustration of the Action Content ODP.
+[Full resolution](../images/9/97/Action.jpg)‎ (950 × 461 pixel, file size: 126 KB, MIME type: image/jpeg)The illustration of the Action Content ODP.
 
 
 

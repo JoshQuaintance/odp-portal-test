@@ -2,9 +2,9 @@
 * [File history](../Image/FOI.png.md#filehistory)
 * [Links](../Image/FOI.png.md#filelinks)
 
-[![Image:FOI.png](../../../images/3/32/FOI.png)](../../../images/3/32/FOI.png)  
+[![Image:FOI.png](../images/3/32/FOI.png)](../images/3/32/FOI.png)  
 No higher resolution available.  
-[FOI.png](../../../images/3/32/FOI.png)‎ (591 × 319 pixel, file size: 96 KB, MIME type: image/png)
+[FOI.png](../images/3/32/FOI.png)‎ (591 × 319 pixel, file size: 96 KB, MIME type: image/png)
 
 ## File history
 

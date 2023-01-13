@@ -2,9 +2,9 @@
 * [File history](../Image/Odptypes.png.md#filehistory)
 * [Links](../Image/Odptypes.png.md#filelinks)
 
-[![Image:Odptypes.png](../images/thumb/e/ec/Odptypes.png/800px-Odptypes.png)](../../images/e/ec/Odptypes.png)  
+[![Image:Odptypes.png](../images/thumb/e/ec/Odptypes.png/800px-Odptypes.png)](../images/e/ec/Odptypes.png)  
 Size of this preview: 800 × 237 pixels  
-[Full resolution](../../images/e/ec/Odptypes.png)‎ (1,248 × 369 pixel, file size: 106 KB, MIME type: image/png)
+[Full resolution](../images/e/ec/Odptypes.png)‎ (1,248 × 369 pixel, file size: 106 KB, MIME type: image/png)
 
 ## File history
 

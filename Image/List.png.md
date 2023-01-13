@@ -2,9 +2,9 @@
 * [File history](../Image/List.png.md#filehistory)
 * [Links](../Image/List.png.md#filelinks)
 
-[![Image:List.png](../images/thumb/6/67/List.png/800px-List.png)](../../images/6/67/List.png)  
+[![Image:List.png](../images/thumb/6/67/List.png/800px-List.png)](../images/6/67/List.png)  
 Size of this preview: 800 × 557 pixels  
-[Full resolution](../../images/6/67/List.png)‎ (1,014 × 706 pixel, file size: 80 KB, MIME type: image/png)Schematic view of the list pattern.
+[Full resolution](../images/6/67/List.png)‎ (1,014 × 706 pixel, file size: 80 KB, MIME type: image/png)Schematic view of the list pattern.
 
 
 

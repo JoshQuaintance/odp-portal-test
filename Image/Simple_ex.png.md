@@ -2,9 +2,9 @@
 * [File history](../Image/Simple_ex.png.md#filehistory)
 * [Links](../Image/Simple_ex.png.md#filelinks)
 
-[![Image:Simple ex.png](../../../images/8/83/Simple_ex.png)](../../../images/8/83/Simple_ex.png)  
+[![Image:Simple ex.png](../images/8/83/Simple_ex.png)](../images/8/83/Simple_ex.png)  
 No higher resolution available.  
-[Simple\_ex.png](../../../images/8/83/Simple_ex.png)‎ (795 × 307 pixel, file size: 36 KB, MIME type: image/png)A simple example of the Activity Specification pattern.
+[Simple\_ex.png](../images/8/83/Simple_ex.png)‎ (795 × 307 pixel, file size: 36 KB, MIME type: image/png)A simple example of the Activity Specification pattern.
 
 
 

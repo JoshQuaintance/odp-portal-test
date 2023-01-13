@@ -29,5 +29,5 @@ In reality, a move must concern at least one object.
 
 
 
-Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Move/moved](../../Submissions/Spatial_Graph_Adapter_Pattern_(moved_to_Content_ODPs).md)"
+Retrieved from "[http://ontologydesignpatterns.org/wiki/Submissions:Move/moved](../../Submissions/Spatial_Graph_Adapter_Pattern_(moved_to_Content_ODPs).md).md)"
  [Category](http://ontologydesignpatterns.org/wiki/Special:Categories "Special:Categories"): [OntologyElement](../../Category/OntologyElement.md "Category:OntologyElement")

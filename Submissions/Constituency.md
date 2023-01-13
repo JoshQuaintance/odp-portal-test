@@ -38,9 +38,9 @@ _The __Constituency__ Content OP locally defines the following ontology elements
 
 
 
- [![](../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[Entity](../Submissions/Constituency/Entity.md "Submissions:Constituency/Entity") page_
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[Entity](../Submissions/Constituency/Entity.md "Submissions:Constituency/Entity") page_
 
-[![ObjectProperty](../../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __hasConstituent__ (owl:ObjectProperty) Constituency depends on some layering of the world described by the ontology. 
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __hasConstituent__ (owl:ObjectProperty) Constituency depends on some layering of the world described by the ontology. 
 For example, scientiﬁc granularity (e.g. body-organ-tissue-cell) or ontological 'strata' (e.g. social-mental-biological-physical) are typical layerings. Intuitively, a constituent is a part belonging to a lower 
 layer. Since layering is actually a partition of the world described by the ontology, constituents are not properly classiﬁed as parts, although this kindship can be intuitive for common sense. Example of constituents include the wood pieces constituting a table, the persons constituting a social system, the 
 molecules constituting a person, the atoms constituting a river, etc. In all these examples, we notice a typical discontinuity between the constituted and the constituent object: e.g. a table is conceptualized at a functional layer, while wood pieces are conceptualized at a material layer, a social system is 
@@ -48,13 +48,13 @@ conceptualized at a different layer from the persons that constitute it, a perso
 
 
 
- [![](../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[hasConstituent](../Submissions/Constituency/hasConstituent.md "Submissions:Constituency/hasConstituent") page_
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[hasConstituent](../Submissions/Constituency/hasConstituent.md "Submissions:Constituency/hasConstituent") page_
 
-[![ObjectProperty](../../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __isConstituentOf__ (owl:ObjectProperty) The inverse of the  [hasConstituent](../Submissions/Constituency/hasConstituent.md "Submissions:Constituency/hasConstituent") object property. 
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __isConstituentOf__ (owl:ObjectProperty) The inverse of the  [hasConstituent](../Submissions/Constituency/hasConstituent.md "Submissions:Constituency/hasConstituent") object property. 
 
 
 
- [![](../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[isConstituentOf](../Submissions/Constituency/isConstituentOf.md "Submissions:Constituency/isConstituentOf") page_
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[isConstituentOf](../Submissions/Constituency/isConstituentOf.md "Submissions:Constituency/isConstituentOf") page_
 #  Additional information
 
 

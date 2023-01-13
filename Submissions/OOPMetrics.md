@@ -34,12 +34,12 @@ _The __OOPMetrics__ Content OP locally defines the following ontology elements:_
 
 
 __hasInitialReleaseDate__ (owl:AnnotationProperty) 
- [![](../../../../../../../../../../../../../../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[hasInitialReleaseDate](../Submissions/OOPMetrics/hasInitialReleaseDate.md "Submissions:OOPMetrics/hasInitialReleaseDate") page_
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[hasInitialReleaseDate](../Submissions/OOPMetrics/hasInitialReleaseDate.md "Submissions:OOPMetrics/hasInitialReleaseDate") page_
 __hasAuthor__ (owl:AnnotationProperty) 
- [![](../../../../../../../../../../../../../../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[hasAuthor](../Submissions/OOPMetrics/hasAuthor.md "Submissions:OOPMetrics/hasAuthor") page_
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[hasAuthor](../Submissions/OOPMetrics/hasAuthor.md "Submissions:OOPMetrics/hasAuthor") page_
 __hasMention__ (owl:AnnotationProperty) 
- [![](../../../../../../../../../../../../../../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[hasMention](../Submissions/OOPMetrics/hasMention.md "Submissions:OOPMetrics/hasMention") page_
-[![ObjectProperty](../../../../../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __hasClass__ (owl:ObjectProperty) Refers to an OOPClass from an OOPPackage.
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[hasMention](../Submissions/OOPMetrics/hasMention.md "Submissions:OOPMetrics/hasMention") page_
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __hasClass__ (owl:ObjectProperty) Refers to an OOPClass from an OOPPackage.
   
 
 
@@ -48,8 +48,8 @@ Se refera la o OOPClass dintr-un OOPPackage.
 
 
 
- [![](../../../../../../../../../../../../../../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[hasClass](../Submissions/OOPMetrics/hasClass.md "Submissions:OOPMetrics/hasClass") page_
-[![ObjectProperty](../../../../../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __hasMethod__ (owl:ObjectProperty) Refers to an OOPMethod from an OOPClass.
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[hasClass](../Submissions/OOPMetrics/hasClass.md "Submissions:OOPMetrics/hasClass") page_
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __hasMethod__ (owl:ObjectProperty) Refers to an OOPMethod from an OOPClass.
   
 
 
@@ -58,8 +58,8 @@ Se refera la o OOPMethod dintr-o OOPClass.
 
 
 
- [![](../../../../../../../../../../../../../../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[hasMethod](../Submissions/OOPMetrics/hasMethod.md "Submissions:OOPMetrics/hasMethod") page_
-[![ObjectProperty](../../../../../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __hasMetric__ (owl:ObjectProperty) Refers to a software metric that an OOPProject/OOPPackage/OOPClass/OOPMethod has.
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[hasMethod](../Submissions/OOPMetrics/hasMethod.md "Submissions:OOPMetrics/hasMethod") page_
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __hasMetric__ (owl:ObjectProperty) Refers to a software metric that an OOPProject/OOPPackage/OOPClass/OOPMethod has.
   
 
 
@@ -68,8 +68,8 @@ Se refera la o metrica soft pe care o are un/o OOPProject/OOPPackage/OOPClass/ O
 
 
 
- [![](../../../../../../../../../../../../../../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[hasMetric](../Submissions/OOPMetrics/hasMetric.md "Submissions:OOPMetrics/hasMetric") page_
-[![ObjectProperty](../../../../../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __hasMetricCategory__ (owl:ObjectProperty) Each software metric has an OOPMetricCategory. The category to which it belongs is specified by the hasMetricCategory property.
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[hasMetric](../Submissions/OOPMetrics/hasMetric.md "Submissions:OOPMetrics/hasMetric") page_
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __hasMetricCategory__ (owl:ObjectProperty) Each software metric has an OOPMetricCategory. The category to which it belongs is specified by the hasMetricCategory property.
   
 
 
@@ -78,8 +78,8 @@ Fiecare metrica soft are o categorie OOPMetricCategory. Categoria de care aparti
 
 
 
- [![](../../../../../../../../../../../../../../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[hasMetricCategory](../Submissions/OOPMetrics/hasMetricCategory.md "Submissions:OOPMetrics/hasMetricCategory") page_
-[![ObjectProperty](../../../../../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __hasPackage__ (owl:ObjectProperty) Refers to an OOPPackage from an OOPProject.
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[hasMetricCategory](../Submissions/OOPMetrics/hasMetricCategory.md "Submissions:OOPMetrics/hasMetricCategory") page_
+[![ObjectProperty](../images/thumb/c/c3/ObjectProperty.gif/20px-ObjectProperty.gif)](../Image/ObjectProperty.gif.md "ObjectProperty") __hasPackage__ (owl:ObjectProperty) Refers to an OOPPackage from an OOPProject.
   
 
 
@@ -88,8 +88,8 @@ Se refera la un OOPPackage dintr-un OOPProject.
 
 
 
- [![](../../../../../../../../../../../../../../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[hasPackage](../Submissions/OOPMetrics/hasPackage.md "Submissions:OOPMetrics/hasPackage") page_
-[![DatatypeProperty](../../../../../images/thumb/a/a5/DatatypeProperty.gif/20px-DatatypeProperty.gif)](../Image/DatatypeProperty.gif.md "DatatypeProperty") __hasFloatValue__ (owl:DatatypeProperty) The real value of the software metric.
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[hasPackage](../Submissions/OOPMetrics/hasPackage.md "Submissions:OOPMetrics/hasPackage") page_
+[![DatatypeProperty](../images/thumb/a/a5/DatatypeProperty.gif/20px-DatatypeProperty.gif)](../Image/DatatypeProperty.gif.md "DatatypeProperty") __hasFloatValue__ (owl:DatatypeProperty) The real value of the software metric.
   
 
 
@@ -98,8 +98,8 @@ Valoarea reala pentru metrica soft.
 
 
 
- [![](../../../../../../../../../../../../../../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[hasFloatValue](../Submissions/OOPMetrics/hasFloatValue.md "Submissions:OOPMetrics/hasFloatValue") page_
-[![DatatypeProperty](../../../../../images/thumb/a/a5/DatatypeProperty.gif/20px-DatatypeProperty.gif)](../Image/DatatypeProperty.gif.md "DatatypeProperty") __hasIntegerValue__ (owl:DatatypeProperty) The integer value of the software metric.
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[hasFloatValue](../Submissions/OOPMetrics/hasFloatValue.md "Submissions:OOPMetrics/hasFloatValue") page_
+[![DatatypeProperty](../images/thumb/a/a5/DatatypeProperty.gif/20px-DatatypeProperty.gif)](../Image/DatatypeProperty.gif.md "DatatypeProperty") __hasIntegerValue__ (owl:DatatypeProperty) The integer value of the software metric.
   
 
 
@@ -108,8 +108,8 @@ Valoarea intreaga pentru metrica soft.
 
 
 
- [![](../../../../../../../../../../../../../../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[hasIntegerValue](../Submissions/OOPMetrics/hasIntegerValue.md "Submissions:OOPMetrics/hasIntegerValue") page_
-[![DatatypeProperty](../../../../../images/thumb/a/a5/DatatypeProperty.gif/20px-DatatypeProperty.gif)](../Image/DatatypeProperty.gif.md "DatatypeProperty") __hasLongName__ (owl:DatatypeProperty) The full name of the category of software metric, such as: "Weighted Methods Count".
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[hasIntegerValue](../Submissions/OOPMetrics/hasIntegerValue.md "Submissions:OOPMetrics/hasIntegerValue") page_
+[![DatatypeProperty](../images/thumb/a/a5/DatatypeProperty.gif/20px-DatatypeProperty.gif)](../Image/DatatypeProperty.gif.md "DatatypeProperty") __hasLongName__ (owl:DatatypeProperty) The full name of the category of software metric, such as: "Weighted Methods Count".
   
 
 
@@ -118,8 +118,8 @@ Numele complet pentru categoria de metrica soft, cum ar fi: "Weighted Methods Co
 
 
 
- [![](../../../../../../../../../../../../../../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[hasLongName](../Submissions/OOPMetrics/hasLongName.md "Submissions:OOPMetrics/hasLongName") page_
-[![DatatypeProperty](../../../../../images/thumb/a/a5/DatatypeProperty.gif/20px-DatatypeProperty.gif)](../Image/DatatypeProperty.gif.md "DatatypeProperty") __hasName__ (owl:DatatypeProperty) This represents the name (more precisely the acronym) of the category of software metric. Such as: "WMC" for "Weighted Methods Count", TCC for "Tight Class Cohesion", etc.
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[hasLongName](../Submissions/OOPMetrics/hasLongName.md "Submissions:OOPMetrics/hasLongName") page_
+[![DatatypeProperty](../images/thumb/a/a5/DatatypeProperty.gif/20px-DatatypeProperty.gif)](../Image/DatatypeProperty.gif.md "DatatypeProperty") __hasName__ (owl:DatatypeProperty) This represents the name (more precisely the acronym) of the category of software metric. Such as: "WMC" for "Weighted Methods Count", TCC for "Tight Class Cohesion", etc.
   
 
 
@@ -128,8 +128,8 @@ Aceasta reprezinta numele (mai precis acronimul) pentru categoria de metrica sof
 
 
 
- [![](../../../../../../../../../../../../../../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[hasName](../Submissions/OOPMetrics/hasName.md "Submissions:OOPMetrics/hasName") page_
-[![DatatypeProperty](../../../../../images/thumb/a/a5/DatatypeProperty.gif/20px-DatatypeProperty.gif)](../Image/DatatypeProperty.gif.md "DatatypeProperty") __hasTag__ (owl:DatatypeProperty) A numerical value representing the category of software metric.
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[hasName](../Submissions/OOPMetrics/hasName.md "Submissions:OOPMetrics/hasName") page_
+[![DatatypeProperty](../images/thumb/a/a5/DatatypeProperty.gif/20px-DatatypeProperty.gif)](../Image/DatatypeProperty.gif.md "DatatypeProperty") __hasTag__ (owl:DatatypeProperty) A numerical value representing the category of software metric.
   
 
 
@@ -138,8 +138,8 @@ O valoare numerica reprezentand categoria metricii soft.
 
 
 
- [![](../../../../../../../../../../../../../../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[hasTag](../Submissions/OOPMetrics/hasTag.md "Submissions:OOPMetrics/hasTag") page_
-[![Class](../../../../../../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __OOPClass__ (owl:Class) This represents the "class" concept from object-oriented programming.
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[hasTag](../Submissions/OOPMetrics/hasTag.md "Submissions:OOPMetrics/hasTag") page_
+[![Class](../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __OOPClass__ (owl:Class) This represents the "class" concept from object-oriented programming.
   
 
 
@@ -148,8 +148,8 @@ Aceasta reprezinta conceptul "clasa" din programarea orientata obiect.
 
 
 
- [![](../../../../../../../../../../../../../../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[OOPClass](../Submissions/OOPMetrics/OOPClass.md "Submissions:OOPMetrics/OOPClass") page_
-[![Class](../../../../../../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __OOPMethod__ (owl:Class) This represents the "method" concept from object-oriented programming.
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[OOPClass](../Submissions/OOPMetrics/OOPClass.md "Submissions:OOPMetrics/OOPClass") page_
+[![Class](../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __OOPMethod__ (owl:Class) This represents the "method" concept from object-oriented programming.
   
 
 
@@ -158,8 +158,8 @@ Aceasta reprezinta conceptul "metoda" din programarea orientata obiect.
 
 
 
- [![](../../../../../../../../../../../../../../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[OOPMethod](../Submissions/OOPMetrics/OOPMethod.md "Submissions:OOPMetrics/OOPMethod") page_
-[![Class](../../../../../../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __OOPMetric__ (owl:Class) This represents a software metric specific to object-oriented programming.
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[OOPMethod](../Submissions/OOPMetrics/OOPMethod.md "Submissions:OOPMetrics/OOPMethod") page_
+[![Class](../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __OOPMetric__ (owl:Class) This represents a software metric specific to object-oriented programming.
   
 
 
@@ -168,8 +168,8 @@ Aceasta reprezinta o metrica soft specifica programarii orientate obiect.
 
 
 
- [![](../../../../../../../../../../../../../../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[OOPMetric](../Submissions/OOPMetrics/OOPMetric.md "Submissions:OOPMetrics/OOPMetric") page_
-[![Class](../../../../../../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __OOPMetricCategory__ (owl:Class) Each software metric belongs in an OOPMetricCategory.
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[OOPMetric](../Submissions/OOPMetrics/OOPMetric.md "Submissions:OOPMetrics/OOPMetric") page_
+[![Class](../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __OOPMetricCategory__ (owl:Class) Each software metric belongs in an OOPMetricCategory.
   
 
 
@@ -178,8 +178,8 @@ Fiecare metrica soft apartine unei categorii OOPMetricCategory.
 
 
 
- [![](../../../../../../../../../../../../../../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[OOPMetricCategory](../Submissions/OOPMetrics/OOPMetricCategory.md "Submissions:OOPMetrics/OOPMetricCategory") page_
-[![Class](../../../../../../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __OOPPackage__ (owl:Class) This represents the "package" concept from object-oriented programming.
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[OOPMetricCategory](../Submissions/OOPMetrics/OOPMetricCategory.md "Submissions:OOPMetrics/OOPMetricCategory") page_
+[![Class](../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __OOPPackage__ (owl:Class) This represents the "package" concept from object-oriented programming.
   
 
 
@@ -188,8 +188,8 @@ Aceasta reprezinta conceptul "pachet" din programarea orientata obiect.
 
 
 
- [![](../../../../../../../../../../../../../../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[OOPPackage](../Submissions/OOPMetrics/OOPPackage.md "Submissions:OOPMetrics/OOPPackage") page_
-[![Class](../../../../../../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __OOPProject__ (owl:Class) This represents a software project.
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[OOPPackage](../Submissions/OOPMetrics/OOPPackage.md "Submissions:OOPMetrics/OOPPackage") page_
+[![Class](../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __OOPProject__ (owl:Class) This represents a software project.
   
 
 
@@ -198,7 +198,7 @@ Aceasta reprezinta un proiect soft.
 
 
 
- [![](../../../../../../../../../../../../../../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[OOPProject](../Submissions/OOPMetrics/OOPProject.md "Submissions:OOPMetrics/OOPProject") page_
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[OOPProject](../Submissions/OOPMetrics/OOPProject.md "Submissions:OOPMetrics/OOPProject") page_
   
 
 

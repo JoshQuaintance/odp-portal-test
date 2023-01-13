@@ -2,9 +2,9 @@
 * [File history](../Image/Odp_pattern_test.gif.md#filehistory)
 * [Links](../Image/Odp_pattern_test.gif.md#filelinks)
 
-[![Image:Odp pattern test.gif](../../../images/c/cd/Odp_pattern_test.gif)](../../../images/c/cd/Odp_pattern_test.gif)  
+[![Image:Odp pattern test.gif](../images/c/cd/Odp_pattern_test.gif)](../images/c/cd/Odp_pattern_test.gif)  
 No higher resolution available.  
-[Odp\_pattern\_test.gif](../../../images/c/cd/Odp_pattern_test.gif)‎ (279 × 279 pixel, file size: 11 KB, MIME type: image/gif)
+[Odp\_pattern\_test.gif](../images/c/cd/Odp_pattern_test.gif)‎ (279 × 279 pixel, file size: 11 KB, MIME type: image/gif)
 
 ## File history
 

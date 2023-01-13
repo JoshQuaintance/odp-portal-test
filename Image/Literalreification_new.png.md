@@ -2,9 +2,9 @@
 * [File history](../Image/Literalreification_new.png.md#filehistory)
 * [Links](../Image/Literalreification_new.png.md#filelinks)
 
-[![Image:Literalreification new.png](../../../images/1/12/Literalreification_new.png)](../../../images/1/12/Literalreification_new.png)  
+[![Image:Literalreification new.png](../images/1/12/Literalreification_new.png)](../images/1/12/Literalreification_new.png)  
 No higher resolution available.  
-[Literalreification\_new.png](../../../images/1/12/Literalreification_new.png)‎ (489 × 553 pixel, file size: 39 KB, MIME type: image/png)
+[Literalreification\_new.png](../images/1/12/Literalreification_new.png)‎ (489 × 553 pixel, file size: 39 KB, MIME type: image/png)
 
 ## File history
 

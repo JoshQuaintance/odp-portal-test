@@ -2,9 +2,9 @@
 * [File history](../Image/ResidentPattern.png.md#filehistory)
 * [Links](../Image/ResidentPattern.png.md#filelinks)
 
-[![Image:ResidentPattern.png](../images/thumb/e/ea/ResidentPattern.png/614px-ResidentPattern.png)](../../images/e/ea/ResidentPattern.png)  
+[![Image:ResidentPattern.png](../images/thumb/e/ea/ResidentPattern.png/614px-ResidentPattern.png)](../images/e/ea/ResidentPattern.png)  
 Size of this preview: 614 × 599 pixels  
-[Full resolution](../../images/e/ea/ResidentPattern.png)‎ (2,014 × 1,965 pixel, file size: 107 KB, MIME type: image/png)
+[Full resolution](../images/e/ea/ResidentPattern.png)‎ (2,014 × 1,965 pixel, file size: 107 KB, MIME type: image/png)
 
 ## File history
 

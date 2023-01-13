@@ -2,9 +2,9 @@
 * [File history](../Image/Precedence.jpg.md#filehistory)
 * [Links](../Image/Precedence.jpg.md#filelinks)
 
-[![Image:Precedence.jpg](../../../images/2/23/Precedence.jpg)](../../../images/2/23/Precedence.jpg)  
+[![Image:Precedence.jpg](../images/2/23/Precedence.jpg)](../images/2/23/Precedence.jpg)  
 No higher resolution available.  
-[Precedence.jpg](../../../images/2/23/Precedence.jpg)‎ (130 × 79 pixel, file size: 5 KB, MIME type: image/jpeg)
+[Precedence.jpg](../images/2/23/Precedence.jpg)‎ (130 × 79 pixel, file size: 5 KB, MIME type: image/jpeg)
 
 ## File history
 

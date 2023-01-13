@@ -2,9 +2,9 @@
 * [File history](../Image/Exmo-medium.gif.md#filehistory)
 * [Links](../Image/Exmo-medium.gif.md#filelinks)
 
-[![Image:Exmo-medium.gif](../../../images/0/09/Exmo-medium.gif)](../../../images/0/09/Exmo-medium.gif)  
+[![Image:Exmo-medium.gif](../images/0/09/Exmo-medium.gif)](../images/0/09/Exmo-medium.gif)  
 No higher resolution available.  
-[Exmo-medium.gif](../../../images/0/09/Exmo-medium.gif)‎ (328 × 142 pixel, file size: 5 KB, MIME type: image/gif)
+[Exmo-medium.gif](../images/0/09/Exmo-medium.gif)‎ (328 × 142 pixel, file size: 5 KB, MIME type: image/gif)
 
 ## File history
 

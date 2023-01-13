@@ -28,20 +28,20 @@ _The __SmartHome Object__ Content OP locally defines the following ontology elem
 
 
 
-[![Class](../../../../../../../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __Location__ (owl:Class) 
- [![](../../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[Location](../Submissions/SmartHome_Object/Location.md "Submissions:SmartHome Object/Location") page_
-[![Class](../../../../../../../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __MobileObject__ (owl:Class) 
- [![](../../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[MobileObject](../Submissions/SmartHome_Object/MobileObject.md "Submissions:SmartHome Object/MobileObject") page_
-[![Class](../../../../../../../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __NodeHolder__ (owl:Class) 
- [![](../../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[NodeHolder](../Submissions/SmartHome_Object/NodeHolder.md "Submissions:SmartHome Object/NodeHolder") page_
-[![Class](../../../../../../../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __NonMobileObject__ (owl:Class) 
- [![](../../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[NonMobileObject](../Submissions/SmartHome_Object/NonMobileObject.md "Submissions:SmartHome Object/NonMobileObject") page_
-[![Class](../../../../../../../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __SmartHomeAgent__ (owl:Class) 
- [![](../../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[SmartHomeAgent](../Submissions/SmartHome_Object/SmartHomeAgent.md "Submissions:SmartHome Object/SmartHomeAgent") page_
-[![Class](../../../../../../../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __SmartHomeObject__ (owl:Class) 
- [![](../../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[SmartHomeObject](../Submissions/SmartHome_Object/SmartHomeObject.md "Submissions:SmartHome Object/SmartHomeObject") page_
-[![Class](../../../../../../../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __SmartObject__ (owl:Class) 
- [![](../../../../../../../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[SmartObject](../Submissions/SmartHome_Object/SmartObject.md "Submissions:SmartHome Object/SmartObject") page_
+[![Class](../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __Location__ (owl:Class) 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[Location](../Submissions/SmartHome_Object/Location.md "Submissions:SmartHome Object/Location") page_
+[![Class](../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __MobileObject__ (owl:Class) 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[MobileObject](../Submissions/SmartHome_Object/MobileObject.md "Submissions:SmartHome Object/MobileObject") page_
+[![Class](../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __NodeHolder__ (owl:Class) 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[NodeHolder](../Submissions/SmartHome_Object/NodeHolder.md "Submissions:SmartHome Object/NodeHolder") page_
+[![Class](../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __NonMobileObject__ (owl:Class) 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[NonMobileObject](../Submissions/SmartHome_Object/NonMobileObject.md "Submissions:SmartHome Object/NonMobileObject") page_
+[![Class](../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __SmartHomeAgent__ (owl:Class) 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[SmartHomeAgent](../Submissions/SmartHome_Object/SmartHomeAgent.md "Submissions:SmartHome Object/SmartHomeAgent") page_
+[![Class](../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __SmartHomeObject__ (owl:Class) 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[SmartHomeObject](../Submissions/SmartHome_Object/SmartHomeObject.md "Submissions:SmartHome Object/SmartHomeObject") page_
+[![Class](../images/thumb/2/27/Class.gif/20px-Class.gif)](../Image/Class.gif.md "Class") __SmartObject__ (owl:Class) 
+ [![](../images/thumb/8/87/ArrowRight.gif/11px-ArrowRight.gif)](../Image/ArrowRight.gif.md "ArrowRight.gif") _[SmartObject](../Submissions/SmartHome_Object/SmartObject.md "Submissions:SmartHome Object/SmartObject") page_
 #  Additional information
 
 

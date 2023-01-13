@@ -2,9 +2,9 @@
 * [File history](../Image/Licenselinkeddataresources.png.md#filehistory)
 * [Links](../Image/Licenselinkeddataresources.png.md#filelinks)
 
-[![Image:Licenselinkeddataresources.png](../images/thumb/0/08/Licenselinkeddataresources.png/800px-Licenselinkeddataresources.png)](../../images/0/08/Licenselinkeddataresources.png)  
+[![Image:Licenselinkeddataresources.png](../images/thumb/0/08/Licenselinkeddataresources.png/800px-Licenselinkeddataresources.png)](../images/0/08/Licenselinkeddataresources.png)  
 Size of this preview: 800 × 398 pixels  
-[Full resolution](../../images/0/08/Licenselinkeddataresources.png)‎ (1,099 × 547 pixel, file size: 29 KB, MIME type: image/png)License Linked Data Resources Pattern
+[Full resolution](../images/0/08/Licenselinkeddataresources.png)‎ (1,099 × 547 pixel, file size: 29 KB, MIME type: image/png)License Linked Data Resources Pattern
 
 
 

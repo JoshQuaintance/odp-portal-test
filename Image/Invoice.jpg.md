@@ -2,9 +2,9 @@
 * [File history](../Image/Invoice.jpg.md#filehistory)
 * [Links](../Image/Invoice.jpg.md#filelinks)
 
-[![Image:Invoice.jpg](../../../images/e/eb/Invoice.jpg)](../../../images/e/eb/Invoice.jpg)  
+[![Image:Invoice.jpg](../images/e/eb/Invoice.jpg)](../images/e/eb/Invoice.jpg)  
 No higher resolution available.  
-[Invoice.jpg](../../../images/e/eb/Invoice.jpg)‎ (736 × 361 pixel, file size: 124 KB, MIME type: image/jpeg)
+[Invoice.jpg](../images/e/eb/Invoice.jpg)‎ (736 × 361 pixel, file size: 124 KB, MIME type: image/jpeg)
 
 ## File history
 

@@ -2,9 +2,9 @@
 * [File history](../Image/TemplatePatternBeforeAndAfter.png.md#filehistory)
 * [Links](../Image/TemplatePatternBeforeAndAfter.png.md#filelinks)
 
-[![Image:TemplatePatternBeforeAndAfter.png](../images/thumb/4/4c/TemplatePatternBeforeAndAfter.png/800px-TemplatePatternBeforeAndAfter.png)](../../images/4/4c/TemplatePatternBeforeAndAfter.png)  
+[![Image:TemplatePatternBeforeAndAfter.png](../images/thumb/4/4c/TemplatePatternBeforeAndAfter.png/800px-TemplatePatternBeforeAndAfter.png)](../images/4/4c/TemplatePatternBeforeAndAfter.png)  
 Size of this preview: 800 × 277 pixels  
-[Full resolution](../../images/4/4c/TemplatePatternBeforeAndAfter.png)‎ (1,500 × 520 pixel, file size: 118 KB, MIME type: image/png)
+[Full resolution](../images/4/4c/TemplatePatternBeforeAndAfter.png)‎ (1,500 × 520 pixel, file size: 118 KB, MIME type: image/png)
 
 ## File history
 

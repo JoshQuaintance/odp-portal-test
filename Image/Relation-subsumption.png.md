@@ -2,9 +2,9 @@
 * [File history](../Image/Relation-subsumption.png.md#filehistory)
 * [Links](../Image/Relation-subsumption.png.md#filelinks)
 
-[![Image:Relation-subsumption.png](../../../images/3/3a/Relation-subsumption.png)](../../../images/3/3a/Relation-subsumption.png)  
+[![Image:Relation-subsumption.png](../images/3/3a/Relation-subsumption.png)](../images/3/3a/Relation-subsumption.png)  
 No higher resolution available.  
-[Relation-subsumption.png](../../../images/3/3a/Relation-subsumption.png)‎ (502 × 122 pixel, file size: 18 KB, MIME type: image/png)
+[Relation-subsumption.png](../images/3/3a/Relation-subsumption.png)‎ (502 × 122 pixel, file size: 18 KB, MIME type: image/png)
 
 ## File history
 

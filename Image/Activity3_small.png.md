@@ -2,9 +2,9 @@
 * [File history](../Image/Activity3_small.png.md#filehistory)
 * [Links](../Image/Activity3_small.png.md#filelinks)
 
-[![Image:Activity3 small.png](../images/thumb/d/d9/Activity3_small.png/800px-Activity3_small.png)](../../images/d/d9/Activity3_small.png)  
+[![Image:Activity3 small.png](../images/thumb/d/d9/Activity3_small.png/800px-Activity3_small.png)](../images/d/d9/Activity3_small.png)  
 Size of this preview: 800 × 241 pixels  
-[Full resolution](../../images/d/d9/Activity3_small.png)‎ (1,017 × 306 pixel, file size: 75 KB, MIME type: image/png)
+[Full resolution](../images/d/d9/Activity3_small.png)‎ (1,017 × 306 pixel, file size: 75 KB, MIME type: image/png)
 
 ## File history
 

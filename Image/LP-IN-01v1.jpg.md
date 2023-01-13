@@ -2,9 +2,9 @@
 * [File history](../Image/LP-IN-01v1.jpg.md#filehistory)
 * [Links](../Image/LP-IN-01v1.jpg.md#filelinks)
 
-[![Image:LP-IN-01v1.jpg](../images/thumb/0/04/LP-IN-01v1.jpg/800px-LP-IN-01v1.jpg)](../../images/0/04/LP-IN-01v1.jpg)  
+[![Image:LP-IN-01v1.jpg](../images/thumb/0/04/LP-IN-01v1.jpg/800px-LP-IN-01v1.jpg)](../images/0/04/LP-IN-01v1.jpg)  
 Size of this preview: 800 × 224 pixels  
-[Full resolution](../../images/0/04/LP-IN-01v1.jpg)‎ (813 × 228 pixel, file size: 24 KB, MIME type: image/jpeg)
+[Full resolution](../images/0/04/LP-IN-01v1.jpg)‎ (813 × 228 pixel, file size: 24 KB, MIME type: image/jpeg)
 
 ## File history
 

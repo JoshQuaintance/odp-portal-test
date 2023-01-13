@@ -2,9 +2,9 @@
 * [File history](../Image/MappingFCSNormalizationODP.png.md#filehistory)
 * [Links](../Image/MappingFCSNormalizationODP.png.md#filelinks)
 
-[![Image:MappingFCSNormalizationODP.png](../../../images/6/67/MappingFCSNormalizationODP.png)](../../../images/6/67/MappingFCSNormalizationODP.png)  
+[![Image:MappingFCSNormalizationODP.png](../images/6/67/MappingFCSNormalizationODP.png)](../images/6/67/MappingFCSNormalizationODP.png)  
 No higher resolution available.  
-[MappingFCSNormalizationODP.png](../../../images/6/67/MappingFCSNormalizationODP.png)‎ (436 × 170 pixel, file size: 25 KB, MIME type: image/png)Mapping between the elements in the generic structure of a Faceted Classification Scheme and the Normalization ODP.
+[MappingFCSNormalizationODP.png](../images/6/67/MappingFCSNormalizationODP.png)‎ (436 × 170 pixel, file size: 25 KB, MIME type: image/png)Mapping between the elements in the generic structure of a Faceted Classification Scheme and the Normalization ODP.
 
 
 

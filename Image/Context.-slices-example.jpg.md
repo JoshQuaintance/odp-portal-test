@@ -2,9 +2,9 @@
 * [File history](../Image/Context.-slices-example.jpg.md#filehistory)
 * [Links](../Image/Context.-slices-example.jpg.md#filelinks)
 
-[![Image:Context.-slices-example.jpg](../images/thumb/0/05/Context.-slices-example.jpg/800px-Context.-slices-example.jpg)](../../images/0/05/Context.-slices-example.jpg)  
+[![Image:Context.-slices-example.jpg](../images/thumb/0/05/Context.-slices-example.jpg/800px-Context.-slices-example.jpg)](../images/0/05/Context.-slices-example.jpg)  
 Size of this preview: 800 × 600 pixels  
-[Full resolution](../../images/0/05/Context.-slices-example.jpg)‎ (960 × 720 pixel, file size: 55 KB, MIME type: image/jpeg)An example that illustrates the context slices logical pattern
+[Full resolution](../images/0/05/Context.-slices-example.jpg)‎ (960 × 720 pixel, file size: 55 KB, MIME type: image/jpeg)An example that illustrates the context slices logical pattern
 
 
 

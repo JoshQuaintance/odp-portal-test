@@ -2,9 +2,9 @@
 * [File history](../Image/Quantity_Triad_Pattern.png.md#filehistory)
 * [Links](../Image/Quantity_Triad_Pattern.png.md#filelinks)
 
-[![Image:Quantity Triad Pattern.png](../images/thumb/3/3d/Quantity_Triad_Pattern.png/800px-Quantity_Triad_Pattern.png)](../../images/3/3d/Quantity_Triad_Pattern.png)  
+[![Image:Quantity Triad Pattern.png](../images/thumb/3/3d/Quantity_Triad_Pattern.png/800px-Quantity_Triad_Pattern.png)](../images/3/3d/Quantity_Triad_Pattern.png)  
 Size of this preview: 800 × 336 pixels  
-[Full resolution](../../images/3/3d/Quantity_Triad_Pattern.png)‎ (991 × 416 pixel, file size: 33 KB, MIME type: image/png)Overall Quantity-Triad pattern diagram, showing dependencies between QuantityKinds, SystemsOfQuantityKinds, Units, SystemOfUnits, Quantities, QuantityValues, and QuantityKindDimensionVectors.
+[Full resolution](../images/3/3d/Quantity_Triad_Pattern.png)‎ (991 × 416 pixel, file size: 33 KB, MIME type: image/png)Overall Quantity-Triad pattern diagram, showing dependencies between QuantityKinds, SystemsOfQuantityKinds, Units, SystemOfUnits, Quantities, QuantityValues, and QuantityKindDimensionVectors.
 
 
 

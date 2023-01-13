@@ -2,9 +2,9 @@
 * [File history](../Image/NotePattern3.png.md#filehistory)
 * [Links](../Image/NotePattern3.png.md#filelinks)
 
-[![Image:NotePattern3.png](../images/thumb/3/3e/NotePattern3.png/592px-NotePattern3.png)](../../images/3/3e/NotePattern3.png)  
+[![Image:NotePattern3.png](../images/thumb/3/3e/NotePattern3.png/592px-NotePattern3.png)](../images/3/3e/NotePattern3.png)  
 Size of this preview: 592 × 600 pixels  
-[Full resolution](../../images/3/3e/NotePattern3.png)‎ (1,569 × 1,590 pixel, file size: 179 KB, MIME type: image/png)Note pattern image
+[Full resolution](../images/3/3e/NotePattern3.png)‎ (1,569 × 1,590 pixel, file size: 179 KB, MIME type: image/png)Note pattern image
 
 
 

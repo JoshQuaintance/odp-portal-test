@@ -2,9 +2,9 @@
 * [File history](../Image/Workflow_PR-NOR-CLTX-01_1.png.md#filehistory)
 * [Links](../Image/Workflow_PR-NOR-CLTX-01_1.png.md#filelinks)
 
-[![Image:Workflow PR-NOR-CLTX-01 1.png](../../../images/3/31/Workflow_PR-NOR-CLTX-01_1.png)](../../../images/3/31/Workflow_PR-NOR-CLTX-01_1.png)  
+[![Image:Workflow PR-NOR-CLTX-01 1.png](../images/3/31/Workflow_PR-NOR-CLTX-01_1.png)](../images/3/31/Workflow_PR-NOR-CLTX-01_1.png)  
 No higher resolution available.  
-[Workflow\_PR-NOR-CLTX-01\_1.png](../../../images/3/31/Workflow_PR-NOR-CLTX-01_1.png)‎ (300 × 437 pixel, file size: 24 KB, MIME type: image/png)
+[Workflow\_PR-NOR-CLTX-01\_1.png](../images/3/31/Workflow_PR-NOR-CLTX-01_1.png)‎ (300 × 437 pixel, file size: 24 KB, MIME type: image/png)
 
 ## File history
 
